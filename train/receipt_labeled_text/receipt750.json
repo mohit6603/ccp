@@ -1,0 +1,17 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "28-01-18",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "LEA & PERRINS SOS WORC",
+            "quantity": 11,
+            "unit_price": "8.99",
+            "amount": "98.89"
+        }
+    ],
+    "total": "98.90",
+    "tax_amount": "5.61",
+    "service_charge": null
+}

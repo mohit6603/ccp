@@ -1,0 +1,17 @@
+{
+    "company": "ADVANCO COMPANY",
+    "date": "28/02/2018",
+    "address": "NO 1&3, JALAN WANGSA DELIMA 12, WANGSA LINK, WANGSA MAJU, 53300 KUALA LUMPUR",
+    "tax_number": "001658445824",
+    "line_items": [
+        {
+            "description": "UNICORN GLUE STICK USG-21G 2'S",
+            "quantity": 2,
+            "unit_price": "5.80",
+            "amount": "11.60"
+        }
+    ],
+    "total": "10.45",
+    "tax_amount": "0.59",
+    "service_charge": null
+}

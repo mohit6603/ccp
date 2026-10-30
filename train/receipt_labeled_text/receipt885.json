@@ -1,0 +1,23 @@
+{
+    "company": "YHM MID VALLEY",
+    "date": "15/12/2017",
+    "address": "LOT T-015B, LEVEL 3, MID VALLEY CITY, LINGKARAN SYED PUTRA, 59200 KUALA LUMPUR MALAYSIA",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "KARAAGE",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "OTM BEEF BUKKAKE L",
+            "quantity": 1,
+            "unit_price": "17.80",
+            "amount": "17.80"
+        }
+    ],
+    "total": "21.60",
+    "tax_amount": "1.23",
+    "service_charge": null
+}

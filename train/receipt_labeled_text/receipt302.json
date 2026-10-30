@@ -1,0 +1,47 @@
+{
+    "company": "DOMINO'S PIZZA",
+    "date": "28/04/18",
+    "address": "DOMINO'S PIZZA TAMAN UNIVERSITI 30, JLN KEBUDAYAAN 7, TMN UNIVERSITI 81300 SKUDAI, JOHOR",
+    "tax_number": "001694261248",
+    "line_items": [
+        {
+            "description": "PLSB-R",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "0.20"
+        },
+        {
+            "description": "RCD AOA4-ADI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "14.50"
+        },
+        {
+            "description": "PEP (CAN) LVDR-RG-1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.50"
+        },
+        {
+            "description": "PEP (CAN) LVDR-RG-1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.50"
+        },
+        {
+            "description": "T/B LVDR-RG-1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "9\"HT (AC) LVDR-RG-1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "27.80"
+        }
+    ],
+    "total": "39.60",
+    "tax_amount": "2.24",
+    "service_charge": null
+}

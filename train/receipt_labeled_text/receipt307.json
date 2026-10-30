@@ -1,0 +1,17 @@
+{
+    "company": "PASARAYA JALAL SDN BHD",
+    "date": "20/04/2018",
+    "address": "10-18,JLN KEBUDAYAAN 16,TMN U 81300 JOHOR BAHRU.",
+    "tax_number": "000902660096",
+    "line_items": [
+        {
+            "description": "WATER/OIL TUMBLER OR JUG BOTTLE 5L",
+            "quantity": 2,
+            "unit_price": "3.20",
+            "amount": "6.40"
+        }
+    ],
+    "total": "6.40",
+    "tax_amount": "0.36",
+    "service_charge": null
+}

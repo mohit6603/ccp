@@ -1,0 +1,59 @@
+{
+    "company": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "date": "24-01-16",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000473792512",
+    "line_items": [
+        {
+            "description": "TISSUE HOLDER Z-66#*VS",
+            "quantity": 2,
+            "unit_price": "5.30",
+            "amount": "10.60"
+        },
+        {
+            "description": "HOOK 1526#",
+            "quantity": 2,
+            "unit_price": "2.30",
+            "amount": "4.60"
+        },
+        {
+            "description": "PLACEMAT 145#",
+            "quantity": 2,
+            "unit_price": "1.90",
+            "amount": "3.80"
+        },
+        {
+            "description": "FURNITURE S/MAT 2PCS 3243#",
+            "quantity": 2,
+            "unit_price": "2.50",
+            "amount": "5.00"
+        },
+        {
+            "description": "PARTITION 1072 10CM",
+            "quantity": 2,
+            "unit_price": "7.30",
+            "amount": "14.60"
+        },
+        {
+            "description": "CNY DECO A002# 26CM",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "CNY DECO A003# 21CM",
+            "quantity": 1,
+            "unit_price": "7.90",
+            "amount": "7.90"
+        },
+        {
+            "description": "FREE 2016 CNY RED PACKET",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "57.40",
+    "tax_amount": "3.25",
+    "service_charge": null
+}

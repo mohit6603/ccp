@@ -1,0 +1,35 @@
+{
+    "company": "MOONLIGHT CAKE HOUSE SDN BHD",
+    "date": "07/06/2018",
+    "address": "NO.1, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU, JOHOR",
+    "tax_number": "001559298048",
+    "line_items": [
+        {
+            "description": "T-DARK SEED GRAIN BREAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.15"
+        },
+        {
+            "description": "T-GREEN TEA MOCHI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.30"
+        },
+        {
+            "description": "T-HONEY WALNUT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.70"
+        },
+        {
+            "description": "T-SAHA BREAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.60"
+        }
+    ],
+    "total": "15.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

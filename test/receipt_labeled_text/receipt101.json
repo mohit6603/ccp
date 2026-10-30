@@ -1,0 +1,35 @@
+{
+    "company": "IKANO HANDEL SDN BHD",
+    "date": "23/12/17",
+    "address": "NO 2A JALAN COCHRANE TAMAN MALURI 55100 KUALA LUMPUR",
+    "tax_number": "000115154944",
+    "line_items": [
+        {
+            "description": "ALMOND CAK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "22.50"
+        },
+        {
+            "description": "IKEA RETAI",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "36.00"
+        },
+        {
+            "description": "IKEA DRINK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "1.00"
+        },
+        {
+            "description": "DARK CHOCOLATE 70%",
+            "quantity": 2,
+            "unit_price": "6.90",
+            "amount": "13.80"
+        }
+    ],
+    "total": "73.30",
+    "tax_amount": "4.15",
+    "service_charge": null
+}

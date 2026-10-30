@@ -1,0 +1,41 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "11 MAY 2018",
+    "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "FRIED NOODLE (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.00"
+        },
+        {
+            "description": "EGG",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.10"
+        },
+        {
+            "description": "VEGETABLE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.10"
+        },
+        {
+            "description": "CHICKEN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.70"
+        },
+        {
+            "description": "ADD MEATS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "0.90"
+        }
+    ],
+    "total": "7.80",
+    "tax_amount": "0.44",
+    "service_charge": null
+}

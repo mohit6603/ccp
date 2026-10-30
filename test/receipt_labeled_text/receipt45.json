@@ -1,0 +1,53 @@
+{
+    "company": "PASAR MINI JIN SENG",
+    "date": "18/03/18",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.",
+    "tax_number": "000150511616",
+    "line_items": [
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.20"
+        },
+        {
+            "description": "LTK OMEGA PLUS IOS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.70"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.00"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.00"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "SEAFOOD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.50"
+        },
+        {
+            "description": "FISH BALL / CAKE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.20"
+        }
+    ],
+    "total": "28.60",
+    "tax_amount": "0.07",
+    "service_charge": null
+}

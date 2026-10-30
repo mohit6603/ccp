@@ -1,0 +1,29 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "02/04/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "PYE 921 PLASTER",
+            "quantity": 13,
+            "unit_price": "19.08",
+            "amount": "248.04"
+        },
+        {
+            "description": "KAPUR AIR (A1)",
+            "quantity": 5,
+            "unit_price": "3.18",
+            "amount": "15.90"
+        },
+        {
+            "description": "SPAN HANDLE",
+            "quantity": 3,
+            "unit_price": "2.12",
+            "amount": "6.36"
+        }
+    ],
+    "total": "270.30",
+    "tax_amount": "15.30",
+    "service_charge": null
+}

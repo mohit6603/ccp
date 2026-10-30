@@ -1,0 +1,53 @@
+{
+    "company": "RESTAURANT JIAWEI",
+    "date": "23/2/2018",
+    "address": "13, JLN TASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI 57000 KL",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "RED CAT FISH STEAMED",
+            "quantity": 1,
+            "unit_price": "42.00",
+            "amount": "42"
+        },
+        {
+            "description": "GINGER CLAMS (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "20.00"
+        },
+        {
+            "description": "BEANCURD W DAO GAN (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.00"
+        },
+        {
+            "description": "G.DRAGON CHIVES (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.00"
+        },
+        {
+            "description": "STIR FRIED PU ER (1-3)",
+            "quantity": 1,
+            "unit_price": "5",
+            "amount": "5.0"
+        },
+        {
+            "description": "HOT RICE (B)",
+            "quantity": null,
+            "unit_price": "0.50",
+            "amount": "6"
+        },
+        {
+            "description": "RICE SMALL",
+            "quantity": null,
+            "unit_price": "1.00",
+            "amount": "3.0"
+        }
+    ],
+    "total": "110.00",
+    "tax_amount": null,
+    "service_charge": "0.00"
+}

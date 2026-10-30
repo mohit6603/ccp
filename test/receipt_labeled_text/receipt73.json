@@ -1,0 +1,17 @@
+{
+    "company": "GL HANDICRAFT & TAIL ORING",
+    "date": "20/03/2018",
+    "address": "19, JALAN KANCIL, OFF JALAN PUDU, 55100 KUALA LUMPUR MALAYSIA",
+    "tax_number": "001948532736",
+    "line_items": [
+        {
+            "description": "SAFETY PINS BUTTERFLY - S",
+            "quantity": 6,
+            "unit_price": "17.00",
+            "amount": "102.00"
+        }
+    ],
+    "total": "102.00",
+    "tax_amount": "5.77",
+    "service_charge": null
+}

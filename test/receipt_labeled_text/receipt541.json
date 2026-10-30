@@ -1,0 +1,35 @@
+{
+    "company": "RESTORAN DE COFFEE O",
+    "date": "03/04/2018",
+    "address": "NO 33, 35, G F ,JALAN TEMENGGUNG 3/9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "tax_number": "002062008320",
+    "line_items": [
+        {
+            "description": "COFFEE O (T.AWAY)",
+            "quantity": 1,
+            "unit_price": "2.30",
+            "amount": "2.30"
+        },
+        {
+            "description": "TEA (T.AWAY)",
+            "quantity": 1,
+            "unit_price": "2.40",
+            "amount": "2.40"
+        },
+        {
+            "description": "COFFEE (T.AWAY)",
+            "quantity": 2,
+            "unit_price": "2.40",
+            "amount": "4.80"
+        },
+        {
+            "description": "SOYA BEAN (T AWAY)",
+            "quantity": 1,
+            "unit_price": "2.10",
+            "amount": "2.10"
+        }
+    ],
+    "total": "11.60",
+    "tax_amount": "0.66",
+    "service_charge": null
+}

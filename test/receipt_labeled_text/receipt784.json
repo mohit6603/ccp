@@ -1,0 +1,23 @@
+{
+    "company": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+    "date": "02/04/2017",
+    "address": "LOT F15, GIANT BANDAR PUTERI JALAN PUTERI 1/1, BDR PUTERI 47100 PUCHONG, SELANGOR",
+    "tax_number": "002147033088",
+    "line_items": [
+        {
+            "description": "INK CHINESE KIN'S ASTAR",
+            "quantity": 1,
+            "unit_price": "2.30",
+            "amount": "2.30"
+        },
+        {
+            "description": "DOLPHIN PURE GOAT CHINESE",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        }
+    ],
+    "total": "4.30",
+    "tax_amount": "0.24",
+    "service_charge": null
+}

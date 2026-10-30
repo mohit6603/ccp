@@ -1,0 +1,41 @@
+{
+    "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "date": "17-06-2018",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000670224384",
+    "line_items": [
+        {
+            "description": "OMELLETE ITEM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "K.P CHICKEN ITEM-1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        },
+        {
+            "description": "RICE W SEAFOOD /MEAT ITEM SINGLE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        },
+        {
+            "description": "BEVERAGE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.00"
+        },
+        {
+            "description": "NOODLE ITEM SINGLE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        }
+    ],
+    "total": "58.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

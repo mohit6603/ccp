@@ -1,0 +1,17 @@
+{
+    "company": "CHOP YEW LIAN",
+    "date": "23/03/2017",
+    "address": "LOT PT 5121, PER, KLANG, SEK, 27 40000 SHAH ALAM, SELANGOR",
+    "tax_number": "000840966144",
+    "line_items": [
+        {
+            "description": "V-POWER 97",
+            "quantity": 11.54,
+            "unit_price": "2.600",
+            "amount": "30.00"
+        }
+    ],
+    "total": "30.00",
+    "tax_amount": "1.70",
+    "service_charge": null
+}

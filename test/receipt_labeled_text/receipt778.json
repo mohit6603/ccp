@@ -1,0 +1,23 @@
+{
+    "company": "CALTEX BIRU PETROLEUM",
+    "date": "11/11/16",
+    "address": "KELANA JAYA. 47301 PETALING SELANGOR DARUL EHSAN",
+    "tax_number": "001410277376",
+    "line_items": [
+        {
+            "description": "SWEETIE BAN KACANG MERAH",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.20"
+        },
+        {
+            "description": "SWEETIE POTATO BUN",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.20"
+        }
+    ],
+    "total": "6.40",
+    "tax_amount": "0.36",
+    "service_charge": null
+}

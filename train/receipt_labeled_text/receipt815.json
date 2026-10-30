@@ -1,0 +1,17 @@
+{
+    "company": "MAXINCOME RESOURCES SDN BHD",
+    "date": "16/04/2018",
+    "address": "NO 16A, JALAN ASTAKA U8/83 BUKIT JELUTONG, 40150 SHAH ALAM, SELANGOR, D.E.",
+    "tax_number": "000468594688",
+    "line_items": [
+        {
+            "description": "THREE LEG COOLINGWTR200",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.40"
+        }
+    ],
+    "total": "2.40",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

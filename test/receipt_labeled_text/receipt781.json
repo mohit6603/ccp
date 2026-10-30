@@ -1,0 +1,35 @@
+{
+    "company": "CHA FOR TEA",
+    "date": "19/04/2018",
+    "address": "1-1, CENTRAL PARK , JALAN PJU5/13, DATARAN SUNWAY, 47810 KOTA DAMANSARA , SELANGOR",
+    "tax_number": "001698439168",
+    "line_items": [
+        {
+            "description": "MUSHROOM BR",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.90"
+        },
+        {
+            "description": "SIZZLING PO",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.90"
+        },
+        {
+            "description": "BLACK SUGAR",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.90"
+        },
+        {
+            "description": "BROWN SUGAR",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.95"
+        }
+    ],
+    "total": "46.25",
+    "tax_amount": "2.62",
+    "service_charge": null
+}

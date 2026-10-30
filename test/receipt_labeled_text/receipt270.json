@@ -1,0 +1,17 @@
+{
+    "company": "BROADVIEW MARKETING SDN BHD",
+    "date": "03/06/2017",
+    "address": "NO. 9-G, JALAN DINAR D U3/D TAMAN SUBANG PERDANA, SEK,U3, 40150 SHAH ALAM,SELANGOR D.E.",
+    "tax_number": "000203587584",
+    "line_items": [
+        {
+            "description": "HM BAG 0*0 24 X36 (2KG)",
+            "quantity": 1,
+            "unit_price": "18.00",
+            "amount": "18.00"
+        }
+    ],
+    "total": "18.00",
+    "tax_amount": "1.02",
+    "service_charge": null
+}

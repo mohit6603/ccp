@@ -1,0 +1,17 @@
+{
+    "company": "KOH SENG HARDWARE",
+    "date": "01/02/2018",
+    "address": "NO. 939, BATU LIMA, JALAN IPOH, 51200 KUALA LUMPUR",
+    "tax_number": "001117650944",
+    "line_items": [
+        {
+            "description": "SUGA BAG",
+            "quantity": 10,
+            "unit_price": "0.53",
+            "amount": "5.30"
+        }
+    ],
+    "total": "5.30",
+    "tax_amount": "0.30",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "SATU KAMPUNG ENTERPRISE SDN BHD",
+    "date": "13/01/2018",
+    "address": "NO.42, PASAR BORONG SELANGOR JALAN PUTRA PERMAI, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000816205824",
+    "line_items": [
+        {
+            "description": "KITCHENWARE",
+            "quantity": 3,
+            "unit_price": "21.00",
+            "amount": "63.00"
+        }
+    ],
+    "total": "63.00",
+    "tax_amount": "3.57",
+    "service_charge": null
+}

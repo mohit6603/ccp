@@ -1,0 +1,35 @@
+{
+    "company": "YAM FRESH",
+    "date": "2018-03-18",
+    "address": "NO. 145G, JALAN RIMBUNAN RAYA 1, LAMAN RIMBUNAN KEPONG, 52100 KUALA LUMPUR",
+    "tax_number": "001817907200",
+    "line_items": [
+        {
+            "description": "OYSTER MEE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.90"
+        },
+        {
+            "description": "BLACKSUGAR ICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "HERB,J",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.00"
+        },
+        {
+            "description": "PUDDING SOYBEAN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.90"
+        }
+    ],
+    "total": "29.30",
+    "tax_amount": "1.66",
+    "service_charge": null
+}

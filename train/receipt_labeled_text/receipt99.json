@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/12/2017",
+    "address": "NO 290, JALAN AIR PANAS. SETAPAK. 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "SPRAY PAINT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.42"
+        }
+    ],
+    "total": "7.42",
+    "tax_amount": "0.42",
+    "service_charge": null
+}

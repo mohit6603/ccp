@@ -1,0 +1,17 @@
+{
+    "company": "BOOK TA .K (TAMAN DAYA) SDN BHD",
+    "date": "25/12/2018",
+    "address": "NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "KF MODELLING CLAY KIDDY FISH",
+            "quantity": 1,
+            "unit_price": "9.000",
+            "amount": "9.00"
+        }
+    ],
+    "total": "9.00",
+    "tax_amount": null,
+    "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+    "company": "GOLDEN SCOOP SDN BHD",
+    "date": "16/02/2018",
+    "address": "A-16-1, TOWER A, NORTHPOINT OFFICE, MID VALLEY CITY, NO1, MEDAN SYED PUTRA UTARA KUALA LUMPUR MALAYSIA",
+    "tax_number": "001513148416",
+    "line_items": [
+        {
+            "description": "DOUBLE RG. CUP",
+            "quantity": 1,
+            "unit_price": "20.00",
+            "amount": "20.00"
+        },
+        {
+            "description": "COLOUR RICE",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        }
+    ],
+    "total": "21.50",
+    "tax_amount": "1.22",
+    "service_charge": null
+}

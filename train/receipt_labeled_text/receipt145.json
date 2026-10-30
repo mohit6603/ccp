@@ -1,0 +1,41 @@
+{
+    "company": "PAPPARICH BMC",
+    "date": "24 MAR 18",
+    "address": "JALAN TEMENGGUNG 23/9 BANDAR MAHKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA",
+    "tax_number": "000164270080",
+    "line_items": [
+        {
+            "description": "MILO DINO (I) E",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.45"
+        },
+        {
+            "description": "N'LEMAK+FC E",
+            "quantity": 2,
+            "unit_price": "17.83",
+            "amount": "35.66"
+        },
+        {
+            "description": "SPRG NDL+SU+CR E",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.34"
+        },
+        {
+            "description": "HALF BL EGG E",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.53"
+        },
+        {
+            "description": "CHAM (I) E",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.57"
+        }
+    ],
+    "total": "72.93",
+    "tax_amount": "4.13",
+    "service_charge": "6.25"
+}

@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "11/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "104 COTTON GLOVE (DOZEN)",
+            "quantity": 2,
+            "unit_price": "10.60",
+            "amount": "21.20"
+        }
+    ],
+    "total": "21.20",
+    "tax_amount": "1.20",
+    "service_charge": null
+}

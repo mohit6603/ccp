@@ -1,0 +1,17 @@
+{
+    "company": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+    "date": "18/05/18",
+    "address": "NO 15 JALAN BANDAR RAWANG 10 BANDAR BARU RAWANG",
+    "tax_number": "000899874816",
+    "line_items": [
+        {
+            "description": "PLUS 500ML",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.28"
+        }
+    ],
+    "total": "2.28",
+    "tax_amount": "0.13",
+    "service_charge": null
+}

@@ -1,0 +1,41 @@
+{
+    "company": "PACIFIC ASIAN FOOD DELIGHTS S/B",
+    "date": "08/05/2016",
+    "address": "NO.35,GROUND FLOOR JLN METRO PERDANA BARAT 1 TAMAN USAHAWAN KEPONG 52100 KL",
+    "tax_number": "001400385536",
+    "line_items": [
+        {
+            "description": "LING FISH HEAD MEEHOON LING FISH HEAD MEEHOON",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.90"
+        },
+        {
+            "description": "COMBO SET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "T.YAM FISH PASTE M/HOON",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.90"
+        },
+        {
+            "description": "WHITE COFFEE-COLD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.90"
+        },
+        {
+            "description": "F.PRAWN&LING F.HEAD MHOON",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "25.90"
+        }
+    ],
+    "total": "78.50",
+    "tax_amount": "4.45",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "04/12/2017",
+    "address": "NO 290, JALAN AIR PANAS. SETAPAK, 53200, KUALA LUMPUR",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "25KG SIKA CREAM-88",
+            "quantity": 3,
+            "unit_price": "15.90",
+            "amount": "47.70"
+        }
+    ],
+    "total": "47.70",
+    "tax_amount": "2.70",
+    "service_charge": null
+}

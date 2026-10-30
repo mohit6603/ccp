@@ -1,0 +1,35 @@
+{
+    "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "date": "15-06-2018",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000670224384",
+    "line_items": [
+        {
+            "description": "CAT FISH ITEM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "120.00"
+        },
+        {
+            "description": "VAGE ITEM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.00"
+        },
+        {
+            "description": "WHITE RICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.50"
+        },
+        {
+            "description": "BEVERAGE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.00"
+        }
+    ],
+    "total": "148.50",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

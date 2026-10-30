@@ -1,0 +1,71 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "01-11-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "SNEK KU TAM TAM CRAB F",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.65"
+        },
+        {
+            "description": "TIC TAC CANDY MINT (WH",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.10"
+        },
+        {
+            "description": "MENTOS SOUR MIX CHEWY",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.45"
+        },
+        {
+            "description": "MUNCHYS CRACKER SANDWI",
+            "quantity": 2,
+            "unit_price": "4.19",
+            "amount": "8.38"
+        },
+        {
+            "description": "JULIES PEANUT BUTTER S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.55"
+        },
+        {
+            "description": "PIPIT BLEACH 2*1KG TP",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "TOP SUPER WHITE (RED) 2",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "12.65"
+        },
+        {
+            "description": "CA3210 CAMEL SHORTHAND",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "1.90"
+        },
+        {
+            "description": "CS 1002 A5 H/COVER NOT",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.80"
+        },
+        {
+            "description": "7CC UHU GLUE",
+            "quantity": 2,
+            "unit_price": "2.20",
+            "amount": "4.40"
+        }
+    ],
+    "total": "52.10",
+    "tax_amount": "2.96",
+    "service_charge": null
+}

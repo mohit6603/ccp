@@ -1,0 +1,41 @@
+{
+    "company": "MEI LET RESTAURANT",
+    "date": "12/01/2017",
+    "address": "NO 2, JALAN BULAN BM U5/BM, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR",
+    "tax_number": "0010 9273 4976",
+    "line_items": [
+        {
+            "description": "TALAPIA - JIU PAI STEAM (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "25.00"
+        },
+        {
+            "description": "STEAMED GINGER CHICKEN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        },
+        {
+            "description": "BEAN CURD WITH FRIED EGG (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.00"
+        },
+        {
+            "description": "WATER / TEA",
+            "quantity": 3,
+            "unit_price": "0.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "RICE (L)",
+            "quantity": 3,
+            "unit_price": "1.50",
+            "amount": "4.50"
+        }
+    ],
+    "total": "59.35",
+    "tax_amount": "3.36",
+    "service_charge": null
+}

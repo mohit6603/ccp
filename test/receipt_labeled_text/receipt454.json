@@ -1,0 +1,29 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "27-04-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "SUS304 HOOK 48804",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "WOODEN SHEET 60*20CM",
+            "quantity": 4,
+            "unit_price": "1.90",
+            "amount": "7.60"
+        },
+        {
+            "description": "LAVA PAIL PL623 3 GALLON",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        }
+    ],
+    "total": "23.00",
+    "tax_amount": "1.30",
+    "service_charge": null
+}

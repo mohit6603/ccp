@@ -1,0 +1,10 @@
+name,split,audit_group,verdict,field,issue
+receipt624,test,needs_review,label_ok,,"Matches image. Item descriptions are uppercased in the label; receipt prints them lowercase (case-insensitive scoring needed)."
+receipt633,train,needs_review,label_issue,line_items,"Label is null but the receipt prints items (ST30 13.87, HS4 12.07 with sub-items). Other fields (company, date, address, tax_number, total 30.25, tax 1.71, service 2.59) match."
+receipt644,test,needs_review,label_ok,,"All fields match. Item descriptions omit printed modifier lines (e.g. RANCH BEANS, SLAW) - ambiguous by design."
+receipt652,train,needs_review,label_ok,,"All fields match. One description is a partial read of a smudged line (FRESH CUT HONE KFRUIT...)."
+receipt655,test,needs_review,label_ok,,"All fields match. Address has extra spaces around '&' vs print (whitespace-only difference). tax_number null is correct (GST No. blank)."
+receipt657,test,needs_review,label_ok_with_caveats,line_items,"Fields match print. Some item values are clipped in the image and stored partially in the label (amount '42', '5.0', '6', '3.0'; HOT RICE quantity null). Numeric normalisation absorbs the formatting; clipped values are inherently ambiguous."
+receipt698,train,needs_review,label_ok,,"All fields match. Description of item 1 keeps the trailing 'EA' while item 3 drops 'RMO.20 EA' - small inconsistency in description text."
+receipt708,train,needs_review,label_ok_with_caveats,company,"Very degraded print. Label company '99 SPEED MAPT S/B' follows the glyphs as printed; likely true text is MART. Address omits the extra printed line '1330 JLN KENANGA'. Other fields match."
+receipt710,train,needs_review,label_ok,,"All fields match. Company is the legal name (CPI ROCKU SDN. BHD.) not the trading name (ROCKU YAKINIKU). Address has extra space before '1 UTAMA' vs print."

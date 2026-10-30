@@ -1,0 +1,17 @@
+{
+    "company": "ABC HO TRADING",
+    "date": "09/01/2019",
+    "address": "NO.2&4, JALAN HARMONI 3/2, TAMAN DESA HARMONI. 81100 JOHOR BAHRU JOHOR",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "PLASTIC",
+            "quantity": 2,
+            "unit_price": "15.50",
+            "amount": "31.00"
+        }
+    ],
+    "total": "31.00",
+    "tax_amount": null,
+    "service_charge": null
+}

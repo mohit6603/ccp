@@ -1,0 +1,23 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "07/05/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "(10ROLL/PKT)",
+            "quantity": 1,
+            "unit_price": "35.0000",
+            "amount": "35.00"
+        },
+        {
+            "description": "3.5\"X6\"",
+            "quantity": 3,
+            "unit_price": "2.9000",
+            "amount": "8.70"
+        }
+    ],
+    "total": "43.7",
+    "tax_amount": "2.47",
+    "service_charge": null
+}

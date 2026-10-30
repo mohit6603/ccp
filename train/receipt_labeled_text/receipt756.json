@@ -1,0 +1,17 @@
+{
+    "company": "SATU KAMPUNG ENTERPRISE SDN BHD",
+    "date": "13/01/2018",
+    "address": "NO.42, PASAR BORONG SELANGOR, JALAN PUTRA PERMAI, 43300 SERI KEMBANGAN, SELANGOR,",
+    "tax_number": "000816205824",
+    "line_items": [
+        {
+            "description": "35X40 TRASPERENT BAG 1",
+            "quantity": 1,
+            "unit_price": "20.00",
+            "amount": "20.00"
+        }
+    ],
+    "total": "20.00",
+    "tax_amount": "1.13",
+    "service_charge": null
+}

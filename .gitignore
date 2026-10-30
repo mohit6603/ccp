@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model weights (large, downloaded from Hugging Face)
+models/
+*.safetensors
+*.bin
+
+# Generated outputs (can be regenerated)
+outputs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
+*.zip

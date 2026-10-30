@@ -1,0 +1,17 @@
+{
+    "company": "MPH BOOKSTORES SDN BHD",
+    "date": "11/12/2017",
+    "address": "LOT S319, 2ND FLOOR, 1 UTAMA SHOPPING CENTRE, NO1, LEBUH BANDAR UTAMA,47800 P.JAYA",
+    "tax_number": "000542572544",
+    "line_items": [
+        {
+            "description": "STICKERS & OTHER GIFT",
+            "quantity": null,
+            "unit_price": "10.49",
+            "amount": "31.47"
+        }
+    ],
+    "total": "31.45",
+    "tax_amount": "1.78",
+    "service_charge": null
+}

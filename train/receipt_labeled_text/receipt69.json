@@ -1,0 +1,23 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "05-02-18",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1317 TRILLIUM S6 BESI",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "YONGCHUN LOKAM MNDRN S",
+            "quantity": 5,
+            "unit_price": "12.50",
+            "amount": "62.50"
+        },
+        {
+            "description": "YONGCHUN LOKAM MNDRN M",
+            "quantity": 5,
+            "unit_price": "15.80",
+            "amount": "79.00"
+        }
+    ],
+    "total": "141.50",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

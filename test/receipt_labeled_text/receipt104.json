@@ -1,0 +1,35 @@
+{
+    "company": "SWEET FOREST CAFE",
+    "date": "14-02-2018",
+    "address": "NO 21, JLN BUNGA KANTAN TAMAN P. RAMLEE SETAPAK 53000 KUALA LUMPUR",
+    "tax_number": "000465809408",
+    "line_items": [
+        {
+            "description": "SMOKED DUCK SPAGHETTI",
+            "quantity": 1,
+            "unit_price": "12.50",
+            "amount": "12.50"
+        },
+        {
+            "description": "HOT GREEN TEA",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "COFFEE(H)",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        },
+        {
+            "description": "RENDANG CHICKEN RICE",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        }
+    ],
+    "total": "30.30",
+    "tax_amount": "1.72",
+    "service_charge": null
+}

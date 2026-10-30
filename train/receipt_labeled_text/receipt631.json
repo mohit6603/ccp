@@ -1,0 +1,41 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "20-11-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "PEDIASURE COMPLETE S3S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "117.90"
+        },
+        {
+            "description": "MILD 2KG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "34.90"
+        },
+        {
+            "description": "ZING HEING OAT & WHEAT",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.10"
+        },
+        {
+            "description": "DISNEY DS112 WIDE NECK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.89"
+        },
+        {
+            "description": "JOHNSONS PH5.5 2IN1 BO",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "6.99"
+        }
+    ],
+    "total": "169.80",
+    "tax_amount": "9.61",
+    "service_charge": null
+}

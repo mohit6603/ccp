@@ -1,0 +1,23 @@
+{
+    "company": "DOMINO'S PIZZA",
+    "date": "17/04/18",
+    "address": "NO.12, JALAN PERMAS JAYA 10, BANDAR BARU PERMAS JAYA, 81750 MASAI JOHOR",
+    "tax_number": "001694261248",
+    "line_items": [
+        {
+            "description": "6\"HT (TE)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.80"
+        },
+        {
+            "description": "6\"HT (BP)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.80"
+        }
+    ],
+    "total": "25.60",
+    "tax_amount": "0.22",
+    "service_charge": null
+}

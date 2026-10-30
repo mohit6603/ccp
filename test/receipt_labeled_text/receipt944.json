@@ -1,0 +1,59 @@
+{
+    "company": "CHEF HENRY RIBS HOUSE",
+    "date": "05/06/2018",
+    "address": "4, JALAN KEBUDAYAAN 1 TAMAN UNIVERSITI 81300, SKUDAI",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "CHICKEN BLACK PEPPER SAUCE",
+            "quantity": 2,
+            "unit_price": "18.80",
+            "amount": "37.60"
+        },
+        {
+            "description": "CHIC PASTA W TOMATO",
+            "quantity": 1,
+            "unit_price": "14.80",
+            "amount": "14.80"
+        },
+        {
+            "description": "GREEN TEA",
+            "quantity": 1,
+            "unit_price": "4.80",
+            "amount": "4.80"
+        },
+        {
+            "description": "LEMON TEA",
+            "quantity": 1,
+            "unit_price": "5.80",
+            "amount": "5.80"
+        },
+        {
+            "description": "MASHED POTATO",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "MIXED COMBO",
+            "quantity": 1,
+            "unit_price": "36.80",
+            "amount": "36.80"
+        },
+        {
+            "description": "MOJITO",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "SEAFOOD PASTA W O/OIL-LESS SPICY",
+            "quantity": 1,
+            "unit_price": "15.80",
+            "amount": "15.80"
+        }
+    ],
+    "total": "103.85",
+    "tax_amount": null,
+    "service_charge": null
+}

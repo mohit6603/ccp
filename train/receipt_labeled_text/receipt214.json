@@ -1,0 +1,41 @@
+{
+    "company": "SINNATHAMBY HOLDINGS SDN. BHD.",
+    "date": "06/02/2018",
+    "address": "NO.17,18 & 41,JALAN BESAR,39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG",
+    "tax_number": "002120876032",
+    "line_items": [
+        {
+            "description": "POLY CHOPPING BOARD - 013",
+            "quantity": 3,
+            "unit_price": "4.80",
+            "amount": "14.40"
+        },
+        {
+            "description": "PLASTIC BOWL",
+            "quantity": 8,
+            "unit_price": "2.80",
+            "amount": "22.40"
+        },
+        {
+            "description": "PLASTIC CONTAINER W COVER MS-SQ-1",
+            "quantity": 6,
+            "unit_price": "1.50",
+            "amount": "9.00"
+        },
+        {
+            "description": "BENXON PP HYGIENIC CUP-AO-700 22 OZ-50PCS",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "STAEDTLER LUNA COLOUR PENCIL",
+            "quantity": 11,
+            "unit_price": "4.90",
+            "amount": "53.90"
+        }
+    ],
+    "total": "109.70",
+    "tax_amount": "6.21",
+    "service_charge": null
+}

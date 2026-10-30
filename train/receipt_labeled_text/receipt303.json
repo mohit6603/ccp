@@ -1,0 +1,77 @@
+{
+    "company": "YHM AEON TEBRAU CITY",
+    "date": "17/04/2018",
+    "address": "S117, SECOND FLOOR, AEON TEBRAU CITY, 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU, JOHOR.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "GREEN TEA",
+            "quantity": 2,
+            "unit_price": "1.50",
+            "amount": "3.00"
+        },
+        {
+            "description": "CHIKUWA TEMPURA",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "KARAAGE",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "OTM SPICY YAKINIKU BOWL R",
+            "quantity": 1,
+            "unit_price": "16.80",
+            "amount": "16.80"
+        },
+        {
+            "description": "OTM SPICY TERI CHICKEN BOWL R",
+            "quantity": 1,
+            "unit_price": "16.80",
+            "amount": "16.80"
+        },
+        {
+            "description": "OTM TORI KATSU SET",
+            "quantity": 1,
+            "unit_price": "18.80",
+            "amount": "18.80"
+        },
+        {
+            "description": "KATSU SAUCE",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "MISO SOUP",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "OTM TORI KATSU SET",
+            "quantity": 1,
+            "unit_price": "18.80",
+            "amount": "18.80"
+        },
+        {
+            "description": "TARU TARU SAUCE",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "WAKAME SOUP",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "81.80",
+    "tax_amount": "4.62",
+    "service_charge": null
+}

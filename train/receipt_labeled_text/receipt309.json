@@ -1,0 +1,107 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "01/04/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "SA MIX PLUM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.00"
+        },
+        {
+            "description": "R.GALA APPLE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "FOUR SEAS SEAW",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.85"
+        },
+        {
+            "description": "CHEK HUP 2IN1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.50"
+        },
+        {
+            "description": "TOMATO AMOROS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "FRANCE GREEN KI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.50"
+        },
+        {
+            "description": "T. CHERRY HONEY",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.80"
+        },
+        {
+            "description": "SUSHI SET-PTC",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.90"
+        },
+        {
+            "description": "JAMBU AIR MADU",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.33"
+        },
+        {
+            "description": "CUT FRUITS 1.99",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.50"
+        },
+        {
+            "description": "ZA M/N BEAUTY",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "CAVANDISH BANAN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.61"
+        },
+        {
+            "description": "BLUEBERRY",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "EGG KANI MAYO S",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.90"
+        },
+        {
+            "description": "COLESLAW SANDWI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.00"
+        },
+        {
+            "description": "WANFA DRIED FIS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        }
+    ],
+    "total": "122.80",
+    "tax_amount": "3.01",
+    "service_charge": null
+}

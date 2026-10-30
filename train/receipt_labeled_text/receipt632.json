@@ -1,0 +1,17 @@
+{
+    "company": "SECURE PARKING CORPORATION S/B",
+    "date": "23.03.18",
+    "address": "RIVERWALK VILLAGE BATU 3, JALAN IPOH 51200 KL",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "PARKING FEE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.94"
+        }
+    ],
+    "total": "1.00",
+    "tax_amount": null,
+    "service_charge": null
+}

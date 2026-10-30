@@ -1,0 +1,53 @@
+{
+    "company": "STAR GROCER SDN BHD",
+    "date": "25/03/18",
+    "address": "NO 4, DESA PANDAN, OFF KAMPONG PANDAN, 55100 KUALA LUMPUR",
+    "tax_number": "000915943424",
+    "line_items": [
+        {
+            "description": "CARROT S/M 500GM CH (PKT)",
+            "quantity": 8,
+            "unit_price": "1.59",
+            "amount": "12.72"
+        },
+        {
+            "description": "JAMBU BATU (GUAVA SEEDLESS/MUTIARA) KG",
+            "quantity": 0.214,
+            "unit_price": "6.92",
+            "amount": "1.48"
+        },
+        {
+            "description": "MANGO HONEY (SUSU) (KG)",
+            "quantity": 0.528,
+            "unit_price": "4.91",
+            "amount": "2.59"
+        },
+        {
+            "description": "PINEAPPLE LOCAL 1S",
+            "quantity": 2,
+            "unit_price": "8.60",
+            "amount": "17.20"
+        },
+        {
+            "description": "TIMUN JEPUN (JAPANESE CUCUMBER) KG",
+            "quantity": 0.837,
+            "unit_price": "1.29",
+            "amount": "1.08"
+        },
+        {
+            "description": "US GREEN APPLE (175) 10S",
+            "quantity": 1,
+            "unit_price": "7.50",
+            "amount": "7.50"
+        },
+        {
+            "description": "VALENCIA SA (105) 8S",
+            "quantity": 4,
+            "unit_price": "5.90",
+            "amount": "23.60"
+        }
+    ],
+    "total": "66.15",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

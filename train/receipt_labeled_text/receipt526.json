@@ -1,0 +1,23 @@
+{
+    "company": "LEMON TREE RESTAURANT JTJ FOODS SDN BHD",
+    "date": "6/1/2018",
+    "address": "NO 3, JALAN PERMAS 10/8, BANDAR BARU PERMAS JAYA, 81750 MASAI, JOHOR",
+    "tax_number": "001085747200",
+    "line_items": [
+        {
+            "description": "MEE MAMAK",
+            "quantity": 1,
+            "unit_price": "9.80",
+            "amount": "9.80"
+        },
+        {
+            "description": "SKY JUICE ICE",
+            "quantity": 1,
+            "unit_price": "0.50",
+            "amount": "0.50"
+        }
+    ],
+    "total": "10.30",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

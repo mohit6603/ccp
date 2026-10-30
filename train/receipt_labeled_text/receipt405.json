@@ -1,0 +1,17 @@
+{
+    "company": "BEST DENKI MALAYSIA",
+    "date": "01/05/16",
+    "address": "LOT LG 26, SUBANG PARADE NO.5, JALAN SS16/1 47500 SUBANG JAYA, SELANGOR",
+    "tax_number": "001348681728",
+    "line_items": [
+        {
+            "description": "COMPUTER ACCESSORIES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "89.00"
+        }
+    ],
+    "total": "89.00",
+    "tax_amount": "5.04",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "18-03-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG , 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "PP WATER FILTER CARTRIDGE INDOOR 1S",
+            "quantity": 2,
+            "unit_price": "3.30",
+            "amount": "6.60"
+        }
+    ],
+    "total": "6.60",
+    "tax_amount": "0.37",
+    "service_charge": null
+}

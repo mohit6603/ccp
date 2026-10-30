@@ -1,0 +1,23 @@
+{
+    "company": "SKL DAMANSARA ENTERPRISE",
+    "date": "28/07/17",
+    "address": "69G, JALAN SS21/60, DAMANSARA UTAMA, 47400 PETALING JAYA, SELANGOR",
+    "tax_number": "000784498688",
+    "line_items": [
+        {
+            "description": "PTFE THREAD SEAL TAPE",
+            "quantity": 3,
+            "unit_price": "1.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "VANCE GAS REFILL 50ML",
+            "quantity": 2,
+            "unit_price": "12.90",
+            "amount": "25.80"
+        }
+    ],
+    "total": "28.80",
+    "tax_amount": "1.63",
+    "service_charge": null
+}

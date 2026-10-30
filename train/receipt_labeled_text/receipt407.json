@@ -1,0 +1,35 @@
+{
+    "company": "UROKO JAPANESE CUISINE SDN BHD",
+    "date": "14/05/2018",
+    "address": "22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.",
+    "tax_number": "001126838272",
+    "line_items": [
+        {
+            "description": "UROKO SALAD",
+            "quantity": 1,
+            "unit_price": "28.00",
+            "amount": "28.00"
+        },
+        {
+            "description": "NIKU SHOGAYAKI SET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "38.68"
+        },
+        {
+            "description": "GARLIC CHAHAN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.00"
+        },
+        {
+            "description": "GREEN TEA",
+            "quantity": 2,
+            "unit_price": "1.00",
+            "amount": "2.00"
+        }
+    ],
+    "total": "87.10",
+    "tax_amount": "4.93",
+    "service_charge": "7.47"
+}

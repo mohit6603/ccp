@@ -1,0 +1,23 @@
+{
+    "company": "LIGHTROOM GALLERY SDN BHD",
+    "date": "20/12/2017",
+    "address": "NO: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+    "tax_number": "000584089600",
+    "line_items": [
+        {
+            "description": "T5 JOINT 2PIN 2PCS",
+            "quantity": 1,
+            "unit_price": "2.83",
+            "amount": "2.83"
+        },
+        {
+            "description": "YE30 BK 7W WW LED TRACK LIGHT",
+            "quantity": 2,
+            "unit_price": "33.02",
+            "amount": "66.04"
+        }
+    ],
+    "total": "73.00",
+    "tax_amount": "4.13",
+    "service_charge": "0.00"
+}

@@ -1,0 +1,29 @@
+{
+    "company": "MOONLIGHT CAKE HOUSE SDN BHD",
+    "date": "02/06/2018",
+    "address": "NO.1, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU, JOHOR",
+    "tax_number": "001559298048",
+    "line_items": [
+        {
+            "description": "SAHA BREAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.60"
+        },
+        {
+            "description": "TOAST (B) - CHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.45"
+        },
+        {
+            "description": "WALNUT MULTIGRAIN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.95"
+        }
+    ],
+    "total": "16.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

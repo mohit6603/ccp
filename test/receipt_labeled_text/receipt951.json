@@ -1,0 +1,65 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "03/06/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "I/BERG LETTUCE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.20"
+        },
+        {
+            "description": "DRIED FIGS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "17.92"
+        },
+        {
+            "description": "US RED GLOBE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.30"
+        },
+        {
+            "description": "LE ORGANIC SOYB",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.50"
+        },
+        {
+            "description": "LE ORGANIC SOYB",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.50"
+        },
+        {
+            "description": "HOLLAND POTATO",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "0.60"
+        },
+        {
+            "description": "CF TWIN PACK RA",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.50"
+        },
+        {
+            "description": "TOPVALU",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.96"
+        },
+        {
+            "description": "TOPVALU TOILET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.96"
+        }
+    ],
+    "total": "79.45",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

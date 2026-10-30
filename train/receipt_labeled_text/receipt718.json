@@ -1,0 +1,29 @@
+{
+    "company": "SAINT HEART PASTRY",
+    "date": "25/03/2018",
+    "address": "29,JLN SJ 17 , TMN SELAYANG JAYA, 68100 BATU CAVES, SELANGOR",
+    "tax_number": "001661329408",
+    "line_items": [
+        {
+            "description": "JUMBO SAUSAGE CHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.10"
+        },
+        {
+            "description": "JUMBO SAUSAGE CHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.10"
+        },
+        {
+            "description": "GARLIC CHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.00"
+        }
+    ],
+    "total": "8.20",
+    "tax_amount": "0.46",
+    "service_charge": "0.00"
+}

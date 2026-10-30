@@ -1,0 +1,23 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "04/04/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "RESTAURANT ORDER CHIT NCR 3.5\"X6\"",
+            "quantity": 4,
+            "unit_price": "2.9000",
+            "amount": "11.60"
+        },
+        {
+            "description": "CASH BOOK 80PGS A4 70GSM CARD COVER",
+            "quantity": 1,
+            "unit_price": "3.3000",
+            "amount": "3.30"
+        }
+    ],
+    "total": "14.90",
+    "tax_amount": "0.84",
+    "service_charge": null
+}

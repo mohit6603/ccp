@@ -1,0 +1,22 @@
+You are an expert at reading receipts. Read the receipt image and extract the information below.
+Return ONLY one JSON object, with exactly these keys in this order: company, date, address, tax_number, line_items, total, tax_amount, service_charge.
+
+Field definitions:
+- company: the merchant / business name as printed on the receipt.
+- date: the transaction date exactly as printed (do not reformat it).
+- address: the full merchant address as printed, written on a single line.
+- tax_number: the merchant's tax registration number (GST / SST / VAT id) as printed, or null.
+- line_items: the list of purchased items, or null if no items can be read. Each item is an object with:
+    "description": the item text as printed (string),
+    "quantity": the quantity (number) or null,
+    "unit_price": the price of one unit as a string, or null,
+    "amount": the line amount as a string.
+- total: the final total amount of the receipt as a string.
+- tax_amount: the total tax amount (GST / SST / VAT) as a string, or null.
+- service_charge: the service charge amount as a string, or null.
+
+Rules:
+- If a field is not present on the receipt, its value must be null. Never guess or invent a value.
+- Copy text exactly as printed, including capitalisation and punctuation.
+- Write amounts as plain numbers in a string, without currency symbols or thousands separators (for example "60.30").
+- Output only the JSON object, with no explanation and no markdown.

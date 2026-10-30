@@ -1,0 +1,53 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "14-12-16",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1320-TMN BATU",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "MI SEDAAP MI GORENG AS",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.79"
+        },
+        {
+            "description": "TWISTIES CHIPSTER ORIG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.85"
+        },
+        {
+            "description": "MISTER POTATO BBQ (B)",
+            "quantity": 2,
+            "unit_price": "2.45",
+            "amount": "4.90"
+        },
+        {
+            "description": "EAGLE FRIED DACE WT SA",
+            "quantity": 2,
+            "unit_price": "6.99",
+            "amount": "13.98"
+        },
+        {
+            "description": "PLANTA MARJERIN 240G",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.20"
+        },
+        {
+            "description": "COKE 1.5L",
+            "quantity": 2,
+            "unit_price": "2.99",
+            "amount": "5.98"
+        },
+        {
+            "description": "CAP TAKRAW BERAS SUPER",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "24.95"
+        }
+    ],
+    "total": "61.65",
+    "tax_amount": "2.08",
+    "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+    "company": "SUPER.SEVEN CASH & CARRY SDN BHD",
+    "date": "22-06-2017",
+    "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM,40150",
+    "tax_number": "000639090688",
+    "line_items": [
+        {
+            "description": "KK KACANG GORENG 400G",
+            "quantity": 3,
+            "unit_price": "7.20",
+            "amount": "21.60"
+        },
+        {
+            "description": "TERUNG PENDEK",
+            "quantity": 1,
+            "unit_price": "3.15",
+            "amount": "3.15"
+        },
+        {
+            "description": "HALIA MUDA LOCAL",
+            "quantity": 1,
+            "unit_price": "2.30",
+            "amount": "2.30"
+        },
+        {
+            "description": "BAWANG BESAR INDIA",
+            "quantity": 1,
+            "unit_price": "0.98",
+            "amount": "0.98"
+        }
+    ],
+    "total": "28.05",
+    "tax_amount": "1.22",
+    "service_charge": null
+}

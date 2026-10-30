@@ -1,0 +1,17 @@
+{
+    "company": "MUN HENG ELECTRICAL & HARDWARE SUPPLY",
+    "date": "01/02/2018",
+    "address": "NO.52. JALAN BULAN U5/BT. BANDAR PINGGLRAN SUBANG. SUNGAL BULOH, 40150 SHAH ALAM, SEL",
+    "tax_number": "000372871168",
+    "line_items": [
+        {
+            "description": "Z# VVHITE SPRAY",
+            "quantity": 1,
+            "unit_price": "7.00",
+            "amount": "7.00"
+        }
+    ],
+    "total": "7.00",
+    "tax_amount": "0.40",
+    "service_charge": null
+}

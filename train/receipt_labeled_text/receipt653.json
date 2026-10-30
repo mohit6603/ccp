@@ -1,0 +1,17 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "10-03-18",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "SUNQUICK OREN 330ML",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.35"
+        }
+    ],
+    "total": "5.35",
+    "tax_amount": "0.30",
+    "service_charge": null
+}

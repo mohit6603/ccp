@@ -1,0 +1,23 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "28/03/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "ARTLINE EG-40 GLUE STICK 40G",
+            "quantity": 1,
+            "unit_price": "5.6000",
+            "amount": "5.60"
+        },
+        {
+            "description": "IK YELLOW SIMILI PAPER - A4 70GSM (450'S/REAM)",
+            "quantity": 1,
+            "unit_price": "10.9000",
+            "amount": "10.90"
+        }
+    ],
+    "total": "16.50",
+    "tax_amount": "0.93",
+    "service_charge": null
+}

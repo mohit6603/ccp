@@ -1,0 +1,35 @@
+{
+    "company": "SWC ENTERPRISE SDN BHD",
+    "date": "28/03/2018",
+    "address": "5-7, JALAN MAHAGONI 7/1 SEKSYEN 4, BANDAR UTAMA, 44300 BATANG KALI, SELANGOR",
+    "tax_number": "002017808384",
+    "line_items": [
+        {
+            "description": "OPEN CODE ITEM",
+            "quantity": 3,
+            "unit_price": "8.00",
+            "amount": "24.00"
+        },
+        {
+            "description": "OPEN CODE ITEM",
+            "quantity": 1,
+            "unit_price": "7.00",
+            "amount": "7.00"
+        },
+        {
+            "description": "STAR 12X13 (1X180)",
+            "quantity": 1,
+            "unit_price": "1.00",
+            "amount": "1.00"
+        },
+        {
+            "description": "STAR 12X13 (1X180)",
+            "quantity": 1,
+            "unit_price": "1.80",
+            "amount": "1.80"
+        }
+    ],
+    "total": "30.00",
+    "tax_amount": "1.70",
+    "service_charge": null
+}

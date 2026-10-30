@@ -1,0 +1,41 @@
+{
+    "company": "PASAR MINI JIN SENG",
+    "date": "03/03/18",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA B1750 PLENTONG, JOHOR",
+    "tax_number": "000150511616",
+    "line_items": [
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.00"
+        },
+        {
+            "description": "TELUR / TELUR MASIN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.40"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.80"
+        },
+        {
+            "description": "GL STEWED PORK 256G",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.80"
+        },
+        {
+            "description": "BOTAN IKAN SARDIN 425G",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.80"
+        }
+    ],
+    "total": "33.80",
+    "tax_amount": "0.77",
+    "service_charge": null
+}

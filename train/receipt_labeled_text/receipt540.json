@@ -1,0 +1,23 @@
+{
+    "company": "PASIR EMAS HARDWARE SDN BHD",
+    "date": "23/06/18",
+    "address": "NO 69, JALAN PENGKALAN 5, TAMAN PASIR EMAS, KG PASIR PUTIH, 81700 PASIR GUDANG, JOHOR.",
+    "tax_number": "000144596992",
+    "line_items": [
+        {
+            "description": "PLUG TOP 13A(BIASA-MK)",
+            "quantity": 3,
+            "unit_price": "8.00",
+            "amount": "24.00"
+        },
+        {
+            "description": "UMS 13A PLUG(SINGLE)",
+            "quantity": 3,
+            "unit_price": "4.00",
+            "amount": "12.00"
+        }
+    ],
+    "total": "36.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

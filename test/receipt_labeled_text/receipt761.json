@@ -1,0 +1,35 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "06/03/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "NO PLASTIC BAG CAMPAI",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.20"
+        },
+        {
+            "description": "70G P.COPY 450'S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.69"
+        },
+        {
+            "description": "PB 0/TAPE 48X40X45BX3",
+            "quantity": 2,
+            "unit_price": "7.99",
+            "amount": "15.98"
+        },
+        {
+            "description": "PB S/TAPE 18X40 4IN1",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.99"
+        }
+    ],
+    "total": "30.70",
+    "tax_amount": "1.74",
+    "service_charge": null
+}

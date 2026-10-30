@@ -1,0 +1,29 @@
+{
+    "company": "URBAN IDEA SDN BHD",
+    "date": "27/02/2018",
+    "address": "A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGOR, MALAYSIA",
+    "tax_number": "000220499968",
+    "line_items": [
+        {
+            "description": "BAG FEE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "0.20"
+        },
+        {
+            "description": "(MY) EDV MEAL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.90"
+        },
+        {
+            "description": "(MY) EDV MEAL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.90"
+        }
+    ],
+    "total": "22.65",
+    "tax_amount": "1.36",
+    "service_charge": null
+}

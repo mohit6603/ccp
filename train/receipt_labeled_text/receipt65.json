@@ -1,0 +1,35 @@
+{
+    "company": "PASARAYA BORONG PINTAR SDN BHD",
+    "date": "14/03/2018",
+    "address": "NO 19-G& 19-1& 19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "WALL'S TOPTEN CHOCOLATE 73ML",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60"
+        },
+        {
+            "description": "WALL'S TOPTEN CHOCOLATE 73ML",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60"
+        },
+        {
+            "description": "MAGNUM ALMOND 90ML",
+            "quantity": 1,
+            "unit_price": "4.50",
+            "amount": "4.50"
+        },
+        {
+            "description": "CLOUD 9 PLUS 22G",
+            "quantity": 1,
+            "unit_price": "0.50",
+            "amount": "0.50"
+        }
+    ],
+    "total": "8.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "FOODELICO SDN. BHD.",
+    "date": "29-APR-2018",
+    "address": "LOT LG10, AEON TAMAN UNIVERSITI SHOPPING CENTER, NO. 4, JALAN PENDIDIKAN, TAMAN UNIVERSITI 81300 SKUDAI, JOHOR",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "KEK SPAN KLASIK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.00"
+        }
+    ],
+    "total": "13.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

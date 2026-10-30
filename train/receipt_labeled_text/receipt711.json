@@ -1,0 +1,23 @@
+{
+    "company": "ALI BABA INTERNATIONAL SDN BHD",
+    "date": "19-02-2018",
+    "address": "PUBLIKA SHOPPING GALLERY LOT 26-27, LEVEL G2, JLN DUTAMAS 1, SOLARIS DUTAMAS,50480 KL",
+    "tax_number": "000895864832",
+    "line_items": [
+        {
+            "description": "MINERAL WATER",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        },
+        {
+            "description": "CHOCOLATE WAFFLE-HALF MOON",
+            "quantity": 1,
+            "unit_price": "17.90",
+            "amount": "17.90"
+        }
+    ],
+    "total": "23.80",
+    "tax_amount": "1.35",
+    "service_charge": "2.04"
+}

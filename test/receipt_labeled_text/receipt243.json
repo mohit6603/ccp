@@ -1,0 +1,35 @@
+{
+    "company": "MEI LET RESTAURANT",
+    "date": "22/01/2017",
+    "address": "NO 2, JALAN BULAN BM U5/BM, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR",
+    "tax_number": "0010 9273 4976",
+    "line_items": [
+        {
+            "description": "TALAPIA - DEEP FRIED WITH SWEET & (M)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "40.00"
+        },
+        {
+            "description": "BRAISED PORK BELLY WITH BITTER GO (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.00"
+        },
+        {
+            "description": "WATER / TEA",
+            "quantity": 3,
+            "unit_price": "0.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "RICE (L)",
+            "quantity": 3,
+            "unit_price": "1.50",
+            "amount": "4.50"
+        }
+    ],
+    "total": "67.85",
+    "tax_amount": "3.84",
+    "service_charge": null
+}

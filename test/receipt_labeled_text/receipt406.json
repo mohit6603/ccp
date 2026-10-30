@@ -1,0 +1,23 @@
+{
+    "company": "EDEN IMPRESSION SDN BHD",
+    "date": "20/10/2016",
+    "address": "LOT NO : 20, LEVEL UG1, PUBLIKA SOLARIS DUTAMAS. NO 1, JALAN DUTAMAS, 50480 KL",
+    "tax_number": "000926818304",
+    "line_items": [
+        {
+            "description": "ALACARTE SUSHI",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        },
+        {
+            "description": "ALACARTE SUSHI",
+            "quantity": 2,
+            "unit_price": "1.80",
+            "amount": "3.60"
+        }
+    ],
+    "total": "9.75",
+    "tax_amount": "0.55",
+    "service_charge": "0.00"
+}

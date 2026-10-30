@@ -1,0 +1,59 @@
+{
+    "company": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+    "date": "16/08/17",
+    "address": "LOT B-005-006, BASEMENT LEVEL 1 THE STARLING MALL JALAN SS21/60, DAMANSARA UTAMA",
+    "tax_number": "000899874816",
+    "line_items": [
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.78"
+        },
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.78"
+        },
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.78"
+        },
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.78"
+        },
+        {
+            "description": "GDN PLASTIC BAG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.20"
+        },
+        {
+            "description": "HASK COND335 CHA",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "39.01"
+        },
+        {
+            "description": "COUNTERPAIN 30G",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "8.88"
+        },
+        {
+            "description": "SALONPAS 1*10S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.00"
+        }
+    ],
+    "total": "108.21",
+    "tax_amount": "6.13",
+    "service_charge": null
+}

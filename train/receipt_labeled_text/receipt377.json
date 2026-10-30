@@ -1,0 +1,35 @@
+{
+    "company": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "date": "17-04-16",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000473792512",
+    "line_items": [
+        {
+            "description": "PARTITION 1072 10CM",
+            "quantity": 1,
+            "unit_price": "7.30",
+            "amount": "7.30"
+        },
+        {
+            "description": "TELESCOPIC ROD 2PCS 4065#*VS",
+            "quantity": 1,
+            "unit_price": "4.80",
+            "amount": "4.80"
+        },
+        {
+            "description": "CURTAIN BAR-70CM",
+            "quantity": 3,
+            "unit_price": "3.10",
+            "amount": "9.30"
+        },
+        {
+            "description": "D/S TAPE 1.8*15M",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        }
+    ],
+    "total": "22.90",
+    "tax_amount": "1.30",
+    "service_charge": null
+}

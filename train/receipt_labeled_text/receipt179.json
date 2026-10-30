@@ -1,0 +1,17 @@
+{
+    "company": "BHPETROL SUBANG AIRPORT",
+    "date": "18-01-2018",
+    "address": "JALAN LAPANGAN TERBANG SUBANG 47200 SUBANG SELANGOR",
+    "tax_number": "000768122880",
+    "line_items": [
+        {
+            "description": "INFINITI 97 E4MP3",
+            "quantity": 16.32,
+            "unit_price": "2.570",
+            "amount": "41.95"
+        }
+    ],
+    "total": "41.95",
+    "tax_amount": "2.37",
+    "service_charge": null
+}

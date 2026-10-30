@@ -1,0 +1,23 @@
+{
+    "company": "SECRET RECIPE RESTAURANT",
+    "date": "4/22/2018",
+    "address": "LOT G16, PERMAS JAYA JUSCO",
+    "tax_number": "000260571136",
+    "line_items": [
+        {
+            "description": "M/ROOM CHIC (RICE)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.98"
+        },
+        {
+            "description": "SP/TI MBALL CHK",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.87"
+        }
+    ],
+    "total": "41.81",
+    "tax_amount": "2.37",
+    "service_charge": null
+}

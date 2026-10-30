@@ -1,0 +1,17 @@
+{
+    "company": "EVERGREEN LIGHT SDN BHD",
+    "date": "10/07/2017",
+    "address": "NO.7-1, JALAN PUTERI 7/11, BANDAR PUTERI, 47100 PUCHONG, BELANGOR",
+    "tax_number": "000389353472",
+    "line_items": [
+        {
+            "description": "PROBMK 10W LED STICK",
+            "quantity": 4,
+            "unit_price": "13.21",
+            "amount": "52.84"
+        }
+    ],
+    "total": "56.00",
+    "tax_amount": "3.17",
+    "service_charge": null
+}

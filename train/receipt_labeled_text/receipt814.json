@@ -1,0 +1,17 @@
+{
+    "company": "MAXINCOME RESOURCES SDN BHD",
+    "date": "10/04/2018",
+    "address": "NO 16A, JALAN ASTAKA U8/83, BUKIT JELUTONG, 40150 SHAH ALAM, SELANGOR, D.E.",
+    "tax_number": "000468594688",
+    "line_items": [
+        {
+            "description": "F/FRIEND S/F ORIGINAL 2",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.80"
+        }
+    ],
+    "total": "5.80",
+    "tax_amount": "0.33",
+    "service_charge": null
+}

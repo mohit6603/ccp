@@ -1,0 +1,59 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "13-01-16",
+    "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "MASSIMO WHEAT GERM 400",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.25"
+        },
+        {
+            "description": "PANTENE HAIR FALL CONT",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "10.95"
+        },
+        {
+            "description": "PANTENE TTL DAMAGE CARE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "10.95"
+        },
+        {
+            "description": "AJI-SHIO BLACK PEPPER",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.75"
+        },
+        {
+            "description": "COLGATE BERUS GIGI ZIG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.20"
+        },
+        {
+            "description": "COLGATE GREAT REGULAR",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "YEO'S SOYA BEAN PEK 4*6",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.50"
+        },
+        {
+            "description": "YEO'S TEH BUNGA PEK 4*6",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.50"
+        }
+    ],
+    "total": "71.60",
+    "tax_amount": "4.05",
+    "service_charge": null
+}

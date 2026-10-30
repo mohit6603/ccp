@@ -1,0 +1,41 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "06-12-16",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "ANCHOR SERBUK CUCI 4KG",
+            "quantity": 4,
+            "unit_price": "8.90",
+            "amount": "35.60"
+        },
+        {
+            "description": "PANTENE TTL DAMAGE CARE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "9.65"
+        },
+        {
+            "description": "DOVE CREAM BAR SOAP 100",
+            "quantity": 4,
+            "unit_price": "2.65",
+            "amount": "10.60"
+        },
+        {
+            "description": "LEE KUM KEE SOS TIRAM C",
+            "quantity": 3,
+            "unit_price": "7.60",
+            "amount": "22.80"
+        },
+        {
+            "description": "MARIGOLD HL MILK 1L",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "6.79"
+        }
+    ],
+    "total": "85.45",
+    "tax_amount": "4.82",
+    "service_charge": null
+}

@@ -1,0 +1,29 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "03/02/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "12M WIRE ROPE CLIP",
+            "quantity": 2,
+            "unit_price": "4.77",
+            "amount": "9.54"
+        },
+        {
+            "description": "4\" X KINKI BRD 2 WAY SCREWDRIVER",
+            "quantity": 1,
+            "unit_price": "4.77",
+            "amount": "4.77"
+        },
+        {
+            "description": "HOES SET",
+            "quantity": 2,
+            "unit_price": "23.32",
+            "amount": "46.64"
+        }
+    ],
+    "total": "60.95",
+    "tax_amount": "3.45",
+    "service_charge": null
+}

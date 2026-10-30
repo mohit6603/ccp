@@ -1,0 +1,23 @@
+{
+    "company": "DE LUXE CIRCLE FRESH MART SDN BHD",
+    "date": "12/05/18",
+    "address": "NO. 89&91, JALAN UTAMA, TAMAN MUTIA RINI, 81300 SKUDAI, JOHOR.",
+    "tax_number": "001507647488",
+    "line_items": [
+        {
+            "description": "HEAVEN & EARTH AYATAKA GREEN TEA 1.5L",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "KONNYAKU 10G",
+            "quantity": 2,
+            "unit_price": "3.50",
+            "amount": "7.00"
+        }
+    ],
+    "total": "12.00",
+    "tax_amount": "0.68",
+    "service_charge": null
+}

@@ -1,0 +1,29 @@
+{
+    "company": "YHM AEON TEBRAU CITY",
+    "date": "11/03/2018",
+    "address": "S117, SECOND FLOOR, AEON TEBRAU CITY, 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU, JOHOR.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "GREEN TEA",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "KAKE UDON R",
+            "quantity": 1,
+            "unit_price": "8.80",
+            "amount": "8.80"
+        },
+        {
+            "description": "ENOKI TEMPURA",
+            "quantity": 1,
+            "unit_price": "2.80",
+            "amount": "2.80"
+        }
+    ],
+    "total": "13.10",
+    "tax_amount": "0.74",
+    "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "07-02-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "INDOCAFE COFFEEMIX 3IN",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "29.95"
+        },
+        {
+            "description": "CADBURY CHOCOLATE HAZEL",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.49"
+        }
+    ],
+    "total": "37.45",
+    "tax_amount": "2.12",
+    "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+    "company": "PINGHWAI TRADING SDN BHD",
+    "date": "22/08/2017",
+    "address": "NO.2, JALAN METRO PERDANA TIMUR 11. KEPONG ENTERPRENUERS PARK, OFF JALAN KEPONG. 52100 KUALA LUMPUR",
+    "tax_number": "001371123712",
+    "line_items": [
+        {
+            "description": "UDANG KERING",
+            "quantity": 20,
+            "unit_price": "16.00",
+            "amount": "320.00"
+        },
+        {
+            "description": "FISH MAW (SWIMMING BLADDER)",
+            "quantity": 1,
+            "unit_price": "73.00",
+            "amount": "73.00"
+        }
+    ],
+    "total": "393.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

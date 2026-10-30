@@ -1,0 +1,47 @@
+{
+    "company": "RESTORAN HOETIM",
+    "date": "28/05/2018",
+    "address": "1-G,JALAN OS 1/3,ONE SELAYANG OFF JALAN RAWANG 68100 B.CAVES",
+    "tax_number": "000119910400",
+    "line_items": [
+        {
+            "description": "SQUID",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "25.00"
+        },
+        {
+            "description": "NOODLES",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "VEGETABLE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "12.00"
+        },
+        {
+            "description": "MEAT",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "22.00"
+        },
+        {
+            "description": "RICE",
+            "quantity": 3,
+            "unit_price": "1.50",
+            "amount": "4.50"
+        },
+        {
+            "description": "OTHERS",
+            "quantity": 4,
+            "unit_price": "1.70",
+            "amount": "6.80"
+        }
+    ],
+    "total": "83.00",
+    "tax_amount": "4.70",
+    "service_charge": null
+}

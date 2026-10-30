@@ -1,0 +1,17 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "11/03/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSI.",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "DOCUMENT HOL A4 9101A-TRA",
+            "quantity": 5,
+            "unit_price": "1.15",
+            "amount": "5.75"
+        }
+    ],
+    "total": "5.75",
+    "tax_amount": "0.33",
+    "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+    "company": "T.A.S LEISURE SDN BHD",
+    "date": "30 DEC 17",
+    "address": null,
+    "tax_number": "001042104320",
+    "line_items": [
+        {
+            "description": "PINEAPPLE JUICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.95"
+        },
+        {
+            "description": "TOSTADA CHIPS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.95"
+        },
+        {
+            "description": "CHP_BWL CK",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "29.95"
+        },
+        {
+            "description": "MARG CK",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "27.95"
+        }
+    ],
+    "total": "102.40",
+    "tax_amount": "5.81",
+    "service_charge": "8.78"
+}

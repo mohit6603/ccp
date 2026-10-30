@@ -1,0 +1,35 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "18 APR 2018",
+    "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR",
+    "tax_number": "000656195584",
+    "line_items": [
+        {
+            "description": "3 VEGE",
+            "quantity": 1,
+            "unit_price": "4.40",
+            "amount": "4.40"
+        },
+        {
+            "description": "ADD VEGETABLE",
+            "quantity": 1,
+            "unit_price": "0.60",
+            "amount": "0.60"
+        },
+        {
+            "description": "ADD MEATS",
+            "quantity": 1,
+            "unit_price": "0.90",
+            "amount": "0.90"
+        },
+        {
+            "description": "VEGETABLE",
+            "quantity": 1,
+            "unit_price": "1.10",
+            "amount": "1.10"
+        }
+    ],
+    "total": "7.00",
+    "tax_amount": "0.40",
+    "service_charge": null
+}

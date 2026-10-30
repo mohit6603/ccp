@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "15/01/2018",
+    "address": "NO 290. JALAN AIR PANAS. SETAPAK. 53200, KUALA LUMPUR",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "HOES PIN",
+            "quantity": 3,
+            "unit_price": "1.06",
+            "amount": "3.18"
+        },
+        {
+            "description": "4' HOES HANDLE",
+            "quantity": 1,
+            "unit_price": "7.95",
+            "amount": "7.95"
+        }
+    ],
+    "total": "11.13",
+    "tax_amount": "0.63",
+    "service_charge": null
+}

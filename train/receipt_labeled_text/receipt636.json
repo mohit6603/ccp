@@ -1,0 +1,17 @@
+{
+    "company": "TEO HENG STATIONERY & BOOKS",
+    "date": "15/03/2018",
+    "address": "NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN",
+    "tax_number": "000689913856",
+    "line_items": [
+        {
+            "description": "ARTLINE 70",
+            "quantity": 48,
+            "unit_price": null,
+            "amount": "120.00"
+        }
+    ],
+    "total": "127.20",
+    "tax_amount": "7.20",
+    "service_charge": null
+}

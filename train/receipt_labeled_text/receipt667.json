@@ -1,0 +1,41 @@
+{
+    "company": "VIVOPAC MARKETING SDN BHD",
+    "date": "17/01/2017",
+    "address": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL",
+    "tax_number": "000565805056",
+    "line_items": [
+        {
+            "description": "PP - 14X20 0.04MM",
+            "quantity": 1,
+            "unit_price": "14.6000",
+            "amount": "14.60"
+        },
+        {
+            "description": "PP - 16X26 0.04MM",
+            "quantity": 1,
+            "unit_price": "14.6000",
+            "amount": "14.60"
+        },
+        {
+            "description": "24 X 28 (75HT) RED",
+            "quantity": 1,
+            "unit_price": "6.0000",
+            "amount": "6.00"
+        },
+        {
+            "description": "26 X 33 (85HT) RED",
+            "quantity": 1,
+            "unit_price": "8.0000",
+            "amount": "8.00"
+        },
+        {
+            "description": "OPP TAPES",
+            "quantity": 1,
+            "unit_price": "0.8000",
+            "amount": "0.80"
+        }
+    ],
+    "total": "46.65",
+    "tax_amount": "2.64",
+    "service_charge": null
+}

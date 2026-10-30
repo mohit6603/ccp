@@ -1,0 +1,17 @@
+{
+    "company": "OJC MARKETING SDN BHD",
+    "date": "15/01/2019",
+    "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "KINGS SAFETY SHOES KWD B05",
+            "quantity": 1,
+            "unit_price": "193.00",
+            "amount": "193.00"
+        }
+    ],
+    "total": "193.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

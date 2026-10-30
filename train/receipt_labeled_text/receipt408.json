@@ -1,0 +1,47 @@
+{
+    "company": "FTOF NOODLE HOUSE",
+    "date": "21/05/2018",
+    "address": "NO.25, JALAN METRO PERDANA BARAT 2, TAMAN USAHAWAN KEPONG, KEPONG UTARA, 52100 KUALA LUMPUR.",
+    "tax_number": "001927782400",
+    "line_items": [
+        {
+            "description": "OMEGA HALF BOILED EGG",
+            "quantity": 1,
+            "unit_price": "3.20",
+            "amount": "3.20"
+        },
+        {
+            "description": "TOASTED BREAD (HOMEMADE KAYA)",
+            "quantity": 1,
+            "unit_price": "4.30",
+            "amount": "4.30"
+        },
+        {
+            "description": "HONEY LEMON (HOT)",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "HONEY LEMON (COLD)",
+            "quantity": 1,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "HOUSE SPECIALTY HOT & SPICY PAN MEE (DRY)(B)",
+            "quantity": 1,
+            "unit_price": "8.00",
+            "amount": "8.00"
+        },
+        {
+            "description": "HOUSE SPECIALTY HOT & SPICY PAN MEE (DRY)(A)",
+            "quantity": 1,
+            "unit_price": "8.00",
+            "amount": "8.00"
+        }
+    ],
+    "total": "31.60",
+    "tax_amount": "1.79",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "ELITETRAX MARKETING SDN BHD",
+    "date": "11.02.18",
+    "address": "LOT 1F-01&02,1ST FLR,PARADIGM MALL, NO. 1 JALAN SS 7/26A, KELANA JAYA, 47301 PETALING JAYA",
+    "tax_number": "000551006208",
+    "line_items": [
+        {
+            "description": "CANON CART PG-47BK",
+            "quantity": 2,
+            "unit_price": "30.00",
+            "amount": "60.00"
+        }
+    ],
+    "total": "60.00",
+    "tax_amount": "3.40",
+    "service_charge": null
+}

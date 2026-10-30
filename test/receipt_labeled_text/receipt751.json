@@ -1,0 +1,77 @@
+{
+    "company": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+    "date": "18/02/2018",
+    "address": "60 & 62. JALAN CIKU, 86000,KLUANG",
+    "tax_number": "001833082880",
+    "line_items": [
+        {
+            "description": "200SHEET COMPACT SERVIETTES (NTE)",
+            "quantity": 1,
+            "unit_price": "3.30",
+            "amount": "3.30"
+        },
+        {
+            "description": "1.5\" RUBBER BAND",
+            "quantity": 1,
+            "unit_price": "3.60",
+            "amount": "3.60"
+        },
+        {
+            "description": "PP 3X5 04",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        },
+        {
+            "description": "18MMX90Y OPP TAPE",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60"
+        },
+        {
+            "description": "911 TAPE DISPENSER",
+            "quantity": 1,
+            "unit_price": "8.60",
+            "amount": "8.60"
+        },
+        {
+            "description": "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+            "quantity": 1,
+            "unit_price": "49.90",
+            "amount": "49.90"
+        },
+        {
+            "description": "AP-17 APRON PLAIN CLOTH",
+            "quantity": 20,
+            "unit_price": "10.90",
+            "amount": "218.00"
+        },
+        {
+            "description": "TALI UKURAN",
+            "quantity": 1,
+            "unit_price": "1.00",
+            "amount": "1.00"
+        },
+        {
+            "description": "CC-100 100PC CITE CANDLE",
+            "quantity": 1,
+            "unit_price": "22.90",
+            "amount": "22.90"
+        },
+        {
+            "description": "F1502 SCISSOR 08C (CH) (TLC)",
+            "quantity": 6,
+            "unit_price": "6.00",
+            "amount": "36.00"
+        },
+        {
+            "description": "2KG HC KITCHEN SCALE",
+            "quantity": 1,
+            "unit_price": "19.90",
+            "amount": "19.90"
+        }
+    ],
+    "total": "367.30",
+    "tax_amount": "20.79",
+    "service_charge": "0.00"
+}

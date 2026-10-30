@@ -1,0 +1,29 @@
+{
+    "company": "AEON CO. (M) SDN BHD",
+    "date": "22/04/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "GREEN PEA CHEES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.00"
+        },
+        {
+            "description": "BIG NUT BREAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.90"
+        },
+        {
+            "description": "ONION CHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.30"
+        }
+    ],
+    "total": "10.20",
+    "tax_amount": "0.58",
+    "service_charge": null
+}

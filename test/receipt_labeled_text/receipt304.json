@@ -1,0 +1,35 @@
+{
+    "company": "THE TOAST F&B SDN BHD",
+    "date": "08/04/2018",
+    "address": "LOT 2110&2111 JALAN PERMAS UTARA BANDAR BARU PERMAS 81750 JOHOR BAHRU JOHOR",
+    "tax_number": "002069884928",
+    "line_items": [
+        {
+            "description": "TEH (ICE)",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        },
+        {
+            "description": "KAMPUNG",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "BUTTER KAYA",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        },
+        {
+            "description": "SUGARCA (ICE)",
+            "quantity": 1,
+            "unit_price": "2.90",
+            "amount": "2.90"
+        }
+    ],
+    "total": "18.90",
+    "tax_amount": "1.07",
+    "service_charge": null
+}

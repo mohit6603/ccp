@@ -1,0 +1,35 @@
+{
+    "company": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+    "date": "04/03/18",
+    "address": "GUARDIAN GIANT BREM MALL G-19 LEVEL G BREM MALL",
+    "tax_number": "000899874816",
+    "line_items": [
+        {
+            "description": "GDN MC H/W ENC ROM",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.90"
+        },
+        {
+            "description": "GDN MC H/W ENC ROM",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.90"
+        },
+        {
+            "description": "GDN MC H/W N/DREAM",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.90"
+        },
+        {
+            "description": "GDN MC H/W N/DREAM",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.90"
+        }
+    ],
+    "total": "12.00",
+    "tax_amount": "0.68",
+    "service_charge": null
+}

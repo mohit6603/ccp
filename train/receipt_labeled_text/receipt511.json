@@ -1,0 +1,23 @@
+{
+    "company": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+    "date": "25/12/2017",
+    "address": "NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM,",
+    "tax_number": "000394528768",
+    "line_items": [
+        {
+            "description": "1/2\" PVC BIB TAP ??",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "9001 BM SEALING TAPE (YELLOW) ???",
+            "quantity": 1,
+            "unit_price": "0.50",
+            "amount": "0.50"
+        }
+    ],
+    "total": "2.50",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

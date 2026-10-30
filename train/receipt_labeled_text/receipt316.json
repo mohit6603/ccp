@@ -1,0 +1,17 @@
+{
+    "company": "GHEE HIANG GH DISTRIBUTOR & MARKETING SDN BHD",
+    "date": "13/04/2018",
+    "address": "95, BEACH ROAD, 10300 PENANG. 10400 PENANG.",
+    "tax_number": "001315377152",
+    "line_items": [
+        {
+            "description": "TAU SAR PNEAH (S) 24PCS",
+            "quantity": 2,
+            "unit_price": "12.50",
+            "amount": "25.00"
+        }
+    ],
+    "total": "25.00",
+    "tax_amount": "1.42",
+    "service_charge": null
+}

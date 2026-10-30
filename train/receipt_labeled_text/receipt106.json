@@ -1,0 +1,29 @@
+{
+    "company": "ZAWIAJAYA FOOD N BEVERAGE SDN BHD",
+    "date": "21-03-2018",
+    "address": "106-107, LEVEL 1 THE MINES MALL SERDANG SRI KEMBANGAN, 43300 SELANGOR DARUL EHSAN.",
+    "tax_number": "001685499904",
+    "line_items": [
+        {
+            "description": "MAGHGOUT LAMB W 1SL",
+            "quantity": 1,
+            "unit_price": "22.50",
+            "amount": "22.50"
+        },
+        {
+            "description": "GARDEN SALAD (S)",
+            "quantity": 1,
+            "unit_price": "5.90",
+            "amount": "5.90"
+        },
+        {
+            "description": "TEA POT BIG",
+            "quantity": 1,
+            "unit_price": "12.90",
+            "amount": "12.90"
+        }
+    ],
+    "total": "48.15",
+    "tax_amount": "2.73",
+    "service_charge": "4.13"
+}

@@ -1,0 +1,23 @@
+{
+    "company": "UNIPHARM PHARMACY",
+    "date": "05/APR/2018",
+    "address": "B12, JALAN SS 15/4D 47500 SUBANG JAYA,",
+    "tax_number": "001123352576",
+    "line_items": [
+        {
+            "description": "DRESSING SETS 3 FORCEP",
+            "quantity": 2,
+            "unit_price": "2.36",
+            "amount": "4.72"
+        },
+        {
+            "description": "BURNSHIELD HYDROGEL 25ML",
+            "quantity": 1,
+            "unit_price": "18.77",
+            "amount": "18.77"
+        }
+    ],
+    "total": "24.90",
+    "tax_amount": "1.41",
+    "service_charge": null
+}

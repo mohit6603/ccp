@@ -1,0 +1,23 @@
+{
+    "company": "GOLDEN KEY MAKER",
+    "date": "24-MAR-2018",
+    "address": "NO 5, JALAN KENARI 2, BANDAR PUCHONG JAYA, 47100 PUCHONG, SELANGOR",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "NORMAL KEY",
+            "quantity": 4,
+            "unit_price": "4.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "NORMAL KEY LONG",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        }
+    ],
+    "total": "21.00",
+    "tax_amount": null,
+    "service_charge": null
+}

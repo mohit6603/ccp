@@ -1,0 +1,29 @@
+{
+    "company": "BANH MI CAFE SDN BHD",
+    "date": "29-10-2017",
+    "address": "NO,1 JALAN PUTERI 7/10 BANDAR PUTERI, 47100 PUCHONG SELANGOR, MALAYSIA",
+    "tax_number": "000306700288",
+    "line_items": [
+        {
+            "description": "SUONG NON RAM CHUA SWEET &SOUR PORK RIBS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.90"
+        },
+        {
+            "description": "TAU HU DON THIT CHI STUFF MEAT TAU FU",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.90"
+        },
+        {
+            "description": "TRA DA VIETNAMESE ICED TEA",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.50"
+        }
+    ],
+    "total": "23.25",
+    "tax_amount": "1.31",
+    "service_charge": "0.65"
+}

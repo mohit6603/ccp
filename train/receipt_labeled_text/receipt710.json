@@ -1,0 +1,29 @@
+{
+    "company": "CPI ROCKU SDN. BHD.",
+    "date": "19/02/2018",
+    "address": "LOT F355/356/357, FIRST FLOOR, RAINFOREST , 1 UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA, 47800 PETALING JAYA",
+    "tax_number": "000446271488",
+    "line_items": [
+        {
+            "description": "GREEN TEA",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "GREEN TEA",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "BUFFET DINNER (ADULT)",
+            "quantity": 3,
+            "unit_price": "49.90",
+            "amount": "149.70"
+        }
+    ],
+    "total": "181.55",
+    "tax_amount": "10.28",
+    "service_charge": "15.57"
+}

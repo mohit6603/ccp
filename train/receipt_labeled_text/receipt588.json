@@ -1,0 +1,35 @@
+{
+    "company": "OGN GROUP SDN BHD",
+    "date": "24/06/2018",
+    "address": "NO.29M, JALAN DINAR G U3/G, SEKSYEN U3, SUBANG PERDANA, 40150 SHAH ALAM",
+    "tax_number": "002077622272",
+    "line_items": [
+        {
+            "description": "RHOMB SCISSORS 4\" 2040",
+            "quantity": 1,
+            "unit_price": "7.45",
+            "amount": "7.45"
+        },
+        {
+            "description": "SHARPENING STONE 108#8",
+            "quantity": 1,
+            "unit_price": "7.45",
+            "amount": "7.45"
+        },
+        {
+            "description": "LAVA WATER JUG 2.25L",
+            "quantity": 1,
+            "unit_price": "4.62",
+            "amount": "4.62"
+        },
+        {
+            "description": "GLASS W/FLOWER LG10001",
+            "quantity": 12,
+            "unit_price": "2.74",
+            "amount": "32.88"
+        }
+    ],
+    "total": "52.40",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

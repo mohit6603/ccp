@@ -1,0 +1,71 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "10-05-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1422-TMN DESA JAYA",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "A&W SARSAPARILLA 1.5L",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.85"
+        },
+        {
+            "description": "COKE ZERO 1.25L STOP",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.50"
+        },
+        {
+            "description": "HELANG MINYAK MASAK 5KG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "24.40"
+        },
+        {
+            "description": "CINTAN MI PERISA ASLI 5",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.65"
+        },
+        {
+            "description": "MAMEE EXPRESS MI CAWAN",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "1.29"
+        },
+        {
+            "description": "MAGGI HOT CUP MEE TOM",
+            "quantity": 2,
+            "unit_price": "1.75",
+            "amount": "3.50"
+        },
+        {
+            "description": "MILO FUZE 3IN1 ORIGINAL",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.65"
+        },
+        {
+            "description": "JULIES SUGAR CRACKERS",
+            "quantity": 2,
+            "unit_price": "3.35",
+            "amount": "6.70"
+        },
+        {
+            "description": "SBB TWISTIES COOKIES 1",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.30"
+        },
+        {
+            "description": "BIN BIN RICE CRACKER 15",
+            "quantity": 2,
+            "unit_price": "5.95",
+            "amount": "11.90"
+        }
+    ],
+    "total": "72.75",
+    "tax_amount": "2.74",
+    "service_charge": null
+}

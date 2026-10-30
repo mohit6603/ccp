@@ -1,0 +1,23 @@
+{
+    "company": "OGN GROUP SDN BHD",
+    "date": "17/06/2018",
+    "address": "NO.29M, JALAN DINAR G U3/G, SEKSYEN U3, SUBANG PERDANA, 40150 SHAH ALAM",
+    "tax_number": "002077622272",
+    "line_items": [
+        {
+            "description": "KITCHEN LIGHTER 2015",
+            "quantity": 5,
+            "unit_price": "3.68",
+            "amount": "18.40"
+        },
+        {
+            "description": "COTTON WHITE MOP 450 W.HDL",
+            "quantity": 1,
+            "unit_price": "9.91",
+            "amount": "9.91"
+        }
+    ],
+    "total": "28.30",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

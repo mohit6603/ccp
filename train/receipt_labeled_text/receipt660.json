@@ -1,0 +1,83 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "23/12/17",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "SHOE WHITE SW1101*2S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.29"
+        },
+        {
+            "description": "MR C. TAPE REF WH624R-",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "31.99"
+        },
+        {
+            "description": "KIT KAT 2F (PM) 17G",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "1.35"
+        },
+        {
+            "description": "FC GRIP BP0.5 BLK PK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "FC GRIP BP0.5 BLU PK",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "3M GLUESTICK 7GM 4'S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "10.59"
+        },
+        {
+            "description": "PU F/C B/L A4 450'S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "16.99"
+        },
+        {
+            "description": "PLUS STAPLER SET 010E",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "8.89"
+        },
+        {
+            "description": "FC EXM. ERS 4S 187016",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.90"
+        },
+        {
+            "description": "S4 SUPER S M AKT SPM [BK]",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "9.90"
+        },
+        {
+            "description": "SUCCESS SPM ADD MATHS [BK]",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "37.00"
+        },
+        {
+            "description": "SUCCESS SPM SCI [BK]",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "35.70"
+        }
+    ],
+    "total": "140.65",
+    "tax_amount": "4.18",
+    "service_charge": null
+}

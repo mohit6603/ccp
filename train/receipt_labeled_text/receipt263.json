@@ -1,0 +1,17 @@
+{
+    "company": "BROADVIEW MARKETING SDN BHD",
+    "date": "15/05/2017",
+    "address": "NO. 9-G, JALAN DINAR D U3/D TAMAN SUBANG PERDANA, SEK,U3, 40150 SHAH ALAM,SELANGOR D.E.",
+    "tax_number": "000203587584",
+    "line_items": [
+        {
+            "description": "HM BAG 10 X 16 (500GM)",
+            "quantity": 1,
+            "unit_price": "4.70",
+            "amount": "4.70"
+        }
+    ],
+    "total": "4.70",
+    "tax_amount": "0.27",
+    "service_charge": null
+}

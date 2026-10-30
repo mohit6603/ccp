@@ -1,0 +1,59 @@
+{
+    "company": "CHEF LEE SDN BHD",
+    "date": "13-02-2016",
+    "address": "LG226, LGF, 1 UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA, 47800 PETALING JAYA.",
+    "tax_number": "001406865408",
+    "line_items": [
+        {
+            "description": "SEAFOOD FRIED PRICE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.50"
+        },
+        {
+            "description": "FISH HEAD",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "11.50"
+        },
+        {
+            "description": "FISH CAKE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "G. CRISPY CHIC RICE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "15.90"
+        },
+        {
+            "description": "V. GRILL CHIC RICE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "16.50"
+        },
+        {
+            "description": "W/MELON JUICE",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "RIBENA",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.90"
+        },
+        {
+            "description": "ICED CHINESE TEA",
+            "quantity": 2,
+            "unit_price": "1.90",
+            "amount": "3.80"
+        }
+    ],
+    "total": "96.20",
+    "tax_amount": "5.45",
+    "service_charge": "8.25"
+}

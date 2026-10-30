@@ -1,0 +1,23 @@
+{
+    "company": "RESTORAN WAN SHE",
+    "date": "29-09-2017",
+    "address": "NO. 2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "tax_number": "001335787520",
+    "line_items": [
+        {
+            "description": "TIGER (B)",
+            "quantity": 6,
+            "unit_price": "12.00",
+            "amount": "72.00"
+        },
+        {
+            "description": "GUINESS STOUT (B) PROMOTION",
+            "quantity": 6,
+            "unit_price": "15.40",
+            "amount": "92.40"
+        }
+    ],
+    "total": "164.40",
+    "tax_amount": "9.31",
+    "service_charge": null
+}

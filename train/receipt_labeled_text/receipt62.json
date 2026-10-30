@@ -1,0 +1,17 @@
+{
+    "company": "PETRODELI ENTERPRISE",
+    "date": "26/02/18",
+    "address": "LOT 485, TMN LEMBAH KERAMAT JLN ULU KELANG,  54200 KUALA LUMPUR",
+    "tax_number": "000145047552",
+    "line_items": [
+        {
+            "description": "FUELSAVE 95",
+            "quantity": 39.42,
+            "unit_price": "2.170",
+            "amount": "85.54"
+        }
+    ],
+    "total": "85.54",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

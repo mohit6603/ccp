@@ -1,0 +1,17 @@
+{
+    "company": "C W KHOO HARDWARE SDN BHD",
+    "date": "31/03/2018",
+    "address": "NO.50 , JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG,",
+    "tax_number": "000549584896",
+    "line_items": [
+        {
+            "description": "2.0MM 'EVACUT' HSS DRILL BIT",
+            "quantity": 3,
+            "unit_price": "4.60",
+            "amount": "13.80"
+        }
+    ],
+    "total": "14.65",
+    "tax_amount": "0.83",
+    "service_charge": null
+}

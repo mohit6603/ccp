@@ -1,0 +1,29 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "8' 2 X 3",
+            "quantity": 1,
+            "unit_price": "13.57",
+            "amount": "13.57"
+        },
+        {
+            "description": "7' X 35# CORRUGATED ROOFING SHEET",
+            "quantity": 4,
+            "unit_price": "18.55",
+            "amount": "74.20"
+        },
+        {
+            "description": "NAIL (PER/PACK) - RM5",
+            "quantity": 1,
+            "unit_price": "5.30",
+            "amount": "5.30"
+        }
+    ],
+    "total": "93.07",
+    "tax_amount": "5.27",
+    "service_charge": null
+}

@@ -1,0 +1,65 @@
+{
+    "company": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "date": "01-03-2018",
+    "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM, 40150",
+    "tax_number": "000639090688",
+    "line_items": [
+        {
+            "description": "TENDERLION",
+            "quantity": 1,
+            "unit_price": "43.37",
+            "amount": "43.37"
+        },
+        {
+            "description": "D31 TENDERLOIN",
+            "quantity": 1,
+            "unit_price": "49.42",
+            "amount": "49.42"
+        },
+        {
+            "description": "D31 TENDERLOIN",
+            "quantity": 1,
+            "unit_price": "43.90",
+            "amount": "43.90"
+        },
+        {
+            "description": "D31 TENDERLOIN",
+            "quantity": 1,
+            "unit_price": "49.66",
+            "amount": "49.66"
+        },
+        {
+            "description": "AYAMAS CHICKEN FRANKFURTER 340G",
+            "quantity": 8,
+            "unit_price": "4.30",
+            "amount": "34.40"
+        },
+        {
+            "description": "BUTTERCUP LUXURY SPREAD 500G",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "BUTTERCUP LUXURY SPREAD 500G",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "QY CINCAU 2KG",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "CRAB NUGGET 500G MUSHROOM",
+            "quantity": 20,
+            "unit_price": "8.20",
+            "amount": "164.00"
+        }
+    ],
+    "total": "408.45",
+    "tax_amount": "12.57",
+    "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+    "company": "GH DISTRIBUTOR & MARKETING SDN BHD",
+    "date": "20/06/2018",
+    "address": "216, MACALISTER ROAD, 10400 PENANG, 10400 PENANG.",
+    "tax_number": "001315377152",
+    "line_items": [
+        {
+            "description": "TAU SAR PNEAH (S) 16PCS",
+            "quantity": 4,
+            "unit_price": "9.00",
+            "amount": "36.00"
+        },
+        {
+            "description": "DB TAU SAR PNEAH (S) 12PCS",
+            "quantity": 2,
+            "unit_price": "7.60",
+            "amount": "15.20"
+        },
+        {
+            "description": "BEH TEH SAW 8PCS",
+            "quantity": 2,
+            "unit_price": "8.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "PHONG PNEAH 6PCS",
+            "quantity": 2,
+            "unit_price": "9.00",
+            "amount": "18.00"
+        }
+    ],
+    "total": "85.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

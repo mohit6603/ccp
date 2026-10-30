@@ -1,0 +1,29 @@
+{
+    "company": "TK DIVISION KITCHEN SDN BHD",
+    "date": "17/1/2018",
+    "address": "19-1. JALAN MALINJA 2, TAMAN BUNGA RAYA, 53100 SETAPAK, KUALA LUMPUR.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "CHICKEN KATSU BENTO",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.90"
+        },
+        {
+            "description": "OMU CURRY FRIED RICE SET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.90"
+        },
+        {
+            "description": "KATSU DON (FISH)SET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.90"
+        }
+    ],
+    "total": "29.70",
+    "tax_amount": null,
+    "service_charge": "0.00"
+}

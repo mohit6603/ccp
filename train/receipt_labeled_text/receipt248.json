@@ -1,0 +1,17 @@
+{
+    "company": "GL HANDICRAFT & TAII ORING",
+    "date": "09/04/2018",
+    "address": "19, JALAN KANCIL, OFF JALAN PUDU, 55100 KUALA LUMPUR MALAYSIA",
+    "tax_number": "001948532736",
+    "line_items": [
+        {
+            "description": "NONA M ACRYIC YARN",
+            "quantity": 8,
+            "unit_price": "13.00",
+            "amount": "104.00"
+        }
+    ],
+    "total": "104.00",
+    "tax_amount": "5.89",
+    "service_charge": null
+}

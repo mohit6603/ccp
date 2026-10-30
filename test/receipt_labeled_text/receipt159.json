@@ -1,0 +1,23 @@
+{
+    "company": "CT281 - TEALIVE SHELL KEPONG OTTOGO ENTERPRISE",
+    "date": "21/01/2018",
+    "address": "SHELL STATION PT15944, MUKIM BATU, JLN BESAR KEPONG",
+    "tax_number": "001018802176",
+    "line_items": [
+        {
+            "description": "HAZELNUT COCO -L",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        },
+        {
+            "description": "PEARL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.10"
+        }
+    ],
+    "total": "8.60",
+    "tax_amount": "0.48",
+    "service_charge": null
+}

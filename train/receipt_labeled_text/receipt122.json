@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "17MM COMB SPANNER",
+            "quantity": 1,
+            "unit_price": "7.95",
+            "amount": "7.95"
+        },
+        {
+            "description": "6' X 35# CORRUGATED ROOFING SHEET",
+            "quantity": 2,
+            "unit_price": "15.90",
+            "amount": "31.80"
+        }
+    ],
+    "total": "39.75",
+    "tax_amount": "2.25",
+    "service_charge": null
+}

@@ -1,0 +1,29 @@
+{
+    "company": "NANDO'S CHICKENLAND MALAYSIA SDN BHD",
+    "date": "28 MAR 18",
+    "address": "UNIT G-13, GROUND FLOOR, NO.1 JLN KIARA, MONT KIARA 50480 KUALA LUMPUR",
+    "tax_number": "000097492992",
+    "line_items": [
+        {
+            "description": "DELIVERY CHG",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.00"
+        },
+        {
+            "description": "1/4 CHIC+ 1SD-T",
+            "quantity": 4,
+            "unit_price": "17.90",
+            "amount": "71.60"
+        },
+        {
+            "description": "1/4 CHIC+ 1SD-T",
+            "quantity": 3,
+            "unit_price": "17.90",
+            "amount": "53.70"
+        }
+    ],
+    "total": "129.30",
+    "tax_amount": "7.30",
+    "service_charge": null
+}

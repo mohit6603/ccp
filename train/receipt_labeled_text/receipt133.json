@@ -1,0 +1,53 @@
+{
+    "company": "TRI SHAAS SDN BHD",
+    "date": "10/08/2017",
+    "address": "4-20, JALAN RIA 25/62 TAMAN SRI MUDA SEKSYEN 25, 40400 SHAH ALAM SELANGOR",
+    "tax_number": "000429166592",
+    "line_items": [
+        {
+            "description": "PARTNER E/LOPE 4.5INX9.5IN W4292",
+            "quantity": 2,
+            "unit_price": "2.60",
+            "amount": "5.20"
+        },
+        {
+            "description": "PLASTIC BAG",
+            "quantity": 1,
+            "unit_price": "0.20",
+            "amount": "0.20"
+        },
+        {
+            "description": "TEN Q E/LOPE 15INX10IN TQ-S1015",
+            "quantity": 2,
+            "unit_price": "2.50",
+            "amount": "5.00"
+        },
+        {
+            "description": "UMOE S/NT 100MX75M, N/GRN",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "UMOE S/NT 100MX75M, N/YLW",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "UMOE S/NT 50MX38M, N/YLW",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        },
+        {
+            "description": "UMOE S/N 75MX50M, N/PINK",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        }
+    ],
+    "total": "21.40",
+    "tax_amount": "1.21",
+    "service_charge": null
+}

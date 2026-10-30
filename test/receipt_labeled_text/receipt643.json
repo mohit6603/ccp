@@ -1,0 +1,41 @@
+{
+    "company": "YHM AEON TEBRAU CITY",
+    "date": "11/03/2018",
+    "address": "S117, SECOND FLOOR, AEON TEBRAU CITY, 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU, JOHOR,",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "GREEN TEA",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "YAKINIKU BOWL R",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "NEGI TAMA BEEF BOWL R",
+            "quantity": 2,
+            "unit_price": "15.80",
+            "amount": "31.60"
+        },
+        {
+            "description": "MISO/WAKAME+GREEN TEA",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "MISO SOUP",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "49.70",
+    "tax_amount": "2.80",
+    "service_charge": null
+}

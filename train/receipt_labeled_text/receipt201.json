@@ -1,0 +1,23 @@
+{
+    "company": "BAIFU (M) SDN BHD",
+    "date": "20/03/2018",
+    "address": "DAISO JAPAN, IOI MALL",
+    "tax_number": "001389649920",
+    "line_items": [
+        {
+            "description": "PLASTIC SPOONS 8PCS",
+            "quantity": 3,
+            "unit_price": "5.90",
+            "amount": "17.70"
+        },
+        {
+            "description": "PLASTIC FORKS 8PCS",
+            "quantity": 3,
+            "unit_price": "5.90",
+            "amount": "17.70"
+        }
+    ],
+    "total": "35.40",
+    "tax_amount": "2.00",
+    "service_charge": null
+}

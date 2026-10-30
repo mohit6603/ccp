@@ -1,0 +1,53 @@
+{
+    "company": "LA STATIONERY SDN BHD",
+    "date": "09/02/2018",
+    "address": "NO.8, JALAN 46/26, TAMAN SRI RAMPAI. 53300 KUALA LUMPUR",
+    "tax_number": "001542721536",
+    "line_items": [
+        {
+            "description": "GELPEN REFILL PILOT G2 0.5 BLACK",
+            "quantity": 5,
+            "unit_price": "2.86",
+            "amount": "14.30"
+        },
+        {
+            "description": "GELPEN REFILL PILOT G2 0.5 BLUE",
+            "quantity": 5,
+            "unit_price": "2.86",
+            "amount": "14.30"
+        },
+        {
+            "description": "GELPEN REFILL PILOT G2 0.5 RED",
+            "quantity": 2,
+            "unit_price": "2.86",
+            "amount": "5.72"
+        },
+        {
+            "description": "GLUE - CLEAR GLUE 1000ML",
+            "quantity": 1,
+            "unit_price": "7.42",
+            "amount": "7.42"
+        },
+        {
+            "description": "LIQUID PAPER - PAPERMATE NP10 7ML.",
+            "quantity": 2,
+            "unit_price": "3.71",
+            "amount": "7.42"
+        },
+        {
+            "description": "PERMANENT MARKER SHARPIE FINE BLACK 30051",
+            "quantity": 1,
+            "unit_price": "2.33",
+            "amount": "2.33"
+        },
+        {
+            "description": "BALLPEN PILOT FRIXION 0.5 BLACK",
+            "quantity": 1,
+            "unit_price": "5.30",
+            "amount": "5.30"
+        }
+    ],
+    "total": "56.80",
+    "tax_amount": "3.21",
+    "service_charge": null
+}

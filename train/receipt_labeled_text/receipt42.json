@@ -1,0 +1,17 @@
+{
+    "company": "32 PUB & BISTRO OWN BY CNU TRADING",
+    "date": "10-03-2018",
+    "address": "78G, JALAN SS21/62, DAMANSARA UTAMA, 47400 PETALING JAYA.",
+    "tax_number": "000416321536",
+    "line_items": [
+        {
+            "description": "HEINEKEN (5 BTL)",
+            "quantity": 2,
+            "unit_price": "95.00",
+            "amount": "190.00"
+        }
+    ],
+    "total": "190.00",
+    "tax_amount": "10.75",
+    "service_charge": null
+}

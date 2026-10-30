@@ -1,0 +1,17 @@
+{
+    "company": "PREMIO STATIONERY SDN BHD",
+    "date": "08/02/2017",
+    "address": "F-G-01 JALAN SS 6/5B DATARAN GLOMAC. KELANA JAYA 47301 PETALING JAYA. SELANGOR",
+    "tax_number": "001032994816",
+    "line_items": [
+        {
+            "description": "SQUARE THUMB TACKS",
+            "quantity": 30,
+            "unit_price": "0.85",
+            "amount": "25.44"
+        }
+    ],
+    "total": "25.45",
+    "tax_amount": "1.44",
+    "service_charge": null
+}

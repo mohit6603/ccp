@@ -1,0 +1,17 @@
+{
+    "company": "YONG TAT HARDWARE TRADING",
+    "date": "13/03/2018",
+    "address": "NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR,",
+    "tax_number": "001570349056",
+    "line_items": [
+        {
+            "description": "0.8MM X 50\" X 50\" AR RED GASKET",
+            "quantity": 1,
+            "unit_price": "72.00",
+            "amount": "72.00"
+        }
+    ],
+    "total": "72.00",
+    "tax_amount": "4.08",
+    "service_charge": null
+}

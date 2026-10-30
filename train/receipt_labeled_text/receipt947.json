@@ -1,0 +1,59 @@
+{
+    "company": "IKANO HANDEL SDN BHD",
+    "date": "09/06/18",
+    "address": "NO.33, JALAN HARMONIUM TAMAN DESA TEBRAU 81100 JOHOR BAHRU",
+    "tax_number": "000115154944",
+    "line_items": [
+        {
+            "description": "/2 SPRI",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "14.00"
+        },
+        {
+            "description": "SOFT BUN",
+            "quantity": 2,
+            "unit_price": "0.90",
+            "amount": "1.80"
+        },
+        {
+            "description": "MUSHROOM",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.90"
+        },
+        {
+            "description": "ADD-ON C",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "CHICKEN",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "MEATB",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "14.10"
+        },
+        {
+            "description": "MINIDISH",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.40"
+        },
+        {
+            "description": "SOFT DRINK",
+            "quantity": 2,
+            "unit_price": "1.80",
+            "amount": "3.60"
+        }
+    ],
+    "total": "46.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

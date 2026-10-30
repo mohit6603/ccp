@@ -1,0 +1,29 @@
+{
+    "company": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.",
+    "date": "15/12/2017",
+    "address": "UNIT G047, GROUND FLOOR MID VALLEY MEGAMALL MID VALLEY CITY, LINGKARAN SYED PUT 59200 KUALA LUMPUR",
+    "tax_number": "000384106496",
+    "line_items": [
+        {
+            "description": "ICED CAFE LATTE -R",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.08"
+        },
+        {
+            "description": "ICED DOUBLE CHOC-S",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.14"
+        },
+        {
+            "description": "BLACKFOREST CHZ",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "10.84"
+        }
+    ],
+    "total": "39.70",
+    "tax_amount": "2.25",
+    "service_charge": "3.41"
+}

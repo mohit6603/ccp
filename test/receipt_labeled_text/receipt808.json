@@ -1,0 +1,59 @@
+{
+    "company": "RESTORAN HWA MUI SUTERA SDN BHD",
+    "date": "29/04/2018",
+    "address": "50,JALAN SUTERA TANJUNG 5/4 TAMAN SUTERA UTAMA, 81300 SKUDAI ,JOHOR",
+    "tax_number": "001177063424",
+    "line_items": [
+        {
+            "description": "BLACK PEPPER",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.90"
+        },
+        {
+            "description": "CHEESY CHICKEN CHOP",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "20.90"
+        },
+        {
+            "description": "GRILLED BLACK PEPPER KEN CHOP",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "20.90"
+        },
+        {
+            "description": "FRIED KUEY TEOW",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.00"
+        },
+        {
+            "description": "BUTTER & KAYA TOAST",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.40"
+        },
+        {
+            "description": "TEA (B)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.30"
+        },
+        {
+            "description": "APPLE JUICE (ICE)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.80"
+        },
+        {
+            "description": "SOURSOP SMOOTHIES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.30"
+        }
+    ],
+    "total": "91.50",
+    "tax_amount": "5.18",
+    "service_charge": null
+}

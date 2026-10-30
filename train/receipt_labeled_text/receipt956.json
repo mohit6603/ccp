@@ -1,0 +1,41 @@
+{
+    "company": "KOREAN DINE SDN BHD",
+    "date": "19/06/2018",
+    "address": "NO 4, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA. 81750 JOHOR BAHRU, JOHOR",
+    "tax_number": "000517836800",
+    "line_items": [
+        {
+            "description": "M(BUDAE JJIGAE)",
+            "quantity": 1,
+            "unit_price": "70.00",
+            "amount": "70.00"
+        },
+        {
+            "description": "(KIMBAB)",
+            "quantity": 1,
+            "unit_price": "16.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "(SEAFOOD PANCAKE)",
+            "quantity": 1,
+            "unit_price": "25.00",
+            "amount": "25.00"
+        },
+        {
+            "description": "(PORKCUTLET)",
+            "quantity": 1,
+            "unit_price": "20.00",
+            "amount": "20.00"
+        },
+        {
+            "description": "(STEAMEDRICE)",
+            "quantity": 2,
+            "unit_price": "4.00",
+            "amount": "8.00"
+        }
+    ],
+    "total": "152.90",
+    "tax_amount": null,
+    "service_charge": "13.90"
+}

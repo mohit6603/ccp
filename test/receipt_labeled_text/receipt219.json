@@ -1,0 +1,17 @@
+{
+    "company": "PRINT EXPERT SDN BHD",
+    "date": "12/01/2018",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "tax_number": "000886677504",
+    "line_items": [
+        {
+            "description": "A4 CLR COPY",
+            "quantity": 8,
+            "unit_price": "0.53",
+            "amount": "4.24"
+        }
+    ],
+    "total": "4.25",
+    "tax_amount": "0.24",
+    "service_charge": "0.00"
+}

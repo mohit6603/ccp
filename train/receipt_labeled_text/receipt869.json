@@ -1,0 +1,17 @@
+{
+    "company": "YAM FRESH",
+    "date": "2016-07-31",
+    "address": "NO.145G, JALAN RIMBUNAN RAYA 1, LAMAN RIMBUNAN KEPONG, 52100 KUALA LUMPUR",
+    "tax_number": "001817907200",
+    "line_items": [
+        {
+            "description": "OYSTER MEE SUA",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.50"
+        }
+    ],
+    "total": "7.95",
+    "tax_amount": "0.45",
+    "service_charge": null
+}

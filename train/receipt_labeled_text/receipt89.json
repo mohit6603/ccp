@@ -1,0 +1,17 @@
+{
+    "company": "TRI SHAAS SDN BHD",
+    "date": "13/03/2017",
+    "address": "4-20, JALAN RIA 25/62 TAMAN SRI MUDA SEKSYEN 25, 40400 SHAH ALAM SELANGOR",
+    "tax_number": "000429166592",
+    "line_items": [
+        {
+            "description": "EVEREADY BAT H/D 1015 SW4 AA EA",
+            "quantity": 2,
+            "unit_price": "2.50",
+            "amount": "5.00"
+        }
+    ],
+    "total": "5.00",
+    "tax_amount": "0.28",
+    "service_charge": null
+}

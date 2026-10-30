@@ -1,0 +1,23 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "25 MAR 2018",
+    "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR",
+    "tax_number": "000656195584",
+    "line_items": [
+        {
+            "description": "4 VEGE",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        },
+        {
+            "description": "FRLED NOODLE (L)",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        }
+    ],
+    "total": "8.50",
+    "tax_amount": "0.48",
+    "service_charge": null
+}

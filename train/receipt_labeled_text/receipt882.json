@@ -1,0 +1,35 @@
+{
+    "company": "ANN GIAP TRADING SDN BHD",
+    "date": "30-09-2017",
+    "address": "NO. 135, JALAN BANGI, 43500 SEMENYIH, SELANGOR",
+    "tax_number": "000436633600",
+    "line_items": [
+        {
+            "description": "1 LITRE MAX COATING",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "34.00"
+        },
+        {
+            "description": "THINNER BOTOL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.00"
+        },
+        {
+            "description": "18\" MINI HANDLE ROLLER",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "6.00"
+        },
+        {
+            "description": "4\"REFILL ROL",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "4.00"
+        }
+    ],
+    "total": "47.00",
+    "tax_amount": "2.66",
+    "service_charge": null
+}

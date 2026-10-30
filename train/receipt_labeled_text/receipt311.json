@@ -1,0 +1,29 @@
+{
+    "company": "TF VALUE-MART SDN BHD",
+    "date": "19/05/18",
+    "address": "JALAN TRAS BATU 1 28700 BENTONG PAHANG DARUL MAKMUR.",
+    "tax_number": "000184401920",
+    "line_items": [
+        {
+            "description": "KCA TOILET ROLL 3PLY 10R",
+            "quantity": 2,
+            "unit_price": "12.50",
+            "amount": "25.00"
+        },
+        {
+            "description": "SUPER CRWC 36G*15 HAZELNUT",
+            "quantity": 1,
+            "unit_price": "13.90",
+            "amount": "13.90"
+        },
+        {
+            "description": "SUPER CRWC 40G*15 CLASSIC",
+            "quantity": 1,
+            "unit_price": "13.90",
+            "amount": "13.90"
+        }
+    ],
+    "total": "52.80",
+    "tax_amount": "3.00",
+    "service_charge": null
+}

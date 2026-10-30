@@ -1,0 +1,17 @@
+{
+    "company": "KHE ELECTRICAL TRADING",
+    "date": "22/03/2018",
+    "address": "33-G JALAN MAJU 3/1 TAMAN LEMBAH MAJU CHERAS, 56100 KL",
+    "tax_number": "000143474688",
+    "line_items": [
+        {
+            "description": "105W E27 PLCE TUBE",
+            "quantity": 2,
+            "unit_price": "50.88",
+            "amount": "101.76"
+        }
+    ],
+    "total": "101.75",
+    "tax_amount": "5.76",
+    "service_charge": null
+}
