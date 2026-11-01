@@ -1,0 +1,71 @@
+{
+    "company": "NASI KANDAR PELITA",
+    "date": "03/06/2018",
+    "address": "NO.2-1,JALAN KAMARUDDIN ISA 31400 IPOH,PERAK DARUL RIDZUAN",
+    "tax_number": "000038535168",
+    "line_items": [
+        {
+            "description": "TEH TARIK",
+            "quantity": 3,
+            "unit_price": "1.50",
+            "amount": "4.51"
+        },
+        {
+            "description": "MAGGI SUP",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "ROTI BAWANG",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60"
+        },
+        {
+            "description": "AYAM GORENG",
+            "quantity": 4,
+            "unit_price": "4.10",
+            "amount": "16.40"
+        },
+        {
+            "description": "NASI KANDAR",
+            "quantity": 1,
+            "unit_price": "7.80",
+            "amount": "7.80"
+        },
+        {
+            "description": "MAGGI GORENG TELUR...",
+            "quantity": 1,
+            "unit_price": "5.10",
+            "amount": "5.10"
+        },
+        {
+            "description": "INDONOMIE DOUBLE",
+            "quantity": 1,
+            "unit_price": "6.10",
+            "amount": "6.10"
+        },
+        {
+            "description": "INDONOMIE DOUBLE",
+            "quantity": 1,
+            "unit_price": "6.10",
+            "amount": "6.10"
+        },
+        {
+            "description": "MAGGI GORENG TELUR...",
+            "quantity": 1,
+            "unit_price": "5.10",
+            "amount": "5.10"
+        },
+        {
+            "description": "TEH O LIMAU AIS",
+            "quantity": 3,
+            "unit_price": "1.70",
+            "amount": "5.11"
+        }
+    ],
+    "total": "61.70",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

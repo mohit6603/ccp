@@ -1,0 +1,29 @@
+{
+  "company": "SEMBOYAN TEGAS SDN BHD",
+  "date": "06-03-2018",
+  "address": "No.5 & 7 . Jalan TSJ 2. Taman Subang Jasa Kg. Baru Subang. 40150 Shah Alam Selangor Darul Ehsan",
+  "tax_number": "001538965504",
+  "line_items": [
+    {
+      "description": "taucu kisar",
+      "quantity": 2,
+      "unit_price": "6.50",
+      "amount": "13.00"
+    },
+    {
+      "description": "Teh wang i ros 180g",
+      "quantity": 2,
+      "unit_price": "4.20",
+      "amount": "8.40"
+    },
+    {
+      "description": "ASAM JAWA 1KG",
+      "quantity": 1,
+      "unit_price": "4.80",
+      "amount": "4.80"
+    }
+  ],
+  "total": "27.00",
+  "tax_amount": "0.78",
+  "service_charge": null
+}

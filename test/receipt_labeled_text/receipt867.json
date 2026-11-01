@@ -3,7 +3,32 @@
     "date": "05-01-16",
     "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "000473792512",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "MOSQUITO RACKET 108#",
+            "quantity": 1,
+            "unit_price": "13.50",
+            "amount": "13.50"
+        },
+        {
+            "description": "MIRROR STICKER 60CM*2M",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "TABLE MAT 50P-42*VS",
+            "quantity": 1,
+            "unit_price": "6.50",
+            "amount": "6.50"
+        },
+        {
+            "description": "MOP HOOK 703#",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        }
+    ],
     "total": "34.40",
     "tax_amount": "1.95",
     "service_charge": null

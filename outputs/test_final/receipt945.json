@@ -1,0 +1,23 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "17/06/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "SAKURA WALNUT B",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.83"
+        },
+        {
+            "description": "GRAIN & SEEDS B",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.13"
+        }
+    ],
+    "total": "8.96",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

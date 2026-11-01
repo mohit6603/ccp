@@ -1,0 +1,17 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "05/03/18",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "SC Acr Frame S103M",
+            "quantity": 2,
+            "unit_price": "5.50",
+            "amount": "11.00"
+        }
+    ],
+    "total": "9.90",
+    "tax_amount": "0.56",
+    "service_charge": null
+}

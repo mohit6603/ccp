@@ -1,0 +1,41 @@
+{
+    "company": "PappaRich BMC",
+    "date": "24 Mar 18",
+    "address": "JALAN TEMENGGUNG 23/9 BANDAR MAHKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA",
+    "tax_number": "000164270080",
+    "line_items": [
+        {
+            "description": "D28 MILO DINO(I) E",
+            "quantity": 1,
+            "unit_price": "7.45",
+            "amount": "7.45"
+        },
+        {
+            "description": "R03 N' LEMAK+fc E @17.83",
+            "quantity": 2,
+            "unit_price": "35.66",
+            "amount": "35.66"
+        },
+        {
+            "description": "N22 SPRG NDL+su+cr E",
+            "quantity": 1,
+            "unit_price": "9.34",
+            "amount": "9.34"
+        },
+        {
+            "description": "B02 HALF BL. EGG E",
+            "quantity": 1,
+            "unit_price": "4.53",
+            "amount": "4.53"
+        },
+        {
+            "description": "D19 CHAM (I) E",
+            "quantity": 1,
+            "unit_price": "5.57",
+            "amount": "5.57"
+        }
+    ],
+    "total": "72.93",
+    "tax_amount": "4.13",
+    "service_charge": "6.25"
+}

@@ -1,0 +1,35 @@
+{
+    "company": "GARDENIA BAKERIES (KL) SDN BHD",
+    "date": "25/08/2017",
+    "address": "LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.",
+    "tax_number": "000381399040",
+    "line_items": [
+        {
+            "description": "O.C. WHITE",
+            "quantity": 3,
+            "unit_price": "2.13",
+            "amount": "6.39"
+        },
+        {
+            "description": "WHOLEMEAL",
+            "quantity": 3,
+            "unit_price": "2.78",
+            "amount": "8.34"
+        },
+        {
+            "description": "O.C JUMBO",
+            "quantity": 3,
+            "unit_price": "2.97",
+            "amount": "8.91"
+        },
+        {
+            "description": "KAYA-ORI",
+            "quantity": 5,
+            "unit_price": "2.40",
+            "amount": "12.00"
+        }
+    ],
+    "total": "36.36",
+    "tax_amount": "0.72",
+    "service_charge": null
+}

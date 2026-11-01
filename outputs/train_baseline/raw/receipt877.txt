@@ -1,0 +1,41 @@
+{
+  "company": "Win Soon Cafe",
+  "date": "08/05/2016",
+  "address": "Jln Metro Perdana Barat 1 Taman Usahawan Kepong 52100 KL",
+  "tax_number": "001400385536",
+  "line_items": [
+    {
+      "description": "LING FISH HEAD MEEHOON",
+      "quantity": 1,
+      "unit_price": "16.90",
+      "amount": "16.90"
+    },
+    {
+      "description": "COMBO SET",
+      "quantity": 1,
+      "unit_price": "10.90",
+      "amount": "10.90"
+    },
+    {
+      "description": "T.YAM FISH PASTE M/HOON",
+      "quantity": 1,
+      "unit_price": "11.90",
+      "amount": "11.90"
+    },
+    {
+      "description": "WHITE COFFEE-COLD",
+      "quantity": 1,
+      "unit_price": "4.90",
+      "amount": "4.90"
+    },
+    {
+      "description": "F.PRAWN&LING F.HEAD MHOON",
+      "quantity": 1,
+      "unit_price": "25.90",
+      "amount": "25.90"
+    }
+  ],
+  "total": "78.50",
+  "tax_amount": "4.45",
+  "service_charge": "3.55"
+}

@@ -5,13 +5,13 @@
     "tax_number": "002017808384",
     "line_items": [
         {
-            "description": "OPEN CODE ITEM",
+            "description": "OPEN CODE-SR ITEM",
             "quantity": 3,
             "unit_price": "8.00",
             "amount": "24.00"
         },
         {
-            "description": "OPEN CODE ITEM",
+            "description": "OPEN CODE-SR ITEM",
             "quantity": 1,
             "unit_price": "7.00",
             "amount": "7.00"
@@ -23,7 +23,7 @@
             "amount": "1.00"
         },
         {
-            "description": "STAR 12X13 (1X180)",
+            "description": "STAR 15X16 AA (1X120)",
             "quantity": 1,
             "unit_price": "1.80",
             "amount": "1.80"

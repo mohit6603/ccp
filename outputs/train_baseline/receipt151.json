@@ -1,0 +1,41 @@
+{
+    "company": "Watson's Personal Care Stores Sdn Bhd",
+    "date": "25032018",
+    "address": "USJ Summit, Subang (SS)",
+    "tax_number": "000947339264",
+    "line_items": [
+        {
+            "description": "WS CUT SCISSORS",
+            "quantity": 1,
+            "unit_price": "18.00",
+            "amount": "18.00"
+        },
+        {
+            "description": "QVS TEMPO TWEEZER",
+            "quantity": 1,
+            "unit_price": "17.90",
+            "amount": "17.90"
+        },
+        {
+            "description": "WS BABY WIPES FRAG",
+            "quantity": 1,
+            "unit_price": "7.90",
+            "amount": "7.90"
+        },
+        {
+            "description": "PWP LESS 30% MAR 18",
+            "quantity": 1,
+            "unit_price": "-2.37",
+            "amount": "-2.37"
+        },
+        {
+            "description": "WATSONS BASKET",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "41.45",
+    "tax_amount": "2.34",
+    "service_charge": null
+}

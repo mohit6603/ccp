@@ -1,0 +1,47 @@
+{
+    "company": "SUPER TERMINAL SDN BHD",
+    "date": "20/01/2018",
+    "address": "NO. 18 & 19, TAMAN CITY, JALAN KUCHING, 52100 KUALA LUMPUR",
+    "tax_number": "000180269056",
+    "line_items": [
+        {
+            "description": "LED 11 SIGNAL",
+            "quantity": 1,
+            "unit_price": "58.30",
+            "amount": "58.30"
+        },
+        {
+            "description": "KZ SIGNAL CONDENSOR (KOZI) 12V (MODEL:SC1201)(MT)",
+            "quantity": 1,
+            "unit_price": "19.08",
+            "amount": "19.08"
+        },
+        {
+            "description": "YAMLUBE (SEMI) MOTOR OIL",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "OIL FILTER LC135",
+            "quantity": 1,
+            "unit_price": "13.78",
+            "amount": "13.78"
+        },
+        {
+            "description": "BULB SIGNAL 12V8 RXZ G18.5",
+            "quantity": 1,
+            "unit_price": "3.18",
+            "amount": "3.18"
+        },
+        {
+            "description": "NUMBER PLASTIC",
+            "quantity": 6,
+            "unit_price": "1.00",
+            "amount": "6.36"
+        }
+    ],
+    "total": "132.50",
+    "tax_amount": "7.50",
+    "service_charge": null
+}

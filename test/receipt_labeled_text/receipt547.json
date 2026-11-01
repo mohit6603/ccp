@@ -3,7 +3,20 @@
     "date": "11/05/2018",
     "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
     "tax_number": "000504664064",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "L MCCHICKEN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.10"
+        },
+        {
+            "description": "6NUGGETS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.80"
+        }
+    ],
     "total": "18.90",
     "tax_amount": "1.07",
     "service_charge": null

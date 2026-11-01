@@ -1,0 +1,47 @@
+{
+    "company": "LAVENDER CONFECTIONERY & BAKERY S/B",
+    "date": "17/06/2018",
+    "address": "LOT G29 & G30, AEON MALL TEBRAU CITY, NO. 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU.",
+    "tax_number": "001872379904",
+    "line_items": [
+        {
+            "description": "HONEY SOFT TOAST",
+            "quantity": 1,
+            "unit_price": "3.30",
+            "amount": "3.30"
+        },
+        {
+            "description": "XIAO GE GE",
+            "quantity": 2,
+            "unit_price": "5.40",
+            "amount": "5.40"
+        },
+        {
+            "description": "PARMESAN CHEDDAR CHEES",
+            "quantity": 1,
+            "unit_price": "4.15",
+            "amount": "4.15"
+        },
+        {
+            "description": "TOFFEE CANIHI",
+            "quantity": 2,
+            "unit_price": "5.45",
+            "amount": "5.45"
+        },
+        {
+            "description": "EGG TART",
+            "quantity": 1,
+            "unit_price": "5.10",
+            "amount": "5.10"
+        },
+        {
+            "description": "OTAK CHEESE BUN",
+            "quantity": 1,
+            "unit_price": "3.10",
+            "amount": "3.10"
+        }
+    ],
+    "total": "26.50",
+    "tax_amount": "26.50",
+    "service_charge": null
+}

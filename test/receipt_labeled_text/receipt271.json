@@ -6,8 +6,8 @@
     "line_items": [
         {
             "description": "ALPHA LIPID LIFE LINE",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "165.00",
             "amount": "165.00"
         }
     ],

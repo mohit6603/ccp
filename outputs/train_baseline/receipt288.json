@@ -1,0 +1,23 @@
+{
+    "company": "LAVENDER CONFECTIONERY & BAKERY S/B",
+    "date": "14/04/2018",
+    "address": "LOT G29 & G30, AEON MALL TEBRAU CITY, NO. 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU.",
+    "tax_number": "001872379904",
+    "line_items": [
+        {
+            "description": "EUROPEAN WALNUT",
+            "quantity": 1,
+            "unit_price": "6.50",
+            "amount": "6.50"
+        },
+        {
+            "description": "ORANGE PEEL CHOCOLATE",
+            "quantity": 1,
+            "unit_price": "5.80",
+            "amount": "5.80"
+        }
+    ],
+    "total": "12.30",
+    "tax_amount": "0.70",
+    "service_charge": null
+}

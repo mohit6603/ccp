@@ -1,0 +1,17 @@
+{
+    "company": "ANEKA INTERTRADE MARKETING SDN BHD",
+    "date": "19/06/17",
+    "address": "150B, JALAN TUCIM,KG BARU SUBANG 40150 SHAH ALAM, SELANGOR DARUL EHSAN, MALAYSIA.",
+    "tax_number": "001532760064",
+    "line_items": [
+        {
+            "description": "MILO ACTIGEN-E 3IN1 18'SX33G",
+            "quantity": 2,
+            "unit_price": "11.90",
+            "amount": "23.80"
+        }
+    ],
+    "total": "23.80",
+    "tax_amount": "1.35",
+    "service_charge": null
+}

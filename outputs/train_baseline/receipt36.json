@@ -1,0 +1,29 @@
+{
+    "company": "WARAKUYA PERMAS CITY SDN BHD",
+    "date": "10/03/2018",
+    "address": "JALAN PERMAS UTARA 1, PERMAS JAYA 81750 MASAI JOHOR",
+    "tax_number": "0016 6993 5104",
+    "line_items": [
+        {
+            "description": "3 SABA SHIO YAKI SET",
+            "quantity": 3,
+            "unit_price": "53.70",
+            "amount": "53.70"
+        },
+        {
+            "description": "1 SALMON SHIO SET",
+            "quantity": 1,
+            "unit_price": "21.00",
+            "amount": "21.00"
+        },
+        {
+            "description": "4 ICED GREEN TEA",
+            "quantity": 4,
+            "unit_price": "4.00",
+            "amount": "4.00"
+        }
+    ],
+    "total": "57.80",
+    "tax_amount": "3.27",
+    "service_charge": "4.96"
+}

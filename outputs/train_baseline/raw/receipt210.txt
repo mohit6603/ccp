@@ -1,0 +1,65 @@
+{
+  "company": "LEE WAH FLORIST SDN BHD",
+  "date": "02/02/2018",
+  "address": "129, JALAN TUN H S LEE, 50000 KUALA LUMPUR.",
+  "tax_number": "0010114990C8",
+  "line_items": [
+    {
+      "description": "PEACOCK YELLOW",
+      "quantity": 2,
+      "unit_price": "12.00",
+      "amount": "24.00"
+    },
+    {
+      "description": "STATICE FULL IMP",
+      "quantity": 4,
+      "unit_price": "34.00",
+      "amount": "136.00"
+    },
+    {
+      "description": "LILY CONCORDO 2H",
+      "quantity": 1,
+      "unit_price": "58.00",
+      "amount": "58.00"
+    },
+    {
+      "description": "SNOW WHITE LEAF",
+      "quantity": 2,
+      "unit_price": "6.00",
+      "amount": "12.00"
+    },
+    {
+      "description": "FLORIDA BEAUTY",
+      "quantity": 1,
+      "unit_price": "3.50",
+      "amount": "3.50"
+    },
+    {
+      "description": "PALM LEAF L",
+      "quantity": 4,
+      "unit_price": "9.00",
+      "amount": "36.00"
+    },
+    {
+      "description": "PALM LEAF M",
+      "quantity": 3,
+      "unit_price": "4.50",
+      "amount": "13.50"
+    },
+    {
+      "description": "ROSE INDIA SUPERIOR",
+      "quantity": 1,
+      "unit_price": "22.00",
+      "amount": "22.00"
+    },
+    {
+      "description": "SUCCULENT L",
+      "quantity": 4,
+      "unit_price": "12.00",
+      "amount": "48.00"
+    }
+  ],
+  "total": "374.20",
+  "tax_amount": "21.18",
+  "service_charge": null
+}

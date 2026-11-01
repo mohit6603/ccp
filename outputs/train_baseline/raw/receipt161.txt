@@ -1,0 +1,23 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "17-02-18",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1181-TMN SRI SINAR",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "483 CARLSBERG CAN 4*6*320ML",
+      "quantity": 4,
+      "unit_price": "106.50",
+      "amount": "106.50"
+    },
+    {
+      "description": "2101 CARLSBERG SMOOTH DRAUG",
+      "quantity": 1,
+      "unit_price": "106.50",
+      "amount": "106.50"
+    }
+  ],
+  "total": "213.00",
+  "tax_amount": "12.06",
+  "service_charge": null
+}

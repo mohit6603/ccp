@@ -1,0 +1,35 @@
+{
+  "company": "MOONLIGHT CAKE HOUSE SDN BHD",
+  "date": "20/06/2018",
+  "address": "No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya 81750 Johor Bahru, Johor",
+  "tax_number": "001559258048",
+  "line_items": [
+    {
+      "description": "T-Butter slice Cheese ##",
+      "quantity": 1,
+      "unit_price": "RM4.15",
+      "amount": "RM4.15"
+    },
+    {
+      "description": "T-Green Tea Mochi ##",
+      "quantity": 1,
+      "unit_price": "RM3.30",
+      "amount": "RM3.30"
+    },
+    {
+      "description": "T-Honey Walnut ##",
+      "quantity": 1,
+      "unit_price": "RM3.70",
+      "amount": "RM3.70"
+    },
+    {
+      "description": "T-Saha Bread ##",
+      "quantity": 1,
+      "unit_price": "RM4.60",
+      "amount": "RM4.60"
+    }
+  ],
+  "total": "14.20",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

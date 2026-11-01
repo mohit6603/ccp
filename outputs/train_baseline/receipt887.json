@@ -1,0 +1,41 @@
+{
+    "company": "Guardian Health And Beauty Sdn Bhd",
+    "date": "16/08/17",
+    "address": "Lot B-005-006, Basement Level 1 The Starling Mall Jalan SS21/60, Damansara Utama.",
+    "tax_number": "0000899874816",
+    "line_items": [
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": 4,
+            "unit_price": "13.78",
+            "amount": "55.12"
+        },
+        {
+            "description": "GDN PLASTIC BAG",
+            "quantity": 1,
+            "unit_price": "0.20",
+            "amount": "0.20"
+        },
+        {
+            "description": "HASK COND335 CHA",
+            "quantity": 1,
+            "unit_price": "39.01",
+            "amount": "39.01"
+        },
+        {
+            "description": "COUNTERPAIN 30G",
+            "quantity": 1,
+            "unit_price": "8.88",
+            "amount": "8.88"
+        },
+        {
+            "description": "SALONPAS 1*10S",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        }
+    ],
+    "total": "108.21",
+    "tax_amount": "6.13",
+    "service_charge": null
+}

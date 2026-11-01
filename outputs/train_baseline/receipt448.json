@@ -1,0 +1,29 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "28-04-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "ALUMINUM FOIL 25SQ# 30CM*7.62M",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        },
+        {
+            "description": "SEKOPLAS H/D GARBAGE 89cm*117cm 10s",
+            "quantity": 5,
+            "unit_price": "9.50",
+            "amount": "47.50"
+        },
+        {
+            "description": "PLASTIC BAGS",
+            "quantity": 1,
+            "unit_price": "0.20",
+            "amount": "0.20"
+        }
+    ],
+    "total": "53.20",
+    "tax_amount": "3.01",
+    "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+    "company": "TRIPLE SIX POINT ENTERPRISE 666",
+    "date": "22-03-2018",
+    "address": "NO 14&16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAYA",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "VS FUJI 500ML",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "APOLLO CAKE ORIGINAL 30S",
+            "quantity": 1,
+            "unit_price": "6.80",
+            "amount": "6.50"
+        },
+        {
+            "description": "TG CASHEW NUTS MIXWD ALMOND SMOKE",
+            "quantity": 1,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "TG COATED COCONUT PEANUTS",
+            "quantity": 1,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        }
+    ],
+    "total": "22.60",
+    "tax_amount": null,
+    "service_charge": null
+}

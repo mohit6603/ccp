@@ -1,0 +1,17 @@
+{
+  "company": "FUYI MINI MARKET",
+  "date": "25/01/2018",
+  "address": "NO 43-45-47G, TAMAN SEJATI, IJOK, 45600 BESTARI JAYA, KUALA SELANGOR.",
+  "tax_number": "001601310720",
+  "line_items": [
+    {
+      "description": "SUMMER CUP 48X230ML",
+      "quantity": 1,
+      "unit_price": "8.49",
+      "amount": "9.00"
+    }
+  ],
+  "total": "9.00",
+  "tax_amount": "0.51",
+  "service_charge": null
+}

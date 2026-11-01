@@ -1,0 +1,23 @@
+{
+    "company": "HUGO TRADING SDN BHD",
+    "date": "13/01/2018",
+    "address": "LOT 8&9, KOMPLEKS PASAR BORONG SELANGOR, 43300 SERI KEMBANGAN, SEL",
+    "tax_number": "001552822272",
+    "line_items": [
+        {
+            "description": "HD 32 X40 1kg",
+            "quantity": 2,
+            "unit_price": "10.38",
+            "amount": "22.00"
+        },
+        {
+            "description": "GB3648-GARBAGE BAG 36x48 1X15",
+            "quantity": 2,
+            "unit_price": "8.87",
+            "amount": "18.80"
+        }
+    ],
+    "total": "40.80",
+    "tax_amount": "2.31",
+    "service_charge": null
+}

@@ -1,0 +1,1 @@
+{"company": "KEDAI PAPAN YEW CHUAN", "date": "06/03/2018", "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.", "tax_number": "000781500416", "line_items": [{"description": "PASIR KASAR (D)", "quantity": 2, "unit_price": "63.60", "amount": "127.20"}], "total": "127.20", "tax_amount": "7.20", "service_charge": null}

@@ -5,27 +5,27 @@
     "tax_number": "001559298048",
     "line_items": [
         {
-            "description": "BUTTER SLICE CHEESE",
+            "description": "T-BUTTER SLICE CHEESE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.15",
             "amount": "4.15"
         },
         {
-            "description": "GREEN TEA MOCHI",
+            "description": "T-GREEN TEA MOCHI",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.30",
             "amount": "3.30"
         },
         {
-            "description": "HONEY WALNUT",
+            "description": "T-HONEY WALNUT",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.70",
             "amount": "3.70"
         },
         {
-            "description": "SAHA BREAD",
+            "description": "T-SAHA BREAD",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.60",
             "amount": "4.60"
         }
     ],

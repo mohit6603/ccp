@@ -1,0 +1,29 @@
+{
+    "company": "YHM Aeon Tebrau City",
+    "date": "11/03/2018",
+    "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+    "tax_number": "002105827328",
+    "line_items": [
+        {
+            "description": "FG-A00019 Green Tea",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "FG-H00001 Kake Udon R",
+            "quantity": 1,
+            "unit_price": "8.80",
+            "amount": "8.80"
+        },
+        {
+            "description": "FG-H00100 Enck1 Tempura",
+            "quantity": 1,
+            "unit_price": "2.80",
+            "amount": "2.80"
+        }
+    ],
+    "total": "13.10",
+    "tax_amount": "0.74",
+    "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "03/01/2018",
+  "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+  "tax_number": "000750673920",
+  "line_items": [
+    {
+      "description": "4\" ROLLER SET",
+      "quantity": 2,
+      "unit_price": "6.89",
+      "amount": "13.78"
+    },
+    {
+      "description": "7LT TOPPLUS EMULSION PAINT",
+      "quantity": 1,
+      "unit_price": "40.28",
+      "amount": "40.28"
+    },
+    {
+      "description": "CEMENT (50KG)",
+      "quantity": 2,
+      "unit_price": "18.02",
+      "amount": "36.04"
+    },
+    {
+      "description": "PLASTIC TRAP (L)",
+      "quantity": 1,
+      "unit_price": "4.77",
+      "amount": "4.77"
+    }
+  ],
+  "total": "94.87",
+  "tax_amount": "5.37",
+  "service_charge": null
+}

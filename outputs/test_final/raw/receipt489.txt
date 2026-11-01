@@ -1,0 +1,1 @@
+{"company": "SANYU STATIONERY SHOP", "date": "21/03/2017", "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM", "tax_number": "001531760640", "line_items": [{"description": "POM POM (M-2314)", "quantity": 2, "unit_price": "5.0000", "amount": "10.00"}], "total": "10.00", "tax_amount": "0.57", "service_charge": null}

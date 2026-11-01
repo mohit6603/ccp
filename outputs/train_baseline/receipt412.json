@@ -1,0 +1,17 @@
+{
+    "company": "Kedai Uhat Dan Runcit CHONG HWA",
+    "date": "Oct 3, 2016",
+    "address": "3, Jalan Perdana 5, Taman Indah Perdana, Kepong, 52100 KL.",
+    "tax_number": "001379917824",
+    "line_items": [
+        {
+            "description": "Liquid Medicine",
+            "quantity": 1,
+            "unit_price": "33.90",
+            "amount": "33.90"
+        }
+    ],
+    "total": "33.90",
+    "tax_amount": "1.92",
+    "service_charge": null
+}

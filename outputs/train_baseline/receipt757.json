@@ -1,0 +1,53 @@
+{
+    "company": "PRINT EXPERT SDN BHD",
+    "date": "19/03/2018",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "tax_number": "000886677504",
+    "line_items": [
+        {
+            "description": "BANNER 8X4FEET",
+            "quantity": 1,
+            "unit_price": "28.58",
+            "amount": "28.58"
+        },
+        {
+            "description": "DESIGN BANNER",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "BUSINESS SPOT UV",
+            "quantity": 1,
+            "unit_price": "159.00",
+            "amount": "159.00"
+        },
+        {
+            "description": "DIE-CUT TRANSPARENT PFI0",
+            "quantity": 1,
+            "unit_price": "11.98",
+            "amount": "119.78"
+        },
+        {
+            "description": "DESIGN STICKER",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "T SHIRT PRINTING",
+            "quantity": 5,
+            "unit_price": "11.13",
+            "amount": "55.65"
+        },
+        {
+            "description": "DEPOSIT (CS00530344)",
+            "quantity": 1,
+            "unit_price": "-200.00",
+            "amount": "-200.00"
+        }
+    ],
+    "total": "226.60",
+    "tax_amount": "12.83",
+    "service_charge": null
+}

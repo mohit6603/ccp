@@ -1,0 +1,23 @@
+{
+    "company": "PETRODELI ENTERPRISE",
+    "date": "26/02/18",
+    "address": "LOT 485, TMN LEMBAH KERAMAT JLN ULU KELANG 54200 KUALA LUMPUR",
+    "tax_number": "000145047552",
+    "line_items": [
+        {
+            "description": "39.42 litre Pump # 09",
+            "quantity": 39.42,
+            "unit_price": "85.54",
+            "amount": "85.54"
+        },
+        {
+            "description": "FuelSave 95",
+            "quantity": null,
+            "unit_price": "2.170",
+            "amount": "85.54"
+        }
+    ],
+    "total": "85.54",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

@@ -3,7 +3,14 @@
     "date": "28/12/2017",
     "address": "NO. 12 & 14, JALAN JINJANG 27/54 TAMAN ALAM MEGAH, SEKSYEN 27 40400 SHAH ALAM, SELANGOR D.E.",
     "tax_number": "001729572864",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "CRE ASTAR LAMINATING FILM A4 100STS",
+            "quantity": 1,
+            "unit_price": "42.16",
+            "amount": "42.40"
+        }
+    ],
     "total": "38.15",
     "tax_amount": "2.16",
     "service_charge": null

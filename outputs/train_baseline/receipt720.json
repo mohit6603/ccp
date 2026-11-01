@@ -1,0 +1,17 @@
+{
+    "company": "BAKALIMA SDN BHD",
+    "date": "14/03/18",
+    "address": "102 Jln Banting-Dengkil 43800 Dengkil Selangor",
+    "tax_number": "001803714560",
+    "line_items": [
+        {
+            "description": "40.49 litre Pump # 04",
+            "quantity": 40.49,
+            "unit_price": "2.470",
+            "amount": "100.00"
+        }
+    ],
+    "total": "100.00",
+    "tax_amount": "5.66",
+    "service_charge": null
+}

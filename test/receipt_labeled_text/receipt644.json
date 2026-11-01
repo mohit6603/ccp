@@ -5,19 +5,19 @@
     "tax_number": "000436699136",
     "line_items": [
         {
-            "description": "NY STRIP MEDIUM WELL",
+            "description": "NY STRIP",
             "quantity": 1,
             "unit_price": null,
             "amount": "67.67"
         },
         {
-            "description": "NY STRIP MEDIUM",
+            "description": "NY STRIP",
             "quantity": 1,
             "unit_price": null,
             "amount": "67.67"
         },
         {
-            "description": "NY STRIP MEDIUM WELL",
+            "description": "NY STRIP",
             "quantity": 1,
             "unit_price": null,
             "amount": "67.67"

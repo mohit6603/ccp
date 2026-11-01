@@ -3,7 +3,14 @@
     "date": "28-FEB-2018",
     "address": "LOT G18 & G19, JLN 8/27A WANGSA MAJU (AEON BIG SHOPPING CENTER) 53300 KUALA LUMPUR",
     "tax_number": "000689004544",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "1PCS MEASUREMENTTAPE 714WH",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "4.10"
+        }
+    ],
     "total": "4.10",
     "tax_amount": "0.23",
     "service_charge": null

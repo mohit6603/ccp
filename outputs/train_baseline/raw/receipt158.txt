@@ -1,0 +1,17 @@
+{
+  "company": "FUN N CHEER (MALURI)",
+  "date": "05/01/2018",
+  "address": "LOT 37636,JALAN 6/37A, TAMAN BUKIT MALURI, 52100 KUALA LUMPUR",
+  "tax_number": "001439154176",
+  "line_items": [
+    {
+      "description": "KAIN BEBOLA(S)SHA BU",
+      "quantity": 2,
+      "unit_price": "14.90",
+      "amount": "29.80"
+    }
+  ],
+  "total": "29.80",
+  "tax_amount": "1.69",
+  "service_charge": null
+}

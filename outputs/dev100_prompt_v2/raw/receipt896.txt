@@ -1,0 +1,41 @@
+{
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "10 May 2018",
+  "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi 81200 Johor Bahru,Johor",
+  "tax_number": "0000656195584",
+  "line_items": [
+    {
+      "description": "Herbal Tea (iced)",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "$2.00"
+    },
+    {
+      "description": "Rice (S)",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "$0.50"
+    },
+    {
+      "description": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "$1.60"
+    },
+    {
+      "description": "Add Chicken",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "$3.70"
+    },
+    {
+      "description": "3 Vge",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "$4.40"
+    }
+  ],
+  "total": "12.20",
+  "tax_amount": "0.69",
+  "service_charge": null
+}

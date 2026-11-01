@@ -1,0 +1,23 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "10-05-17",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "355 CRISPI ROLL 12 GRAIN SE",
+      "quantity": null,
+      "unit_price": "6.85",
+      "amount": "6.85"
+    },
+    {
+      "description": "9413 CS 1002 A5 H/COVER NOT",
+      "quantity": null,
+      "unit_price": "4.65",
+      "amount": "4.65"
+    }
+  ],
+  "total": "11.50",
+  "tax_amount": "0.65",
+  "service_charge": null
+}

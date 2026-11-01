@@ -1,0 +1,35 @@
+{
+    "company": "OWNER BY CASTLE BLUE S/B",
+    "date": "30/03/2018",
+    "address": "AVTIVO PLAZA,LOT B-F-11, BLOCK B NO1,JALAN PJU 9/1,D'SARA AVEVUE BANDAR SRI D'SARA, 52000 KL",
+    "tax_number": "002108047360",
+    "line_items": [
+        {
+            "description": "TIGER 2 BUCKET - HH",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "95.00"
+        },
+        {
+            "description": "CHICKEN WINGS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "22.00"
+        },
+        {
+            "description": "FRENCH FRIES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.00"
+        },
+        {
+            "description": "TIGER BUCKET- HH",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "50.00"
+        }
+    ],
+    "total": "189.75",
+    "tax_amount": "10.74",
+    "service_charge": null
+}

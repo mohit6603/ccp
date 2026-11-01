@@ -1,0 +1,29 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "24-03-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "WHITE CABLE TIE 4*200MM(8')",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "WHITE CABLE TIE 5*250",
+            "quantity": 1,
+            "unit_price": "6.50",
+            "amount": "6.50"
+        },
+        {
+            "description": "HOSE PUMP C88351#",
+            "quantity": 1,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        }
+    ],
+    "total": "12.30",
+    "tax_amount": "0.70",
+    "service_charge": null
+}

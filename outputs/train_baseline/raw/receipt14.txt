@@ -1,0 +1,17 @@
+{
+  "company": "RESTORAN HASSANBISTRO",
+  "date": "12/28/2017",
+  "address": "NO.2-1-1 JALAN SETIA PRIMA 0 U 13/0 SETIA ALAM 40170 SHAH ALAM SELANGOR",
+  "tax_number": null,
+  "line_items": [
+    {
+      "description": "MAKANAN",
+      "quantity": 1,
+      "unit_price": "15.00",
+      "amount": "15.00"
+    }
+  ],
+  "total": "15.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

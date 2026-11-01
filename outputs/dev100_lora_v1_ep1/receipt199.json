@@ -1,0 +1,29 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "17-03-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "STUDENT SOCKS 3PCS BK",
+            "quantity": 1,
+            "unit_price": "9.50",
+            "amount": "9.50"
+        },
+        {
+            "description": "BELT 5202-3#VS",
+            "quantity": 1,
+            "unit_price": "22.90",
+            "amount": "22.90"
+        },
+        {
+            "description": "PVC MAN PPER 969 (BK)",
+            "quantity": 1,
+            "unit_price": "10.50",
+            "amount": "10.50"
+        }
+    ],
+    "total": "42.90",
+    "tax_amount": "2.43",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+  "company": "TSH POWER HARDWARE TRADING",
+  "date": "10/10/2017",
+  "address": "13-1, Jalan PJU 5/10, Dataran Sunway, Kota Damansara, 47810, Petaling Jaya, Selangor",
+  "tax_number": "000460664832",
+  "line_items": [
+    {
+      "description": "1 MAJESTA HSS JOBBER DRILLS 3.5MM",
+      "quantity": 2,
+      "unit_price": "4.00",
+      "amount": "8.00"
+    }
+  ],
+  "total": "8.00",
+  "tax_amount": "0.45",
+  "service_charge": "0.00"
+}

@@ -1,0 +1,23 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "28-03-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "COPPER BASIN PILLAR TAP B",
+            "quantity": 1,
+            "unit_price": "29.90",
+            "amount": "29.90"
+        },
+        {
+            "description": "PADLOCK ST-P6140 40MM",
+            "quantity": 1,
+            "unit_price": "8.90",
+            "amount": "8.90"
+        }
+    ],
+    "total": "38.80",
+    "tax_amount": "2.20",
+    "service_charge": null
+}

@@ -3,7 +3,20 @@
     "date": "22 MAR 18",
     "address": "SRI RAMPAI",
     "tax_number": "000801587200",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "ST30",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.87"
+        },
+        {
+            "description": "HS4",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.07"
+        }
+    ],
     "total": "30.25",
     "tax_amount": "1.71",
     "service_charge": "2.59"

@@ -1,0 +1,17 @@
+{
+    "company": "MyMydin Subang Bestari 2300",
+    "date": "15/01/2018",
+    "address": "No 13, 15, 17 & 19 Jalan Nova Q U5/Q, Seksyen U5,Subang Bestari 40150 Shah Ala Selangor Darul Ehsan",
+    "tax_number": "001400971264",
+    "line_items": [
+        {
+            "description": "EVERREADY BAT S/H/D 1212BP4 AAAEA",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        }
+    ],
+    "total": "5.50",
+    "tax_amount": "0.31",
+    "service_charge": null
+}

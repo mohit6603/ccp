@@ -1,0 +1,23 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "30-04-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "LAVA FOOD CONTAINER FC202 500ML",
+            "quantity": 1,
+            "unit_price": "1.80",
+            "amount": "1.80"
+        },
+        {
+            "description": "LAVA CANISTER CST7700 530ML",
+            "quantity": 2,
+            "unit_price": "1.60",
+            "amount": "3.20"
+        }
+    ],
+    "total": "5.00",
+    "tax_amount": "0.28",
+    "service_charge": null
+}

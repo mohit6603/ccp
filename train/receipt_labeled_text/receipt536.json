@@ -3,7 +3,14 @@
     "date": "24/06/2018",
     "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39, 47400 PETALING JAYA SELANGOR",
     "tax_number": "000504664064",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "L 9NUGGETS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.80"
+        }
+    ],
     "total": "12.80",
     "tax_amount": "0.00",
     "service_charge": null

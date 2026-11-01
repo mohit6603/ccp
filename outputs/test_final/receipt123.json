@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "12/02/2018",
+    "address": "NO 290, JALAN AIR PANAS. SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "NAIL (PER/PACK) - RM5",
+            "quantity": 1,
+            "unit_price": "5.30",
+            "amount": "5.30"
+        }
+    ],
+    "total": "5.30",
+    "tax_amount": "0.30",
+    "service_charge": null
+}

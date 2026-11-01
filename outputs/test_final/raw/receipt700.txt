@@ -1,0 +1,1 @@
+{"company": "TS TOOLS HARDWARE & MACHINERY SDN BHD", "date": "21/03/2018", "address": "59, JALAN BANDAR SATU, PUSAT BANDAR PUCHONG 47160, PUCHONG, SELANGOR", "tax_number": "000761802752", "line_items": [{"description": "(UNIT) 29#SAMURAI SPRAY PAINT", "quantity": 1, "unit_price": "7.00", "amount": "7.00"}], "total": "7.40", "tax_amount": "0.42", "service_charge": null}

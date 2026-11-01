@@ -1,0 +1,17 @@
+{
+  "company": "FARMASI LIGAMAS",
+  "date": "20/05/2018",
+  "address": "NO. 47. JALAN MERANTI 1A, BANDAR BARU UTAMA, 44300 BATANG KALI, SELANGOR.",
+  "tax_number": "001805213696",
+  "line_items": [
+    {
+      "description": "NON WOWEN 3 PLY FACE MASK EAR LOOP 50'S",
+      "quantity": "1",
+      "unit_price": "25.00",
+      "amount": "25.00"
+    }
+  ],
+  "total": "25.00",
+  "tax_amount": "1.42",
+  "service_charge": null
+}

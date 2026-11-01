@@ -1,0 +1,17 @@
+{
+  "company": "MR. D.I.Y. SDN BHD",
+  "date": "24-11-17",
+  "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+  "tax_number": "001092886528",
+  "line_items": [
+    {
+      "description": "BATTERY LR03-4B AAA 4 PCS",
+      "quantity": 1,
+      "unit_price": "3.90",
+      "amount": "3.90"
+    }
+  ],
+  "total": "3.90",
+  "tax_amount": "0.22",
+  "service_charge": null
+}

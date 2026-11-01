@@ -1,0 +1,23 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "11 Jun 2018 18:32",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "GST REG #000656195584",
+    "line_items": [
+        {
+            "description": "SR 100100000015- Vegetable",
+            "quantity": 4,
+            "unit_price": "RM1.03",
+            "amount": "RM4.12"
+        },
+        {
+            "description": "SR 100100000056-Fried Noodle (S)",
+            "quantity": 1,
+            "unit_price": "RM1.88",
+            "amount": "RM1.88"
+        }
+    ],
+    "total": "RM6.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

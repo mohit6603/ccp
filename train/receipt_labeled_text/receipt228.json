@@ -3,7 +3,14 @@
     "date": "21/03/2018",
     "address": "UNIT G-5B, GROUND FLOOR, WISMA UOA II, NO 21, JALAN PINANG, 50450 KUALA LUMPUR, MALAYSIA",
     "tax_number": "002121732096",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "A4 BW SIMILI 80GSM",
+            "quantity": 7,
+            "unit_price": "1.00",
+            "amount": "7.42"
+        }
+    ],
     "total": "7.40",
     "tax_amount": "0.42",
     "service_charge": null

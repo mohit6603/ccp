@@ -1,0 +1,35 @@
+{
+    "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+    "date": "21/05/2018",
+    "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "NASI MCD AGSPI &TELUR SET",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "14.95"
+        },
+        {
+            "description": "L NASI LEMAK BURGER",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.55"
+        },
+        {
+            "description": "NASI MCD AGSPI SET",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "25.90"
+        },
+        {
+            "description": "AYAMGRGSPICY(TA)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.90"
+        }
+    ],
+    "total": "70.30",
+    "tax_amount": "3.98",
+    "service_charge": null
+}

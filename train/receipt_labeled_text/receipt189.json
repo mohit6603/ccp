@@ -3,7 +3,38 @@
     "date": "02-03-18",
     "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "000306020352",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "PILLAR SINK TAP",
+            "quantity": 2,
+            "unit_price": "23.90",
+            "amount": "47.80"
+        },
+        {
+            "description": "SHIELDTOX FIK 600ML MP",
+            "quantity": 1,
+            "unit_price": "8.90",
+            "amount": "8.90"
+        },
+        {
+            "description": "SPONGE KOREA-2S",
+            "quantity": 4,
+            "unit_price": "3.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "PLASTIC BAGS",
+            "quantity": 1,
+            "unit_price": "0.20",
+            "amount": "0.20"
+        },
+        {
+            "description": "VANCE LIGHTER -1S VT02",
+            "quantity": 5,
+            "unit_price": "0.60",
+            "amount": "3.00"
+        }
+    ],
     "total": "71.90",
     "tax_amount": "4.07",
     "service_charge": null

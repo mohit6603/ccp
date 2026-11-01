@@ -1,0 +1,29 @@
+{
+    "company": "the Roti man bakery",
+    "date": "04-05-2013",
+    "address": "117, Jalan Radin Bagus, Sri Petaling",
+    "tax_number": "000232065280",
+    "line_items": [
+        {
+            "description": "Bacon",
+            "quantity": null,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        },
+        {
+            "description": "Walnut Raisin",
+            "quantity": null,
+            "unit_price": "8.60",
+            "amount": "8.60"
+        },
+        {
+            "description": "Dark Rye Bun",
+            "quantity": null,
+            "unit_price": "6.90",
+            "amount": "6.90"
+        }
+    ],
+    "total": "20.40",
+    "tax_amount": null,
+    "service_charge": null
+}

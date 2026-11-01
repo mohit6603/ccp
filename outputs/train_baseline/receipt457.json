@@ -1,0 +1,17 @@
+{
+    "company": "AMPHAWA THAI TEA & CO.",
+    "date": "11/05/2018",
+    "address": "PARADIGM MALL LOT NO.: 4F-27 & 4FK-38, 4TH FLOOR",
+    "tax_number": "000070721264",
+    "line_items": [
+        {
+            "description": "MO3. THAI MILK TEA - CHA YEN",
+            "quantity": "1",
+            "unit_price": "8.90",
+            "amount": "8.90"
+        }
+    ],
+    "total": "9.45",
+    "tax_amount": "0.53",
+    "service_charge": "0.00"
+}

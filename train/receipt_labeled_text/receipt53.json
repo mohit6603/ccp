@@ -3,7 +3,20 @@
     "date": "20/03/2018",
     "address": "18,JALAN PERMAS 10/7 BANDAR BARU PERMAS JAYA, MASAI,JOHOR",
     "tax_number": "000433614848",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "干炒海鲜河粉",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "豆奶仙草",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        }
+    ],
     "total": "13.80",
     "tax_amount": "0.78",
     "service_charge": "0.00"

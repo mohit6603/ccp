@@ -1,0 +1,1 @@
+{"company": "ROYALTEA", "date": "02/06/2018", "address": "NO.33 , JALAN SELADANG TAMAN ABAD, 80250 JOHOR BAHRU, JOHOR,MALAYSIA.", "tax_number": "000000241664", "line_items": [{"description": "CHEESE MATCHA", "quantity": 1, "unit_price": null, "amount": "13.10"}], "total": "13.10", "tax_amount": "0.00", "service_charge": null}

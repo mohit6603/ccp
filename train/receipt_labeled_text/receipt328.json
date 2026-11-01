@@ -23,7 +23,7 @@
             "amount": "5.94"
         },
         {
-            "description": "CR-CHOCL I",
+            "description": "CR-CHOCLT",
             "quantity": -8,
             "unit_price": "0.72",
             "amount": "-5.76"
@@ -36,6 +36,6 @@
         }
     ],
     "total": "20.21",
-    "tax_amount": null,
+    "tax_amount": "-1.07",
     "service_charge": null
 }

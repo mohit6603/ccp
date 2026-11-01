@@ -1,0 +1,23 @@
+{
+    "company": "RESTORAN WAN SHENG",
+    "date": "19-03-2018",
+    "address": "NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "tax_number": "001335787520",
+    "line_items": [
+        {
+            "description": "MILO (B)",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        },
+        {
+            "description": "TAKE AWAY",
+            "quantity": 2,
+            "unit_price": "0.20",
+            "amount": "0.40"
+        }
+    ],
+    "total": "6.00",
+    "tax_amount": "0.34",
+    "service_charge": null
+}

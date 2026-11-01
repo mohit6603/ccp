@@ -1,0 +1,1 @@
+{"company": "KING'S CONFECTIONERY S/B", "date": "09/02/17", "address": "NO. 20-A1, JALAN SS6/3, KELANA JAYA, 47301 PETALING JAYA SELANGOR D.E.", "tax_number": "000294060032", "line_items": [{"description": "FRENCH LO", "quantity": 8, "unit_price": "2.40", "amount": "19.20"}], "total": "19.20", "tax_amount": "1.09", "service_charge": null}

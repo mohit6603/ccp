@@ -5,7 +5,7 @@
     "tax_number": "000656195584",
     "line_items": [
         {
-            "description": "MEAT + 3 VEGE",
+            "description": "1 MEAT + 3 VEGE",
             "quantity": 1,
             "unit_price": "7.10",
             "amount": "7.10"

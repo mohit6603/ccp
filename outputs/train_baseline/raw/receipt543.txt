@@ -1,0 +1,35 @@
+{
+  "company": "RESTORAN WAN SHENG",
+  "date": "09-04-2018",
+  "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+  "tax_number": "001335787520",
+  "line_items": [
+    {
+      "description": "Teh (B)",
+      "quantity": 1,
+      "unit_price": "2.20",
+      "amount": "2.20"
+    },
+    {
+      "description": "Cham (B)",
+      "quantity": 1,
+      "unit_price": "2.20",
+      "amount": "2.20"
+    },
+    {
+      "description": "Herbal Tea",
+      "quantity": 2,
+      "unit_price": "1.70",
+      "amount": "3.40"
+    },
+    {
+      "description": "Take Away",
+      "quantity": 4,
+      "unit_price": "0.20",
+      "amount": "0.80"
+    }
+  ],
+  "total": "8.60",
+  "tax_amount": "0.49",
+  "service_charge": null
+}

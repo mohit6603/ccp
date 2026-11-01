@@ -5,7 +5,7 @@
     "tax_number": "000750673920",
     "line_items": [
         {
-            "description": "NAIL (PER/PACK)",
+            "description": "NAIL (PER/PACK) - RM5",
             "quantity": 1,
             "unit_price": "5.30",
             "amount": "5.30"

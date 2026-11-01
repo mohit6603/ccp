@@ -1,0 +1,17 @@
+{
+    "company": "Dion Realities Sdn Bhd (Co. No:20154-T)",
+    "date": "30/05/18",
+    "address": "Menara Dion #02-03, Level 2, 27, Jalan Sultan Ismail, 50250 Kuala Lumpur.",
+    "tax_number": "000850247680",
+    "line_items": [
+        {
+            "description": "010100 Pay parking ticket",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        }
+    ],
+    "total": "5.00",
+    "tax_amount": "0.28",
+    "service_charge": null
+}

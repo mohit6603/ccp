@@ -1,0 +1,17 @@
+{
+    "company": "PASARAYA BORONG PINTAR SDN BHD",
+    "date": "14/03/2018",
+    "address": "NO 19-G& 19-18 & 19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "GB CR-CORN",
+            "quantity": 1,
+            "unit_price": "0.90",
+            "amount": "0.90"
+        }
+    ],
+    "total": "0.90",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

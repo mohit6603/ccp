@@ -1,0 +1,17 @@
+{
+  "company": "FamilyMart",
+  "date": "20/04/2018",
+  "address": "16A, Jalan Astaka U8/83, Bukit Jelutong 40150 Shah Alam, Selangor D.E.",
+  "tax_number": "000468594688",
+  "line_items": [
+    {
+      "description": "Spritzer H/Water 1.5l ea",
+      "quantity": 1,
+      "unit_price": "3.70",
+      "amount": "3.70"
+    }
+  ],
+  "total": "3.70",
+  "tax_amount": "0.21",
+  "service_charge": null
+}

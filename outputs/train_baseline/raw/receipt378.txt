@@ -1,0 +1,71 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "14-12-16",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1320-TMN BATU",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "5422 MI SEDAAP MI GORENG AS",
+      "quantity": null,
+      "unit_price": "RM3.79",
+      "amount": "RM3.79"
+    },
+    {
+      "description": "0155 TWISTIES CHIPSTER ORIG",
+      "quantity": null,
+      "unit_price": "RM2.85",
+      "amount": "RM2.85"
+    },
+    {
+      "description": "0954 MISTER POTATO BBQ (B)",
+      "quantity": null,
+      "unit_price": "RM4.90",
+      "amount": "RM4.90"
+    },
+    {
+      "description": "02 X RM 2.45",
+      "quantity": 2,
+      "unit_price": "RM 2.45",
+      "amount": "RM4.90"
+    },
+    {
+      "description": "5588 EAGLE FRIED DACE WT SA",
+      "quantity": null,
+      "unit_price": "RM13.98",
+      "amount": "RM13.98"
+    },
+    {
+      "description": "02 X RM 6.99",
+      "quantity": 2,
+      "unit_price": "RM 6.99",
+      "amount": "RM13.98"
+    },
+    {
+      "description": "183 PLANTA MARJERIN 240G",
+      "quantity": null,
+      "unit_price": "RM5.20",
+      "amount": "RM5.20"
+    },
+    {
+      "description": "507 COKE 1.5L",
+      "quantity": null,
+      "unit_price": "RM5.98",
+      "amount": "RM5.98"
+    },
+    {
+      "description": "02 X RM 2.99",
+      "quantity": 2,
+      "unit_price": "RM 2.99",
+      "amount": "RM5.98"
+    },
+    {
+      "description": "5725 CAP TAKRAW BERAS SUPER",
+      "quantity": null,
+      "unit_price": "RM24.95",
+      "amount": "RM24.95"
+    }
+  ],
+  "total": "61.65",
+  "tax_amount": "2.08",
+  "service_charge": null
+}

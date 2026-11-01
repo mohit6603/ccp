@@ -3,7 +3,26 @@
     "date": "18/01/2018",
     "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
     "tax_number": "000504664064",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "CHICMCMUFFIN",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "11.00"
+        },
+        {
+            "description": "M PORRIDGE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.60"
+        },
+        {
+            "description": "BM 2HOTCAKES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.00"
+        }
+    ],
     "total": "26.60",
     "tax_amount": "1.51",
     "service_charge": null

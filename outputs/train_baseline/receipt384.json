@@ -1,0 +1,47 @@
+{
+    "company": "Guardian Health And Beauty Sdn Bhd",
+    "date": "11/02/16",
+    "address": "First World Theme Park Lot F/L2A.4, Level 2A First World Plaza, First World",
+    "tax_number": "0000899874816",
+    "line_items": [
+        {
+            "description": "2X 2.20",
+            "quantity": 2,
+            "unit_price": "2.20",
+            "amount": "4.40"
+        },
+        {
+            "description": "0092000 GDN WATER 500ML",
+            "quantity": 1,
+            "unit_price": "4.40",
+            "amount": "4.40"
+        },
+        {
+            "description": "PRICE OVERRIDE",
+            "quantity": 1,
+            "unit_price": "1.84",
+            "amount": "1.84"
+        },
+        {
+            "description": "GDN WATER 500ML",
+            "quantity": 1,
+            "unit_price": "1.84",
+            "amount": "1.84"
+        },
+        {
+            "description": "Reason Code:3",
+            "quantity": 1,
+            "unit_price": "1.84",
+            "amount": "1.84"
+        },
+        {
+            "description": "SUBTOTAL",
+            "quantity": 1,
+            "unit_price": "2.56",
+            "amount": "2.56"
+        }
+    ],
+    "total": "2.56",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

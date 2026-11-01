@@ -1,0 +1,77 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "11-05-16",
+  "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1605-TMN SRI BINTANG",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "967 ANCHOR SERBUK CUCI 4KG",
+      "quantity": 2,
+      "unit_price": "9.40",
+      "amount": "18.80"
+    },
+    {
+      "description": "886 DOVE CREAM BAR SOAP 100",
+      "quantity": 10,
+      "unit_price": "2.65",
+      "amount": "26.50"
+    },
+    {
+      "description": "5551 FERNLEAF FULL CRM MILK",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "40.95"
+    },
+    {
+      "description": "2267 COLGATE GREAT REGULAR",
+      "quantity": 2,
+      "unit_price": "7.99",
+      "amount": "15.98"
+    },
+    {
+      "description": "265 LEE KUM KEE SOS TIRAM C",
+      "quantity": 3,
+      "unit_price": "7.60",
+      "amount": "22.80"
+    },
+    {
+      "description": "193 CHEONG CHAN SOS KARAMEL",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "5.09"
+    },
+    {
+      "description": "2394 MISTER POTATO CHIPS BB",
+      "quantity": 2,
+      "unit_price": "3.95",
+      "amount": "7.90"
+    },
+    {
+      "description": "8019 MARIGOLD HL MILK 1L",
+      "quantity": 2,
+      "unit_price": "6.35",
+      "amount": "12.70"
+    },
+    {
+      "description": "706 BINTANG TEPUNG JAGUNG 4",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "1.35"
+    },
+    {
+      "description": "2216 NUTELLA FERRERO HAZELN",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "14.65"
+    },
+    {
+      "description": "9547 NUTRIPUS CHEESE CHICK",
+      "quantity": 2,
+      "unit_price": "5.25",
+      "amount": "10.50"
+    }
+  ],
+  "total": "177.20",
+  "tax_amount": "10.03",
+  "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+  "company": "Yam Fresh",
+  "date": "2016-07-31",
+  "address": "No.145G, Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+  "tax_number": "001817907200",
+  "line_items": [
+    {
+      "description": "208 Yam Fresh Signature-C :1 :Milk",
+      "quantity": 1,
+      "unit_price": "7.90",
+      "amount": "7.90"
+    }
+  ],
+  "total": "8.35",
+  "tax_amount": "0.47",
+  "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "03/04/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA AMPANG POINT CENTRE",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "MAX HD-10K STAPLER",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.30"
+        }
+    ],
+    "total": "7.30",
+    "tax_amount": "0.41",
+    "service_charge": null
+}

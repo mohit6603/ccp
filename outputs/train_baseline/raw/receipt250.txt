@@ -1,0 +1,29 @@
+{
+  "company": "TIMES BOOKSTORES",
+  "date": "23/04/2017",
+  "address": "LOT F21 & 22, CITTA MALL NO 1, JLN PJU 19/4",
+  "tax_number": "000423100416",
+  "line_items": [
+    {
+      "description": "PILOT 8P-1RT BALLPOINT PE",
+      "quantity": 1,
+      "unit_price": "1.41",
+      "amount": "1.49"
+    },
+    {
+      "description": "PILOT FUDE MAKASE BRUSH P",
+      "quantity": 1,
+      "unit_price": "5.56",
+      "amount": "5.99"
+    },
+    {
+      "description": "PILOT H.PENCIL 5.GRIP OSH",
+      "quantity": 1,
+      "unit_price": "4.71",
+      "amount": "4.99"
+    }
+  ],
+  "total": "12.37",
+  "tax_amount": "0.69",
+  "service_charge": null
+}

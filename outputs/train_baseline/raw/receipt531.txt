@@ -1,0 +1,131 @@
+{
+  "company": "GRANDMA HOMES RESTAURANT",
+  "date": "13/06/2018",
+  "address": "NO. 3 & 5, JALAN PERMAS 11, BANDAR BARU PERMAS JAYA, 81750 MASAI, JOHOR",
+  "tax_number": "JMO840871-W",
+  "line_items": [
+    {
+      "description": "4",
+      "quantity": 4,
+      "unit_price": "3.50",
+      "amount": "14.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "8.00",
+      "amount": "8.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "34.00",
+      "amount": "34.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "35.00",
+      "amount": "35.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "28.00",
+      "amount": "28.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "12.90",
+      "amount": "12.90"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "108.00",
+      "amount": "108.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "85.00",
+      "amount": "85.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "52.00",
+      "amount": "52.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "24.00",
+      "amount": "24.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "12.90",
+      "amount": "12.90"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "4.50",
+      "amount": "4.50"
+    },
+    {
+      "description": "2",
+      "quantity": 2,
+      "unit_price": "17.50",
+      "amount": "35.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "1",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    }
+  ],
+  "total": "473.30",
+  "tax_amount": "0.00",
+  "service_charge": "0.00"
+}

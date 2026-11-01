@@ -3,7 +3,14 @@
     "date": "22-04-16",
     "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "000473792512",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "STORAGE BOX 70581",
+            "quantity": 1,
+            "unit_price": "12.50",
+            "amount": "12.50"
+        }
+    ],
     "total": "12.50",
     "tax_amount": "0.71",
     "service_charge": null

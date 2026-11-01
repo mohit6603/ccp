@@ -1,0 +1,29 @@
+{
+  "company": "BEMED (SP) SDN. BHD.",
+  "date": "15/Apr/2017",
+  "address": "No.49, Jalan Dinar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+  "tax_number": "001734164480",
+  "line_items": [
+    {
+      "description": "PRISTIN OMEGA-3 FISH OIL 2X150'S(VIP)",
+      "quantity": 1,
+      "unit_price": "300.00",
+      "amount": "300.00"
+    },
+    {
+      "description": "ALPHA LIPID LIFE LINE 450MG 450G",
+      "quantity": 2,
+      "unit_price": "165.00",
+      "amount": "330.00"
+    },
+    {
+      "description": "80-(DERMAPRO OINT) 15G",
+      "quantity": 1,
+      "unit_price": "5.00",
+      "amount": "5.00"
+    }
+  ],
+  "total": "635.00",
+  "tax_amount": "35.00",
+  "service_charge": null
+}

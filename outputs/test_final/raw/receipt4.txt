@@ -1,0 +1,1 @@
+{"company": "YONGFATT ENTERPRISE", "date": "25/12/2018", "address": "NO 122,124, JALAN DEDAP 13, 81100 JOHOR BAHRU", "tax_number": "000849813504", "line_items": [{"description": "ELEGANT SOCH TR BAG 15", "quantity": 1, "unit_price": "80.91", "amount": "80.91"}], "total": "80.90", "tax_amount": "0.00", "service_charge": null}

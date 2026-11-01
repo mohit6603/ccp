@@ -5,13 +5,13 @@
     "tax_number": "002006163456",
     "line_items": [
         {
-            "description": "FOMEC\"S LUCKY BLESSINGS",
+            "description": "FOMEC'S LUCKY BLESSINGS",
             "quantity": 5,
             "unit_price": "108.00",
             "amount": "540.00"
         },
         {
-            "description": "FOMEC\"S GIFT OF HAPPINESS",
+            "description": "FOMEC'S GIFT OF HAPPINESS",
             "quantity": 2,
             "unit_price": "68.00",
             "amount": "136.00"

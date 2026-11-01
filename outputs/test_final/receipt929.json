@@ -1,0 +1,17 @@
+{
+    "company": "SUPER NINETY NINE SDN.BHD.",
+    "date": "31/05/2018",
+    "address": "NO.3343, GROUND FLOOR, JALAN 18/32, TAMAN SRI SERDANQ, 43300 SERI KEMBANGAN, 603-9545 1212",
+    "tax_number": "001428234240",
+    "line_items": [
+        {
+            "description": "SR RED POLE",
+            "quantity": 1,
+            "unit_price": "2.99",
+            "amount": "2.99"
+        }
+    ],
+    "total": "3.00",
+    "tax_amount": "0.17",
+    "service_charge": null
+}

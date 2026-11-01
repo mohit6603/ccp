@@ -1,9 +1,82 @@
 {
     "company": "AEON CO. (M) BHD.",
     "date": "28/02/2018",
-    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS ,55100 KUALA LUMPUR",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
     "tax_number": "002017394688",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "V-CHOR FRA",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.90"
+        },
+        {
+            "description": "CE 13312 LONG H",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.45"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "LIDI BROOM W/P",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.10"
+        },
+        {
+            "description": "E-71/MP WATER D",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.90"
+        },
+        {
+            "description": "UNICORN 24MMX",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.90"
+        },
+        {
+            "description": "SW CE3914B NYL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.30"
+        },
+        {
+            "description": "18MMX1 WHITE D",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.50"
+        },
+        {
+            "description": "CABLE BOX",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.90"
+        },
+        {
+            "description": "PLASTICS BAG",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "0.20"
+        }
+    ],
     "total": "88.95",
     "tax_amount": "5.04",
     "service_charge": null

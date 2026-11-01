@@ -1,0 +1,41 @@
+{
+  "company": "Guardian Health And Beauty Sdn Bhd",
+  "date": "19/05/18",
+  "address": "Jalan Loke Yew Bentong 90 Ground Floor Jalan Bentong",
+  "tax_number": "1000899874816",
+  "line_items": [
+    {
+      "description": "121093307 G BX TISSU 4X150",
+      "quantity": 2,
+      "unit_price": "6.88",
+      "amount": "13.76"
+    },
+    {
+      "description": "121087265 HK BX TISS PO4",
+      "quantity": 1,
+      "unit_price": "13.76",
+      "amount": "13.76"
+    },
+    {
+      "description": "121095623 GDN CMINT H/WASHP3",
+      "quantity": 1,
+      "unit_price": "12.90",
+      "amount": "12.90"
+    },
+    {
+      "description": "121096057 GDN KTC H LILY500ML",
+      "quantity": 1,
+      "unit_price": "6.90",
+      "amount": "6.90"
+    },
+    {
+      "description": "PUP121096057",
+      "quantity": 1,
+      "unit_price": "2.07",
+      "amount": "2.07"
+    }
+  ],
+  "total": "38.37",
+  "tax_amount": "2.17",
+  "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "YONG CEN ENTERPRISE",
+    "date": "11/02/2017",
+    "address": "9, JALAN SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR.",
+    "tax_number": "001147831824",
+    "line_items": [
+        {
+            "description": "SR: GROUND NUT INDIA 2.30KG",
+            "quantity": 1,
+            "unit_price": "18.00",
+            "amount": "18.00"
+        }
+    ],
+    "total": "18.10",
+    "tax_amount": "1.08",
+    "service_charge": null
+}

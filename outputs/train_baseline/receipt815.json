@@ -1,0 +1,17 @@
+{
+    "company": "FamilyMart",
+    "date": "16/04/2018",
+    "address": "No 16A, Jalan Asaka U8/83 Bukit Jelutong, 40150 Shah Alam, Selangor, D.E.",
+    "tax_number": "00046859468W",
+    "line_items": [
+        {
+            "description": "Three Leg CoolingWtr200",
+            "quantity": 1,
+            "unit_price": "2.40",
+            "amount": "2.40"
+        }
+    ],
+    "total": "2.40",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

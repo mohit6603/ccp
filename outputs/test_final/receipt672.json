@@ -1,0 +1,23 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "14/03/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "TOPVALU FLOOR C",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.65"
+        },
+        {
+            "description": "CIF REGULAR 50",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.60"
+        }
+    ],
+    "total": "12.25",
+    "tax_amount": "0.70",
+    "service_charge": null
+}

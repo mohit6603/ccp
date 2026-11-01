@@ -1,38 +1,18 @@
-# Virtual environment
+# Python environment and caches
 .venv/
-venv/
-env/
-
-# Model weights (large, downloaded from Hugging Face)
-models/
-*.safetensors
-*.bin
-
-# Generated outputs (can be regenerated)
-outputs/
-
-# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-dist/
-build/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
 .DS_Store
-.env
-.env.local
 
-# Temporary files
-*.tmp
-*.log
-*.zip
+# Model weights: downloaded and converted as described in README.md (Setup)
+models/Qwen3-VL-4B-Instruct/
+models/Qwen3-VL-4B-Instruct-8bit/
+models/download.log
+
+# Fine-tuned adapter files are over GitHub's 100 MB file limit (README.md, Setup); only the log and settings are kept
+models/lora_v1/*
+!models/lora_v1/train_log.csv
+!models/lora_v1/train_config.json
+
+# Fine-tuning data: rebuilt by src/make_finetune_data.py
+finetune/

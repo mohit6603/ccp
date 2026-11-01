@@ -1,0 +1,17 @@
+{
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "12/01/2018",
+  "address": "NO 290. JALAN AIR PANAS. SETAPAK. 53200, KUALA LUMPUR.",
+  "tax_number": "000750673920",
+  "line_items": [
+    {
+      "description": "1 1/2\" SANCORA PAINT BRUSH",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "7.95"
+    }
+  ],
+  "total": "7.95",
+  "tax_amount": "0.45",
+  "service_charge": null
+}

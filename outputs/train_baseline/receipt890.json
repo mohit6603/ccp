@@ -1,0 +1,17 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "14-08-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1056-UPTOWN",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "8414 160PBS CW2301 FS PVC E",
+            "quantity": null,
+            "unit_price": "3.30",
+            "amount": "3.30"
+        }
+    ],
+    "total": "3.30",
+    "tax_amount": "0.19",
+    "service_charge": null
+}

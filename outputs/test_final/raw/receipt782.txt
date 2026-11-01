@@ -1,0 +1,1 @@
+{"company": "PLATINUM RACKING SDN BHD", "date": "22/04/2018", "address": "8B, JALAN LUMPUR, OFF JALAN PUTRA, 05100 ALOR SETAR, KEDAH.", "tax_number": "001034461184", "line_items": [{"description": "5596 VIVID STOOL - BLUE/ORANGE", "quantity": 2, "unit_price": "11.50", "amount": "23.00"}], "total": "23.00", "tax_amount": "1.30", "service_charge": null}

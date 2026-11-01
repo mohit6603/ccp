@@ -7,13 +7,13 @@
         {
             "description": "1 MEAT + 3 VEGE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "7.10",
             "amount": "7.10"
         },
         {
             "description": "VEGETABLE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "1.10",
             "amount": "1.10"
         }
     ],

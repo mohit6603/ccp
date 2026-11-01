@@ -1,0 +1,53 @@
+{
+  "company": "Gerbang Aiaf Restaurants Sdn Bhd",
+  "date": "18/01/2018",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "tax_number": "000504664064",
+  "line_items": [
+    {
+      "description": "2 M SpicyDeluxe",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": "25.40"
+    },
+    {
+      "description": "2 M Coke",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "2 M Fries",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "1 M GrilChicBgr",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "12.50"
+    },
+    {
+      "description": "1 M Coke",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "1 M Fries",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "1 Small Cone",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "1.00"
+    }
+  ],
+  "total": "38.90",
+  "tax_amount": "2.20",
+  "service_charge": null
+}

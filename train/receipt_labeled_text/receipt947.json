@@ -5,7 +5,7 @@
     "tax_number": "000115154944",
     "line_items": [
         {
-            "description": "/2 SPRI",
+            "description": "1/2 SPRI",
             "quantity": null,
             "unit_price": null,
             "amount": "14.00"
@@ -35,7 +35,7 @@
             "amount": "4.20"
         },
         {
-            "description": "MEATB",
+            "description": "15 MEATB",
             "quantity": null,
             "unit_price": null,
             "amount": "14.10"

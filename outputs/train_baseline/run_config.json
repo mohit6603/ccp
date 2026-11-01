@@ -1,0 +1,14 @@
+{
+  "split": "train",
+  "model": "models/Qwen3-VL-4B-Instruct-8bit",
+  "prompt_file": "src/prompt_v1.txt",
+  "prompt_sha256": "b9aff2a6e3b2f8d3c3fa9892428a849ea5188eeb3e9c81ca33d0d1cb1bc8bc2e",
+  "max_pixels": 1048576,
+  "max_tokens": 2048,
+  "decoding": "greedy (temperature 0)",
+  "runtime": "mlx-vlm on Apple Silicon",
+  "machine": "macOS-27.2-arm64-arm-64bit-Mach-O",
+  "mlx": "0.32.4",
+  "mlx_vlm": "0.7.11",
+  "started": "2026-10-31T14:12:30"
+}

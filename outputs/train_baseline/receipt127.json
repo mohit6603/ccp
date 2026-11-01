@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "31/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "1701\n6/8 BATU (BAG)",
+            "quantity": 5,
+            "unit_price": "6.36",
+            "amount": "31.80"
+        },
+        {
+            "description": "2167\n4.5KG RENDEROC PLUG",
+            "quantity": 1,
+            "unit_price": "50.88",
+            "amount": "50.88"
+        }
+    ],
+    "total": "82.68",
+    "tax_amount": "4.68",
+    "service_charge": null
+}

@@ -3,7 +3,14 @@
     "date": "07/12/2017",
     "address": "NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "001663156224",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "500ML PAINT REMOVER(M.TE)-KTH",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        }
+    ],
     "total": "10.00",
     "tax_amount": "0.57",
     "service_charge": null

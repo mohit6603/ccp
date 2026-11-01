@@ -1,0 +1,41 @@
+{
+    "company": "SOON FATT S/B",
+    "date": "9/2/2017",
+    "address": "LOT 1504, BATU 8 1/2, JALAN KLANG LAMA, 46000 PETALING JAYA, SELANGOR.",
+    "tax_number": "000788250624",
+    "line_items": [
+        {
+            "description": "AI BIHUN ISTIMEWA 3KG",
+            "quantity": 10,
+            "unit_price": "10.00",
+            "amount": "100.00"
+        },
+        {
+            "description": "YSF BUAH KERAS 3KG",
+            "quantity": 1,
+            "unit_price": "36.80",
+            "amount": "36.80"
+        },
+        {
+            "description": "HOBE RED KIDNEY BEAN 425GM",
+            "quantity": 1,
+            "unit_price": "58.00",
+            "amount": "58.00"
+        },
+        {
+            "description": "CAP LANG JAGUNG MANIS 425GM",
+            "quantity": 1,
+            "unit_price": "53.80",
+            "amount": "53.80"
+        },
+        {
+            "description": "DAIRY CHAMP EVAP 390GM",
+            "quantity": 1,
+            "unit_price": "113.90",
+            "amount": "113.90"
+        }
+    ],
+    "total": "362.50",
+    "tax_amount": "14.86",
+    "service_charge": null
+}

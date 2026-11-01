@@ -7,7 +7,7 @@
         {
             "description": "SPRAY PAINT",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "7.42",
             "amount": "7.42"
         }
     ],

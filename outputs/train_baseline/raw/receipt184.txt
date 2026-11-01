@@ -1,0 +1,47 @@
+{
+  "company": "SUPER SEVEN CASH & CARRY SDN BHD",
+  "date": "12-02-2018",
+  "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM,40150",
+  "tax_number": "000639090688",
+  "line_items": [
+    {
+      "description": "LORY FITTLET 300UP(3)6KG",
+      "quantity": 4,
+      "unit_price": "252.00",
+      "amount": "252.00"
+    },
+    {
+      "description": "BERAS BIRI-BIRI 10KG 5% ISTIMEWA",
+      "quantity": 1,
+      "unit_price": "53.50",
+      "amount": "53.50"
+    },
+    {
+      "description": "EAWANG BESAR INDIA/CINA GUNI",
+      "quantity": 2,
+      "unit_price": "17.00",
+      "amount": "17.00"
+    },
+    {
+      "description": "BANAS CILI 1KG",
+      "quantity": 1,
+      "unit_price": "19.50",
+      "amount": "19.50"
+    },
+    {
+      "description": "BABAS KARI DAGING 1KG",
+      "quantity": 1,
+      "unit_price": "17.20",
+      "amount": "17.20"
+    },
+    {
+      "description": "CILI BOH 3KG KCK",
+      "quantity": 1,
+      "unit_price": "7.90",
+      "amount": "7.90"
+    }
+  ],
+  "total": "367.10",
+  "tax_amount": "7.45",
+  "service_charge": null
+}

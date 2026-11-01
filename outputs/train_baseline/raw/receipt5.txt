@@ -1,0 +1,41 @@
+{
+  "company": "MR D.I.Y. (M) SDN BHD",
+  "date": "18-11-18",
+  "address": "1OT 1251-A & 1051-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+  "tax_number": "860671-D",
+  "line_items": [
+    {
+      "description": "KILAT' AUTO ECO WASH & SHINE ES1000 1L",
+      "quantity": 1,
+      "unit_price": "3.11",
+      "amount": "3.11"
+    },
+    {
+      "description": "KILAT' ECO AUTO WASH &MAX EW-1000-1L",
+      "quantity": 1,
+      "unit_price": "4.62",
+      "amount": "4.62"
+    },
+    {
+      "description": "KLEENSO AJAIB 99 SERAI WANYI 900G",
+      "quantity": 1,
+      "unit_price": "11.23",
+      "amount": "11.23"
+    },
+    {
+      "description": "HANDKERCHIEF 71386H2PCS",
+      "quantity": 1,
+      "unit_price": "7.45",
+      "amount": "7.45"
+    },
+    {
+      "description": "P112PJJ1-4 - 6/300",
+      "quantity": 1,
+      "unit_price": "4.50",
+      "amount": "4.50"
+    }
+  ],
+  "total": "30.90",
+  "tax_amount": "0.01",
+  "service_charge": null
+}

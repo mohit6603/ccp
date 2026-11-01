@@ -1,0 +1,29 @@
+{
+  "company": "HERO DISTRIBUTION SDN BHD",
+  "date": "17/05/17",
+  "address": "4243,Compleks Perniagaan Sri Gaya, Jln Tmn Subang Jasa 3, 40150 Selangor",
+  "tax_number": "001627654144",
+  "line_items": [
+    {
+      "description": "CAP MAKMUR MINYAK PACKET 1KG",
+      "quantity": 2,
+      "unit_price": "7.50",
+      "amount": "15.00"
+    },
+    {
+      "description": "H/GRASS K/JELLY F/POW S'BERRY 250G *1",
+      "quantity": 6,
+      "unit_price": "3.00",
+      "amount": "18.00"
+    },
+    {
+      "description": "SA GRANNY SMITH 10's (PKT)",
+      "quantity": 7,
+      "unit_price": "2.22",
+      "amount": "15.54"
+    }
+  ],
+  "total": "41.50",
+  "tax_amount": "1.02",
+  "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+  "company": "JIMART@SP3 OGN GROUP SDN BHD",
+  "date": "17/06/2018",
+  "address": "No.29M, Jalan Dinar G U3/G, Seksyen U3, Subang Perdana, 40150 Shah Alam",
+  "tax_number": "002077622272",
+  "line_items": [
+    {
+      "description": "SR 6001188379050 Kitchen Lighter 2015",
+      "quantity": 5,
+      "unit_price": "3.68",
+      "amount": "18.40"
+    },
+    {
+      "description": "SR 9555586101265 Cotton White Mop 450 W.HDL",
+      "quantity": 1,
+      "unit_price": "9.91",
+      "amount": "9.91"
+    }
+  ],
+  "total": "28.30",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

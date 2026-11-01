@@ -1,0 +1,29 @@
+{
+    "company": "SWC ENTERPRISE SDN BHD",
+    "date": "06/03/2018",
+    "address": "28-G, Ground Floor, Jalan Dinar A U3/A, Tmn Subang Perdana, 40150 Shah Alam, Selangor.",
+    "tax_number": "002017808384",
+    "line_items": [
+        {
+            "description": "TM621 1.5\"B/CAT NYLON",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "OLS 23 B621-1",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "OPP TAPE 1.5\"",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        }
+    ],
+    "total": "4.00",
+    "tax_amount": "0.22",
+    "service_charge": null
+}

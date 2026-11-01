@@ -1,0 +1,23 @@
+{
+  "company": "AMTECH ELECTRICAL SUPPLIES",
+  "date": "27/06/18 5 02:32 PM",
+  "address": "107,JALAN BANDAR RAWANG 2, PUSAT BANDAR RAWANG, 48000 RAWANG SELANGOR D E",
+  "tax_number": "001285423104",
+  "line_items": [
+    {
+      "description": "30W SUPER T8 LED TUBE^D/L -FNM @16.00",
+      "quantity": 5,
+      "unit_price": "16.00",
+      "amount": "80.00"
+    },
+    {
+      "description": "2x40W LED F/FITTING (EMPTY)-ITK @14.00",
+      "quantity": 4,
+      "unit_price": "14.00",
+      "amount": "56.00"
+    }
+  ],
+  "total": "136.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

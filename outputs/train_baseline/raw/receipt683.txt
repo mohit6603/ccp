@@ -1,0 +1,29 @@
+{
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "04/01/2018",
+  "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+  "tax_number": "000750673920",
+  "line_items": [
+    {
+      "description": "1840 K10' 1 X 8",
+      "quantity": 1,
+      "unit_price": "40.28",
+      "amount": "40.28"
+    },
+    {
+      "description": "1664 2LT BIG TREE HIGH GLOSS PAINT",
+      "quantity": 2,
+      "unit_price": "26.50",
+      "amount": "53.00"
+    },
+    {
+      "description": "1909 7\" ROLLER REFILL",
+      "quantity": 1,
+      "unit_price": "6.89",
+      "amount": "6.89"
+    }
+  ],
+  "total": "100.17",
+  "tax_amount": "5.67",
+  "service_charge": null
+}

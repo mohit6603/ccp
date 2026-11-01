@@ -1,0 +1,35 @@
+{
+    "company": "GOLDEN ARCHES RESTAURANTS SDN BHD",
+    "date": "24/07/2016",
+    "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "VM MCCHICKEN",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "15.90"
+        },
+        {
+            "description": "MCCHICKEN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.00"
+        },
+        {
+            "description": "SUNDACCHOC",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "6.40"
+        },
+        {
+            "description": "CHOC TOP",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.90"
+        }
+    ],
+    "total": "28.20",
+    "tax_amount": "1.60",
+    "service_charge": null
+}

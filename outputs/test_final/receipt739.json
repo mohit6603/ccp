@@ -1,0 +1,35 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "05/03/2018",
+    "address": "3RD FLR, AEON. TAMAN, MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "TOPVALU VIRGIN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "TOPVALU VIRGIN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "ANCHOR FLOUR 1",
+            "quantity": 16,
+            "unit_price": "2.75",
+            "amount": "44.00"
+        },
+        {
+            "description": "DIAMOND FOIL 7",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.40"
+        }
+    ],
+    "total": "81.20",
+    "tax_amount": "2.11",
+    "service_charge": null
+}

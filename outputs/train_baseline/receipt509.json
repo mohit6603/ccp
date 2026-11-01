@@ -1,0 +1,17 @@
+{
+    "company": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+    "date": "15/09/2017",
+    "address": "NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM,",
+    "tax_number": "000394528768",
+    "line_items": [
+        {
+            "description": "9200310000040 40MM 2K/BELLE PADLOCK ??",
+            "quantity": 3,
+            "unit_price": "8.00",
+            "amount": "24.00"
+        }
+    ],
+    "total": "24.00",
+    "tax_amount": "1.36",
+    "service_charge": null
+}

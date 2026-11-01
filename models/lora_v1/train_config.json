@@ -1,0 +1,13 @@
+{
+  "model": "models/Qwen3-VL-4B-Instruct-8bit",
+  "data": "finetune",
+  "out": "models/lora_v1",
+  "epochs": 2,
+  "lr": 0.0001,
+  "warmup": 10,
+  "grad_accum": 4,
+  "lora_rank": 16,
+  "lora_alpha": 32.0,
+  "max_steps": null,
+  "seed": 0
+}

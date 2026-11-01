@@ -1,0 +1,23 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "17/04/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "SIMEN",
+            "quantity": 10,
+            "unit_price": "16.50",
+            "amount": "174.90"
+        },
+        {
+            "description": "KAPUR AIR (A1)",
+            "quantity": 5,
+            "unit_price": "3.00",
+            "amount": "15.90"
+        }
+    ],
+    "total": "190.80",
+    "tax_amount": "10.80",
+    "service_charge": null
+}

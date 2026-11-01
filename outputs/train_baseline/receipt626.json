@@ -1,0 +1,23 @@
+{
+    "company": "SIN LIANHAP SDN BHD",
+    "date": "05/02/2018",
+    "address": "LOT 13, JALAN IPOH, KG BATU 30 , ULU YAM LAMA 44300 BTG KALI, SELANGOR.",
+    "tax_number": "001610833920",
+    "line_items": [
+        {
+            "description": "PPD 4MM DENLIME",
+            "quantity": 1.0,
+            "unit_price": "1.887",
+            "amount": "1.887"
+        },
+        {
+            "description": "6023# GARDEN",
+            "quantity": 1.0,
+            "unit_price": "5.000",
+            "amount": "5.000"
+        }
+    ],
+    "total": "7.30",
+    "tax_amount": "0.41",
+    "service_charge": null
+}

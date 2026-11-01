@@ -1,0 +1,17 @@
+{
+  "company": "FIVE STAR CASH & CARRY",
+  "date": "19/06/17",
+  "address": "G.23 & G.22, Plaza Seri Setia, No.1 Jalan SS 9/1, 47300 PJ, Selangor.",
+  "tax_number": "000610435072",
+  "line_items": [
+    {
+      "description": "[AKS]APPALAH 3KG",
+      "quantity": 1,
+      "unit_price": "45.00",
+      "amount": "45.00"
+    }
+  ],
+  "total": "45.00",
+  "tax_amount": "2.55",
+  "service_charge": "0.00"
+}

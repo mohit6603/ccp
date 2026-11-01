@@ -5,7 +5,7 @@
     "tax_number": "001400385536",
     "line_items": [
         {
-            "description": "LING FISH HEAD MEEHOON LING FISH HEAD MEEHOON",
+            "description": "LING FISH HEAD MEEHOON",
             "quantity": 1,
             "unit_price": null,
             "amount": "16.90"
@@ -37,5 +37,5 @@
     ],
     "total": "78.50",
     "tax_amount": "4.45",
-    "service_charge": null
+    "service_charge": "3.55"
 }

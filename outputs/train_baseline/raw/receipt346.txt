@@ -1,0 +1,35 @@
+{
+  "company": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "28/09/2017",
+  "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",
+  "tax_number": "000381399040",
+  "line_items": [
+    {
+      "description": "O.C. WHITE",
+      "quantity": 2,
+      "unit_price": "4.26",
+      "amount": "4.26"
+    },
+    {
+      "description": "WHOLEMEAL",
+      "quantity": 4,
+      "unit_price": "11.12",
+      "amount": "11.12"
+    },
+    {
+      "description": "O.C JUMBO",
+      "quantity": 5,
+      "unit_price": "14.85",
+      "amount": "14.85"
+    },
+    {
+      "description": "BUN-SBILIS",
+      "quantity": 20,
+      "unit_price": "16.80",
+      "amount": "16.80"
+    }
+  ],
+  "total": "48.04",
+  "tax_amount": "1.01",
+  "service_charge": null
+}

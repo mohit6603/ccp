@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "28/12/2017",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "1971",
+            "quantity": 1,
+            "unit_price": "148.40",
+            "amount": "148.40"
+        },
+        {
+            "description": "PASIR HALUS 1 LOAD (SMALL)",
+            "quantity": 1,
+            "unit_price": "148.40",
+            "amount": "148.40"
+        }
+    ],
+    "total": "148.40",
+    "tax_amount": "8.40",
+    "service_charge": null
+}

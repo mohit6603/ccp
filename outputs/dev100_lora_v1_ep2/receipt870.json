@@ -1,0 +1,23 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "19-08-16",
+    "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1237-TMN INDAH PERDANA",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "GARDENIA WHOLEMEAL 400",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "2.99"
+        },
+        {
+            "description": "GARDENIA CREAM ROLL CH",
+            "quantity": 2,
+            "unit_price": "0.85",
+            "amount": "1.70"
+        }
+    ],
+    "total": "4.70",
+    "tax_amount": "0.10",
+    "service_charge": null
+}

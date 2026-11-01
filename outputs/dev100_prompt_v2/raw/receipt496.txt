@@ -1,0 +1,17 @@
+{
+  "company": "SANYU SUPPLY SDN BHD",
+  "date": "19/07/2017",
+  "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+  "tax_number": "001531760640",
+  "line_items": [
+    {
+      "description": "PHOTOCOPY SERVICES - A4 SIZE",
+      "quantity": 50,
+      "unit_price": "0.1000",
+      "amount": "5.00"
+    }
+  ],
+  "total": "5.00",
+  "tax_amount": "0.28",
+  "service_charge": null
+}

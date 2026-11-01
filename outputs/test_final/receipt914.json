@@ -1,0 +1,29 @@
+{
+    "company": "GLOBAL FOOD EMPIRE SDN BHD",
+    "date": "2018-05-01",
+    "address": "NO. 27, JALAN AUSTIN HEIGHT 8/4, TAMAN MOUNT AUSTIN, 81100 JOHOR BAHRU.",
+    "tax_number": "001750249472",
+    "line_items": [
+        {
+            "description": "602 GREEN APPLE JUICE (S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "6.80"
+        },
+        {
+            "description": "106 HAM & CHEESE GRILLED CHICKEN",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "16.80"
+        },
+        {
+            "description": "205 MEE MAHAK",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "9.80"
+        }
+    ],
+    "total": "38.35",
+    "tax_amount": "2.17",
+    "service_charge": null
+}

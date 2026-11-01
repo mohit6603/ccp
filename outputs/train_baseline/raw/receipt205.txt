@@ -1,0 +1,23 @@
+{
+  "company": "GOLDEN KEY MAKER",
+  "date": "24-Mar-2018",
+  "address": "No 5, Jalan Kenari 2, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+  "tax_number": "000760274-K",
+  "line_items": [
+    {
+      "description": "NORMAL KEY",
+      "quantity": 4,
+      "unit_price": "4.00",
+      "amount": "16.00"
+    },
+    {
+      "description": "NORMAL KEY LONG",
+      "quantity": 1,
+      "unit_price": "5.00",
+      "amount": "5.00"
+    }
+  ],
+  "total": "21.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

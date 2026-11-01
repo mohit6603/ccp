@@ -1,0 +1,41 @@
+{
+    "company": "BENS INDEPENDENT GROCER SDN. BHD",
+    "date": "08/03/18",
+    "address": "Lot 6, Jalan Batai, Plaza Batai, Damansara Heights 50490, Kuala Lumpur",
+    "tax_number": "000243941376",
+    "line_items": [
+        {
+            "description": "Dole Pineapple Pcs",
+            "quantity": 3,
+            "unit_price": "7.90",
+            "amount": "23.70"
+        },
+        {
+            "description": "Farmhouse Fresh Milk Twin Pack 2x1L",
+            "quantity": 1,
+            "unit_price": "19.90",
+            "amount": "19.90"
+        },
+        {
+            "description": "Fresh Cut Honey kfruit Peeled 400g",
+            "quantity": 3,
+            "unit_price": "8.90",
+            "amount": "26.70"
+        },
+        {
+            "description": "Nestle Bliss Yog Drink Strawberry 700g",
+            "quantity": 1,
+            "unit_price": "5.80",
+            "amount": "5.80"
+        },
+        {
+            "description": "Vitagen Assorted 5x125ml",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        }
+    ],
+    "total": "81.00",
+    "tax_amount": "1.74",
+    "service_charge": null
+}

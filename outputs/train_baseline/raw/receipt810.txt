@@ -1,0 +1,47 @@
+{
+  "company": "AEON CO. (M) BHD",
+  "date": "12/03/2018",
+  "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+  "tax_number": "002017394688",
+  "line_items": [
+    {
+      "description": "QL CLASSIC EGGS",
+      "quantity": 1,
+      "unit_price": "4.60ZR",
+      "amount": "4.60ZR"
+    },
+    {
+      "description": "WHITE GARLIC",
+      "quantity": 1,
+      "unit_price": "0.88ZR",
+      "amount": "0.88ZR"
+    },
+    {
+      "description": "OLD GINGER",
+      "quantity": 1,
+      "unit_price": "0.46ZR",
+      "amount": "0.46ZR"
+    },
+    {
+      "description": "CHIC DRUMSTICK",
+      "quantity": 1,
+      "unit_price": "5.50ZR",
+      "amount": "5.50ZR"
+    },
+    {
+      "description": "CHIC DRUMSTICK",
+      "quantity": 1,
+      "unit_price": "3.55ZR",
+      "amount": "3.55ZR"
+    },
+    {
+      "description": "DEER SESAME OI",
+      "quantity": 1,
+      "unit_price": "9.10SR",
+      "amount": "9.10SR"
+    }
+  ],
+  "total": "23.59",
+  "tax_amount": "0.52",
+  "service_charge": "1.00"
+}

@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "SPONGE SCRUB W-PLASTIC HANDLE",
+            "quantity": 1,
+            "unit_price": "3.18",
+            "amount": "3.18"
+        },
+        {
+            "description": "4 1/2\" PLASTERING TROWEL",
+            "quantity": 1,
+            "unit_price": "10.07",
+            "amount": "10.07"
+        }
+    ],
+    "total": "13.25",
+    "tax_amount": "0.75",
+    "service_charge": null
+}

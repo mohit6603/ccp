@@ -1,0 +1,29 @@
+{
+  "company": "KAISON FURNISHING SDN BHD",
+  "date": "29-01-18",
+  "address": "L4-17 (B), Level 4, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur.",
+  "tax_number": "001813975040",
+  "line_items": [
+    {
+      "description": "FLOWER BUNCH - ROSE",
+      "quantity": 122,
+      "unit_price": "18.90",
+      "amount": "2,305.80"
+    },
+    {
+      "description": "FLOWER BUNCH - CRYST",
+      "quantity": 240,
+      "unit_price": "13.90",
+      "amount": "3,336.00"
+    },
+    {
+      "description": "FLOWER BUNCH - THO P",
+      "quantity": 130,
+      "unit_price": "16.90",
+      "amount": "2,197.00"
+    }
+  ],
+  "total": "7,838.80",
+  "tax_amount": "443.71",
+  "service_charge": null
+}

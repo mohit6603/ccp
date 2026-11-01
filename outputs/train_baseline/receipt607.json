@@ -1,0 +1,35 @@
+{
+    "company": "GHEE HIANG",
+    "date": "20/06/2018",
+    "address": "216, Macalister Road, 10400 Penang. 10400 Penang.",
+    "tax_number": "001315377152",
+    "line_items": [
+        {
+            "description": "4 TAU SAR PNEAH (S) 16PCS @9.00",
+            "quantity": 4,
+            "unit_price": "9.00",
+            "amount": "36.00"
+        },
+        {
+            "description": "2 DB TAU SAR PNEAH (S) 12PCS @7.60",
+            "quantity": 2,
+            "unit_price": "7.60",
+            "amount": "15.20"
+        },
+        {
+            "description": "2 BEH TEH SAN 8PCS @8.00",
+            "quantity": 2,
+            "unit_price": "8.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "2 PHONG PNEAH 6PCS @9.00",
+            "quantity": 2,
+            "unit_price": "9.00",
+            "amount": "18.00"
+        }
+    ],
+    "total": "85.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

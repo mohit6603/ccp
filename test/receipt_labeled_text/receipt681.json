@@ -3,7 +3,14 @@
     "date": "04/12/2017",
     "address": "NO. 939, BATU LIMA, JALAN IPOH, 51200 KUALA LUMPUR",
     "tax_number": "001117650944",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "EXTENSION LADDER 12' X 12'",
+            "quantity": 2,
+            "unit_price": "424.00",
+            "amount": "848.00"
+        }
+    ],
     "total": "848.00",
     "tax_amount": "48.00",
     "service_charge": null

@@ -1,0 +1,1 @@
+{"company": "KEDAI PAPAN YEW CHUAN", "date": "20/04/2018", "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR", "tax_number": "000781500416", "line_items": [{"description": "SIMEN", "quantity": 5, "unit_price": "17.49", "amount": "87.45"}], "total": "87.45", "tax_amount": "4.95", "service_charge": null}

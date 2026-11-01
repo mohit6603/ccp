@@ -1,0 +1,23 @@
+{
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "21/09/2017",
+  "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+  "tax_number": "001125220352",
+  "line_items": [
+    {
+      "description": "0.9 3/4\" ALUMINIUM ROD",
+      "quantity": 0.9,
+      "unit_price": "6.00",
+      "amount": "5.40"
+    },
+    {
+      "description": "5 PVC WALLPLUG (50PCS)",
+      "quantity": 5,
+      "unit_price": "1.00",
+      "amount": "5.00"
+    }
+  ],
+  "total": "10.40",
+  "tax_amount": "0.59",
+  "service_charge": null
+}

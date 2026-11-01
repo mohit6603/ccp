@@ -1,0 +1,23 @@
+{
+    "company": "YONG TAT HARDWARE TRADING",
+    "date": "13/03/2018",
+    "address": "NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+    "tax_number": "001570349056",
+    "line_items": [
+        {
+            "description": "10\" WING COMPASS",
+            "quantity": 1,
+            "unit_price": "50.88",
+            "amount": "50.88"
+        },
+        {
+            "description": "1/8\"-3/4\" 12PCS HOLLOW PUNCH SET",
+            "quantity": 1,
+            "unit_price": "50.00",
+            "amount": "50.00"
+        }
+    ],
+    "total": "100.90",
+    "tax_amount": "5.71",
+    "service_charge": null
+}

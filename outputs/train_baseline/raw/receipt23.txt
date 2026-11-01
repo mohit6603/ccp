@@ -1,0 +1,23 @@
+{
+  "company": "TED HENG STATIONERY & BOOKS",
+  "date": "15/01/2018",
+  "address": "NO. 53, JALAN BEBAR, 45600 BATANG BERUNTAI SELANGOR DARUL EHSAN",
+  "tax_number": "000689913856",
+  "line_items": [
+    {
+      "description": "- CBE BADGE CLIP 100PCS",
+      "quantity": 1,
+      "unit_price": "26.42",
+      "amount": "24.00"
+    },
+    {
+      "description": "- NISO A4 LAMINATING FILM",
+      "quantity": 1,
+      "unit_price": "28.00",
+      "amount": "28.00"
+    }
+  ],
+  "total": "55.10",
+  "tax_amount": "3.12",
+  "service_charge": null
+}

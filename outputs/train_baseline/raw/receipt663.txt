@@ -1,0 +1,17 @@
+{
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "20/04/2017",
+  "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+  "tax_number": "001125220352",
+  "line_items": [
+    {
+      "description": "1.2 3/4\" ALUMINIUM ROD",
+      "quantity": 1.2,
+      "unit_price": "6.00",
+      "amount": "7.20"
+    }
+  ],
+  "total": "7.20",
+  "tax_amount": "0.41",
+  "service_charge": null
+}

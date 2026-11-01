@@ -1,0 +1,23 @@
+{
+    "company": "SWC ENTERPRISE SDN BHD",
+    "date": "02/01/2018",
+    "address": "8 & 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.",
+    "tax_number": "002617B08384",
+    "line_items": [
+        {
+            "description": "5X8 500G (1X60)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "5X8 300G",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.20"
+        }
+    ],
+    "total": "8.40",
+    "tax_amount": "0.24",
+    "service_charge": null
+}

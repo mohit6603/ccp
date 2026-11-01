@@ -1,0 +1,65 @@
+{
+    "company": "Subway#42210-0",
+    "date": "27/02/2018",
+    "address": "URBAN IDEA SDN BHD (417940-M), A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGOR, Malaysia",
+    "tax_number": "000220499968",
+    "line_items": [
+        {
+            "description": "Bag Fee",
+            "quantity": 1,
+            "unit_price": "RM0.20",
+            "amount": "RM0.20"
+        },
+        {
+            "description": "(MY) EDV Meal",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "6\" -Meatball Sub",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "-16oz Fountain Drink",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "-1 Cookies",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "(MY) EDV Meal",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "6\" -BBQ Chicken Strips Sub",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "-16oz Fountain Drink",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        },
+        {
+            "description": "-1 Cookies",
+            "quantity": 1,
+            "unit_price": "RM11.90",
+            "amount": "RM11.90"
+        }
+    ],
+    "total": "24.00",
+    "tax_amount": "1.36",
+    "service_charge": null
+}

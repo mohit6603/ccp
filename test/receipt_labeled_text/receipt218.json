@@ -3,7 +3,50 @@
     "date": "12/01/2018",
     "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
     "tax_number": "000886677504",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "DESIGN",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "FOAMBOARD 91X46CM",
+            "quantity": 3,
+            "unit_price": "63.60",
+            "amount": "190.80"
+        },
+        {
+            "description": "DESIGN",
+            "quantity": 2,
+            "unit_price": "31.80",
+            "amount": "63.60"
+        },
+        {
+            "description": "ROLLUP BUNTING",
+            "quantity": 2,
+            "unit_price": "178.08",
+            "amount": "356.16"
+        },
+        {
+            "description": "DESIGN",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "FLYERS",
+            "quantity": 100,
+            "unit_price": "0.73",
+            "amount": "73.14"
+        },
+        {
+            "description": "DEPOSIT (CS00489793)",
+            "quantity": 1,
+            "unit_price": "-647.30",
+            "amount": "-647.30"
+        }
+    ],
     "total": "100.00",
     "tax_amount": "5.66",
     "service_charge": null

@@ -1,0 +1,17 @@
+{
+  "company": "PASARAYA BORONG PINTAR SDN BHD",
+  "date": "04/03/2018",
+  "address": "NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+  "tax_number": null,
+  "line_items": [
+    {
+      "description": "POKKA COFFEE VANILLA MILK COFFEE",
+      "quantity": 1,
+      "unit_price": "3.20",
+      "amount": "3.20"
+    }
+  ],
+  "total": "3.20",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

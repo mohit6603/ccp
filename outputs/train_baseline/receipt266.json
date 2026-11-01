@@ -1,0 +1,83 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "01-11-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "0515 SNEK KU TAM TAM CRAB F",
+            "quantity": null,
+            "unit_price": "3.65",
+            "amount": "3.65"
+        },
+        {
+            "description": "0649 TIC TAC CANDY MINT (WH",
+            "quantity": null,
+            "unit_price": "2.10",
+            "amount": "2.10"
+        },
+        {
+            "description": "5178 MENTOS SOUR MIX CHEWY",
+            "quantity": null,
+            "unit_price": "2.45",
+            "amount": "2.45"
+        },
+        {
+            "description": "2651 MUNCHYS CRACKER SANDWI",
+            "quantity": null,
+            "unit_price": "8.38",
+            "amount": "8.38"
+        },
+        {
+            "description": "@2 X RM 4.19",
+            "quantity": 2,
+            "unit_price": "4.19",
+            "amount": "8.38"
+        },
+        {
+            "description": "0249 JULIES PEANUT BUTTER S",
+            "quantity": null,
+            "unit_price": "7.55",
+            "amount": "7.55"
+        },
+        {
+            "description": "820 PIPIT BLEACH 2*1KG TP",
+            "quantity": null,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "480 TOP SUPER WHITE (RED) 2",
+            "quantity": null,
+            "unit_price": "12.65",
+            "amount": "12.65"
+        },
+        {
+            "description": "9170 CA3210 CAMEL SHORTHAND",
+            "quantity": null,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        },
+        {
+            "description": "9413 CS 1002 AS H/COVER NOT",
+            "quantity": null,
+            "unit_price": "4.80",
+            "amount": "4.80"
+        },
+        {
+            "description": "8445 7CC UHU GLUE",
+            "quantity": null,
+            "unit_price": "4.40",
+            "amount": "4.40"
+        },
+        {
+            "description": "@2 X RM 2.20",
+            "quantity": 2,
+            "unit_price": "2.20",
+            "amount": "4.40"
+        }
+    ],
+    "total": "52.10",
+    "tax_amount": "2.96",
+    "service_charge": null
+}

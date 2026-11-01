@@ -1,0 +1,17 @@
+{
+  "company": "KEK SPAN",
+  "date": "29-Apr-2018",
+  "address": "Lot L610, AEON Taman Universiti Shopping Center, No. 4, Jalan Pendidikan, Taman Universiti 81300 Skudai, Johor",
+  "tax_number": "C4004290047",
+  "line_items": [
+    {
+      "description": "Kek Span klasik",
+      "quantity": null,
+      "unit_price": "13.00",
+      "amount": "13.00"
+    }
+  ],
+  "total": "13.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

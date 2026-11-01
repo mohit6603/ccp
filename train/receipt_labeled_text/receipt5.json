@@ -5,7 +5,7 @@
     "tax_number": null,
     "line_items": [
         {
-            "description": "KILAT AUTO ECO WASH & SHINE ES1000 1L",
+            "description": "KILAT'AUTO ECO WASH & SHINE ES1000 1L",
             "quantity": 1,
             "unit_price": "3.11",
             "amount": "3.11"
@@ -17,7 +17,7 @@
             "amount": "4.62"
         },
         {
-            "description": "WD40 27ML MOO 2572",
+            "description": "WD40 277ML MOQ 2572",
             "quantity": 1,
             "unit_price": "11.23",
             "amount": "11.23"

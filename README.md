@@ -1,537 +1,361 @@
-# Receipt Information Extraction with Qwen3-VL-4B
+# Receipt information extraction with Qwen3-VL-4B
 
-**Automated receipt data extraction system using vision-language AI**
+The model reads a receipt image and returns one JSON object with 8 fields, in the same format as the label files:
+- company
+- date
+- address
+- tax_number
+- line_items
+- total
+- tax_amount
+- service_charge
 
----
+Everything runs locally on a MacBook Air (Apple M5, 16 GB) with MLX. No receipt is sent to an online model or API.
 
-## Executive Summary (For Managers)
+## Result
 
-### What is This?
-Automatic extraction of structured information from receipt images (company, date, items, total, tax, etc.) into clean JSON format using AI. Replaces manual data entry - saves time, reduces errors.
+The fine-tuned model scores **96.22% overall accuracy** on the 370 test receipts, above the 90% target. The model and its settings were chosen using train receipts only (dev100). The test split was then run once.
 
-### Current Status
-✅ **Phase 0 Complete** (Setup & Validation)
-- Model trained and tested on 10 receipts: **100% valid JSON**
-- All source code in production-ready GitHub repo
-- Ready to run on full 600-receipt training set
-- Timeline: ~1 week to complete baseline + improvements
-
-### Key Achievement
-- ✅ Model reads receipts correctly (company, date, totals accurate)
-- ✅ Outputs properly structured JSON (all 10 test outputs valid)
-- ⚠️ Working on preventing hallucinations (making up tax/charge when absent)
-- ✅ Infrastructure ready for scaling (Colab T4 GPU: 20-30 sec/receipt)
-
-### What's Next
-| Timeline | Milestone |
+| Test split, 370 receipts | Score |
 |---|---|
-| Today | Phase 1: Run on 600 training receipts (3-4 hours on Colab) |
-| Tomorrow | Phase 2: Generate accuracy report |
-| This week | Phase 3: Improve weak areas (hallucinations, line items) |
-| End of week | Phase 4: Final test on 370 hidden test receipts |
+| **Overall accuracy** (headline, see [Scoring rules](#scoring-rules)) | **96.22%** |
+| Exact accuracy | 92.47% |
+| 95%-similar accuracy | 97.45% |
+| Line-item F1 | 83.42% (precision 83.53%, recall 83.30%) |
+| Receipts with every line item right | 75.95% |
+| Receipts with all 8 fields right (strict) | 44.32% |
+| Valid JSON output | 99.73% (369 of 370) |
 
-### Budget & Resources
-- ✅ No cost (using free Google Colab GPU)
-- ✅ Team: 1 developer (AI model ops)
-- ✅ Data: 970 receipts already labelled (620 verified, 350 from OCR)
-
-### Success Criteria (Expected)
-- Company name accuracy: 95%+
-- Date accuracy: 95%+
-- Total amount accuracy: 99%+
-- Null handling (don't make up values): 90%+ (key focus)
-- Line items F1 score: 85%+
-
-### Risk: Label Quality
-- 35% of labels generated from OCR (not hand-verified)
-- Mitigation: In-progress label audit + separate accuracy reporting
-
----
-
-## Technical Details
-
-Structured-data extraction from receipt images using a vision-language model (VLM).
-Input: a receipt image. Output: a JSON document with a fixed schema. Success is measured
-by field-level accuracy against labelled data, and **accuracy is the top priority** of this project.
-
-| | |
-|---|---|
-| Document status | Implementation v1.1 (2026-10-30). **Phase 0 Complete ✅**; Phase 1-4 in progress. See Section 11 for detailed timeline. |
-| Model | Qwen3-VL-4B-Instruct (4B parameters, Apache 2.0 license) |
-| Compute | Google Colab T4 GPU for inference & fine-tuning; local laptop for evaluation |
-| GitHub | https://github.com/mohit6603/ccp |
-| Team | 1 developer |
-
----
-
-## 1. Objective
-
-Given a photographed or scanned receipt, produce exactly this JSON structure:
-
-```json
-{
-  "company": "INDAH GIFT & HOME DECO",
-  "date": "19/10/2018",
-  "address": "27, JALAN DEDAP 13, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU, JOHOR.",
-  "tax_number": null,
-  "line_items": [
-    {"description": "PASIR HALUS 1 LOAD (SMALL)", "quantity": 1, "unit_price": "148.40", "amount": "148.40"}
-  ],
-  "total": "60.30",
-  "tax_amount": null,
-  "service_charge": null
-}
-```
-
-Rules for the output:
-- Same keys, same order, same value types as the provided labels.
-- If a field is not present on the receipt, its value is `null` (never an empty string, never a guess).
-- `line_items` is `null` when no items can be read, otherwise a list of objects with
-  `description`, `quantity`, `unit_price`, `amount`.
-
-**Model:** Qwen3-VL-4B-Instruct (Hugging Face repository `Qwen/Qwen3-VL-4B-Instruct`). Third-party
-listings and a repackaged copy of the weights state the license is Apache 2.0. The official model card
-was not retrieved during planning, so the license field on that page is to be checked once before the
-first download (Section 9).
-
----
-
-## 2. Dataset
-
-The dataset was prepared and split by the project owner. It is used as provided and is never modified.
-
-| Item | Location | Count |
+| Field | Overall | Exact |
 |---|---|---|
-| Training images | `train/receipt_images/receiptN.jpg` | 600 |
-| Training labels | `train/receipt_labeled_text/receiptN.json` | 600 |
-| Test images | `test/receipt_images/receiptN.jpg` | 370 |
-| Test labels | `test/receipt_labeled_text/receiptN.json` | 370 |
-| Train/test assignment | `split_mapping.csv` | 970 rows |
-| Traceability to original files | `image_mapping.csv` | 970 rows |
-| Label provenance and review flags | `labeled_text_sources.csv` | 970 rows |
+| company | 95.14% | 92.43% |
+| date | 98.92% | 98.92% |
+| address | 87.84% | 64.32% |
+| tax_number | 94.59% | 94.59% |
+| total | 98.65% | 98.65% |
+| tax_amount | 98.92% | 98.92% |
+| service_charge | 99.46% | 99.46% |
 
-Image and label share the same base name (`receipt2.jpg` <-> `receipt2.json`). The same name is used
-for every generated output, so any receipt can be traced across input, output and label.
+- **Comparison on dev100.** dev100 is 100 train receipts the model never trained on. Fine-tuning raised overall accuracy there from 91.86% to 97.29%; 91.86% was the best result without fine-tuning. Line-item F1 rose from 47.99% to 84.98%. Every run is listed in [All runs](#all-runs).
+- **Null fields on test.**
+  - The model never filled a field that the label leaves empty.
+  - It left a field empty that the label has only twice: one service charge, and one line-item list.
+- **How certain the score is.** Resampling the 370 test receipts gives a 95% range of 95.29–97.07% for overall accuracy, and 91.39–93.47% for exact accuracy. Both ranges are above the 90% target. They were computed from `results/test_final/per_receipt.csv` (20,000 bootstrap resamples of receipts).
+- **Per receipt, under the overall rule:**
+  - 289 of 370 test receipts (78.1%) have all 7 single-value fields right.
+  - 69 have one field wrong, and 11 have two wrong.
+  - 1 (receipt81, the invalid output) is wrong on every field.
+  - 61.6% of receipts also have every line item right.
+- **What the score covers.** It is measured on receipts from the same collection as the training receipts: SROIE, Malaysian shop receipts, mostly scanned. Other receipt types are not covered; see [Known limitations](#known-limitations).
 
-The original filenames (for example `X00016469612.jpg`) and the `task1`/`task2` folder names in
-`image_mapping.csv` indicate the receipts come from the public SROIE benchmark (ICDAR 2019 competition
-on scanned receipt OCR and information extraction). The original SROIE set has 1000 receipts; this
-970-receipt dataset was customised by the project owner to fit the requirements of this project
-(selection of receipts, extended label schema, and the train/test split). Two points follow from public
-information:
-- SROIE's own license/terms of use could not be confirmed during planning, so its commercial-use status is
-  **unverified**; the terms must be checked on the original dataset host before any use beyond internal
-  evaluation (Section 9).
-- Third-party sources report that the original SROIE annotations contain a few mistakes, which is one more
-  reason for the label audit in Phase 0.
-
-### 2.1 Label quality (important for interpreting accuracy)
-
-Profiling of `labeled_text_sources.csv` shows the labels are **not all manually verified ground truth**:
-
-| Property | Finding |
-|---|---|
-| `label_source = ground_truth` | 620 of 970 |
-| `label_source = generated_from_ocr_text` | 350 of 970 |
-| New fields (`tax_number`, `line_items`, `tax_amount`, `service_charge`) | All 970 generated from annotated OCR text |
-| `needs_review = yes` | 41 of 970 (some `line_items` / `tax_amount` were dropped during labelling) |
-
-Consequence: if a label is wrong, a correct model prediction is scored as an error. To control this we
-add a **label audit step** (Phase 0) and report scores on label-quality slices (Section 6.4).
-
-### 2.2 Observed value formats
-
-- `date` is stored **as printed** on the receipt. 8+ patterns exist (`24/05/2017`, `25-04-18`, `11 MAY 2018`,
-  `01/05/16`, `6/2/2017` ...). Scoring therefore needs a date normaliser (Section 6.2).
-- Amounts are strings with 2 decimals (`"60.30"`); `unit_price` sometimes has 3 (`"9.000"`).
-  Negative amounts exist (`"-9.99"`, for discounts/rounding).
-- In line items, `quantity` is mostly an integer (rarely a float or `null`), `unit_price` may be `null`
-  (about 29% of items), `amount` is always a string.
-- Null rates in train: `service_charge` 94%, `line_items` 16%, `tax_number` 5.5%, `tax_amount` 5.5%.
-  Because `service_charge` is almost always null, **null-handling accuracy matters as much as reading accuracy**.
-- Image sizes vary widely, from about 443x959 to 4961x7016 pixels. Images are resized to a bounded
-  resolution before inference (Section 5.2).
-
----
-
-## 3. High-level flow
+## Where everything is
 
 ```
-                      +------------------------------+
- train/receipt_images |                              |   outputs/<run>/receiptN.json
- (600 images)  ---->  |  Qwen3-VL-4B  +  prompt      | ---------------------------->  evaluate.py
-                      |  (JSON schema, greedy decode)|                                   |
-                      +------------------------------+                                   v
-                                                         train/receipt_labeled_text/ --> results/<run>/
-                                                                (labels)                  scores + error report
-                                                                                              |
-                          analyse errors -> improve (prompt / resolution / fine-tune) <-------+
-                                                   |
-                                                   v
-              FINAL: test/receipt_images (370, labels hidden) -> model -> outputs/test_final/
-                                                   |
-                                                   v
-              compare with test labels (only now) -> results/test_final/  (reported accuracy)
-```
-
----
-
-## 4. Project structure (GitHub repository)
-
-```
-VLMOCR_MODEL/  [on GitHub]
-├── train/                      Provided dataset (600 receipt images + labels)
-├── test/                       Provided dataset (370 receipt images + labels, used once at the end)
-├── image_mapping.csv           Traceability to original files
-├── labeled_text_sources.csv    Label provenance and review flags
-├── split_mapping.csv           Train/test assignment
-│
+Clean Dataset/                       (on GitHub: mohit6603/ccp)
+├── README.md
+├── requirements.txt                 exact Python packages used (Apple Silicon Mac)
+├── train/receipt_images/            600 input images (receiptN.jpg)
+├── train/receipt_labeled_text/      600 labels (receiptN.json)
+├── test/receipt_images/             370 input images, run once at the end
+├── test/receipt_labeled_text/       370 labels, read only by the final scoring
+├── metadata/                        label-fix log and rules, mapping to the original SROIE files
 ├── src/
-│   ├── prompt_v1.txt           Baseline prompt (new prompts: prompt_v2.txt, ...)
-│   ├── inference.py            Run model on a folder of images -> one JSON per image
-│   ├── evaluate.py             Compare generated JSONs with labels -> scores (to be written)
-│   ├── make_audit_sample.py    Selects the receipts for the label audit (fixed seed)
-│   ├── make_colab_package.py   Rebuilds the Colab zips and notebook
-│   └── (finetune script)       Colab notebook, added only if fine-tuning is needed
-│
-├── colab/
-│   └── run_on_colab.ipynb      Google Colab T4 notebook for inference + fine-tuning
-│
-├── label_audit/                Phase 0 audit notes; corrected labels stored separately
-├── README.md                   This file
-├── requirements.txt            Python dependencies
-└── .gitignore                  Excludes: .venv, models, outputs, results, *.zip
+│   ├── prompt_v1.txt                baseline prompt (field definitions)
+│   ├── prompt_v2.txt                improved prompt (rules learned from the train errors)
+│   ├── prompt_ft.txt                one-sentence instruction used with the fine-tuned model
+│   ├── dev100.txt                   the 100 dev receipts (every 6th train receipt)
+│   ├── run_model.py                 runs the model on a split -> one JSON per image
+│   ├── evaluate.py                  compares outputs with labels -> scores
+│   ├── make_finetune_data.py        builds the fine-tuning data from the train split
+│   └── finetune.py                  LoRA fine-tuning on this Mac
+├── finetune/                        fine-tuning data: train.jsonl (498), valid.jsonl (99), images/ (not in git; rebuilt by make_finetune_data.py)
+├── models/
+│   ├── Qwen3-VL-4B-Instruct/        official weights, 8.3 GB (not in git, see Setup)
+│   ├── Qwen3-VL-4B-Instruct-8bit/   8-bit MLX conversion used by every run, 4.8 GB (not in git, see Setup)
+│   ├── lora_v1/                     fine-tuning log and settings; the adapters epoch1/ and epoch2/ are not in git (see Setup)
+│   └── download_retry.sh            download script for the official weights
+├── outputs/<run>/receiptN.json      model output, same name as the input image
+├── outputs/<run>/raw/receiptN.txt   raw model text for every image
+├── outputs/<run>/timing.csv         seconds, tokens and memory per image
+├── outputs/<run>/run_config.json    model, adapter, prompt and settings of the run
+└── results/<run>/                   summary.csv, per_field.csv, per_receipt.csv, errors.csv, line_items.csv
 ```
 
-**Where is what (on GitHub):**
-- Input data: `train/receipt_images/` and `test/receipt_images/`
-- Labels (reference answers): `train/receipt_labeled_text/` and `test/receipt_labeled_text/`
-- Audit progress: `label_audit/audit_notes.csv` and `audit_sample.csv`
-- Code: `src/*.py`
+The runs in `outputs/` and `results/` are:
+- train_baseline
+- dev100_prompt_v2
+- dev100_lora_v1_ep1
+- dev100_lora_v1_ep2
+- test_final
 
-Original labels are never overwritten. Any label correction is stored in `label_audit/`.
+Any receipt can be traced end to end by its name. For example, receipt1 of the final test run:
 
----
+| Stage | Location |
+|---|---|
+| Input image | `test/receipt_images/receipt1.jpg` |
+| Model output | `outputs/test_final/receipt1.json` (raw text in `outputs/test_final/raw/receipt1.txt`) |
+| Label | `test/receipt_labeled_text/receipt1.json` |
+| Score | `results/test_final/per_receipt.csv`, the rows for receipt1 |
+| Mistakes only | `results/test_final/errors.csv` |
 
-## 4.1 What's NOT on GitHub (and why)
+## Setup
 
-The following are excluded from the GitHub repository because they are generated/local-only or too large:
+These steps are needed once on a new machine.
 
-| Folder/File | Size | Reason | How to recreate |
-|---|---|---|---|
-| `.venv/` | ~500MB | Python virtual environment (user-specific) | `python -m venv .venv && pip install -r requirements.txt` |
-| `models/` | ~9GB | Model weights (Qwen3-VL-4B-Instruct) | Run `colab/run_on_colab.ipynb` Cell 1, or download manually from Hugging Face |
-| `outputs/` | Variable | Generated model outputs (receipts JSONs after running inference) | Run inference on Colab (Phase 1) or locally via `src/inference.py` |
-| `results/` | Variable | Evaluation metrics and error analysis | Run `src/evaluate.py` after generating outputs |
-| `colab/*.zip` | 538MB | Pre-packaged training/test images for Colab upload | Auto-generated by `src/make_colab_package.py` |
+**What you need:**
+- An Apple Silicon Mac (M1 or newer). MLX runs only on Apple Silicon. On other computers only the scoring runs; see [Replicating on another machine](#replicating-on-another-machine).
+- 16 GB of memory for fine-tuning. Running the model needs about 7 GB.
+- About 20 GB of free disk space.
 
-**Clone & Setup:**
+Versions used:
+- Python 3.13.13
+- mlx 0.32.4
+- mlx-vlm 0.7.11 (with transformers 5.22.1)
+- rapidfuzz 3.14.6
+- huggingface_hub 2.4.0
+
+`requirements.txt` pins every package at the exact version used.
+
 ```bash
 git clone https://github.com/mohit6603/ccp.git
 cd ccp
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-# Model weights download on first run of inference
+python3.13 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+
+# official weights (bash models/download_retry.sh does the same and retries until both files are complete)
+.venv/bin/hf download Qwen/Qwen3-VL-4B-Instruct --local-dir models/Qwen3-VL-4B-Instruct
+shasum -a 256 models/Qwen3-VL-4B-Instruct/model-0000*-of-00002.safetensors
+
+# 8-bit MLX conversion (group size 64)
+.venv/bin/mlx_vlm.convert --hf-path models/Qwen3-VL-4B-Instruct --mlx-path models/Qwen3-VL-4B-Instruct-8bit -q --q-bits 8
+shasum -a 256 models/Qwen3-VL-4B-Instruct-8bit/model.safetensors
 ```
 
----
+Expected checksums. They were checked after the download and again on 2026-11-01. If the 8-bit checksum differs, the conversion is not identical and some outputs may differ slightly.
 
-## 5. Implementation plan
+| File | sha256 |
+|---|---|
+| `Qwen3-VL-4B-Instruct/model-00001-of-00002.safetensors` | `30a01a0556622645a3cce87b655bbbbbc1f170c196099f1b666c93202c3339a9` |
+| `Qwen3-VL-4B-Instruct/model-00002-of-00002.safetensors` | `046296a2a387efb43b0c997d5833c789604d168834f6e0d3064bf7bb13d002a6` |
+| `Qwen3-VL-4B-Instruct-8bit/model.safetensors` (the conversion) | `b3d9193e10e795bc09572ddbf779c3cdb9e1d7e6c42556f5e15d0d048bf4e55f` |
 
-### Phase 0 - Setup, smoke test and label audit
-1. Create a Python virtual environment; install PyTorch (CPU) and Hugging Face Transformers.
-2. **Smoke test:** run the model on a few training images to measure seconds per image and memory use,
-   and to check that the output is parseable JSON. Done on the laptop CPU with one image (result in
-   Section 5.2: too slow for the full runs); repeated on a Colab T4 with 5 images before the baseline.
-3. **Label audit:** visually compare labels with the receipt images for a sample, to estimate the true
-   label error rate:
-   - all 41 receipts with `needs_review = yes`
-   - a random sample of about 40 receipts with `label_source = generated_from_ocr_text`
-   - a random sample of about 20 receipts with `label_source = ground_truth`
-   
-   Disagreements are logged in `label_audit/`; suspected label errors are flagged for the project owner to
-   confirm. The audit is sample-based (not all 970), because exhaustive visual checking is slow and
-   itself error-prone. After the baseline, receipts where model and label disagree are the best
-   candidates for a second review. The measured label error rate gives the practical accuracy ceiling.
+**The fine-tuned adapter.** The adapter folders `models/lora_v1/epoch1/` and `epoch2/` are not in git. Each holds a 132 MB file, and GitHub refuses files over 100 MB. There are two ways to get them:
+- copy the two folders from the original Mac into `models/lora_v1/`; or
+- retrain them with the fine-tuning commands under [How to run](#how-to-run), which takes about 7 hours on an M5 with 16 GB.
 
-### Phase 1 - Baseline on the 600 training images (Colab T4, zero-shot)
-1. Prompt contains the exact JSON schema, the null rule, and the format rules from Section 1.
-2. Deterministic decoding (no sampling) so that runs are reproducible.
-3. For each image the response is parsed and saved as `outputs/train_baseline/receiptN.json`
-   (same base name as the input). The raw text goes to `raw/`. If JSON parsing fails, the receipt is
-   recorded as invalid (counted in the validity metric, not silently repaired).
-4. The script is **resumable**: it skips receipts whose output already exists, so a run can be stopped
-   (or interrupted by a Colab disconnect) and continued.
-5. `run_config.json` records everything needed to reproduce the run.
+A retrained adapter can differ slightly from the original.
 
-### Phase 2 - Evaluation
-`evaluate.py` compares every `outputs/<run>/receiptN.json` with its label and writes the results to
-`results/<run>/`. Metrics are defined in Section 6.
+## How to run
 
-### Phase 3 - Error analysis and improvement
-Errors are grouped by field and by cause (misread digits, wrong field picked, hallucinated value where
-the label is null, missed value, invalid JSON, label error). Improvements are tried in this order,
-cheapest first, and each is a separate, named run compared against the baseline:
-1. **Prompt:** clearer field definitions, explicit null rule, examples of tricky cases.
-2. **Image resolution:** raise or lower the maximum image size (affects reading of small print vs. speed).
-3. **Output handling:** strict JSON parsing with one controlled retry on invalid output.
-4. **Fine-tuning (LoRA / QLoRA) on Google Colab T4** with the training images and labels, if the above
-   does not reach the target. Notes:
-   - T4 has 16 GB VRAM and no bf16 support, so training runs in fp16 with 4-bit quantised base weights.
-   - To get an honest measure of generalisation, about 80 training receipts are held out as a
-     development set (random, fixed seed) and are not used for training. The zero-shot baseline in
-     Phase 1 still runs on all 600 images, because no training is involved there. The remaining
-     ~520 receipts are used for fine-tuning.
-   - The resulting adapter is downloaded and inference + evaluation continue locally.
-   - Only public/synthetic data goes to Colab. No real customer or card data is ever uploaded.
+Run every command from this folder.
+- Each run writes to `outputs/<run>/` and `results/<run>/`, under its own name.
+- If a run is interrupted, rerunning the same command resumes it.
+- If any setting differs from the run's saved `run_config.json`, the script stops and asks for a new run name.
+- Long runs were started as `caffeinate -s -i <command>`, so that the Mac stays awake. Keep it on power with the lid open.
 
-Every change is judged on the same metrics; a change is kept only if it improves accuracy.
+The final model on the test split, which is what produced the result above:
 
-### Phase 4 - Final test (370 images)
-1. The configuration is **frozen** (model, adapter, prompt, resolution) before touching the test set.
-2. The model receives **only the images**. Test labels are not read by the inference script.
-3. Outputs are written to `outputs/test_final/receiptN.json`.
-4. Only after generation, `evaluate.py` compares them with `test/receipt_labeled_text/` and writes
-   `results/test_final/`.
-5. The test set is used once. It is never used to tune the prompt or the model.
+```bash
+.venv/bin/python src/run_model.py --split test --run test_final --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt
+.venv/bin/python src/evaluate.py --split test --run test_final
+```
 
-### 5.1 Compute
-| Stage | Where | Reason |
+New receipts, with no labels needed. Put the images in any folder. JPG, PNG, WEBP, BMP and TIFF are read; convert iPhone HEIC photos to JPG first.
+
+```bash
+.venv/bin/python src/run_model.py --images-dir ~/Desktop/new_receipts --run new_receipts --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt
+```
+
+- The JSON for each image is written to `outputs/new_receipts/<image name>.json`, and the raw text to `outputs/new_receipts/raw/`.
+- Without labels there is nothing to score, so `evaluate.py` is not used.
+- This was tested on 2026-11-01 with a renamed JPG and a PNG in a folder outside the project. Both outputs were identical to the earlier runs on the same two receipts, at about 14 s per image.
+
+Fine-tuning, then scoring each epoch on dev100. The scoring is shown for epoch 2; epoch 1 is the same with `epoch1` in place of `epoch2`.
+
+```bash
+.venv/bin/python src/make_finetune_data.py --prompt-file src/prompt_ft.txt    # writes finetune/
+.venv/bin/python src/finetune.py --out models/lora_v1 --epochs 2               # about 7 hours
+.venv/bin/python src/run_model.py --split train --run dev100_lora_v1_ep2 --names-file src/dev100.txt --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt
+.venv/bin/python src/evaluate.py --split train --run dev100_lora_v1_ep2 --names-file src/dev100.txt
+```
+
+The exact options of every run:
+
+| Run | `run_model.py` options | `evaluate.py` options |
 |---|---|---|
-| Model inference (baseline runs, improved runs, final test) | Google Colab T4 GPU | Measured: the laptop CPU needs about 250 s per receipt (Section 5.2) |
-| Fine-tuning (only if needed) | Google Colab T4 GPU | Training is not feasible on the laptop |
-| Evaluation, error analysis, label audit, reporting | Local laptop | Lightweight; needs only the generated JSON and the labels |
+| train_baseline | `--split train --no-clean` | `--split train` |
+| dev100_prompt_v2 | `--split train --names-file src/dev100.txt --prompt-file src/prompt_v2.txt` | `--split train --names-file src/dev100.txt` |
+| dev100_lora_v1_ep1 | `--split train --names-file src/dev100.txt --adapter models/lora_v1/epoch1 --prompt-file src/prompt_ft.txt` | `--split train --names-file src/dev100.txt` |
+| dev100_lora_v1_ep2 | `--split train --names-file src/dev100.txt --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt` | `--split train --names-file src/dev100.txt` |
+| test_final | `--split test --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt` | `--split test` |
 
-Local machine: Intel Core i5-1334U (12 threads), 15 GB RAM (about 10 GB free), integrated Iris Xe GPU
-(no CUDA), 361 GB free disk.
+Notes on these options:
+- **train_baseline** was run before the cleanup step existed. `--no-clean` reproduces how it was parsed.
+- **`--names-file`** in `evaluate.py` writes to `results/<run>/` unless `--res-dir` is given. To score train_baseline on dev100 only, add `--res-dir` with a separate folder, so that `results/train_baseline` keeps the full 600-receipt scores.
+- **Quick trials:** `run_model.py` accepts `--limit N` or `--names receipt2 receipt7`, and `evaluate.py --partial` scores only the receipts a run attempted.
 
-**Colab workflow:** `colab/run_on_colab.ipynb` runs the same `src/inference.py` on a T4. Only the code and
-the receipt **images** are uploaded (`colab/VLMOCR_train.zip`; the test images are in a separate
-`colab/VLMOCR_test.zip` that is uploaded only for the final run). Labels are never uploaded to Colab for
-inference. Outputs are written to Google Drive, then copied into `outputs/<run>/` on the laptop for
-evaluation. The run is resumable if Colab disconnects.
+## Replicating on another machine
 
-### 5.2 Measured local CPU speed (why inference moved to Colab)
-Smoke test on the laptop (Qwen3-VL-4B-Instruct, bf16, one 448x992 receipt, 777 input tokens, 234 output
-tokens): **251 s per receipt**, peak RAM about 8.5 GB. At this speed 600 receipts would take about 40 hours.
-The CPU has no native bf16 support (AVX2 / AVX-VNNI only), bf16 matrix multiplication is about 4x slower than
-fp32 in a micro-benchmark, and fp32 (about 16 GB of weights) does not fit in 15 GB of RAM. Quantising to
-8-bit could be faster but was not evaluated, and would require an accuracy check because accuracy is the
-priority.
+**On an Apple Silicon Mac**, after [Setup](#setup), run the final model on the test split under a new run name and score it:
 
-Colab settings (to be confirmed by the first GPU smoke test): fp16 weights (T4 has no native bf16), bounded
-image resolution (receipts are tall and narrow, so small print needs enough pixels), greedy decoding.
+```bash
+.venv/bin/python src/run_model.py --split test --run test_final_check --adapter models/lora_v1/epoch2 --prompt-file src/prompt_ft.txt
+.venv/bin/python src/evaluate.py --split test --run test_final_check
+```
 
----
+- Compare `results/test_final_check/summary.csv` with `results/test_final/summary.csv`.
+- With the same checksums and package versions, the outputs should be the same or very nearly the same. A different Apple chip or macOS version can change a few outputs slightly, through floating-point differences.
+- Use a new run name. `outputs/test_final` is already complete in the repo, so rerunning that name runs nothing.
 
-## 6. Evaluation methodology
+**On any other computer** (Windows, Linux or an Intel Mac), the scores can be recomputed from the saved outputs. Only rapidfuzz is needed:
 
-### 6.1 Metrics
-Each field is scored in two ways, as agreed:
+```bash
+python -m venv .venv
+.venv/bin/pip install rapidfuzz==3.14.6        # Windows: .venv\Scripts\pip install rapidfuzz==3.14.6
+.venv/bin/python src/evaluate.py --split test --run test_final --res-dir results_check/test_final
+```
 
-1. **Exact match (after normalisation)** - strict.
-2. **Fuzzy match** - for text fields, similarity of at least 0.95 counts as correct, and the mean
-   similarity is also reported. For numeric fields, fuzzy equals exact.
+This gives the same numbers as `results/test_final/`, without running the model.
 
-| Level | Metric |
+Running the model itself on such a computer needs a different runtime, because this code uses MLX, which works only on Apple Silicon. An earlier version of this project measured 251 s per receipt with PyTorch on an Intel Core i5 CPU. That is about 26 hours for the test split.
+
+## Model and pipeline
+
+- **Weights:** Qwen3-VL-4B-Instruct, from the official Qwen organisation page on Hugging Face (Apache 2.0 license). Every run uses the 8-bit MLX conversion.
+- **Images:**
+  - rotated upright from the EXIF data and converted to RGB;
+  - scaled down to at most about 1 megapixel, with sides that are multiples of 32, which gives at most 1,024 image tokens;
+  - never scaled up.
+- **Decoding:** greedy (temperature 0) with at most 2,048 output tokens, so runs are repeatable.
+- **Prompt:** the fine-tuned model gets the one-sentence instruction in `src/prompt_ft.txt`. It learned the label conventions from the training labels. The runs without fine-tuning used the longer rule-based prompts `prompt_v1.txt` and `prompt_v2.txt`.
+- **Output check:**
+  - The answer must be JSON with exactly the 8 keys, and every line item must have exactly description, quantity, unit_price and amount.
+  - An invalid answer gets no `receiptN.json`. Its raw text is always kept in `raw/`.
+- **Cleanup:** from prompt_v2 on, valid answers go through a formatting-only cleanup (`clean_values` in `run_model.py`). It removes:
+  - currency symbols and tax letters from amounts ("RM6.69" becomes "6.69");
+  - label text before the GST number ("GST REG #");
+  - registration numbers in brackets after the company name;
+  - "@ price" or "##" after item names.
+
+  A key the model leaves out becomes null, and the string "null" becomes null. No train label contains any of the removed text. train_baseline was scored without cleanup.
+- **Adapter check:** mlx-vlm skips adapter weights whose names don't match, without any error. So `run_model.py` checks that all 504 adapter tensors are in the model before the first image, and stops if not.
+- **Speed:** about 21 s per receipt for the test run, 2.2 hours for 370 receipts, with peak memory 6.4 GB.
+
+## Fine-tuning
+
+| Setting | Value |
 |---|---|
-| Validity | % outputs that are valid JSON; % that follow the schema (keys, types) |
-| Per field | Exact accuracy and fuzzy accuracy for `company, date, address, tax_number, total, tax_amount, service_charge` |
-| Null handling | For each field: correct-null rate, **hallucination rate** (model gives a value, label is null), **miss rate** (model gives null, label has a value) |
-| Line items | Item-level precision, recall and F1 (items matched by description similarity, then compared on quantity, unit price, amount); receipt-level exact match of the whole list |
-| Receipt level | % receipts with all fields correct (strict); average number of wrong fields per receipt |
-| Headline | Macro-average of per-field exact accuracy, plus the receipt-level figure |
+| Method | LoRA on the language model. The vision encoder and the 8-bit base weights stay frozen. |
+| Layers | The q, k, v, o, gate, up and down projections of all 36 language-model layers (252 layers) |
+| Rank, alpha, dropout | 16, 32 (scale 2.0), 0 |
+| Trainable parameters | 33.03 million (0.74% of the model) |
+| Training data | 498 train receipts: the train split minus dev100, and minus receipt443, receipt729 and receipt796, which have near-duplicates in test |
+| Target | The receipt's label JSON (compact, same key order). Loss is computed on the answer tokens only. |
+| Length | 2 epochs, 250 optimizer steps; batch 1 with gradient accumulation 4 |
+| Optimizer | AdamW, no weight decay, seed 0. Learning rate 1e-4 after 10 warm-up steps, then cosine decay to 1e-5. |
+| Memory and time | Gradient checkpointing. Peak 17.2 GB, so macOS used swap on the 16 GB Mac. About 97 s per optimizer step (4 receipts), 7 hours in total. |
+| Validation loss (dev100) | 0.0224 after epoch 1, 0.0181 after epoch 2 |
+| Choice | Epoch 2, which had the higher dev100 overall accuracy (97.29% vs 96.14%) and line-item F1 (84.98% vs 80.14%) |
 
-`line_items` is also reported separately from the scalar fields, because it is the hardest field and
-its labels are the least reliable.
+What `models/lora_v1/` holds:
+- `epoch1/` and `epoch2/`: the adapter after each epoch.
+- `adapters.safetensors`: the final adapter, identical to `epoch2/`.
+- `last/`: a safety copy written every 25 steps.
+- `train_log.csv`: the loss per optimizer step and the validation loss per epoch.
+- `train_config.json`: the training settings.
 
-### 6.2 Normalisation (applied identically to prediction and label)
-- **Text** (`company`, `address`, `tax_number`, item `description`): trim, collapse repeated whitespace,
-  case-insensitive. Punctuation is kept, so differences in punctuation are still reported as errors.
-- **Amounts** (`total`, `tax_amount`, `service_charge`, `unit_price`, `amount`): compared as decimal
-  numbers, so `"9.000"` equals `"9.00"`. Sign is preserved.
-- **Date:** parsed to a calendar date (day-first, 2-digit years expanded, month names recognised) and
-  compared as dates. The raw string comparison is reported as well.
-- **Null:** `null` only matches `null`. An empty string is treated as a non-null value, hence an error.
+Only `train_log.csv` and `train_config.json` are in git; the adapter files are over GitHub's size limit (see [Setup](#setup)).
 
-Normalisation rules are defined once, before the first scoring run, and are not changed afterwards to
-raise scores.
+What `finetune/valid.jsonl` holds: the dev100 receipts except receipt729, a test near-duplicate that is kept out of every fine-tuning file. That leaves 99.
 
-### 6.3 Output artefacts per run (`results/<run>/`)
-- `summary.csv` - headline and per-field metrics
-- `per_receipt.csv` - for each receipt and field: label, prediction, exact flag, fuzzy score
-- `per_field.csv` - null-handling and field-level breakdown
-- `errors.csv` - only the mismatches, for analysis
+## Scoring rules
 
-### 6.4 Label-quality slices
-All metrics are reported for: (a) all receipts, (b) only `ground_truth` labels, (c) excluding
-`needs_review = yes`. This separates model errors from label noise.
+These rules were fixed before the first run and are applied the same way to the model output and the label. The overall accuracy rule was added on 2026-10-31, when the target was agreed with the manager; no other rule changed.
 
----
+- **Overall accuracy (the headline; target above 90%):** the average over the 7 single-value fields.
+  - Company, address and tax_number also count as correct when their letters and digits match after all spaces and punctuation are removed. So "27,JALAN" equals "27, JALAN.", but every letter and digit must still be right.
+  - Date and amounts use the rules below.
+- **Exact accuracy:** the same 7-field average, with punctuation counted.
+  - For text fields (company, address, tax_number), extra spaces and letter case are ignored.
+- **95%-similar accuracy:** the same average, but text fields count as correct when they are at least 95% similar (rapidfuzz ratio). This also forgives one or two misread letters in long text, so it is reported only as a secondary number.
+- **Amounts:** compared as decimal numbers, so "9.000" equals "9.00". Thousands commas are ignored and the sign is kept.
+- **Dates:** compared as calendar dates, so "11/05/2018" equals "11 MAY 2018". Dates are read day first; 2-digit years are expanded and month names are recognised.
+- **Missing values:**
+  - Null only matches null, and an empty string counts as a value.
+  - A model value where the label is null counts as a hallucination.
+  - A null where the label has a value counts as a miss.
+- **Invalid output:** a receipt whose output is not valid JSON counts as wrong on every field.
+- **Line items:**
+  - Each label item is paired with at most one predicted item: the most similar description, with the amount as tie-break.
+  - An item is correct when its description is at least 95% similar and its quantity, unit price and amount are all equal.
+  - Precision is correct items over predicted items. Recall is correct items over label items.
+  - A receipt's line items are right only when every item is correct and there are no extra items.
+- **All 8 fields right:** the 7 single-value fields under the exact rule, plus fully correct line items.
 
-## 7. Data handling and compliance
+## Data handling
 
-- The dataset consists of receipt images and derived JSON; it is treated as public benchmark data and used
-  for internal evaluation only until its terms of use are verified (Section 9).
-- No real card numbers (PAN), CVV, expiry dates or personal identifiers are to be processed. If any
-  real sensitive data is found in an image or label, work stops and the data is sanitised first.
-- Any ISG or customer data used later must be synthetic or sanitised before being used with the model
-  or uploaded to Colab.
-- Model weights are downloaded from the official Qwen organisation page only. Files in this project
-  are stored locally.
+- **Local only:** all processing ran on one Apple Silicon Mac, and no receipt was sent to an online model or API. The only download was the model weights, from the official Qwen organisation page on Hugging Face (checksums under [Setup](#setup)).
+- **Test labels:** first read by the scoring of test_final, after the model was frozen. The prompt, the cleanup and the epoch were all chosen on train receipts or dev100, and nothing was changed after the test run. Re-scoring the saved outputs, for example to replicate the result, changes nothing.
+- **Training data:** fine-tuning never saw dev100 or the three train receipts that have near-duplicates in test.
+- **Dataset terms:** the receipts come from the public SROIE benchmark (ICDAR 2019). Its terms of use have not been confirmed, so check them before using the data or the fine-tuned adapter beyond internal evaluation.
 
----
+## Dataset notes
 
-## 8. Reproducibility
+- **Labels:** the labels in `train/` and `test/` are the corrected ones. All 970 were checked against their images on 2026-10-30, and 437 receipts were corrected (279 train, 158 test).
+  - Every change, with the old value, the new value and the reason, is in `metadata/label_fix_log.csv`.
+  - The rules used are in `metadata/label_fix_summary.md`.
+  - The original labels are in this repository's history, at commit `876dabf`.
+- **Mapping files** in `metadata/`:
+  - `image_mapping.csv`: the original SROIE file name of each receipt.
+  - `split_mapping.csv`: the train/test assignment.
+  - `labeled_text_sources.csv`: where each original label came from.
+- **Duplicates:** three train/test pairs are near-duplicates.
+  - receipt443 and receipt442 are the same receipt.
+  - receipt796 and receipt249 are the same receipt.
+  - receipt729 and receipt746 are consecutive receipts with identical content.
 
-- Greedy decoding, fixed random seed for any sampling-dependent step (train/dev split, audit sample).
-- Each run stores `run_config.json`: model identifier and version, adapter (if any), prompt text, image
-  resolution, decoding settings, library versions, date and time.
-- Run names are explicit (`train_baseline`, `train_prompt_v2`, `train_lora_v1`, `test_final`).
+  All of them stay in the dataset. The three train receipts are left out of the fine-tuning data, so the test score is not inflated.
+- **Address spacing:** address labels are not consistent about the space after a comma; both "27,JALAN" and "27, JALAN" occur. Most exact-rule address mismatches come from this kind of spacing or punctuation difference, which is why the headline rule ignores spaces and punctuation.
+- **Known label limitations:**
+  - receipt531 and receipt948 have blanked item names.
+  - receipt663 has a faded date.
+  - receipt580 has an unclear digit in its GST number.
 
----
+## All runs
 
-## 9. Assumptions, risks and open items
+**Overall** is the headline rule, **Exact** counts punctuation, and **95% similar** forgives small misreads in long text (see [Scoring rules](#scoring-rules)). All three are in each run's `results/<run>/summary.csv`.
 
-**Decisions agreed with project owner**
-- A missing field is stored as `null`.
-- Both exact (normalised) and fuzzy matching are reported.
-- Colab T4 is used for model inference and fine-tuning; the laptop for evaluation. (Originally local CPU
-  inference was chosen; changed after the measured 251 s per receipt, Section 5.2.)
-- The 41 `needs_review = yes` receipts are scored and also reported separately (Section 6.4).
-- About 80 training receipts are held out as a development set if fine-tuning happens (Section 5, Phase 3).
-- Label audit is sample-based (about 100 receipts), with follow-up on model/label disagreements.
+| Run | Receipts | Setup | Valid JSON | Overall | Exact | 95% similar | Line-item F1 | Notes |
+|---|---|---|---|---|---|---|---|---|
+| train_baseline | train, 600 | prompt v1, no cleanup | 99.83% | **90.02%** | 86.64% | 92.07% | 36.11% | 3.7 h, 22 s per receipt, peak memory 6.1 GB |
+| train_baseline, dev100 only | train, 100 | prompt v1, no cleanup | 100% | **91.00%** | 87.57% | 93.43% | 31.00% | the train_baseline outputs scored on the dev100 receipts only, for comparison; no results folder of its own (see the `--res-dir` note under [How to run](#how-to-run)) |
+| dev100_prompt_v2 | train, 100 | prompt v2, cleanup | 100% | **91.86%** | 87.86% | 94.43% | 47.99% | best result without fine-tuning |
+| dev100_lora_v1_ep1 | train, 100 | fine-tuned (epoch 1), cleanup | 100% | **96.14%** | 92.43% | 97.14% | 80.14% | |
+| dev100_lora_v1_ep2 | train, 100 | fine-tuned (epoch 2), cleanup | 100% | **97.29%** | 94.14% | 98.14% | 84.98% | best on every measure; chosen as the final model; 21 s per receipt |
+| **test_final** | **test, 370** | fine-tuned (epoch 2), cleanup | 99.73% | **96.22%** | 92.47% | 97.45% | 83.42% | final result, run once; 2.2 h, peak memory 6.4 GB |
 
-**Open items (to be checked before or during Phase 0)**
-- ~~Qwen3-VL-4B-Instruct license~~ - closed: the official Hugging Face model card lists `apache-2.0`
-  (checked 2026-10-29; the full LICENSE text was not read).
-- SROIE dataset terms of use: could not be confirmed; check on the original dataset host. Until then the
-  data is used for internal evaluation only.
-- Whether Colab upload of the receipts is acceptable under company policy (the receipts are public
-  benchmark data, but this is to be confirmed by the project owner).
+The dev100 per-field overall accuracy, before and after fine-tuning:
 
-**Risks**
-| Risk | Mitigation |
-|---|---|
-| Labels generated from OCR text may be wrong, which lowers measured accuracy | Label audit; slice reporting; flagged disagreements reviewed |
-| `line_items` labels dropped when unreliable, so `null` may hide real items | Report `line_items` separately; check in audit |
-| Laptop CPU inference is far too slow (measured 251 s per receipt) | Inference runs on Colab T4; evaluation stays local |
-| Colab free-tier limits (GPU quota, session disconnects) | Resumable runs with outputs saved to Google Drive; GPU smoke test first |
-| fp16 on T4 could behave differently from the CPU bf16 run | 5-image GPU smoke test checks output validity before the full run |
-| Lower precision (8-bit) could reduce accuracy | Compare against 16-bit on a sample before adopting |
-| Fine-tuning on 600 samples may overfit | Held-out dev set; test set used once |
-| Zero-shot accuracy of a 4B model on receipts is unknown; public evidence is thin | Baseline measured first; improvements decided by data |
+| Field | prompt v2, no fine-tuning | fine-tuned (epoch 2) |
+|---|---|---|
+| company | 86% | 98% |
+| date | 97% | 98% |
+| address | 83% | 94% |
+| tax_number | 87% | 95% |
+| total | 93% | 99% |
+| tax_amount | 97% | 98% |
+| service_charge | 100% | 99% |
 
----
+## Known limitations
 
-## 10. Deliverables
+- **Receipt type:** the test receipts come from the same collection as the training receipts: SROIE, Malaysian shop receipts, mostly scanned, with Malaysian 12-digit GST numbers. Accuracy on other kinds of receipt has not been measured. That includes:
+  - other countries and tax-number formats;
+  - phone photos;
+  - handwriting;
+  - other languages.
 
-1. Generated JSON for every training image (`outputs/train_baseline/` and later runs).
-2. Evaluation reports for every run (`results/<run>/`).
-3. Error analysis and the list of improvements tried, with their measured effect.
-4. Final JSON outputs for the 370 test images (`outputs/test_final/`) and the final accuracy report
-   (`results/test_final/`).
-5. This README, kept up to date with the final configuration and results.
-
----
-
-## 11. Progress log (Updated 2026-10-30)
-
-### Phase 0 - Setup & Validation: ✅ COMPLETE
-
-**Completed (2026-10-29 to 2026-10-30)**
-1. ✅ Python environment setup + virtual environment configured
-2. ✅ Model downloaded (Qwen3-VL-4B-Instruct, 9GB, weights SHA-256 verified)
-3. ✅ `src/inference.py` implemented and tested
-4. ✅ `src/prompt_v1.txt` baseline prompt created and tested
-5. ✅ Smoke test on 10 training images completed
-   - All 10 outputs: valid JSON ✅
-   - Timing: 170-574 seconds per image on CPU (average ~370s)
-   - Conclusion: CPU too slow for 600 images; Colab T4 required
-6. ✅ Colab T4 package built (`colab/run_on_colab.ipynb` + zips)
-7. ✅ Repository created and pushed to GitHub
-   - All source code committed (1,953 files)
-   - Large files excluded (.venv, models, outputs, results, *.zip)
-   - SSH access configured for future updates
-8. ✅ Label audit started: 9 of 101 receipts reviewed (9/101)
-   - 6 labels match receipt images ✅
-   - 2 match with minor whitespace differences ⚠️
-   - 1 confirmed label error (line_items null when items present) ❌
-
-### Early Model Findings (10-image test)
-- ✅ Company name extraction: Accurate
-- ✅ Date extraction: Accurate (handles multiple formats)
-- ✅ Total amount: Accurate
-- ✅ Line items: Correctly identified and structured
-- ⚠️ Tax/service charge: Model hallucinating values when label is null
-- ⚠️ Address: Minor whitespace normalization needed
-- ✅ JSON output validity: 10/10 valid (100%)
-
-### What's Different from Initial Plan
-- **Speed decision:** Changed from local CPU to Colab T4 after measuring 251 s/image (40+ hours for 600)
-- **Repository:** Code now on GitHub for collaboration and version control
-- **Documentation:** Comprehensive README created for team understanding
-- **Cleanup:** Removed unnecessary files to keep repo clean and manageable
-
-### Next Steps (Immediate)
-
-**Phase 1 - Baseline Inference (Est. 1 day)**
-1. Run 5-image GPU smoke test on Colab (`colab/run_on_colab.ipynb` Cell 4) - verify speed & validity
-2. Run baseline on all 600 training images on Colab T4
-   - Expected: ~20-30 seconds per image = ~3-4 hours total
-   - Outputs saved to `outputs/train_baseline/`
-3. Download results from Google Drive to local machine
-
-**Phase 2 - Evaluation (Est. 1 day)**
-1. Write `src/evaluate.py` - implement scoring metrics from Section 6
-2. Score all 600 baseline outputs against ground truth labels
-3. Generate error reports and accuracy breakdown by field
-4. Analyze null-handling accuracy (hallucinations vs misses)
-
-**Phase 3 - Error Analysis & Improvements (Est. 3-5 days)**
-1. Identify error patterns (most common mistakes)
-2. Try improvements (in order of cost):
-   a. Better prompt (address hallucination issues first)
-   b. Adjust image resolution
-   c. Implement output retry logic
-   d. Fine-tuning if needed
-3. Each improvement = separate run + re-evaluation
-
-**Phase 4 - Final Test (Est. 1 day)**
-1. Freeze configuration (model, prompt, parameters)
-2. Run on 370 test images (labels remain hidden)
-3. Download outputs
-4. Score against test labels (one-time evaluation)
-5. Generate final accuracy report
-
-### Timeline to Completion
-| Phase | Task | Status | Est. Duration | Target Date |
-|---|---|---|---|---|
-| 0 | Setup, smoke test, audit | ✅ Complete | 2 days | 2026-10-30 |
-| 1 | Baseline inference on 600 images | ⏳ Ready | 1 day | 2026-10-31 |
-| 2 | Evaluation & metrics | ⏳ Ready | 1 day | 2026-11-01 |
-| 3 | Error analysis & improvements | 🔄 Planned | 3-5 days | 2026-11-04 |
-| 4 | Final test on 370 images | 🔄 Planned | 1 day | 2026-11-05 |
-
-**Total: ~1 week from setup to final results**
-
-### Key Metrics to Track
-- JSON validity rate (% valid outputs)
-- Per-field accuracy (exact + fuzzy match)
-- Null handling accuracy (hallucination rate important!)
-- Line items extraction F1 score
-- Receipt-level all-fields-correct rate
-
----
-
-## 12. Continuing on another machine (for example a MacBook)
-
-Copy the project folder **without** `.venv/` (laptop-specific) and `models/` (about 9 GB of weights, only needed
-for local model runs).
-1. Install Python 3.10 or newer, create a virtual environment, then `pip install -r requirements.txt`
-   (enough for evaluation, label audit and reporting).
-2. Model inference runs on Colab: upload `colab/VLMOCR_train.zip` to Google Drive folder `MyDrive/VLMOCR/`
-   and open `colab/run_on_colab.ipynb` (Section 5.1). `python src/make_colab_package.py` rebuilds the zips
-   if the images or code change.
-3. Copy the Colab outputs from Drive into `outputs/<run>/` in this project, then evaluate locally.
+  The model will still return JSON for such receipts, but expect lower accuracy, especially for tax_number and line items. Before quoting a number for a new kind of receipt, label 30 to 50 of them and score them.
+- **One invalid output:** in test_final, receipt81 is not valid JSON. The model left out one line item's amount and started the next item without closing the previous one. As the scoring rules say, it counts as wrong on every field. Nothing was changed after the test run.
+- **Address is the weakest field:** 87.84% overall and 64.32% exact on test.
+- **Line items:** 75.95% of test receipts have every line item right.
+- **Test vs dev100:** the test score is about 1 point below dev100 (96.22% vs 97.29%), which is expected for new receipts.

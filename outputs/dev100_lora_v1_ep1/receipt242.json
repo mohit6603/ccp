@@ -1,0 +1,29 @@
+{
+    "company": "GOLDEN ARCHES RESTAURANTS SDN BHD",
+    "date": "25/12/2016",
+    "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "L FILETOFISH",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "21.18"
+        },
+        {
+            "description": "6NUGGETS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.10"
+        },
+        {
+            "description": "SMALL CONE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.00"
+        }
+    ],
+    "total": "29.30",
+    "tax_amount": "1.66",
+    "service_charge": null
+}

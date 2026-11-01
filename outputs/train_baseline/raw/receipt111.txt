@@ -1,0 +1,17 @@
+{
+  "company": "SOLARIS Dutamas",
+  "date": "14/01/2018",
+  "address": "Level G2,Block D1, Solaris Dutamas, No.1, Jalan Dutamas 1, 50480 Kuala Lumpur.",
+  "tax_number": "000377700352",
+  "line_items": [
+    {
+      "description": "Parking Fee",
+      "quantity": 1,
+      "unit_price": "RM4.00",
+      "amount": "3.77"
+    }
+  ],
+  "total": "4.00",
+  "tax_amount": "23",
+  "service_charge": null
+}

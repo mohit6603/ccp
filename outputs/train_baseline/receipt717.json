@@ -1,0 +1,23 @@
+{
+    "company": "Gerbang Alaf Restaurants Sdn Bhd",
+    "date": "11/03/2018",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "2 ChocTop",
+            "quantity": 2,
+            "unit_price": "4.00",
+            "amount": "4.00"
+        },
+        {
+            "description": "1 McFlurryOreos",
+            "quantity": 1,
+            "unit_price": "4.50",
+            "amount": "4.50"
+        }
+    ],
+    "total": "8.50",
+    "tax_amount": "0.48",
+    "service_charge": null
+}

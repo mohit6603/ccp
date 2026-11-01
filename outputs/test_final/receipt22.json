@@ -1,0 +1,17 @@
+{
+    "company": "TEO HENG STATIONERY & BOOKS",
+    "date": "17/01/2018",
+    "address": "NO.53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN",
+    "tax_number": "000689913856",
+    "line_items": [
+        {
+            "description": "LION FILE 220*307 LAMINATING FILM",
+            "quantity": 1,
+            "unit_price": "28.00",
+            "amount": "26.00"
+        }
+    ],
+    "total": "27.55",
+    "tax_amount": "1.56",
+    "service_charge": null
+}

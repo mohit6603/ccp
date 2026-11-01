@@ -1,0 +1,1 @@
+{"company": "HIGH FIVE ENTERPRISE", "date": "05/04/18", "address": "JALAN BIDARA, TAMAN BIDARA, SELAYANG 68100, BATU CAVES, SELANGOR", "tax_number": "001215471616", "line_items": [{"description": "FUELSAVE 95", "quantity": 43.4, "unit_price": "2.200", "amount": "95.48"}], "total": "95.48", "tax_amount": "0.00", "service_charge": null}

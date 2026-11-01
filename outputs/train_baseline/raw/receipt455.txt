@@ -1,0 +1,17 @@
+{
+  "company": "KFA SUPPLY",
+  "date": "27/05/2018",
+  "address": "125A TINGKAT BAWAH PT 1961 JALAN MALINJA SITE B 45400 SEKINCHAN SELANGOR",
+  "tax_number": "002126950400",
+  "line_items": [
+    {
+      "description": "STAR 74CM x79CM 10KEPING",
+      "quantity": 1,
+      "unit_price": "11.60",
+      "amount": "11.60"
+    }
+  ],
+  "total": "11.60",
+  "tax_amount": "0.66",
+  "service_charge": null
+}

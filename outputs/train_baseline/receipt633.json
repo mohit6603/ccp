@@ -1,0 +1,47 @@
+{
+    "company": "OLDTOWN WHITE COFFEE",
+    "date": "22 Mar 18",
+    "address": "Old Town Kopitiam Sdn Bhd (716269-X) Sri Rampai",
+    "tax_number": "000801587200",
+    "line_items": [
+        {
+            "description": "ST30",
+            "quantity": 1,
+            "unit_price": "13.87",
+            "amount": "13.87"
+        },
+        {
+            "description": "BR10 Stm Ginger R",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        },
+        {
+            "description": "TF2 (H) Teh Tarik",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        },
+        {
+            "description": "HS4",
+            "quantity": 1,
+            "unit_price": "12.07",
+            "amount": "12.07"
+        },
+        {
+            "description": "SN5 Curry Mee",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        },
+        {
+            "description": "TF7 (C) Lemon T",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        }
+    ],
+    "total": "30.25",
+    "tax_amount": "1.71",
+    "service_charge": "2.59"
+}

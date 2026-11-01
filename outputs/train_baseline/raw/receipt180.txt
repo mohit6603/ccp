@@ -1,0 +1,17 @@
+{
+  "company": "BHPetrol Palembang",
+  "date": "24-03-2018",
+  "address": "Lot 1626, Mukim Kampung Laut Tumpat 16200 Palembang, Kelantan",
+  "tax_number": null,
+  "line_items": [
+    {
+      "description": "PPF",
+      "quantity": 6,
+      "unit_price": "1.000",
+      "amount": "6.00"
+    }
+  ],
+  "total": "6.00",
+  "tax_amount": null,
+  "service_charge": null
+}

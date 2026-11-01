@@ -1,0 +1,1 @@
+{"company": "DION REALTIES SDN BHD", "date": "28/05/18", "address": "KENARA DION #02-03, LEVEL 2, 27, JALAN SULTAN ISMAIL, 50250 KUALA LUMPUR.", "tax_number": "000850247680", "line_items": [{"description": "PAY PARKING TICKET", "quantity": null, "unit_price": null, "amount": "5.00"}], "total": "5.00", "tax_amount": "0.28", "service_charge": null}

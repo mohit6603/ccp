@@ -1,0 +1,47 @@
+{
+  "company": "TED HENG STATIONERY & BOOKS",
+  "date": "12/02/2018",
+  "address": "NO. 53, JALAN BESAR, 45600 BATANG BERUNTAI SELANGOR DARUL EHSAN",
+  "tax_number": "000689913856",
+  "line_items": [
+    {
+      "description": "- IK YELLOW 70GRAMS",
+      "quantity": 10,
+      "unit_price": "10.57",
+      "amount": "105.66"
+    },
+    {
+      "description": "- PAPYRUS DARK COLOUR PAPER",
+      "quantity": 1,
+      "unit_price": "17.45",
+      "amount": "17.45"
+    },
+    {
+      "description": "- ARTLINE 70",
+      "quantity": 1,
+      "unit_price": "2.70",
+      "amount": "2.70"
+    },
+    {
+      "description": "- CBE HANDYCUTTER",
+      "quantity": 2,
+      "unit_price": "0.85",
+      "amount": "1.70"
+    },
+    {
+      "description": "- CBE A4 SIZE 20 POCKETS REFILLABLE NEW CLEAR HOLDER",
+      "quantity": 1,
+      "unit_price": "8.40",
+      "amount": "8.40"
+    },
+    {
+      "description": "- EAGLE F4 120 NUMBERING FOOLSCAP BOOK",
+      "quantity": 2,
+      "unit_price": "3.96",
+      "amount": "7.92"
+    }
+  ],
+  "total": "153.35",
+  "tax_amount": "8.68",
+  "service_charge": null
+}

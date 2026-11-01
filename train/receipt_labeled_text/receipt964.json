@@ -1,9 +1,76 @@
 {
     "company": "FISH FARM THAI RESTAURANT",
     "date": "01/05/2018",
-    "address": "KM 4, JIN AMPANG, HULU LANGAT, 68000 AMAPNG, SELANGOR",
+    "address": "KM 4, JLN AMPANG, HULU LANGAT, 68000 AMAPNG, SELANGOR",
     "tax_number": "0009 3395 3536",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "FRIED KAMPUNG CHICKEN (1 EKOR)",
+            "quantity": 1,
+            "unit_price": "80.00",
+            "amount": "80.00"
+        },
+        {
+            "description": "TOMYAM SEAFOOD (MERAH)",
+            "quantity": 1,
+            "unit_price": "40.00",
+            "amount": "40.00"
+        },
+        {
+            "description": "WATERMELON JUICE (BIG)",
+            "quantity": 1,
+            "unit_price": "20.00",
+            "amount": "20.00"
+        },
+        {
+            "description": "ORANGE JUICE (BIG)",
+            "quantity": 1,
+            "unit_price": "20.00",
+            "amount": "20.00"
+        },
+        {
+            "description": "LALA CHILI PASTE (B)",
+            "quantity": 1,
+            "unit_price": "21.00",
+            "amount": "21.00"
+        },
+        {
+            "description": "NASI PUTIH",
+            "quantity": 6,
+            "unit_price": "2.50",
+            "amount": "15.00"
+        },
+        {
+            "description": "BBQ TALAPIA",
+            "quantity": 1,
+            "unit_price": "84.00",
+            "amount": "84.00"
+        },
+        {
+            "description": "SOTONG STEAM LIME SAUCE",
+            "quantity": 1,
+            "unit_price": "36.00",
+            "amount": "36.00"
+        },
+        {
+            "description": "KACANG BOTOL B.PUTIH (B)",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        },
+        {
+            "description": "TELUR GORENG BAWANG (B)",
+            "quantity": 1,
+            "unit_price": "12.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "BUTTER PRAWN (S)",
+            "quantity": 1,
+            "unit_price": "28.00",
+            "amount": "28.00"
+        }
+    ],
     "total": "412.90",
     "tax_amount": "23.37",
     "service_charge": "18.55"

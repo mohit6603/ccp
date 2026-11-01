@@ -1,0 +1,23 @@
+{
+  "company": "ENW Hardware Centre (M) Sdn. Bhd.",
+  "date": "13/04/2018",
+  "address": "No: G3, Blk G, Jin PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan.",
+  "tax_number": "000155453440",
+  "line_items": [
+    {
+      "description": "S10 Starter.",
+      "quantity": 5.0,
+      "unit_price": "1.00",
+      "amount": "5.00"
+    },
+    {
+      "description": "1L. 6627 Seamaster Super Glo.",
+      "quantity": 1.0,
+      "unit_price": "22.00",
+      "amount": "22.00"
+    }
+  ],
+  "total": "27.00",
+  "tax_amount": "1.53",
+  "service_charge": null
+}

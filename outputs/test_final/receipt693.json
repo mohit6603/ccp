@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "27/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "GUNI BAG",
+            "quantity": 30,
+            "unit_price": "0.74",
+            "amount": "22.26"
+        }
+    ],
+    "total": "22.26",
+    "tax_amount": "1.26",
+    "service_charge": null
+}

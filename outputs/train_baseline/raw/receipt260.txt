@@ -1,0 +1,17 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "21-05-17",
+  "address": "LOT P.T. 2911, JALAN ANESA, TAKAN BERKELEY 41150 KLANG, SELANGOR 1032-SUBANG PERDANA",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "154 AJINOMOTO 1KG",
+      "quantity": 2,
+      "unit_price": "10.40",
+      "amount": "20.80"
+    }
+  ],
+  "total": "20.80",
+  "tax_amount": "1.18",
+  "service_charge": null
+}

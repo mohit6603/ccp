@@ -1,0 +1,17 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "10/03/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "BESI R 5.5 (CQ)",
+            "quantity": 10,
+            "unit_price": "8.48",
+            "amount": "84.80"
+        }
+    ],
+    "total": "84.80",
+    "tax_amount": "4.80",
+    "service_charge": null
+}

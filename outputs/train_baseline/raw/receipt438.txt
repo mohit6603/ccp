@@ -1,0 +1,17 @@
+{
+  "company": "DOMINO'S PIZZA",
+  "date": "08/05/18",
+  "address": "30, Jln Kebudayaan 7, Tmn Universiti 81300 Skudai, Johor",
+  "tax_number": "001694261248",
+  "line_items": [
+    {
+      "description": "1 6\"HT (KB)",
+      "quantity": 1,
+      "unit_price": "15.60",
+      "amount": "15.60"
+    }
+  ],
+  "total": "50.00",
+  "tax_amount": "0.38",
+  "service_charge": null
+}

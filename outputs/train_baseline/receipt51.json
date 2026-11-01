@@ -1,0 +1,17 @@
+{
+    "company": "myNEWS.com",
+    "date": "23/03/2019",
+    "address": "PAGOH REST AND SERVICE AREA LOT K1, KWS REHAT & RAWAT PAGOH ARAH UTARA, SIMPANG AMPAT PAGOH, LEBUHRAYA UTARA SELATAN., 84600,PAGOH,JOHOR",
+    "tax_number": "000709361664",
+    "line_items": [
+        {
+            "description": "JALAN JALAN (Majalah)",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        }
+    ],
+    "total": "10.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

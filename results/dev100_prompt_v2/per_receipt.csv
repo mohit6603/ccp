@@ -1,0 +1,801 @@
+receipt,field,label,prediction,exact,fuzzy_score,date_raw_string_match,overall_match
+receipt2,company,INDAH GIFT & HOME DECO,INDAH GIFT & HOME DECO,1,1.000,,1
+receipt2,date,19/10/2018,19/10/2018,1,1.000,1,1
+receipt2,address,"27, JALAN DEDAP 13, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU, JOHOR.","27,JALAN DEDAP 13, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU,JOHOR.",0,0.984,,1
+receipt2,tax_number,null,050100035279,0,0.000,,0
+receipt2,total,60.30,60.30,1,1.000,,1
+receipt2,tax_amount,null,null,1,1.000,,1
+receipt2,service_charge,null,null,1,1.000,,1
+receipt2,line_items,"[{""description"": ""ST-PRIVILEGE CARD/GD INDAH"", ""quantity"": 1, ""unit_price"": ""10.00"", ""amount"": ""10.00""}, {""description"": ""GF-TABLE LAMP/STITCH <I>"", ""quantity"": 1, ""unit_price"": ""55.90"", ""amount"": ""55.90""}]","[{""description"": ""ST-PRIVILEGE CARD/BD INDAH"", ""quantity"": 1, ""unit_price"": ""10.00"", ""amount"": ""10.00""}, {""description"": ""GF-TABLE LAMP/STITCH <i>"", ""quantity"": 1, ""unit_price"": ""55.90"", ""amount"": ""55.90""}]",1,,,1
+receipt13,company,HOME MASTER HARDWARE & ELECTRICAL,HOME MASTER HARDWARE & ELECTRICAL,1,1.000,,1
+receipt13,date,22/12/2017,22/12/2017,1,1.000,1,1
+receipt13,address,"NO.113G & 115G, JALAN SETIA GEMBILANG U13/BG BANDAR SETIA ALAM, 40170 BANDAR SETIA ALAM, SELANGOR.","NO.113G & 115G, JALAN SETIA GEMBILANG U13/BG BANDAR SETIA ALAM, 40170 BANDAR SETIA ALAM, SELANGOR.",1,1.000,,1
+receipt13,tax_number,001637511168,001637511168,1,1.000,,1
+receipt13,total,15.90,15.90,1,1.000,,1
+receipt13,tax_amount,0.90,0.90,1,1.000,,1
+receipt13,service_charge,null,null,1,1.000,,1
+receipt13,line_items,"[{""description"": ""24MMX7Y M.ONE TAPE"", ""quantity"": 1, ""unit_price"": ""15.90"", ""amount"": ""15.90""}]","[{""description"": ""24MMx7Y M.ONE TAPE"", ""quantity"": 1.0, ""unit_price"": null, ""amount"": ""15.90""}]",0,,,0
+receipt21,company,FUYI MINI MARKET,FUYI MINI MARKET,1,1.000,,1
+receipt21,date,25/01/2018,25/01/2018,1,1.000,1,1
+receipt21,address,"NO 43-45-47G, TAMAN SEJATI, IJOK, 45600 BESTARI JAYA, KUALA SELANGOR.","NO 43-45-47G, TAMAN SEJATI, IJOK, 45600 BESTARI JAYA, KUALA SELANGOR.",1,1.000,,1
+receipt21,tax_number,001601310720,001601310720,1,1.000,,1
+receipt21,total,9.00,9.00,1,1.000,,1
+receipt21,tax_amount,0.51,0.51,1,1.000,,1
+receipt21,service_charge,null,null,1,1.000,,1
+receipt21,line_items,"[{""description"": ""SUMMER CUP 48X230ML"", ""quantity"": 1, ""unit_price"": ""8.49"", ""amount"": ""9.00""}]","[{""description"": ""SUMMER CUP 48X230ML"", ""quantity"": 1, ""unit_price"": ""8.49"", ""amount"": ""9.00""}]",1,,,1
+receipt30,company,AEON CO. (M) BHD,AEON CO. (M) BHD,1,1.000,,1
+receipt30,date,06/03/2018,06/03/2016,0,0.900,0,0
+receipt30,address,"3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR","3RD FLR, AEON TANAH MALLURI SC JLN JEJAKA, TANAH MALLURI CHERAS, 55100 KUALA LUMPUR",0,0.939,,0
+receipt30,tax_number,002017394688,002017594688,0,0.917,,0
+receipt30,total,75.00,70.75,0,0.000,,0
+receipt30,tax_amount,4.25,4.25,1,1.000,,1
+receipt30,service_charge,null,null,1,1.000,,1
+receipt30,line_items,"[{""description"": ""AMBROSIAL GREEK"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""75.00""}]","[{""description"": ""AMBROSIAL GREEK"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""75.00""}]",1,,,1
+receipt38,company,OWNER BY CASTLE BLUE S/B,BREWERY TAP,0,0.343,,0
+receipt38,date,30/03/2018,30/03/2018,1,1.000,1,1
+receipt38,address,"AVTIVO PLAZA,LOT B-F-11, BLOCK B NO1.JALAN PJU 9/1,D'SARA AVEVUE BANDAR SRI D'SARA, 52000 KL","Avtivo Plaza,Lot B-F-11, Block B No1,Jalan PJU 9/1,D'sara Avenue Bandar Sri D'sara, 52000 KL",0,0.978,,0
+receipt38,tax_number,002108047360,002108047360,1,1.000,,1
+receipt38,total,189.75,189.75,1,1.000,,1
+receipt38,tax_amount,10.74,10.74,1,1.000,,1
+receipt38,service_charge,null,null,1,1.000,,1
+receipt38,line_items,"[{""description"": ""TIGER 2 BUCKET - HH"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""95.00""}, {""description"": ""CHICKEN WINGS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""22.00""}, {""description"": ""FRENCH FRIES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.00""}, {""description"": ""TIGER BUCKET- HH"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""50.00""}]","[{""description"": ""Tiger 2 Bucket - HH"", ""quantity"": 1, ""unit_price"": ""95.00"", ""amount"": ""95.00""}, {""description"": ""Tiger Bucket- HH"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""95.00""}, {""description"": ""Chicken wings"", ""quantity"": 1, ""unit_price"": ""22.00"", ""amount"": ""22.00""}, {""description"": ""French Fries"", ""quantity"": 1, ""unit_price"": ""12.00"", ""amount"": ""12.00""}, {""description"": ""Tiger Bucket- HH"", ""quantity"": 1, ""unit_price"": ""50.00"", ""amount"": ""50.00""}]",0,,,0
+receipt46,company,RESTAURANT SIN DU,RESTAURANT SIN DU,1,1.000,,1
+receipt46,date,09/03/2018,09/03/2018,1,1.000,1,1
+receipt46,address,"K3-113, JL IBRAHIM SULTAN 80300 JOHOR BAHRU JOHOR",K3-113. JL IBRAHIM SULTAN 80300 JOHOR BAHRU JOHOR,0,0.980,,1
+receipt46,tax_number,null,null,1,1.000,,1
+receipt46,total,170.00,170.00,1,1.000,,1
+receipt46,tax_amount,null,null,1,1.000,,1
+receipt46,service_charge,null,null,1,1.000,,1
+receipt46,line_items,"[{""description"": ""DPT.05"", ""quantity"": null, ""unit_price"": null, ""amount"": ""149.00""}, {""description"": ""DPT.04"", ""quantity"": null, ""unit_price"": null, ""amount"": ""21.00""}]",null,0,,,0
+receipt55,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt55,date,21 MAR 2018,21 Mar 2018,1,1.000,1,1
+receipt55,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt55,tax_number,000656195584,000055619584,0,0.833,,0
+receipt55,total,8.70,8.70,1,1.000,,1
+receipt55,tax_amount,0.49,0.49,1,1.000,,1
+receipt55,service_charge,null,null,1,1.000,,1
+receipt55,line_items,"[{""description"": ""YONG TAU FOO (S)"", ""quantity"": 1, ""unit_price"": ""1.60"", ""amount"": ""1.60""}, {""description"": ""1 MEAT + 3 VEGE"", ""quantity"": 1, ""unit_price"": ""7.10"", ""amount"": ""7.10""}]","[{""description"": ""Yong Tau Foo (S)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.60""}, {""description"": ""Meat + 3 Vge"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.10""}]",0,,,0
+receipt69,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt69,date,05-02-18,05 02-18,1,1.000,0,1
+receipt69,address,"LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1317 TRILLIUM SG BESI","LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1317 TRILLIUM 5B BESI",0,0.977,,0
+receipt69,tax_number,000181747712,000181747712,1,1.000,,1
+receipt69,total,141.50,141.50,1,1.000,,1
+receipt69,tax_amount,0.00,0.00,1,1.000,,1
+receipt69,service_charge,null,null,1,1.000,,1
+receipt69,line_items,"[{""description"": ""YONGCHUN LOKAM MNDRN S"", ""quantity"": 5, ""unit_price"": ""12.50"", ""amount"": ""62.50""}, {""description"": ""YONGCHUN LOKAM MNDRN M"", ""quantity"": 5, ""unit_price"": ""15.80"", ""amount"": ""79.00""}]","[{""description"": ""YONGCHUN LOKAM MNDRN S"", ""quantity"": 5, ""unit_price"": ""12.50"", ""amount"": ""62.50""}, {""description"": ""YONGCHUN LOKAM MNDRN X"", ""quantity"": 5, ""unit_price"": ""15.80"", ""amount"": ""79.00""}]",1,,,1
+receipt85,company,MR. D.I.Y. (KUCHAI) SDN BHD,MR. D.I.Y. (KUCHAI) SDN BHD,1,1.000,,1
+receipt85,date,08-03-17,08-03-17,1,1.000,1,1
+receipt85,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt85,tax_number,000473792512,000473792512,1,1.000,,1
+receipt85,total,37.80,37.80,1,1.000,,1
+receipt85,tax_amount,2.14,2.14,1,1.000,,1
+receipt85,service_charge,null,null,1,1.000,,1
+receipt85,line_items,"[{""description"": ""BOOSTER CABLE XH-500A"", ""quantity"": 1, ""unit_price"": ""29.90"", ""amount"": ""29.90""}, {""description"": ""MOTH BALLS 150G"", ""quantity"": 1, ""unit_price"": ""2.10"", ""amount"": ""2.10""}, {""description"": ""DIY GOLD TWIST DRILL 3MM"", ""quantity"": 1, ""unit_price"": ""2.50"", ""amount"": ""2.50""}, {""description"": ""HSS TWIST DRILL 6*160MM"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}]","[{""description"": ""BOOSTER CABLE XH-500A"", ""quantity"": 1, ""unit_price"": ""29.90"", ""amount"": ""29.90""}, {""description"": ""MOTH BALLS 150G"", ""quantity"": 1, ""unit_price"": ""2.10"", ""amount"": ""2.10""}, {""description"": ""DIY GOLD TWIST DRILL 3MM"", ""quantity"": 1, ""unit_price"": ""2.50"", ""amount"": ""2.50""}, {""description"": ""HSS TWIST DRILL 6*160MM"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}]",1,,,1
+receipt93,company,AEON CO. (M) BHD,AEON CO. (M) BHD,1,1.000,,1
+receipt93,date,09/02/2018,09/02/2018,1,1.000,1,1
+receipt93,address,"3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR","3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",1,1.000,,1
+receipt93,tax_number,002017394688,002017394688,1,1.000,,1
+receipt93,total,5.90,5.90,1,1.000,,1
+receipt93,tax_amount,0.33,0.33,1,1.000,,1
+receipt93,service_charge,null,null,1,1.000,,1
+receipt93,line_items,"[{""description"": ""STERILE FILTRAT"", ""quantity"": null, ""unit_price"": null, ""amount"": ""5.90""}]","[{""description"": ""STERILE FILTRAT"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.90""}]",0,,,0
+receipt107,company,LIM SENG THO HARDWARE TRADING,LIM SENG THO HARDWARE TRADING,1,1.000,,1
+receipt107,date,03/02/2018,03/02/2018,1,1.000,1,1
+receipt107,address,"NO 7, SIMPANG OFF BATU VILLAGE, JALAN IPOH BATU 5, 51200 KUALA LUMPUR MALAYSIA","No 7, Simpang Off Batu Village Jalan Ipoh Batu 5, 51200 Kuala Lumpur",0,0.932,,0
+receipt107,tax_number,001269075968,001269075968,1,1.000,,1
+receipt107,total,7.00,7.00,1,1.000,,1
+receipt107,tax_amount,0.40,0.40,1,1.000,,1
+receipt107,service_charge,null,null,1,1.000,,1
+receipt107,line_items,"[{""description"": ""BEG GUNI"", ""quantity"": 10, ""unit_price"": ""0.70"", ""amount"": ""7.00""}]","[{""description"": ""10.00 NOS"", ""quantity"": 10, ""unit_price"": ""0.70"", ""amount"": ""7.00""}]",0,,,0
+receipt117,company,SYARIKAT PERNIAGAAN GIN KEE,SYARIKAT PERNIAGAAN GIN KEE,1,1.000,,1
+receipt117,date,02/01/2018,02/01/2018,1,1.000,1,1
+receipt117,address,"NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.","NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",1,1.000,,1
+receipt117,tax_number,000750673920,000750673920,1,1.000,,1
+receipt117,total,13.25,13.25,1,1.000,,1
+receipt117,tax_amount,0.75,0.75,1,1.000,,1
+receipt117,service_charge,null,null,1,1.000,,1
+receipt117,line_items,"[{""description"": ""SPONGE SCRUB W-PLASTIC HANDLE"", ""quantity"": 1, ""unit_price"": ""3.18"", ""amount"": ""3.18""}, {""description"": ""4 1/2\"" PLASTERING TROWEL"", ""quantity"": 1, ""unit_price"": ""10.07"", ""amount"": ""10.07""}]","[{""description"": ""SPONGE SCRUB W-PLASTIC HANDLE"", ""quantity"": 1, ""unit_price"": ""3.18"", ""amount"": ""3.18""}, {""description"": ""4 1/2\"" PLASTERING TROWEL"", ""quantity"": 1, ""unit_price"": ""10.07"", ""amount"": ""10.07""}]",1,,,1
+receipt126,company,SYARIKAT PERNIAGAAN GIN KEE,SYARIKAT PERNIAGAAN GIN KEE,1,1.000,,1
+receipt126,date,12/01/2018,12/01/2018,1,1.000,1,1
+receipt126,address,"NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.","NO 290. JALAN AIR PANAS. SETAPAK. 53200, KUALA LUMPUR.",0,0.944,,1
+receipt126,tax_number,000750673920,000750673920,1,1.000,,1
+receipt126,total,7.95,7.95,1,1.000,,1
+receipt126,tax_amount,0.45,0.45,1,1.000,,1
+receipt126,service_charge,null,null,1,1.000,,1
+receipt126,line_items,"[{""description"": ""1 1/2\"" SANCORA PAINT BRUSH"", ""quantity"": 1, ""unit_price"": ""7.95"", ""amount"": ""7.95""}]","[{""description"": ""1 1/2\"" SANCORA PAINT BRUSH"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.95""}]",0,,,0
+receipt135,company,RESTORAN WAN SHENG,RESTORAN WAN SHENG,1,1.000,,1
+receipt135,date,19-03-2018,19-03-2018,1,1.000,1,1
+receipt135,address,"NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR","No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",1,1.000,,1
+receipt135,tax_number,001335787520,001335787520,1,1.000,,1
+receipt135,total,6.00,6.00,1,1.000,,1
+receipt135,tax_amount,0.34,0.34,1,1.000,,1
+receipt135,service_charge,null,null,1,1.000,,1
+receipt135,line_items,"[{""description"": ""MILO (B)"", ""quantity"": 2, ""unit_price"": ""2.80"", ""amount"": ""5.60""}, {""description"": ""TAKE AWAY"", ""quantity"": 2, ""unit_price"": ""0.20"", ""amount"": ""0.40""}]","[{""description"": ""Milo (B)"", ""quantity"": 2, ""unit_price"": ""2.80"", ""amount"": ""5.60""}, {""description"": ""Take Away"", ""quantity"": 2, ""unit_price"": ""0.20"", ""amount"": ""0.40""}]",1,,,1
+receipt145,company,PAPPARICH BMC,PappaRich BMC,1,1.000,,1
+receipt145,date,24 MAR 18,24 Mar 18,1,1.000,1,1
+receipt145,address,"NO.19 & 21 JALAN TEMENGGUNG 23/9 BANDAR MAHKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA","JALAN TEMENGGUNG 23/9 BANDAR MAHKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA",0,0.936,,0
+receipt145,tax_number,000164270080,000164270080,1,1.000,,1
+receipt145,total,72.95,72.93,0,0.000,,0
+receipt145,tax_amount,4.13,4.13,1,1.000,,1
+receipt145,service_charge,6.25,6.25,1,1.000,,1
+receipt145,line_items,"[{""description"": ""MILO DINO (I) E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.45""}, {""description"": ""N'LEMAK+FC E"", ""quantity"": 2, ""unit_price"": ""17.83"", ""amount"": ""35.66""}, {""description"": ""SPRG NDL+SU+CR E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.34""}, {""description"": ""HALF BL EGG E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.53""}, {""description"": ""CHAM (I) E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.57""}]","[{""description"": ""D28 MILO DINO(I) E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.45""}, {""description"": ""R03 N' LEMAK+fc E"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""35.66""}, {""description"": ""N22 SPRG NDL+su+cr E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.34""}, {""description"": ""B02 HALF BL EGG E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.53""}, {""description"": ""D19 CHAM (I) E"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.57""}]",0,,,0
+receipt152,company,POPULAR BOOK CO. (M) SDN BHD,POPULAR BOOK CO. (M) SDN BHD,1,1.000,,1
+receipt152,date,06/02/18,06/02/18,1,1.000,1,1
+receipt152,address,"NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA KSL CITY","No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia KSL CITY",1,1.000,,1
+receipt152,tax_number,001492992000,001492992000,1,1.000,,1
+receipt152,total,14.65,14.65,1,1.000,,1
+receipt152,tax_amount,0.83,0.83,1,1.000,,1
+receipt152,service_charge,null,null,1,1.000,,1
+receipt152,line_items,"[{""description"": ""CORR. PEN ZLI-W"", ""quantity"": null, ""unit_price"": null, ""amount"": ""7.65""}, {""description"": ""PB F/ RING FILE W/CLI"", ""quantity"": null, ""unit_price"": null, ""amount"": ""6.99""}]","[{""description"": ""CORR. PEN ZLI-W"", ""quantity"": null, ""unit_price"": null, ""amount"": ""7.65""}, {""description"": ""PB P/ RING FILE W/CLI"", ""quantity"": null, ""unit_price"": null, ""amount"": ""6.99""}]",1,,,1
+receipt161,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt161,date,17-02-18,17-02-18,1,1.000,1,1
+receipt161,address,"LOT P. T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1181-TMN SRI SINAR","LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1181-TMN SRI SINAR",0,0.994,,1
+receipt161,tax_number,000181747712,000181747712,1,1.000,,1
+receipt161,total,213.00,213.00,1,1.000,,1
+receipt161,tax_amount,12.06,12.06,1,1.000,,1
+receipt161,service_charge,null,null,1,1.000,,1
+receipt161,line_items,"[{""description"": ""CARLSBERG CAN 4*6*320ML"", ""quantity"": null, ""unit_price"": null, ""amount"": ""106.50""}, {""description"": ""CARLSBERG SMOOTH DRAUG"", ""quantity"": null, ""unit_price"": null, ""amount"": ""106.50""}]","[{""description"": ""483 CARLSBERG CAN 4*6*320ML"", ""quantity"": 483, ""unit_price"": null, ""amount"": ""106.50""}, {""description"": ""2101 CARLSBERG SMOOTH DRAUG"", ""quantity"": 2101, ""unit_price"": null, ""amount"": ""106.50""}]",0,,,0
+receipt175,company,KEDAI PAPAN YEW CHUAN,KEDAI PAPAN YEW CHUAN,1,1.000,,1
+receipt175,date,28/02/2018,28/02/2018,1,1.000,1,1
+receipt175,address,"LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.","LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",1,1.000,,1
+receipt175,tax_number,000781500416,000781500416,1,1.000,,1
+receipt175,total,101.76,101.76,1,1.000,,1
+receipt175,tax_amount,5.76,5.76,1,1.000,,1
+receipt175,service_charge,null,null,1,1.000,,1
+receipt175,line_items,"[{""description"": ""BESI Y 12(CQ)"", ""quantity"": 4, ""unit_price"": ""25.44"", ""amount"": ""101.76""}]","[{""description"": ""BESI Y 12 (CQ)"", ""quantity"": 4, ""unit_price"": ""24.00"", ""amount"": ""101.76""}]",0,,,0
+receipt182,company,SLF CASH & CARRY,SLF CASH & CARRY,1,1.000,,1
+receipt182,date,03/02/2018,03/03/2018,0,0.900,0,0
+receipt182,address,"NO. 15. JLN TSJ2,TMN SUBANG JASA, OFF JLN BT 3 SUBANG. 40000 SHAH ALAM. SEL.","NO.15 JLN TSJ2,TMN SUBANG JASA. OFF JLN BT 3 SUBANG, 40000 SHAH ALAM,SEL.",0,0.940,,1
+receipt182,tax_number,001169362944,001169362944,1,1.000,,1
+receipt182,total,21.20,21.20,1,1.000,,1
+receipt182,tax_amount,1.20,1.20,1,1.000,,1
+receipt182,service_charge,null,null,1,1.000,,1
+receipt182,line_items,"[{""description"": ""CRISPO MINYAK SAPI 800G"", ""quantity"": 1, ""unit_price"": ""21.20"", ""amount"": ""21.20""}]","[{""description"": ""CRISPO MINYAK SAPI 800G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""21.20""}]",0,,,0
+receipt190,company,ENW HARDWARE CENTRE (M) SDN. BHD.,ENW Hardware Centre (M) Sdn. Bhd.,1,1.000,,1
+receipt190,date,10/03/2018,10/03/2018,1,1.000,1,1
+receipt190,address,"NO: G3, BLK G, JLN PJU 1A/3, ARA DAMANSARA, 47301 PETALING JAYA, SELANGOR DARUL EHSAN.","G3, Blk G, Jln PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan.",0,0.976,,0
+receipt190,tax_number,000155453440,000155453440,1,1.000,,1
+receipt190,total,34.00,34.00,1,1.000,,1
+receipt190,tax_amount,1.93,1.93,1,1.000,,1
+receipt190,service_charge,null,null,1,1.000,,1
+receipt190,line_items,"[{""description"": ""2KGS. WOOD LACQUER THINNER"", ""quantity"": 1, ""unit_price"": ""19.00"", ""amount"": ""19.00""}, {""description"": ""1.5KG. UFIXX PUTTY FILLER."", ""quantity"": 1, ""unit_price"": ""10.00"", ""amount"": ""10.00""}, {""description"": ""100# X 8\"" X 45M SAND PAPER ROLL."", ""quantity"": 2, ""unit_price"": ""2.50"", ""amount"": ""5.00""}]","[{""description"": ""2kgs. Wood Lacquer Thinner"", ""quantity"": 1.0, ""unit_price"": ""19.00"", ""amount"": ""19.00""}, {""description"": ""1.5kg. Ufixx Putty Filler."", ""quantity"": 1.0, ""unit_price"": ""10.00"", ""amount"": ""10.00""}, {""description"": ""100# x 8\"" x 45m Sand Paper Roll."", ""quantity"": 2.0, ""unit_price"": ""2.50"", ""amount"": ""5.00""}]",1,,,1
+receipt199,company,MR. D.I.Y. (M) SDN BHD,MR. D.I.Y. (M) SDN BHD,1,1.000,,1
+receipt199,date,17-03-18,17-03-18,1,1.000,1,1
+receipt199,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt199,tax_number,000306020352,000306020352,1,1.000,,1
+receipt199,total,42.90,42.90,1,1.000,,1
+receipt199,tax_amount,2.43,2.43,1,1.000,,1
+receipt199,service_charge,null,null,1,1.000,,1
+receipt199,line_items,"[{""description"": ""STUDENT SOCKS 3PCS BK"", ""quantity"": 1, ""unit_price"": ""9.50"", ""amount"": ""9.50""}, {""description"": ""BELT 5202-3#*VS"", ""quantity"": 1, ""unit_price"": ""22.90"", ""amount"": ""22.90""}, {""description"": ""PVC MAN SLIPPER 969 (BK)"", ""quantity"": 1, ""unit_price"": ""10.50"", ""amount"": ""10.50""}]","[{""description"": ""STUDENT SOCKS 3PCS BK"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.50""}, {""description"": ""BELT 5202-3#VS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""22.90""}, {""description"": ""PVC MAN PPER 969 (BK)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""10.50""}]",0,,,0
+receipt207,company,MR. D.I.Y. (M) SDN BHD,MR. D.I.Y. (M) SDN BHD,1,1.000,,1
+receipt207,date,24-03-18,24-03-18,1,1.000,1,1
+receipt207,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt207,tax_number,000306020352,000306020352,1,1.000,,1
+receipt207,total,12.30,12.30,1,1.000,,1
+receipt207,tax_amount,0.70,0.70,1,1.000,,1
+receipt207,service_charge,null,null,1,1.000,,1
+receipt207,line_items,"[{""description"": ""WHITE CABLE TIE 4*200MM(8')"", ""quantity"": 1, ""unit_price"": ""3.90"", ""amount"": ""3.90""}, {""description"": ""WHITE CABLE TIE 5*250"", ""quantity"": 1, ""unit_price"": ""6.50"", ""amount"": ""6.50""}, {""description"": ""HOSE PUMP C88351#"", ""quantity"": 1, ""unit_price"": ""1.90"", ""amount"": ""1.90""}]","[{""description"": ""WHITE CABLE TIE 4*200MM(8')"", ""quantity"": 1, ""unit_price"": ""3.90"", ""amount"": ""3.90""}, {""description"": ""WHITE CABLE TIE 5*250"", ""quantity"": 1, ""unit_price"": ""6.50"", ""amount"": ""6.50""}, {""description"": ""HOSE PUMP C88351#"", ""quantity"": 1, ""unit_price"": ""1.90"", ""amount"": ""1.90""}]",1,,,1
+receipt213,company,SINNATHAMBY HOLDINGS SDN. BHD.,SINNATHAMBY HOLDINGS SDN. BHD.,1,1.000,,1
+receipt213,date,06/02/2018,06/02/2018,1,1.000,1,1
+receipt213,address,"NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG","NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG",1,1.000,,1
+receipt213,tax_number,002120876032,002120876032,1,1.000,,1
+receipt213,total,13.50,13.50,1,1.000,,1
+receipt213,tax_amount,0.76,0.76,1,1.000,,1
+receipt213,service_charge,null,null,1,1.000,,1
+receipt213,line_items,"[{""description"": ""ROYAL GOLD LUXURIOUS KITCHEN TOWEL 6R*60"", ""quantity"": 1, ""unit_price"": ""13.50"", ""amount"": ""13.50""}]","[{""description"": ""ROYAL GOLD LUXURIOUS KITCHEN TOWEL"", ""quantity"": 60, ""unit_price"": ""13.50"", ""amount"": ""13.50""}]",0,,,0
+receipt230,company,MR. D.I.Y. (KUCHAI) SDN BHD,MR. D.I.Y. (KUCHAI) SDN BHD,1,1.000,,1
+receipt230,date,15-03-18,15-03-13,0,0.875,0,0
+receipt230,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt230,tax_number,000473792512,000473792512,1,1.000,,1
+receipt230,total,119.70,119.70,1,1.000,,1
+receipt230,tax_amount,6.78,6.78,1,1.000,,1
+receipt230,service_charge,null,null,1,1.000,,1
+receipt230,line_items,"[{""description"": ""MAGNETIC WHITEBOARD LD001# 90*60CM"", ""quantity"": 1, ""unit_price"": ""35.00"", ""amount"": ""35.00""}, {""description"": ""JAPE DISPENSER SETJE600 -CITRUS"", ""quantity"": 2, ""unit_price"": ""19.90"", ""amount"": ""39.80""}, {""description"": ""CANDLE EB001050#"", ""quantity"": 1, ""unit_price"": ""9.50"", ""amount"": ""9.50""}, {""description"": ""BALL PEN 6BK 0.5MM KC1069#"", ""quantity"": 1, ""unit_price"": ""2.90"", ""amount"": ""2.90""}, {""description"": ""WHITE BOARD MARKER SET 8858"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}, {""description"": ""FIRST AID KIT"", ""quantity"": 1, ""unit_price"": ""26.90"", ""amount"": ""26.90""}, {""description"": ""PLANNING MAGNET 30MM#"", ""quantity"": 1, ""unit_price"": ""2.30"", ""amount"": ""2.30""}]","[{""description"": ""MAGNETIC WHITEBOARD LD001# 90*60CM"", ""quantity"": 1, ""unit_price"": ""35.00"", ""amount"": ""35.00""}, {""description"": ""JAPE DISPENSER SETJE600 - CITRUS"", ""quantity"": 2, ""unit_price"": ""19.90"", ""amount"": ""39.80""}, {""description"": ""CANDLE E3001050#"", ""quantity"": 1, ""unit_price"": ""9.50"", ""amount"": ""9.50""}, {""description"": ""BALL PEN GBK 0.5MM KC1069#"", ""quantity"": 1, ""unit_price"": ""2.90"", ""amount"": ""2.90""}, {""description"": ""WHITE BOARD MARKER SET 8858"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}, {""description"": ""FIRST AID KIT"", ""quantity"": 1, ""unit_price"": ""26.90"", ""amount"": ""26.90""}, {""description"": ""PLANNING MAGNET 30MM#"", ""quantity"": 1, ""unit_price"": ""2.30"", ""amount"": ""2.30""}]",0,,,0
+receipt242,company,GOLDEN ARCHES RESTAURANTS SDN BHD,Golden Arches Restaurants Sdn Bhd,1,1.000,,1
+receipt242,date,25/12/2016,25/12/2016,1,1.000,1,1
+receipt242,address,"LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR","Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",1,1.000,,1
+receipt242,tax_number,000504664064,000504664064,1,1.000,,1
+receipt242,total,29.30,29.30,1,1.000,,1
+receipt242,tax_amount,1.66,1.66,1,1.000,,1
+receipt242,service_charge,null,null,1,1.000,,1
+receipt242,line_items,"[{""description"": ""L FILETOFISH"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""21.18""}, {""description"": ""6NUGGETS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.10""}, {""description"": ""SMALL CONE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}]","[{""description"": ""2 L Filet0Fish"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""21.18""}, {""description"": ""2 L Coke"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""21.18""}, {""description"": ""NO Ice"", ""quantity"": null, ""unit_price"": null, ""amount"": null}, {""description"": ""2 L Fries"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""21.18""}, {""description"": ""1 6Nuggets"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.10""}, {""description"": ""1 Barbecue Sauce"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}, {""description"": ""1 Small Cone"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}]",0,,,0
+receipt259,company,BEMED (SP) SDN. BHD.,BEMED (SP) SDN. BHD.,1,1.000,,1
+receipt259,date,14/MAY/2017,14/May/2017,1,1.000,1,1
+receipt259,address,"NO.49, JALAN DINAR G U3/G, SUBANG PERDANA, 40150 SHAH ALAM, SELANGOR D.E.","No.49, Jalan Dinar G U3/CG, Subang Perdana, 40150 Shah Alam, Selangor D.E.",0,0.993,,0
+receipt259,tax_number,001734164480,001734164480,1,1.000,,1
+receipt259,total,191.20,191.20,1,1.000,,1
+receipt259,tax_amount,10.14,10.14,1,1.000,,1
+receipt259,service_charge,null,null,1,1.000,,1
+receipt259,line_items,"[{""description"": ""PIL CHI-KIT TECK AUN (12'S)"", ""quantity"": 1, ""unit_price"": ""15.80"", ""amount"": ""14.22""}, {""description"": ""PANADOL ACTIFAST 20'S"", ""quantity"": 1, ""unit_price"": ""12.00"", ""amount"": ""12.00""}, {""description"": ""ALPHA LIPID LIFE LINE"", ""quantity"": 1, ""unit_price"": ""165.00"", ""amount"": ""165.00""}]","[{""description"": ""PIL CHI-KIT TECK AUN (12'S)"", ""quantity"": 1, ""unit_price"": ""-1.58"", ""amount"": ""14.22""}, {""description"": ""PANADOL ACTIFAST 20'S"", ""quantity"": 1, ""unit_price"": ""12.00"", ""amount"": ""12.00""}, {""description"": ""ALPHA LIPID LIFE LINE"", ""quantity"": 1, ""unit_price"": ""165.00"", ""amount"": ""165.00""}]",0,,,0
+receipt265,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt265,date,22-11-17,22-11-17,1,1.000,1,1
+receipt265,address,"LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA","LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA",1,1.000,,1
+receipt265,tax_number,000181747712,000181747712,1,1.000,,1
+receipt265,total,182.00,182.00,1,1.000,,1
+receipt265,tax_amount,2.02,2.02,1,1.000,,1
+receipt265,service_charge,null,null,1,1.000,,1
+receipt265,line_items,"[{""description"": ""HELANG MINYAK MASAK 5KG"", ""quantity"": 2, ""unit_price"": ""24.35"", ""amount"": ""48.70""}, {""description"": ""JASMINE SUPER 5 SPECIA"", ""quantity"": null, ""unit_price"": null, ""amount"": ""29.90""}, {""description"": ""GREENLINK BIOTECH BRIKE"", ""quantity"": null, ""unit_price"": null, ""amount"": ""8.40""}, {""description"": ""LIFEBUOY COOL FRESH SO"", ""quantity"": 2, ""unit_price"": ""6.99"", ""amount"": ""13.98""}, {""description"": ""PIPIT BLEACH 2*1KG TP"", ""quantity"": null, ""unit_price"": null, ""amount"": ""4.20""}, {""description"": ""FAB PERFECT BAR (B) 130"", ""quantity"": 10, ""unit_price"": ""0.90"", ""amount"": ""9.00""}, {""description"": ""NESCAFE CLASSIC ARABICA"", ""quantity"": 3, ""unit_price"": ""22.60"", ""amount"": ""67.80""}]","[{""description"": ""HELANG MINYAK MASAK 5KG"", ""quantity"": 2, ""unit_price"": ""24.35"", ""amount"": ""48.70""}, {""description"": ""JASMINE SUPER 5 SPECIA"", ""quantity"": null, ""unit_price"": null, ""amount"": ""29.90""}, {""description"": ""GREENLINK BIOTECH BRIKE"", ""quantity"": null, ""unit_price"": null, ""amount"": ""8.40""}, {""description"": ""LIFEBUOY COOL FRESH SO"", ""quantity"": 2, ""unit_price"": ""6.99"", ""amount"": ""13.98""}, {""description"": ""PIPIT BLEACH 2*1KG TP"", ""quantity"": null, ""unit_price"": null, ""amount"": ""4.20""}, {""description"": ""FAB PERFECT BAR (B) 130"", ""quantity"": 10, ""unit_price"": ""RM .90"", ""amount"": ""9.00""}, {""description"": ""NESCAFE CLASSIC ARABICA"", ""quantity"": 3, ""unit_price"": ""22.60"", ""amount"": ""67.80""}]",0,,,0
+receipt276,company,FIVE STAR CASH & CARRY,Wors Cafetry,0,0.412,,0
+receipt276,date,19/01/17,19/01/17,1,1.000,1,1
+receipt276,address,"G.23 & G.22, PLAZA SERI SETIA, NO.1 JALAN SS 9/1, 47300 PJ, SELANGOR.","G.23 & G.22, Plaza Seri Setia, No.1 Jalan SS 9/1, 47300 PJ, Selangor.",1,1.000,,1
+receipt276,tax_number,000610435072,000610435072,1,1.000,,1
+receipt276,total,19.80,19.80,1,1.000,,1
+receipt276,tax_amount,1.12,1.12,1,1.000,,1
+receipt276,service_charge,null,null,1,1.000,,1
+receipt276,line_items,"[{""description"": ""[MAP]KISMIS 500GM"", ""quantity"": 2, ""unit_price"": ""9.90"", ""amount"": ""19.80""}]","[{""description"": ""[MAP]KISKIS 500GM"", ""quantity"": 2, ""unit_price"": ""9.90"", ""amount"": ""19.80""}]",0,,,0
+receipt284,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt284,date,10 APR 2018,10 Apr 2018,1,1.000,1,1
+receipt284,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt284,tax_number,000656195584,0000658195584,0,0.880,,0
+receipt284,total,7.60,7.60,1,1.000,,1
+receipt284,tax_amount,0.43,0.43,1,1.000,,1
+receipt284,service_charge,null,null,1,1.000,,1
+receipt284,line_items,"[{""description"": ""1 MEAT + 3 VEGE"", ""quantity"": 1, ""unit_price"": ""7.10"", ""amount"": ""7.10""}, {""description"": ""ADD VEGETABLE"", ""quantity"": 1, ""unit_price"": ""0.50"", ""amount"": ""0.50""}]","[{""description"": ""1 Meat + 3 Vege"", ""quantity"": 1, ""unit_price"": ""7.10"", ""amount"": ""7.10""}, {""description"": ""Add Vegetable"", ""quantity"": 1, ""unit_price"": ""0.50"", ""amount"": ""0.50""}]",1,,,1
+receipt292,company,PASAR MINI JIN SENG,PASAR MINI JIN SENG,1,1.000,,1
+receipt292,date,15/04/18,15/04/18,1,1.000,1,1
+receipt292,address,"379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.","379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.",1,1.000,,1
+receipt292,tax_number,000150511616,000150511616,1,1.000,,1
+receipt292,total,44.90,44.90,1,1.000,,1
+receipt292,tax_amount,0.38,0.38,1,1.000,,1
+receipt292,service_charge,null,null,1,1.000,,1
+receipt292,line_items,"[{""description"": ""SEAFOOD"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""23.40""}, {""description"": ""KENKO BEBOLA IKAN 200G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.40""}, {""description"": ""SILKEN TOFU 300G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.10""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.80""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.50""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.30""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.20""}, {""description"": ""MAS GOOD MELAKA NOODLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.20""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.00""}]","[{""description"": ""SEAFOOD"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""23.40""}, {""description"": ""KENKO BEBOLA IKAN 200G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.40""}, {""description"": ""SILKEN TOFU 300G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.10""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.80""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.50""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.30""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.20""}, {""description"": ""MAS GOOD MELAKA NOODLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.20""}, {""description"": ""VEGETABLES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.00""}]",1,,,1
+receipt300,company,AEON CO. (M) BHD,AEON CO. (M) BHD,1,1.000,,1
+receipt300,date,22/04/2018,22/04/2018,1,1.000,1,1
+receipt300,address,"3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR","3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",1,1.000,,1
+receipt300,tax_number,002017394688,002017394688,1,1.000,,1
+receipt300,total,98.35,98.35,1,1.000,,1
+receipt300,tax_amount,5.57,0.00,0,0.000,,0
+receipt300,service_charge,null,null,1,1.000,,1
+receipt300,line_items,"[{""description"": ""KIT KAT SHARE B"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""14.99""}, {""description"": ""BERYLS TTOW"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""21.10""}, {""description"": ""VH BOX 180G SE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""18.29""}, {""description"": ""VH BOX 180G RA"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""18.29""}, {""description"": ""LINDT DT125"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""31.60""}, {""description"": ""MILO NUGGETS FU"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.90""}]","[{""description"": ""KIT KAT SHARE B"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""14.99""}, {""description"": ""BERRYLS TTOW"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""21.10""}, {""description"": ""VH BOX 180G SE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""18.29""}, {""description"": ""VH BOX 180G RA"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""18.29""}, {""description"": ""LINDT DT126"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""31.60""}, {""description"": ""MILLO NUGGETS FU"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.90""}]",0,,,0
+receipt309,company,AEON CO. (M) BHD,AEON CO. (M) BHD,1,1.000,,1
+receipt309,date,01/04/2018,01/04/2018,1,1.000,1,1
+receipt309,address,"3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR","3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",1,1.000,,1
+receipt309,tax_number,002017394688,002017394688,1,1.000,,1
+receipt309,total,122.80,119.77,0,0.000,,0
+receipt309,tax_amount,3.01,0.00,0,0.000,,0
+receipt309,service_charge,null,null,1,1.000,,1
+receipt309,line_items,"[{""description"": ""SA MIX PLUM"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.00""}, {""description"": ""R.GALA APPLE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""FOUR SEAS SEAW"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.85""}, {""description"": ""CHEK HUP 2IN1"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""16.50""}, {""description"": ""TOMATO AMOROS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""FRANCE GREEN KI"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""T. CHERRY HONEY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.80""}, {""description"": ""SUSHI SET-PTC"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.90""}, {""description"": ""JAMBU AIR MADU"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.33""}, {""description"": ""CUT FRUITS 1.99"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.50""}, {""description"": ""ZA M/N BEAUTY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}, {""description"": ""CAVANDISH BANAN"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.61""}, {""description"": ""BLUEBERRY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""10.90""}, {""description"": ""EGG KANI MAYO S"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.90""}, {""description"": ""COLESLAW SANDWI"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.00""}, {""description"": ""WANFA DRIED FIS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}]","[{""description"": ""SA MIX PLUM"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.00""}, {""description"": ""R.GALA APPLE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""FOUR SEAS SEAW"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""9.85""}, {""description"": ""CHEK HUP ZIN1"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""16.50""}, {""description"": ""TOMATO AMOROS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""FRANCE GREEN KI"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""T. CHERRY HONEY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.80""}, {""description"": ""SUSHI SET-PTC"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.90""}, {""description"": ""JAMBU AIR MADU"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.33""}, {""description"": ""CUT FRUITS 1.99"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.50""}, {""description"": ""ZA M/N BEAUTY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}, {""description"": ""CAVANDISH BANAN"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.61""}, {""description"": ""BLUEBERRY"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""10.90""}, {""description"": ""EGG KANI MAYO S"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.90""}, {""description"": ""COLES LAW SANDWI"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.00""}, {""description"": ""WANFA DRIED FIS"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}]",0,,,0
+receipt316,company,GHEE HIANG GH DISTRIBUTOR & MARKETING SDN BHD,GH DISTRIBUTOR & MARKETING SDN BHD,0,0.861,,0
+receipt316,date,13/04/2018,13/04/2018,1,1.000,1,1
+receipt316,address,"95, BEACH ROAD, 10300 PENANG. 10400 PENANG.","95, Beach Road, 10300 Penang. 10400 Penang.",1,1.000,,1
+receipt316,tax_number,001315377152,001315377152,1,1.000,,1
+receipt316,total,25.00,25.00,1,1.000,,1
+receipt316,tax_amount,1.42,1.42,1,1.000,,1
+receipt316,service_charge,null,null,1,1.000,,1
+receipt316,line_items,"[{""description"": ""TAU SAR PNEAH (S) 24PCS"", ""quantity"": 2, ""unit_price"": ""12.50"", ""amount"": ""25.00""}]","[{""description"": ""TAU SAR PNEAH (S) 24PCS"", ""quantity"": 2, ""unit_price"": ""12.50"", ""amount"": ""25.00""}]",1,,,1
+receipt326,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KI) SDN BHD,0,0.967,,0
+receipt326,date,21/07/2017,21/07/2017,1,1.000,1,1
+receipt326,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan Petabur 23/1, 40300 Shah Alam, Selangor.",0,0.981,,0
+receipt326,tax_number,000381399040,000381399040,1,1.000,,1
+receipt326,total,33.05,33.05,1,1.000,,1
+receipt326,tax_amount,1.44,1.44,1,1.000,,1
+receipt326,service_charge,null,null,1,1.000,,1
+receipt326,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 2, ""unit_price"": ""2.13"", ""amount"": ""4.26""}, {""description"": ""WHOLEMEAL"", ""quantity"": -2, ""unit_price"": ""2.78"", ""amount"": ""-5.56""}, {""description"": ""O.C JUMBO"", ""quantity"": 3, ""unit_price"": ""2.97"", ""amount"": ""8.91""}, {""description"": ""CR-CHOCLT"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}, {""description"": ""KAYA-ORI"", ""quantity"": 4, ""unit_price"": ""2.40"", ""amount"": ""9.60""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 10, ""unit_price"": ""2.13"", ""amount"": ""4.26""}, {""description"": ""WHOLEMEAL"", ""quantity"": 2, ""unit_price"": ""2.78"", ""amount"": ""-5.56""}, {""description"": ""O.C. JUMBO"", ""quantity"": 10, ""unit_price"": ""2.97"", ""amount"": ""8.91""}, {""description"": ""CR-CHOC LT"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}, {""description"": ""KAYA-ORI"", ""quantity"": 4, ""unit_price"": ""2.40"", ""amount"": ""9.60""}]",0,,,0
+receipt334,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt334,date,24/08/2017,24/08/2017,1,1.000,1,1
+receipt334,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",1,1.000,,1
+receipt334,tax_number,000381399040,000381399040,1,1.000,,1
+receipt334,total,39.78,39.78,1,1.000,,1
+receipt334,tax_amount,0.95,0.95,1,1.000,,1
+receipt334,service_charge,null,null,1,1.000,,1
+receipt334,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 4, ""unit_price"": ""2.13"", ""amount"": ""8.52""}, {""description"": ""WHOLEMEAL"", ""quantity"": 2, ""unit_price"": ""2.78"", ""amount"": ""5.56""}, {""description"": ""O.C JUMBO"", ""quantity"": 3, ""unit_price"": ""2.97"", ""amount"": ""8.91""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""3.72"", ""amount"": ""7.44""}, {""description"": ""BUN-SBILIS"", ""quantity"": 10, ""unit_price"": ""0.84"", ""amount"": ""8.40""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 4, ""unit_price"": ""8.52"", ""amount"": ""8.52""}, {""description"": ""WHOLEMEAL"", ""quantity"": 2, ""unit_price"": ""5.56"", ""amount"": ""5.56""}, {""description"": ""O.C. JUMBO"", ""quantity"": 3, ""unit_price"": ""8.91"", ""amount"": ""8.91""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""7.44"", ""amount"": ""7.44""}, {""description"": ""BUN-SBILIS"", ""quantity"": 10, ""unit_price"": ""8.40"", ""amount"": ""8.40""}]",0,,,0
+receipt341,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt341,date,03/08/2017,03/08/2017,1,1.000,1,1
+receipt341,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan PelaBuar 23/1, 40300 Shah Alam, Selangor.",0,0.991,,0
+receipt341,tax_number,000381399040,000381399040,1,1.000,,1
+receipt341,total,51.88,51.78,0,0.000,,0
+receipt341,tax_amount,1.81,1.81,1,1.000,,1
+receipt341,service_charge,null,null,1,1.000,,1
+receipt341,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 4, ""unit_price"": ""2.13"", ""amount"": ""8.52""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""2.78"", ""amount"": ""8.34""}, {""description"": ""O.C JUMBO"", ""quantity"": 1, ""unit_price"": ""2.97"", ""amount"": ""2.97""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""3.72"", ""amount"": ""7.44""}, {""description"": ""CR-B'SCOTCH"", ""quantity"": 10, ""unit_price"": ""0.72"", ""amount"": ""7.20""}, {""description"": ""BUN-SBILIS"", ""quantity"": 10, ""unit_price"": ""0.84"", ""amount"": ""8.40""}, {""description"": ""KAYA-PANDN"", ""quantity"": 3, ""unit_price"": ""2.40"", ""amount"": ""7.20""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 4, ""unit_price"": ""2.13"", ""amount"": ""8.52""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""2.78"", ""amount"": ""8.34""}, {""description"": ""O.C JUMBO"", ""quantity"": 1, ""unit_price"": ""2.97"", ""amount"": ""2.97""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""3.72"", ""amount"": ""7.44""}, {""description"": ""CR-B' SCOTCH"", ""quantity"": 10, ""unit_price"": ""0.72"", ""amount"": ""7.20""}, {""description"": ""BUN-SBILIS"", ""quantity"": 10, ""unit_price"": ""0.84"", ""amount"": ""8.40""}, {""description"": ""KAYA-PANDN"", ""quantity"": 3, ""unit_price"": ""2.40"", ""amount"": ""7.20""}]",1,,,1
+receipt351,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt351,date,18/09/2017,18/09/2017,1,1.000,1,1
+receipt351,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",1,1.000,,1
+receipt351,tax_number,000381399040,000381399040,1,1.000,,1
+receipt351,total,5.90,5.90,1,1.000,,1
+receipt351,tax_amount,0.88,0.88,1,1.000,,1
+receipt351,service_charge,null,null,1,1.000,,1
+receipt351,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": -6, ""unit_price"": ""2.13"", ""amount"": ""-12.78""}, {""description"": ""WHOLEMEAL"", ""quantity"": -1, ""unit_price"": ""2.78"", ""amount"": ""-2.78""}, {""description"": ""O.C JUMBO"", ""quantity"": 2, ""unit_price"": ""2.97"", ""amount"": ""5.94""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""3.72"", ""amount"": ""7.44""}, {""description"": ""CR-CHOCLT"", ""quantity"": 10, ""unit_price"": ""0.72"", ""amount"": ""7.20""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 2, ""unit_price"": ""2.13"", ""amount"": ""-12.78""}, {""description"": ""WHOLEMEAL"", ""quantity"": 0, ""unit_price"": ""2.78"", ""amount"": ""-2.78""}, {""description"": ""O.C. JUMBO"", ""quantity"": 2, ""unit_price"": ""2.97"", ""amount"": ""5.94""}, {""description"": ""DELICIA-B/SCOTCH"", ""quantity"": 2, ""unit_price"": ""3.72"", ""amount"": ""7.44""}, {""description"": ""CR-CHOCOL T"", ""quantity"": 10, ""unit_price"": ""0.72"", ""amount"": ""7.20""}]",0,,,0
+receipt358,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt358,date,24/10/2017,24/10/2017,1,1.000,1,1
+receipt358,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",1,1.000,,1
+receipt358,tax_number,000381399040,000381399040,1,1.000,,1
+receipt358,total,41.87,41.87,1,1.000,,1
+receipt358,tax_amount,0.86,0.86,1,1.000,,1
+receipt358,service_charge,null,null,1,1.000,,1
+receipt358,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 3, ""unit_price"": ""2.13"", ""amount"": ""6.39""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""2.78"", ""amount"": ""8.34""}, {""description"": ""O.C JUMBO"", ""quantity"": 4, ""unit_price"": ""2.97"", ""amount"": ""11.88""}, {""description"": ""CR-VANILLA"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 3, ""unit_price"": ""6.39"", ""amount"": ""6.39""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""8.34"", ""amount"": ""8.34""}, {""description"": ""O.C. JUMBO"", ""quantity"": 4, ""unit_price"": ""11.88"", ""amount"": ""11.88""}, {""description"": ""CR-VANILLA"", ""quantity"": 20, ""unit_price"": ""14.40"", ""amount"": ""14.40""}]",0,,,0
+receipt366,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt366,date,15/10/2017,15/10/2017,1,1.000,1,1
+receipt366,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",1,1.000,,1
+receipt366,tax_number,000381399040,000381399040,1,1.000,,1
+receipt366,total,23.56,23.56,1,1.000,,1
+receipt366,tax_amount,-0.17,-0.17,1,1.000,,1
+receipt366,service_charge,null,null,1,1.000,,1
+receipt366,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 3, ""unit_price"": ""2.13"", ""amount"": ""6.39""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""2.78"", ""amount"": ""8.34""}, {""description"": ""O.C JUMBO"", ""quantity"": 4, ""unit_price"": ""2.97"", ""amount"": ""11.88""}, {""description"": ""CR-CHOCLT"", ""quantity"": -3, ""unit_price"": ""0.72"", ""amount"": ""-2.16""}, {""description"": ""CR-CORN"", ""quantity"": -1, ""unit_price"": ""0.72"", ""amount"": ""-0.72""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 3, ""unit_price"": ""6.39"", ""amount"": ""6.39""}, {""description"": ""WHOLEMEAL"", ""quantity"": 3, ""unit_price"": ""8.34"", ""amount"": ""8.34""}, {""description"": ""O.C. JUMBO"", ""quantity"": 4, ""unit_price"": ""11.88"", ""amount"": ""11.88""}]",0,,,0
+receipt376,company,MR. D.I.Y. (KUCHAI) SDN BHD,MR. D.I.Y. (KUCHAI) SDN BHD,1,1.000,,1
+receipt376,date,17-04-16,17-04-16,1,1.000,1,1
+receipt376,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt376,tax_number,000473792512,000473792512,1,1.000,,1
+receipt376,total,3.30,3.30,1,1.000,,1
+receipt376,tax_amount,0.19,0.19,1,1.000,,1
+receipt376,service_charge,null,null,1,1.000,,1
+receipt376,line_items,"[{""description"": ""SPONGE DISHES 6103#"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}]","[{""description"": ""SPONGE DISHES 6103#"", ""quantity"": 1, ""unit_price"": ""3.30"", ""amount"": ""3.30""}]",1,,,1
+receipt384,company,GUARDIAN HEALTH AND BEAUTY SDN BHD,Guardian Health And Beauty Sdn Bhd,1,1.000,,1
+receipt384,date,11/02/16,11/02/16,1,1.000,1,1
+receipt384,address,"LOT F/L2A.4, LEVEL 2A FIRST WORLD PLAZA, FIRST WORLD","First World Theme Park Lot F/L2A.4, Level 2A First World Plaza, First World",0,0.819,,0
+receipt384,tax_number,000899874816,0000899874816,0,0.960,,0
+receipt384,total,2.56,2.56,1,1.000,,1
+receipt384,tax_amount,0.14,0.14,1,1.000,,1
+receipt384,service_charge,null,null,1,1.000,,1
+receipt384,line_items,"[{""description"": ""GDN WATER 500ML"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}]","[{""description"": ""0092000 GDN WATER 500ML"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""GDN WATER 500ML"", ""quantity"": null, ""unit_price"": null, ""amount"": ""1.84""}]",0,,,0
+receipt394,company,FOUR QUARTERS SDN BHD,FOUR QUARTERS SDN BHD,1,1.000,,1
+receipt394,date,06/07/16,06/07/16,1,1.000,1,1
+receipt394,address,NO.128G JLN SS21/35 DAMANSARA UTAMA PETALING JAYA 47400 SELANGOR,No.128G JLN SS21/35 DAMANSARA UTAMA PETALING JAYA 47400 SELANGOR,1,1.000,,1
+receipt394,tax_number,001716617216,001716617216,1,1.000,,1
+receipt394,total,43.90,43.90,1,1.000,,1
+receipt394,tax_amount,2.48,2.48,1,1.000,,1
+receipt394,service_charge,null,null,1,1.000,,1
+receipt394,line_items,"[{""description"": ""SMORES PIE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""10.50""}, {""description"": ""CHOCOLATE MINT PIE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""THE MASHACRE + SODA"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""20.90""}]","[{""description"": ""Smores Pie"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""10.50""}, {""description"": ""Chocolate Mint Pie"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""The Mashacre + Soda"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""20.90""}, {""description"": ""SET: Chicken+Mushroom P"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""0.00""}, {""description"": ""SET: Lemon Lime Soda"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""0.00""}]",0,,,0
+receipt402,company,ANEKA INTERTRADE MARKETING SDN BHD,Aneka Intertrade Marketing Sdn Bhd,1,1.000,,1
+receipt402,date,19/05/16,19/05/16,1,1.000,1,1
+receipt402,address,"LOT NO2, JALAN UTARID U5/13, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR DARUL EHSAN, MALAYSIA","Lot No2, Jalan Utarid U5/13, Seksyen U5, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia",1,1.000,,1
+receipt402,tax_number,001532760064,001532760064,1,1.000,,1
+receipt402,total,6.85,6.85,1,1.000,,1
+receipt402,tax_amount,0.17,0.17,1,1.000,,1
+receipt402,service_charge,null,null,1,1.000,,1
+receipt402,line_items,"[{""description"": ""SAMUDRA BUN 180G BLUEBERRY"", ""quantity"": 1, ""unit_price"": ""3.05"", ""amount"": ""3.05""}, {""description"": ""SIEW PAK CHOY +/- IKAT"", ""quantity"": 2, ""unit_price"": ""0.94"", ""amount"": ""3.78""}]","[{""description"": ""Samudra Bun 180g Blueberry"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.05""}, {""description"": ""SIEW PAK CHOY +/- ikat"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""3.78""}]",0,,,0
+receipt410,company,SKCA HARDWARE & TIMBER SDN. BHD.,SKCA HARDWARE & TIMBER SDN. BHD.,1,1.000,,1
+receipt410,date,01-NOV-2017,01-Nov-2017,1,1.000,1,1
+receipt410,address,"LOT 204 & 205, JALAN BATU 12 1/4, KG. DUSUN NANDING, 43100 HULU LANGAT, SELANGOR DARUL EHSAN.","LOT 204 & 205, JALAN BATU 12 1/4, KG. DUSUN NANLING, 43100 HULU LANGAT, SELANGOR DARUL EHSAN.",0,0.989,,0
+receipt410,tax_number,001828540416,001828540416,1,1.000,,1
+receipt410,total,142.00,142.00,1,1.000,,1
+receipt410,tax_amount,8.04,8.04,1,1.000,,1
+receipt410,service_charge,null,null,1,1.000,,1
+receipt410,line_items,"[{""description"": ""COLEX BLACK BASIC"", ""quantity"": null, ""unit_price"": null, ""amount"": ""43.00""}, {""description"": ""COLEX BLACK BASIC"", ""quantity"": 2, ""unit_price"": ""43.00"", ""amount"": ""86.00""}, {""description"": ""BLACK RAIN SHOE 41*(08) RAIN S"", ""quantity"": null, ""unit_price"": null, ""amount"": ""13.00""}]","[{""description"": ""ZZ-207 COLEX BLACK BASIC"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""43.00""}, {""description"": ""ZZ-206 COLEX BLACK BASIC"", ""quantity"": 2, ""unit_price"": ""43.00"", ""amount"": ""86.00""}, {""description"": ""BLACK RAIN SHOE 41*(08) RAIN S"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""13.00""}]",0,,,0
+receipt420,company,ECO-SHOP MARKETING SDN BHD,Eco-Shop Marketing Sdn Bhd,1,1.000,,1
+receipt420,date,26/02/2018,26/02/2018,1,1.000,1,1
+receipt420,address,"LOT F1-01, 6, JALAN 8/27A, SEKSYEN 5 WANGSA MAJU, 53300 KUALA LUMPUR, WILAYAH PERSEKUTUAN KUALA LUMPUR, MALAYSIA.","Lot F1-01, 6, Jalan 8/27A, Seksyen 5 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.",1,1.000,,1
+receipt420,tax_number,000313901056,000313901056,1,1.000,,1
+receipt420,total,16.30,16.30,1,1.000,,1
+receipt420,tax_amount,0.91,0.91,1,1.000,,1
+receipt420,service_charge,null,null,1,1.000,,1
+receipt420,line_items,"[{""description"": ""JT5501 - CHOPSTICK HOLDER 72/1"", ""quantity"": 1, ""unit_price"": ""2.33"", ""amount"": ""2.33""}, {""description"": ""PLIERS 6\"" 110G 120PCS(PELAYAR"", ""quantity"": 1, ""unit_price"": ""2.33"", ""amount"": ""2.33""}, {""description"": ""771-2 MULTI PURPOSE FOOD TONGS"", ""quantity"": 3, ""unit_price"": ""2.33"", ""amount"": ""6.99""}, {""description"": ""LS301 SCALESCRAPER -LARGE"", ""quantity"": 1, ""unit_price"": ""2.33"", ""amount"": ""2.33""}, {""description"": ""PVC WALL PLUG 4'S 240/10-(PLUG"", ""quantity"": 1, ""unit_price"": ""2.33"", ""amount"": ""2.33""}]","[{""description"": ""CHOPSTICK HOLDER"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.33""}, {""description"": ""PLIERS 6\"" 110G 120PCS(PELAYAR"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.33""}, {""description"": ""MULTI PURPOSE FOOD TONGS"", ""quantity"": 3, ""unit_price"": null, ""amount"": ""6.99""}, {""description"": ""SCALE SCRAPER -LARGE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.33""}, {""description"": ""PVC WALL PLUG 4\""S 240/10-(PLUG"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.33""}]",0,,,0
+receipt427,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt427,date,14 MAY 2018,14 May 2018,1,1.000,1,1
+receipt427,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt427,tax_number,000656195584,0000656195584,0,0.960,,0
+receipt427,total,8.90,8.90,1,1.000,,1
+receipt427,tax_amount,0.50,0.50,1,1.000,,1
+receipt427,service_charge,null,null,1,1.000,,1
+receipt427,line_items,"[{""description"": ""1 MEAT + 3 VEGE"", ""quantity"": 1, ""unit_price"": ""7.10"", ""amount"": ""7.10""}, {""description"": ""ADD MEATS"", ""quantity"": 2, ""unit_price"": ""0.90"", ""amount"": ""1.80""}]","[{""description"": ""I Meat + 3 Vege"", ""quantity"": 1, ""unit_price"": ""7.10"", ""amount"": ""7.10""}, {""description"": ""Add Meats"", ""quantity"": 2, ""unit_price"": ""1.80"", ""amount"": ""1.80""}]",0,,,0
+receipt436,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt436,date,24 MAY 2018,24 May 2018,1,1.000,1,1
+receipt436,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt436,tax_number,000656195584,000855195584,0,0.833,,0
+receipt436,total,8.40,8.40,1,1.000,,1
+receipt436,tax_amount,0.48,0.48,1,1.000,,1
+receipt436,service_charge,null,null,1,1.000,,1
+receipt436,line_items,"[{""description"": ""1 MEAT + 2 VEGE"", ""quantity"": 1, ""unit_price"": ""6.00"", ""amount"": ""6.00""}, {""description"": ""IMPORTED VEGGIES"", ""quantity"": 1, ""unit_price"": ""1.60"", ""amount"": ""1.60""}, {""description"": ""ADD VEGETABLE (X)"", ""quantity"": 1, ""unit_price"": ""0.80"", ""amount"": ""0.80""}]","[{""description"": ""Meat + 2 Voge"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""6.00""}, {""description"": ""Imported Veggies"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.60""}, {""description"": ""Add Vegetable (X)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""0.80""}]",0,,,0
+receipt444,company,MR. D.I.Y. (M) SDN BHD,MR. D.I.Y. (M) SDN BHD,1,1.000,,1
+receipt444,date,25-04-18,25-04-18,1,1.000,1,1
+receipt444,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt444,tax_number,000306020352,000306020352,1,1.000,,1
+receipt444,total,48.10,48.10,1,1.000,,1
+receipt444,tax_amount,2.72,2.72,1,1.000,,1
+receipt444,service_charge,null,null,1,1.000,,1
+receipt444,line_items,"[{""description"": ""RUBBER BOOTS P/968BK-SIZE8 (BLACK)"", ""quantity"": 1, ""unit_price"": ""9.90"", ""amount"": ""9.90""}, {""description"": ""SEKOPLAS H/D GARBAGE 89CM*117CM 10S"", ""quantity"": 4, ""unit_price"": ""9.50"", ""amount"": ""38.00""}, {""description"": ""PLASTIC BAGS"", ""quantity"": 1, ""unit_price"": ""0.20"", ""amount"": ""0.20""}]","[{""description"": ""RUBBER BOOTS P/968BK-SIZE8 (BLACK)"", ""quantity"": 1, ""unit_price"": ""9.90"", ""amount"": ""9.90""}, {""description"": ""SEKOPLAS H/D GARBAGE 89cm*117cm 10s"", ""quantity"": 4, ""unit_price"": ""9.50"", ""amount"": ""38.00""}, {""description"": ""PLASTIC BAGS"", ""quantity"": 1, ""unit_price"": ""0.20"", ""amount"": ""0.20""}]",1,,,1
+receipt452,company,ENW HARDWARE CENTRE (M) SDN. BHD.,ENW Hardware Centre (M) Sdn. Bhd.,1,1.000,,1
+receipt452,date,14/04/2018,14/04/2018,1,1.000,1,1
+receipt452,address,"NO: G3, BLK G, JLN PJU 1A/3, ARA DAMANSARA, 47301 PETALING JAYA, SELANGOR DARUL EHSAN.","No G3, Blok G, Jin PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan.",0,0.977,,0
+receipt452,tax_number,000155453440,000155453440,1,1.000,,1
+receipt452,total,156.00,156.00,1,1.000,,1
+receipt452,tax_amount,8.83,8.83,1,1.000,,1
+receipt452,service_charge,null,null,1,1.000,,1
+receipt452,line_items,"[{""description"": ""5L. T_'NIPPON' VINILEX EASYWASH. NP N 1882T"", ""quantity"": 1, ""unit_price"": ""99.00"", ""amount"": ""99.00""}, {""description"": ""CRISTIN 4\"" BLUE STRIPE ROLLER REFILL"", ""quantity"": 1, ""unit_price"": ""30.00"", ""amount"": ""30.00""}, {""description"": ""1\"" NYLON PAINT BRUSH."", ""quantity"": 1, ""unit_price"": ""3.50"", ""amount"": ""3.50""}, {""description"": ""4\"" X 24\"" ROLLER HANDLE."", ""quantity"": 1, ""unit_price"": ""2.50"", ""amount"": ""2.50""}, {""description"": ""'CLIPSAL' 4G 1W SWITCH"", ""quantity"": 1, ""unit_price"": ""21.00"", ""amount"": ""21.00""}]","[{""description"": ""5L. T_Nippon' Vinilex EasyWash. NP N 1882T"", ""quantity"": 1.0, ""unit_price"": ""99.00"", ""amount"": ""99.00""}, {""description"": ""Cristin 4\"" Blue Stripe Roller Refill"", ""quantity"": 1.0, ""unit_price"": ""30.00"", ""amount"": ""30.00""}, {""description"": ""1\"" Nylon Paint Brush."", ""quantity"": 1.0, ""unit_price"": ""3.50"", ""amount"": ""3.50""}, {""description"": ""4\"" x 24\"" Roller Handle."", ""quantity"": 1.0, ""unit_price"": ""2.50"", ""amount"": ""2.50""}, {""description"": ""'Clipsal' 4g 1w Switch"", ""quantity"": 1.0, ""unit_price"": ""21.00"", ""amount"": ""21.00""}]",1,,,1
+receipt459,company,DIMILIKI OLEH : DOVE HOLDINGS SDN BHD,SIZZLING STONEGRILL,0,0.286,,0
+receipt459,date,26/05/2018,26/05/2018,1,1.000,1,1
+receipt459,address,"LOT S25, AEON TEBRAU CITY JUSCO NO 1, JLN DESA TEBRAU, TMN DESA TEBRAU, 81100 JOHOR BAHRU, JOHOR","Lot S25, AEON Tebrau City Jusco No 1, Jln Desa Tebrau, Tmn Desa Tebrau, 81100 Johor Bahru, Johor",1,1.000,,1
+receipt459,tax_number,0013 7941 8112,001379418112,0,0.923,,1
+receipt459,total,164.80,164.80,1,1.000,,1
+receipt459,tax_amount,9.31,9.31,1,1.000,,1
+receipt459,service_charge,null,null,1,1.000,,1
+receipt459,line_items,"[{""description"": ""CREAM OF MUSHROOM SOUP"", ""quantity"": 2, ""unit_price"": ""6.10"", ""amount"": ""12.20""}, {""description"": ""NOODLE SOUP O.T.ROCK"", ""quantity"": 1, ""unit_price"": ""12.90"", ""amount"": ""12.90""}, {""description"": ""SPICY T/S SPAGHETTI"", ""quantity"": 1, ""unit_price"": ""14.90"", ""amount"": ""14.90""}, {""description"": ""SIRLOIN STEAK"", ""quantity"": 2, ""unit_price"": ""34.90"", ""amount"": ""69.80""}, {""description"": ""GRILLED MARINATED"", ""quantity"": 1, ""unit_price"": ""19.90"", ""amount"": ""19.90""}, {""description"": ""GRILLED CHICKEN CHOP"", ""quantity"": 1, ""unit_price"": ""18.90"", ""amount"": ""18.90""}, {""description"": ""ICED LEMON TEA"", ""quantity"": 1, ""unit_price"": ""6.90"", ""amount"": ""6.90""}]","[{""description"": ""CREAM OF MUSHROOM SOUP"", ""quantity"": 2, ""unit_price"": ""6.10"", ""amount"": ""12.20""}, {""description"": ""NOODLE SOUP O.T.ROCK"", ""quantity"": 1, ""unit_price"": ""14.90"", ""amount"": ""14.90""}, {""description"": ""SPICY T/S SPAGHETTI"", ""quantity"": 2, ""unit_price"": ""34.90"", ""amount"": ""69.80""}, {""description"": ""SIRLOIN STEAK"", ""quantity"": 1, ""unit_price"": ""19.90"", ""amount"": ""19.90""}, {""description"": ""GRILLED MARINATED"", ""quantity"": 1, ""unit_price"": ""18.90"", ""amount"": ""18.90""}, {""description"": ""GRILLED CHICKEN CHOP"", ""quantity"": 1, ""unit_price"": ""6.90"", ""amount"": ""6.90""}, {""description"": ""ICED LEMON TEA"", ""quantity"": 1, ""unit_price"": ""6.90"", ""amount"": ""6.90""}]",0,,,0
+receipt469,company,SANYU STATIONERY SHOP,SANYU SUPPLY SDN BHD,0,0.537,,0
+receipt469,date,18/04/2017,18/04/2017,1,1.000,1,1
+receipt469,address,"NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM","NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",1,1.000,,1
+receipt469,tax_number,001531760640,001531760640,1,1.000,,1
+receipt469,total,8.70,8.70,1,1.000,,1
+receipt469,tax_amount,0.49,0.49,1,1.000,,1
+receipt469,service_charge,null,null,1,1.000,,1
+receipt469,line_items,"[{""description"": ""RESTAURANT ORDER CHIT NCR 3.5\""X6\"""", ""quantity"": 3, ""unit_price"": ""2.9000"", ""amount"": ""8.70""}]","[{""description"": ""RESTAURANT ORDER CHIT NCR 3.5\""x6\"""", ""quantity"": 3, ""unit_price"": ""2.9000"", ""amount"": ""8.70""}]",1,,,1
+receipt478,company,SANYU STATIONERY SHOP,SANYU SUPPLY SDN BHD,0,0.537,,0
+receipt478,date,31/10/2017,31/10/2017,1,1.000,1,1
+receipt478,address,"NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM","NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",1,1.000,,1
+receipt478,tax_number,001531760640,001531760640,1,1.000,,1
+receipt478,total,3.90,3.90,1,1.000,,1
+receipt478,tax_amount,0.22,0.22,1,1.000,,1
+receipt478,service_charge,null,null,1,1.000,,1
+receipt478,line_items,"[{""description"": ""JOURNAL BOOK 80PGS A4 70G CARD COVER (SJB-4013)"", ""quantity"": 1, ""unit_price"": ""3.9000"", ""amount"": ""3.90""}]","[{""description"": ""JOURNAL BOOK 80PGS A4 70G CARD COVER (SJB-4013)"", ""quantity"": 1, ""unit_price"": ""3.90"", ""amount"": ""3.90""}]",1,,,1
+receipt488,company,SANYU STATIONERY SHOP,SANYU SUPPLY SDN BHD,0,0.537,,0
+receipt488,date,28/12/2017,28/12/2017,1,1.000,1,1
+receipt488,address,"NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM","NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",1,1.000,,1
+receipt488,tax_number,001531760640,001531760640,1,1.000,,1
+receipt488,total,46.90,46.90,1,1.000,,1
+receipt488,tax_amount,2.65,2.65,1,1.000,,1
+receipt488,service_charge,null,null,1,1.000,,1
+receipt488,line_items,"[{""description"": ""PRO ADHESIVE LABEL (WHITE) 2585"", ""quantity"": 1, ""unit_price"": ""2.2000"", ""amount"": ""2.20""}, {""description"": ""RESTAURANT ORDER CHIT NCR 3.5\""X6\"""", ""quantity"": 3, ""unit_price"": ""2.9000"", ""amount"": ""8.70""}, {""description"": ""SONOFAX - EC THERMAL ROLL (BLUE) - (57MMX60MMX12MM) (10ROLL/PKT)"", ""quantity"": 1, ""unit_price"": ""36.0000"", ""amount"": ""36.00""}]","[{""description"": ""PRO ADHESIVE LABEL (WHITE)"", ""quantity"": 1, ""unit_price"": ""2.20"", ""amount"": ""2.20""}, {""description"": ""RESTAURANT ORDER CHIT NCR 3.5\""x6\"""", ""quantity"": 3, ""unit_price"": ""2.9000"", ""amount"": ""8.70""}, {""description"": ""SONOFAX - EC THERMAL ROLL (BLUE) - (57MMx60MMx12MM) (10ROLL/PKT)"", ""quantity"": 1, ""unit_price"": ""36.0000"", ""amount"": ""36.00""}]",0,,,0
+receipt496,company,SANYU STATIONERY SHOP,SANYU SUPPLY SDN BHD,0,0.537,,0
+receipt496,date,19/07/2017,19/07/2017,1,1.000,1,1
+receipt496,address,"NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM","NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",1,1.000,,1
+receipt496,tax_number,001531760640,001531760640,1,1.000,,1
+receipt496,total,5.00,5.00,1,1.000,,1
+receipt496,tax_amount,0.28,0.28,1,1.000,,1
+receipt496,service_charge,null,null,1,1.000,,1
+receipt496,line_items,"[{""description"": ""PHOTOCOPY SERVICES - A4 SIZE"", ""quantity"": 50, ""unit_price"": ""0.1000"", ""amount"": ""5.00""}]","[{""description"": ""PHOTOCOPY SERVICES - A4 SIZE"", ""quantity"": 50, ""unit_price"": ""0.1000"", ""amount"": ""5.00""}]",1,,,1
+receipt505,company,AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD,AIK HUAT HARDWARE ENTERPRISE,0,0.727,,0
+receipt505,date,15/11/2017,15/11/2017,1,1.000,1,1
+receipt505,address,"NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM,","NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM",0,0.994,,1
+receipt505,tax_number,000394528768,000394528768,1,1.000,,1
+receipt505,total,16.00,16.00,1,1.000,,1
+receipt505,tax_amount,0.91,0.91,1,1.000,,1
+receipt505,service_charge,null,null,1,1.000,,1
+receipt505,line_items,"[{""description"": ""SCHNEIDER VIVACE 15A S/SOCKET"", ""quantity"": 1, ""unit_price"": ""16.00"", ""amount"": ""16.00""}]","[{""description"": ""SCHNEIDER VIVACE 15A S/SOCKET"", ""quantity"": 1, ""unit_price"": ""16.00"", ""amount"": ""16.00""}]",1,,,1
+receipt514,company,MYNEWS RETAIL SB,MYNEWS RETAIL SB,1,1.000,,1
+receipt514,date,28/06/2018,28/06/2018,1,1.000,1,1
+receipt514,address,"UNIT 105, BLOCK A,PUSAT DAGANGAN PHILEO DAMANSARA, NO.9, JALAN 16/11,,46350,PETALING JAYA,SELANGOR","UNIT 105, BLOCK A,PUSAT DAGANGAN PHILEO DAMANSARA, NO. 9, JALAN 16/11,,46350,PETALING JAYA,SELANGOR",0,0.995,,1
+receipt514,tax_number,000709361664,000709361664,1,1.000,,1
+receipt514,total,6.00,6.00,1,1.000,,1
+receipt514,tax_amount,0.00,0.00,1,1.000,,1
+receipt514,service_charge,null,null,1,1.000,,1
+receipt514,line_items,"[{""description"": ""GP GREENCELL EXTRA HEAVY DUTY AAA 4+2"", ""quantity"": 1, ""unit_price"": ""6.00"", ""amount"": ""6.00""}]","[{""description"": ""GP GREENCELL EXTRA HEAVY DUTY AAA 4+2"", ""quantity"": 1, ""unit_price"": ""6.00"", ""amount"": ""6.00""}]",1,,,1
+receipt525,company,DE LUXE CIRCLE FRESH MART SDN BHD,DE LUXE CIRCLE FRESH MART SDN BHD,1,1.000,,1
+receipt525,date,02/06/18,02/06/18,1,1.000,1,1
+receipt525,address,"NO. 89&91, JALAN UTAMA, TAMAN MUTIA RINI, 81300 SKUDAI, JOHOR.","No. 8981, Jalan Utama, Taman Mutia Rini, 81300 Skudai, Johor.",0,0.976,,0
+receipt525,tax_number,001507647488,001507647488,1,1.000,,1
+receipt525,total,25.85,25.85,1,1.000,,1
+receipt525,tax_amount,0.00,0.00,1,1.000,,1
+receipt525,service_charge,null,null,1,1.000,,1
+receipt525,line_items,"[{""description"": ""COCA-COLA 320ML"", ""quantity"": 1, ""unit_price"": ""1.40"", ""amount"": ""1.40""}, {""description"": ""F&N GOTCHA BUGGY 75ML"", ""quantity"": 1, ""unit_price"": ""0.95"", ""amount"": ""0.95""}, {""description"": ""KING OYSTER MUSHROOM -UNIT 杏鲍菇 -UNIT"", ""quantity"": 1, ""unit_price"": ""3.50"", ""amount"": ""3.50""}, {""description"": ""LKK KUM CHUN OYSTER SAUCE 770G"", ""quantity"": 1, ""unit_price"": ""5.65"", ""amount"": ""5.65""}, {""description"": ""WHOLE CHICKEN 肉鸡"", ""quantity"": 1.306, ""unit_price"": ""10.99"", ""amount"": ""14.35""}]","[{""description"": ""Coca-Cola 320ml"", ""quantity"": null, ""unit_price"": null, ""amount"": ""1.40""}, {""description"": ""F&N Getcha Buggy 75ml"", ""quantity"": null, ""unit_price"": null, ""amount"": ""0.95""}, {""description"": ""King Oyster Mushroom -Unit"", ""quantity"": null, ""unit_price"": null, ""amount"": ""3.50""}, {""description"": ""LKK Kum Chun Oyster Sauce 770g"", ""quantity"": null, ""unit_price"": null, ""amount"": ""5.65""}, {""description"": ""Whole Chicken"", ""quantity"": null, ""unit_price"": null, ""amount"": ""10.99""}]",0,,,0
+receipt533,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt533,date,18 JUN 2018,18 Jun 2018,1,1.000,1,1
+receipt533,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt533,tax_number,000656195584,000058195584,0,0.833,,0
+receipt533,total,8.20,8.19,0,0.000,,0
+receipt533,tax_amount,0.00,0.00,1,1.000,,1
+receipt533,service_charge,null,null,1,1.000,,1
+receipt533,line_items,"[{""description"": ""1 MEAT + 3 VEGE"", ""quantity"": 1, ""unit_price"": ""6.69"", ""amount"": ""6.69""}, {""description"": ""IMPORTED VEGGIES"", ""quantity"": 1, ""unit_price"": ""1.50"", ""amount"": ""1.50""}]","[{""description"": ""1 Meat + 3 Vege"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""6.69""}, {""description"": ""Imported Veggies"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.50""}]",0,,,0
+receipt539,company,LAVENDER CONFECTIONERY & BAKERY S/B,LAVENDER CONFECTIONERY & BAKERY S/B,1,1.000,,1
+receipt539,date,17/06/2018,17/06/2018,1,1.000,1,1
+receipt539,address,"LOT G29 & G30, AEON MALL TEBRAU CITY, NO. 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU.","LOT G29 & G30, AEON MALL TEBRAU CITY, NO. 1, JALAN DESA TEBRAU, TAMAN DESA TEBRAU, 81100 JOHOR BAHRU.",1,1.000,,1
+receipt539,tax_number,001872379904,001872379904,1,1.000,,1
+receipt539,total,26.50,26.50,1,1.000,,1
+receipt539,tax_amount,0.00,26.50,0,0.000,,0
+receipt539,service_charge,null,null,1,1.000,,1
+receipt539,line_items,"[{""description"": ""HONEY SOFT TOAST"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.30""}, {""description"": ""XIAO GE GE"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""5.40""}, {""description"": ""PARMESAN CHEDDAR CHEES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.15""}, {""description"": ""TOFFEE DANISH"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.45""}, {""description"": ""EGG TART"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""5.10""}, {""description"": ""OTAK CHEESE BUN"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.10""}]","[{""description"": ""HONEY SOFT TOAST"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.30""}, {""description"": ""XIAO GE GE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.40""}, {""description"": ""PARMESAN CHEDDAR CHEES"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.15""}, {""description"": ""TOFFEE CANIHI"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.45""}, {""description"": ""EGG TART"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.10""}, {""description"": ""OTAK CHEESE BUN"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.10""}]",0,,,0
+receipt551,company,MR. D.I.Y. (M) SDN BHD,MR. D.I.Y. (M) SDN BHD,1,1.000,,1
+receipt551,date,28-05-18,28-05-18,1,1.000,1,1
+receipt551,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt551,tax_number,000306020352,000306020352,1,1.000,,1
+receipt551,total,2.70,2.70,1,1.000,,1
+receipt551,tax_amount,0.15,0.15,1,1.000,,1
+receipt551,service_charge,null,null,1,1.000,,1
+receipt551,line_items,"[{""description"": ""UNI CLASSIC QUALITY BOND UC-1701B 17"", ""quantity"": 1, ""unit_price"": ""2.70"", ""amount"": ""2.70""}]","[{""description"": ""UNI CLASSIC QUALITY BOND UC-1701B 17 *S"", ""quantity"": 1, ""unit_price"": ""2.70"", ""amount"": ""2.70""}]",1,,,1
+receipt562,company,RESTORAN WAN SHENG,RESTORAN WAN SHENG,1,1.000,,1
+receipt562,date,01-06-2018,01-06-2018,1,1.000,1,1
+receipt562,address,"NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR","No.2, Jalan Temenggung 19/9. Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",0,0.988,,1
+receipt562,tax_number,001335787520,001335787520,1,1.000,,1
+receipt562,total,4.80,4.80,1,1.000,,1
+receipt562,tax_amount,0.00,0.00,1,1.000,,1
+receipt562,service_charge,null,null,1,1.000,,1
+receipt562,line_items,"[{""description"": ""CHAM (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""TAKE AWAY"", ""quantity"": 2, ""unit_price"": ""0.20"", ""amount"": ""0.40""}]","[{""description"": ""Cham (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""Take Away"", ""quantity"": 2, ""unit_price"": ""0.20"", ""amount"": ""0.40""}]",1,,,1
+receipt576,company,MR. D.I.Y. (KUCHAI) SDN BHD,MR. D.I.Y. (KUCHAI) SDN BHD,1,1.000,,1
+receipt576,date,11-06-18,11-06-18,1,1.000,1,1
+receipt576,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",1,1.000,,1
+receipt576,tax_number,000473792512,000473792512,1,1.000,,1
+receipt576,total,11.25,11.25,1,1.000,,1
+receipt576,tax_amount,0.00,0.00,1,1.000,,1
+receipt576,service_charge,null,null,1,1.000,,1
+receipt576,line_items,"[{""description"": ""EVA MEN SANDAL M1044/1 SIZE:6-10"", ""quantity"": 1, ""unit_price"": ""11.23"", ""amount"": ""11.23""}]","[{""description"": ""EVA MEN SANDAL M1044/1 SIZE:6-10"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""11.23""}]",0,,,0
+receipt583,company,C W KHOO HARDWARE SDN BHD,C W KHOO HARDWARE SDN BHD,1,1.000,,1
+receipt583,date,11/06/2018,11/06/2018,1,1.000,1,1
+receipt583,address,"NO.50 , JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG,","NO.50 , JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG",0,0.992,,1
+receipt583,tax_number,000549584896,000549584896,1,1.000,,1
+receipt583,total,48.00,48.00,1,1.000,,1
+receipt583,tax_amount,0.00,0.00,1,1.000,,1
+receipt583,service_charge,null,null,1,1.000,,1
+receipt583,line_items,"[{""description"": ""100# X 4L COMPRESSOR OIL"", ""quantity"": 1, ""unit_price"": ""48.00"", ""amount"": ""48.00""}]","[{""description"": ""100# X 4L COMPRESSOR OIL"", ""quantity"": 1, ""unit_price"": ""48.00"", ""amount"": ""48.00""}]",1,,,1
+receipt595,company,ONE ONE THREE SEAFOOD RESTAURANT SDN BHD,ONE ONE THREE SEAFOOD RESTAURANT SDN BHD,1,1.000,,1
+receipt595,date,28-05-2018,28-05-2018,1,1.000,1,1
+receipt595,address,"NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.","NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",1,1.000,,1
+receipt595,tax_number,000670224384,000670224384,1,1.000,,1
+receipt595,total,112.35,112.35,1,1.000,,1
+receipt595,tax_amount,6.36,6.36,1,1.000,,1
+receipt595,service_charge,null,null,1,1.000,,1
+receipt595,line_items,"[{""description"": ""GROUPER"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""70.00""}, {""description"": ""VEGE ITEM"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}, {""description"": ""OMELLETE ITEM"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}, {""description"": ""WHITE RICE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}, {""description"": ""BEVERAGE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.00""}]","[{""description"": ""Grouper"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""70.00""}, {""description"": ""Veggie item"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}, {""description"": ""Omelette Item"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}, {""description"": ""White Rice"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.00""}, {""description"": ""Beverage"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""8.00""}]",0,,,0
+receipt606,company,KEDAI PAPAN YEW CHUAN,KEDAI PAPAN YEW CHUAN,1,1.000,,1
+receipt606,date,11/05/2018,11/05/2018,1,1.000,1,1
+receipt606,address,"LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR","LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",0,0.989,,1
+receipt606,tax_number,000781500416,000781500416,1,1.000,,1
+receipt606,total,68.90,68.90,1,1.000,,1
+receipt606,tax_amount,3.90,3.90,1,1.000,,1
+receipt606,service_charge,null,null,1,1.000,,1
+receipt606,line_items,"[{""description"": ""PASIR HALUS (D)"", ""quantity"": 1, ""unit_price"": ""68.90"", ""amount"": ""68.90""}]","[{""description"": ""PASIR HALUS (D)"", ""quantity"": 1, ""unit_price"": ""65.00"", ""amount"": ""68.90""}]",0,,,0
+receipt615,company,ONE ONE THREE SEAFOOD RESTAURANT SDN BHD,ONE ONE THREE SEAFOOD RESTAURANT SDN BHD,1,1.000,,1
+receipt615,date,13-06-2018,13-06-2018,1,1.000,1,1
+receipt615,address,"NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.","NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",1,1.000,,1
+receipt615,tax_number,000670224384,000670224384,1,1.000,,1
+receipt615,total,35.00,35.00,1,1.000,,1
+receipt615,tax_amount,0.00,0.00,1,1.000,,1
+receipt615,service_charge,null,null,1,1.000,,1
+receipt615,line_items,"[{""description"": ""RICE W SEAFOOD /MEAT ITEM SINGLE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}, {""description"": ""BEVERAGE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.00""}, {""description"": ""NOODLE ITEM SINGLE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}]","[{""description"": ""Rice w Seafood /Meat Item Single"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}, {""description"": ""Beverage"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""5.00""}, {""description"": ""Noodle Item Single"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""15.00""}]",1,,,1
+receipt625,company,GERBANG ALAF RESTAURANTS SDN BHD,Gerbang Aiaf Restaurants Sdn Bhd,0,0.969,,0
+receipt625,date,18/01/2018,18/01/2018,1,1.000,1,1
+receipt625,address,"LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR","Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",1,1.000,,1
+receipt625,tax_number,000504664064,000504664064,1,1.000,,1
+receipt625,total,38.90,38.90,1,1.000,,1
+receipt625,tax_amount,2.20,2.20,1,1.000,,1
+receipt625,service_charge,null,null,1,1.000,,1
+receipt625,line_items,"[{""description"": ""M SPICYDELUXE"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""25.40""}, {""description"": ""M GRILCHICBGR"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""SMALL CONE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}]","[{""description"": ""2 M SpicyDeluxe"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""25.40""}, {""description"": ""2 M Coke"", ""quantity"": 2, ""unit_price"": null, ""amount"": null}, {""description"": ""2 M Fries"", ""quantity"": 2, ""unit_price"": null, ""amount"": null}, {""description"": ""1 M GrilChicBgr"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.50""}, {""description"": ""1 M Coke"", ""quantity"": 1, ""unit_price"": null, ""amount"": null}, {""description"": ""1 M Fries"", ""quantity"": 1, ""unit_price"": null, ""amount"": null}, {""description"": ""1 Small Cone"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}]",0,,,0
+receipt631,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt631,date,20-11-17,20-11-17,1,1.000,1,1
+receipt631,address,"LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2","LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2",1,1.000,,1
+receipt631,tax_number,000181747712,000181747712,1,1.000,,1
+receipt631,total,169.80,169.80,1,1.000,,1
+receipt631,tax_amount,9.61,9.61,1,1.000,,1
+receipt631,service_charge,null,null,1,1.000,,1
+receipt631,line_items,"[{""description"": ""PEDIASURE COMPLETE S3S"", ""quantity"": null, ""unit_price"": null, ""amount"": ""117.90""}, {""description"": ""MILO 2KG"", ""quantity"": null, ""unit_price"": null, ""amount"": ""34.90""}, {""description"": ""ZING HEING OAT & WHEAT"", ""quantity"": null, ""unit_price"": null, ""amount"": ""4.10""}, {""description"": ""DISNEY DS112 WIDE NECK"", ""quantity"": null, ""unit_price"": null, ""amount"": ""5.89""}, {""description"": ""JOHNSONS PH5.5 2IN1 BO"", ""quantity"": null, ""unit_price"": null, ""amount"": ""6.99""}]","[{""description"": ""PEDIASURE COMPLETE 53S"", ""quantity"": null, ""unit_price"": null, ""amount"": ""117.90""}, {""description"": ""WYLO 2KG"", ""quantity"": null, ""unit_price"": null, ""amount"": ""34.90""}, {""description"": ""ZING HEING OAT & WHEAT"", ""quantity"": null, ""unit_price"": null, ""amount"": ""4.10""}, {""description"": ""DISNEY DS112 WIDE NECK"", ""quantity"": null, ""unit_price"": null, ""amount"": ""5.89""}, {""description"": ""JOHNSONS PMS.5 2IN1 80"", ""quantity"": null, ""unit_price"": null, ""amount"": ""6.99""}]",0,,,0
+receipt638,company,SWC ENTERPRISE SDN BHD,SWC ENTERPRISE SDN BHD,1,1.000,,1
+receipt638,date,02/01/2018,02/01/2018,1,1.000,1,1
+receipt638,address,"8 & 10, JALAN IJOK PERMAI 1, PUSAT NIAGA IJOK PERMAI, 48000 IJOK, SELANGOR","8 & 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.",0,0.993,,1
+receipt638,tax_number,002017808384,002617B08384,0,0.833,,0
+receipt638,total,4.20,8.40,0,0.000,,0
+receipt638,tax_amount,0.24,0.24,1,1.000,,1
+receipt638,service_charge,null,null,1,1.000,,1
+receipt638,line_items,"[{""description"": ""5X8 500G (1X60)"", ""quantity"": 1, ""unit_price"": ""4.20"", ""amount"": ""4.20""}]","[{""description"": ""5X8 500G (1X60)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.20""}, {""description"": ""5X8 300G"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.20""}]",0,,,0
+receipt648,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt648,date,25 MAR 2018,25 Mar 2018,1,1.000,1,1
+receipt648,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt648,tax_number,000656195584,000058195584,0,0.833,,0
+receipt648,total,8.50,8.50,1,1.000,,1
+receipt648,tax_amount,0.48,0.48,1,1.000,,1
+receipt648,service_charge,null,null,1,1.000,,1
+receipt648,line_items,"[{""description"": ""4 VEGE"", ""quantity"": 1, ""unit_price"": ""5.50"", ""amount"": ""5.50""}, {""description"": ""FRIED NOODLE (L)"", ""quantity"": 1, ""unit_price"": ""3.00"", ""amount"": ""3.00""}]","[{""description"": ""4 Vege"", ""quantity"": 1, ""unit_price"": ""5.50"", ""amount"": ""5.50""}, {""description"": ""Fried Noodle (L)"", ""quantity"": 1, ""unit_price"": ""3.00"", ""amount"": ""3.00""}]",1,,,1
+receipt658,company,PASARAYA BORONG PINTAR SDN BHD,PASARAYA BORONG PINTAR SDN BHD,1,1.000,,1
+receipt658,date,30/01/2018,30/01/2018,1,1.000,1,1
+receipt658,address,"NO 19-G& 19-1& 19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI","NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",0,0.984,,1
+receipt658,tax_number,null,null,1,1.000,,1
+receipt658,total,1.70,1.70,1,1.000,,1
+receipt658,tax_amount,0.00,0.00,1,1.000,,1
+receipt658,service_charge,null,null,1,1.000,,1
+receipt658,line_items,"[{""description"": ""REVIVE 500ML"", ""quantity"": 1, ""unit_price"": ""1.70"", ""amount"": ""1.70""}]","[{""description"": ""REVIVE 500ML"", ""quantity"": 1, ""unit_price"": ""1.70"", ""amount"": ""1.70""}]",1,,,1
+receipt669,company,FY EAGLE ENTERPRISE,FY EAGLE ENTERPRISE,1,1.000,,1
+receipt669,date,07/12/2017,07/12/2017,1,1.000,1,1
+receipt669,address,"NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANGOR","NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANDOR",0,0.989,,0
+receipt669,tax_number,001663156224,001663156224,1,1.000,,1
+receipt669,total,10.00,10.00,1,1.000,,1
+receipt669,tax_amount,0.57,0.57,1,1.000,,1
+receipt669,service_charge,null,null,1,1.000,,1
+receipt669,line_items,"[{""description"": ""500ML PAINT REMOVER(M.TE)-KTH"", ""quantity"": 1, ""unit_price"": ""10.00"", ""amount"": ""10.00""}]","[{""description"": ""SR:500ML PAINT REMOVER(M.TE)-KTH"", ""quantity"": 1, ""unit_price"": ""10.00"", ""amount"": ""10.00""}]",1,,,1
+receipt682,company,SUPER TERMINAL SDN BHD,Super Terminal Sdn Bhd,1,1.000,,1
+receipt682,date,20/01/2018,20/01/2018,1,1.000,1,1
+receipt682,address,"NO. 18 & 19, TAMAN CITY, JALAN KUCHING, 52100 KUALA LUMPUR","No. 18 & 19, Taman City, Jalan Kuching, 52100 Kuala Lumpur",1,1.000,,1
+receipt682,tax_number,000180269056,000180269056,1,1.000,,1
+receipt682,total,132.50,132.50,1,1.000,,1
+receipt682,tax_amount,7.50,7.50,1,1.000,,1
+receipt682,service_charge,null,null,1,1.000,,1
+receipt682,line_items,"[{""description"": ""LED 11 SIGNAL"", ""quantity"": 1, ""unit_price"": ""55.00"", ""amount"": ""58.30""}, {""description"": ""KZ SIGNAL CONDENSOR (KOZI) 12V (MODEL:SC1201)(MT)"", ""quantity"": 1, ""unit_price"": ""18.00"", ""amount"": ""19.08""}, {""description"": ""YAMLUBE (SEMI) MOTOR OIL"", ""quantity"": 1, ""unit_price"": ""30.00"", ""amount"": ""31.80""}, {""description"": ""OIL FILTER LC135"", ""quantity"": 1, ""unit_price"": ""13.00"", ""amount"": ""13.78""}, {""description"": ""BULB SIGNAL 12V8 RXZ G18.5"", ""quantity"": 1, ""unit_price"": ""3.00"", ""amount"": ""3.18""}, {""description"": ""NUMBER PLASTIC"", ""quantity"": 6, ""unit_price"": ""1.00"", ""amount"": ""6.36""}]","[{""description"": ""LED 11 SIGNAL"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""58.30""}, {""description"": ""KZ SIGNAL CONDENSOR (KOZI) 12V (MODEL:SC1201)(MT)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""19.08""}, {""description"": ""YAMLUBE (SEMI) MOTOR OIL"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""31.80""}, {""description"": ""OIL FILTER LC135"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""13.78""}, {""description"": ""BULB SIGNAL 12V8 RXZ G18.5"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.18""}, {""description"": ""NUMBER PLASTIC"", ""quantity"": 6, ""unit_price"": null, ""amount"": ""6.36""}]",0,,,0
+receipt694,company,SYARIKAT PERNIAGAAN GIN KEE,SYARIKAT PERNIAGAAN GIN KEE,1,1.000,,1
+receipt694,date,02/02/2018,02/02/2018,1,1.000,1,1
+receipt694,address,"NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR","NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",0,0.991,,1
+receipt694,tax_number,000750673920,000750673920,1,1.000,,1
+receipt694,total,94.13,94.13,1,1.000,,1
+receipt694,tax_amount,5.33,5.33,1,1.000,,1
+receipt694,service_charge,null,null,1,1.000,,1
+receipt694,line_items,"[{""description"": ""10'2 X 2"", ""quantity"": 2, ""unit_price"": ""12.72"", ""amount"": ""25.44""}, {""description"": ""18'2 X 3"", ""quantity"": 2, ""unit_price"": ""34.34"", ""amount"": ""68.69""}]","[{""description"": ""1796 10' 2 X 2"", ""quantity"": 2, ""unit_price"": ""12.72"", ""amount"": ""25.44""}, {""description"": ""1816 18' 2 X 3"", ""quantity"": 2, ""unit_price"": ""34.34"", ""amount"": ""68.69""}]",0,,,0
+receipt704,company,RESTORAN WAN SHENG,RESTORAN WAN SHENG,1,1.000,,1
+receipt704,date,10-03-2018,10-03-2018,1,1.000,1,1
+receipt704,address,"NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR","No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",1,1.000,,1
+receipt704,tax_number,001335787520,001335787520,1,1.000,,1
+receipt704,total,7.20,7.20,1,1.000,,1
+receipt704,tax_amount,0.39,0.39,1,1.000,,1
+receipt704,service_charge,null,null,1,1.000,,1
+receipt704,line_items,"[{""description"": ""TEH (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""CHAM (B)"", ""quantity"": 1, ""unit_price"": ""2.20"", ""amount"": ""2.20""}, {""description"": ""TAKE AWAY"", ""quantity"": 3, ""unit_price"": ""0.20"", ""amount"": ""0.60""}]","[{""description"": ""Teh (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""Cham (B)"", ""quantity"": 1, ""unit_price"": ""2.20"", ""amount"": ""2.20""}, {""description"": ""Take Away"", ""quantity"": 3, ""unit_price"": ""0.20"", ""amount"": ""0.60""}]",1,,,1
+receipt713,company,POTTERS GARDEN SDN BHD,POTTERS GARDEN SDN BHD,1,1.000,,1
+receipt713,date,04/01/2018,04/01/2018,1,1.000,1,1
+receipt713,address,"BATU 11. SG BULOH, 47000 SELANGOR","Batu 11. Sg Buloh, 47000 Selangor.",0,0.985,,1
+receipt713,tax_number,000392024064,000392024064,1,1.000,,1
+receipt713,total,39.80,39.80,1,1.000,,1
+receipt713,tax_amount,2.26,2.26,1,1.000,,1
+receipt713,service_charge,null,null,1,1.000,,1
+receipt713,line_items,"[{""description"": ""PLASTIC PLATE"", ""quantity"": null, ""unit_price"": null, ""amount"": ""1.00""}, {""description"": ""CHINA POT"", ""quantity"": 2, ""unit_price"": ""7.90"", ""amount"": ""15.80""}, {""description"": ""PLANT"", ""quantity"": null, ""unit_price"": null, ""amount"": ""16.00""}, {""description"": ""PLANT"", ""quantity"": null, ""unit_price"": null, ""amount"": ""7.00""}]","[{""description"": ""PLASTIC PLATE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.00""}, {""description"": ""CHINA POT"", ""quantity"": 2, ""unit_price"": ""7.90"", ""amount"": ""15.80""}, {""description"": ""PLANT"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""16.00""}, {""description"": ""PLANT"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.00""}]",0,,,0
+receipt721,company,KEDAI PAPAN YEW CHUAN,KEDAI PAPAN YEW CHUAN,1,1.000,,1
+receipt721,date,21/03/2018,21/03/2018,1,1.000,1,1
+receipt721,address,"LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR","LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",0,0.989,,1
+receipt721,tax_number,000781500416,000781500416,1,1.000,,1
+receipt721,total,144.16,144.16,1,1.000,,1
+receipt721,tax_amount,8.16,8.16,1,1.000,,1
+receipt721,service_charge,null,null,1,1.000,,1
+receipt721,line_items,"[{""description"": ""BESI Y 10 (CQ)"", ""quantity"": 8, ""unit_price"": ""18.02"", ""amount"": ""144.16""}]","[{""description"": ""BESI Y 10 (CQ)"", ""quantity"": 8, ""unit_price"": ""17.00"", ""amount"": ""144.16""}]",0,,,0
+receipt729,company,YONG CEN ENTERPRISE,YONG CEN ENTERPRISE,1,1.000,,1
+receipt729,date,06/01/2018,06/01/2018,1,1.000,1,1
+receipt729,address,"9, JALAN SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR","9 JALAN SUBANG JASA 3 40150 SHAH ALAM, SELANGOR.",0,0.969,,1
+receipt729,tax_number,001147981824,001147981824,1,1.000,,1
+receipt729,total,65.70,65.70,1,1.000,,1
+receipt729,tax_amount,3.72,3.72,1,1.000,,1
+receipt729,service_charge,null,null,1,1.000,,1
+receipt729,line_items,"[{""description"": ""CHAMPIGNONS MUSHROOMS 425G"", ""quantity"": 24, ""unit_price"": ""2.58"", ""amount"": ""61.99""}]","[{""description"": ""SR CHAMPIGNONS MUSHROOMS 425G"", ""quantity"": 24, ""unit_price"": ""2.58"", ""amount"": ""61.99""}]",0,,,0
+receipt742,company,MR. D.I.Y. (M) SDN BHD,MR. D.I.Y. (M) SDN BHD,1,1.000,,1
+receipt742,date,18-03-18,18-03-18,1,1.000,1,1
+receipt742,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG , 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",0,0.995,,1
+receipt742,tax_number,000306020352,000306020352,1,1.000,,1
+receipt742,total,6.60,6.60,1,1.000,,1
+receipt742,tax_amount,0.37,0.37,1,1.000,,1
+receipt742,service_charge,null,null,1,1.000,,1
+receipt742,line_items,"[{""description"": ""PP WATER FILTER CARTRIDGE INDOOR 1S"", ""quantity"": 2, ""unit_price"": ""3.30"", ""amount"": ""6.60""}]","[{""description"": ""PP WATER FILTER CARTRIDGE INDOOR 1S"", ""quantity"": 2, ""unit_price"": ""3.30"", ""amount"": ""6.60""}]",1,,,1
+receipt753,company,IMAGE PRINTEC (M) SDN BHD,IMAGE PRINTEC (M) SDN BHD,1,1.000,,1
+receipt753,date,23/02/2018,23/02/2018,1,1.000,1,1
+receipt753,address,"NO. 12A-G, JALAN WANGSA DELIMA 11, D'WANGSA WANGSA MAJU, 53300 KUALA LUMPUR","No. 12A-G, Jalan Wangsa Delima 11, D'wangsa Wangsa Maju, 53300 Kuala Lumpur.",0,0.993,,1
+receipt753,tax_number,001241862144,001241862144,1,1.000,,1
+receipt753,total,7.65,7.65,1,1.000,,1
+receipt753,tax_amount,0.43,0.43,1,1.000,,1
+receipt753,service_charge,null,null,1,1.000,,1
+receipt753,line_items,"[{""description"": ""COLOR COPY A4"", ""quantity"": 2, ""unit_price"": ""1.00"", ""amount"": ""2.00""}, {""description"": ""PHOTOCOPY A4"", ""quantity"": 2, ""unit_price"": ""0.10"", ""amount"": ""0.20""}, {""description"": ""LAMINATE A4"", ""quantity"": 2, ""unit_price"": ""2.50"", ""amount"": ""5.00""}]","[{""description"": ""2 COLOR COPY A4"", ""quantity"": 2, ""unit_price"": ""1.00"", ""amount"": ""2.00""}, {""description"": ""2 PHOTOCOPY A4"", ""quantity"": 2, ""unit_price"": ""0.10"", ""amount"": ""0.20""}, {""description"": ""2 LAMINATE A4"", ""quantity"": 2, ""unit_price"": ""2.50"", ""amount"": ""5.00""}]",0,,,0
+receipt768,company,MEI LET RESTAURANT,MEI LET RESTAURANT,1,1.000,,1
+receipt768,date,03/02/2017,03/02/2017,1,1.000,1,1
+receipt768,address,"NO 2, JALAN BULAN BM U5/BM, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR","NO 2. JALAN BULAN BM U5/BM, SEKSYEN US, 40150 SHAH ALAM, SELANGOR",0,0.969,,0
+receipt768,tax_number,0010 9273 4976,0010 9273 4976,1,1.000,,1
+receipt768,total,68.90,68.90,1,1.000,,1
+receipt768,tax_amount,3.90,3.90,1,1.000,,1
+receipt768,service_charge,null,null,1,1.000,,1
+receipt768,line_items,"[{""description"": ""PORK LEG VINEGAR(S)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""20.00""}, {""description"": ""TALAFIA - JIU PAI STEAM (M)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""43.00""}, {""description"": ""WATER / TEA"", ""quantity"": 4, ""unit_price"": ""0.50"", ""amount"": ""2.00""}]","[{""description"": ""PORK LEG VINEGAR(S) K29 PORK LEC VINEGAR(S)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""20.00""}, {""description"": ""TALAFIA - JIU PAI STEAM (M)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.00""}, {""description"": ""WATER / TEA 00.50"", ""quantity"": 4, ""unit_price"": null, ""amount"": ""2.00""}]",0,,,0
+receipt779,company,SEGI CASH & CARRY SDN.BHD,Segi Cash & Carry Sdn.Bhd,1,1.000,,1
+receipt779,date,06 FEB 2017,06 Feb 2017,1,1.000,1,1
+receipt779,address,"PT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN","PT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN.",0,0.991,,1
+receipt779,tax_number,001951645696,001951645696,1,1.000,,1
+receipt779,total,27.00,27.00,1,1.000,,1
+receipt779,tax_amount,1.53,1.53,1,1.000,,1
+receipt779,service_charge,null,null,1,1.000,,1
+receipt779,line_items,"[{""description"": ""KJ ESSENCE MERAH CERAH 25G"", ""quantity"": 5, ""unit_price"": ""2.44"", ""amount"": ""12.19""}, {""description"": ""STAR ORANGE FLAVOUR 25ML"", ""quantity"": 3, ""unit_price"": ""2.49"", ""amount"": ""7.47""}, {""description"": ""KJ ESSENCE HIJAU EPAL 25G"", ""quantity"": 3, ""unit_price"": ""2.44"", ""amount"": ""7.32""}]","[{""description"": ""KJ ESSENCE MERAH CERAH 25G"", ""quantity"": 5, ""unit_price"": ""2.44"", ""amount"": ""12.19""}, {""description"": ""STAR ORANGE FLAVOUR 25ML"", ""quantity"": 3, ""unit_price"": ""2.49"", ""amount"": ""7.47""}, {""description"": ""KJ ESSENCE HIJAU EPAL 25G"", ""quantity"": 3, ""unit_price"": ""2.44"", ""amount"": ""7.32""}]",1,,,1
+receipt794,company,ANEKA INTERTRADE MARKETING SDN BHD,Aneka Jntertrade Marketing Sdn Bhd,0,0.971,,0
+receipt794,date,19/06/17,19/06/17,1,1.000,1,1
+receipt794,address,"150B, JALAN TUDM,KG BARU SUBANG 40150 SHAH ALAM, SELANGOR DARUL EHSAN, MALAYSIA","150B, Jalan TUC14,Kg Baru Subang 40150 Shah Alam, Selangor Darul Ehsan, Malaysia.",0,0.963,,0
+receipt794,tax_number,001532760064,001532760064,1,1.000,,1
+receipt794,total,23.80,23.80,1,1.000,,1
+receipt794,tax_amount,1.35,1.35,1,1.000,,1
+receipt794,service_charge,null,null,1,1.000,,1
+receipt794,line_items,"[{""description"": ""MILO ACTIGEN-E 3IN1 18'SX33G"", ""quantity"": 2, ""unit_price"": ""11.90"", ""amount"": ""23.80""}]","[{""description"": ""Milo Actigen-E 3in1 18'sx33g"", ""quantity"": 2, ""unit_price"": ""11.90"", ""amount"": ""23.80""}]",1,,,1
+receipt801,company,BHPETROL PERMAS JAYA 2,BHPetrol Permas Jaya,0,0.952,,0
+receipt801,date,03-04-2018,03-04-2018,1,1.000,1,1
+receipt801,address,"LOT PTD 101051 JALAN PERMAS 10/10 81750 MASAI, JOHOR","LOT PTD 101051 Jalan Permas 10/10 81750 Masai, Johor",1,1.000,,1
+receipt801,tax_number,null,null,1,1.000,,1
+receipt801,total,50.00,50.00,1,1.000,,1
+receipt801,tax_amount,null,null,1,1.000,,1
+receipt801,service_charge,null,null,1,1.000,,1
+receipt801,line_items,"[{""description"": ""PPF P6"", ""quantity"": 50, ""unit_price"": ""1.000"", ""amount"": ""50.00""}]","[{""description"": ""PPF"", ""quantity"": 50, ""unit_price"": ""1.000"", ""amount"": ""50.00""}]",0,,,0
+receipt812,company,HIGH FIVE ENTERPRISE,HIGH FIVE ENTERPRISE,1,1.000,,1
+receipt812,date,05/04/18,05/04/18,1,1.000,1,1
+receipt812,address,"JALAN BIDARA, TAMAN BIDARA, SELAYANG 68100, BATU CAVES, SELANGOR","Jalan Bida ra, Taman Bida ra, Selayang 68100, Batu Caves, Selangor",0,0.985,,1
+receipt812,tax_number,001215471616,001215471616,1,1.000,,1
+receipt812,total,95.48,95.48,1,1.000,,1
+receipt812,tax_amount,0.00,0.00,1,1.000,,1
+receipt812,service_charge,null,null,1,1.000,,1
+receipt812,line_items,"[{""description"": ""FUELSAVE 95"", ""quantity"": 43.4, ""unit_price"": ""2.200"", ""amount"": ""95.48""}]","[{""description"": ""43.40 litre Pump # 11"", ""quantity"": 43.4, ""unit_price"": ""2.200"", ""amount"": ""95.48""}]",0,,,0
+receipt820,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt820,date,29/08/2017,29/08/2017,1,1.000,1,1
+receipt820,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",0,0.990,,1
+receipt820,tax_number,000381399040,000381399040,1,1.000,,1
+receipt820,total,37.90,37.90,1,1.000,,1
+receipt820,tax_amount,0.88,0.88,1,1.000,,1
+receipt820,service_charge,null,null,1,1.000,,1
+receipt820,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 9, ""unit_price"": ""2.13"", ""amount"": ""19.17""}, {""description"": ""WHOLEMEAL"", ""quantity"": -1, ""unit_price"": ""2.78"", ""amount"": ""-2.78""}, {""description"": ""O.C JUMBO"", ""quantity"": 2, ""unit_price"": ""2.97"", ""amount"": ""5.94""}, {""description"": ""CR-VANILLA"", ""quantity"": 19, ""unit_price"": ""0.72"", ""amount"": ""13.68""}, {""description"": ""CR-CORN"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}, {""description"": ""WF-F.EGG.V"", ""quantity"": -13, ""unit_price"": ""1.03"", ""amount"": ""-13.39""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 10, ""unit_price"": ""2.13"", ""amount"": ""19.17""}, {""description"": ""WHOLEMEAL"", ""quantity"": 5, ""unit_price"": ""2.78"", ""amount"": ""-2.78""}, {""description"": ""O.C. JUMBO"", ""quantity"": 2, ""unit_price"": ""2.97"", ""amount"": ""5.94""}, {""description"": ""CR-VANILLA"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""13.68""}, {""description"": ""CR-CORN"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}, {""description"": ""WF-F. EGG. V"", ""quantity"": 13, ""unit_price"": ""1.03"", ""amount"": ""-13.39""}]",0,,,0
+receipt832,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt832,date,22/09/2017,22/09/2017,1,1.000,1,1
+receipt832,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",0,0.990,,1
+receipt832,tax_number,000381399040,000381399040,1,1.000,,1
+receipt832,total,79.26,79.26,1,1.000,,1
+receipt832,tax_amount,3.41,3.41,1,1.000,,1
+receipt832,service_charge,null,null,1,1.000,,1
+receipt832,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 2, ""unit_price"": ""2.13"", ""amount"": ""4.26""}, {""description"": ""WHOLEMEAL"", ""quantity"": 1, ""unit_price"": ""2.78"", ""amount"": ""2.78""}, {""description"": ""O.C JUMBO"", ""quantity"": 4, ""unit_price"": ""2.97"", ""amount"": ""11.88""}, {""description"": ""CR-CHOCLT"", ""quantity"": 20, ""unit_price"": ""0.72"", ""amount"": ""14.40""}, {""description"": ""SQ-S.BERRY"", ""quantity"": 12, ""unit_price"": ""0.84"", ""amount"": ""10.08""}, {""description"": ""MUFFIN C&W"", ""quantity"": 10, ""unit_price"": ""1.25"", ""amount"": ""12.50""}, {""description"": ""TWG T'MISU"", ""quantity"": 15, ""unit_price"": ""1.33"", ""amount"": ""19.95""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 2, ""unit_price"": ""4.26"", ""amount"": ""4.26""}, {""description"": ""WHOLEMEAL"", ""quantity"": 1, ""unit_price"": ""2.78"", ""amount"": ""2.78""}, {""description"": ""O.C. JUMBO"", ""quantity"": 4, ""unit_price"": ""2.97"", ""amount"": ""11.88""}, {""description"": ""CR-CHOC LI"", ""quantity"": 20, ""unit_price"": ""14.40"", ""amount"": ""14.40""}, {""description"": ""SQ-S. BERRY"", ""quantity"": 12, ""unit_price"": ""10.08"", ""amount"": ""10.08""}, {""description"": ""MUFFIN C&W"", ""quantity"": 10, ""unit_price"": ""12.50"", ""amount"": ""12.50""}, {""description"": ""TWG T'MISU"", ""quantity"": 15, ""unit_price"": ""19.95"", ""amount"": ""19.95""}]",0,,,0
+receipt838,company,GARDENIA BAKERIES (KL) SDN BHD,GARDENIA BAKERIES (KL) SDN BHD,1,1.000,,1
+receipt838,date,26/09/2017,26/09/2017,1,1.000,1,1
+receipt838,address,"LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR","Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",1,1.000,,1
+receipt838,tax_number,000381399040,000381399040,1,1.000,,1
+receipt838,total,53.96,53.96,1,1.000,,1
+receipt838,tax_amount,2.02,2.02,1,1.000,,1
+receipt838,service_charge,null,null,1,1.000,,1
+receipt838,line_items,"[{""description"": ""O.C. WHITE"", ""quantity"": 6, ""unit_price"": ""2.13"", ""amount"": ""12.78""}, {""description"": ""WHOLEMEAL"", ""quantity"": 2, ""unit_price"": ""2.78"", ""amount"": ""5.56""}, {""description"": ""O.C JUMBO"", ""quantity"": 0, ""unit_price"": ""2.97"", ""amount"": ""0.00""}, {""description"": ""CR-VANILLA"", ""quantity"": 15, ""unit_price"": ""0.72"", ""amount"": ""10.80""}, {""description"": ""CR-CORN"", ""quantity"": 15, ""unit_price"": ""0.72"", ""amount"": ""10.80""}, {""description"": ""KAYA-PANDN"", ""quantity"": 5, ""unit_price"": ""2.40"", ""amount"": ""12.00""}]","[{""description"": ""O.C. WHITE"", ""quantity"": 6, ""unit_price"": ""2.13"", ""amount"": ""12.78""}, {""description"": ""WHOLEMEAL"", ""quantity"": 2, ""unit_price"": ""2.78"", ""amount"": ""5.56""}, {""description"": ""O.C JUMBO"", ""quantity"": 2, ""unit_price"": ""2.97"", ""amount"": ""0.00""}, {""description"": ""CR-VANILLA"", ""quantity"": 15, ""unit_price"": ""0.72"", ""amount"": ""10.80""}, {""description"": ""CR-CORN"", ""quantity"": 15, ""unit_price"": ""0.72"", ""amount"": ""10.80""}, {""description"": ""KAYA-PANDN"", ""quantity"": 5, ""unit_price"": ""2.40"", ""amount"": ""12.00""}]",0,,,0
+receipt851,company,YIN MA (M) SDN.BHD.,YIN MA (M) SDN.BHD.,1,1.000,,1
+receipt851,date,31 JAN 2016,31 Jan 2016,1,1.000,1,1
+receipt851,address,"NO.2, JALAN UDANG SIAR 2, TAMAN SRI SEGAMBUT, 52000 KUALA LUMPUR","NO.2, JALAN UDANG SIAR 2, TAMAN SRI SEGAMBUT, 52000 KUALA LUMPUR.",0,0.992,,1
+receipt851,tax_number,000119906304,000119906304,1,1.000,,1
+receipt851,total,5.40,5.40,1,1.000,,1
+receipt851,tax_amount,0.31,0.31,1,1.000,,1
+receipt851,service_charge,null,null,1,1.000,,1
+receipt851,line_items,"[{""description"": ""30CM-(FOOK)CNY"", ""quantity"": 1, ""unit_price"": ""4.90"", ""amount"": ""2.45""}, {""description"": ""40CM-(FOOK)CNY"", ""quantity"": 1, ""unit_price"": ""5.90"", ""amount"": ""2.95""}]","[{""description"": ""30CM-(FOOK)CNY"", ""quantity"": 1, ""unit_price"": ""2.45"", ""amount"": ""2.45""}, {""description"": ""40CM-(FOOK)CNY"", ""quantity"": 1, ""unit_price"": ""2.95"", ""amount"": ""2.95""}]",0,,,0
+receipt862,company,MR. D.I.Y. (KUCHAI) SDN BHD,MR. D.I.Y. (KUCHAI) SDN BHD,1,1.000,,1
+receipt862,date,10-01-16,10-01-16,1,1.000,1,1
+receipt862,address,"LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR","LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300, SERI KEMBANGAN, SELANGOR",0,0.995,,1
+receipt862,tax_number,000473792512,000473792512,1,1.000,,1
+receipt862,total,8.10,8.10,1,1.000,,1
+receipt862,tax_amount,0.46,0.46,1,1.000,,1
+receipt862,service_charge,null,null,1,1.000,,1
+receipt862,line_items,"[{""description"": ""ANTI SLIP MAT 820# 30*50CM*VS"", ""quantity"": 3, ""unit_price"": ""2.70"", ""amount"": ""8.10""}]","[{""description"": ""ANTI SLIP MAT 820# 30*50CM*VS"", ""quantity"": 3, ""unit_price"": ""2.70"", ""amount"": ""8.10""}]",1,,,1
+receipt870,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt870,date,19-08-16,19-08-16,1,1.000,1,1
+receipt870,address,"LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1237-TMN INDAH PERDANA","LOT F.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1237-TMN INDAH PERDANA",0,0.989,,0
+receipt870,tax_number,000181747712,000181747712,1,1.000,,1
+receipt870,total,4.70,4.70,1,1.000,,1
+receipt870,tax_amount,0.10,0.10,1,1.000,,1
+receipt870,service_charge,null,null,1,1.000,,1
+receipt870,line_items,"[{""description"": ""GARDENIA WHOLEMEAL 400"", ""quantity"": null, ""unit_price"": null, ""amount"": ""2.99""}, {""description"": ""GARDENIA CREAM ROLL CH"", ""quantity"": 2, ""unit_price"": ""0.85"", ""amount"": ""1.70""}]","[{""description"": ""GARDENIA WHOLEMEAL 400"", ""quantity"": 1, ""unit_price"": ""2.99"", ""amount"": ""2.99""}, {""description"": ""GARDENIA CREAM ROLL CH"", ""quantity"": 2, ""unit_price"": ""1.70"", ""amount"": ""3.40""}]",0,,,0
+receipt879,company,99 SPEED MART S/B,99 SPEED MART S/B,1,1.000,,1
+receipt879,date,20-09-16,20-09-16,1,1.000,1,1
+receipt879,address,"LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1558-TMN PUSAT KEPONG","LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1558-TMN PUSAT KEPONG",1,1.000,,1
+receipt879,tax_number,000181747712,000181747712,1,1.000,,1
+receipt879,total,14.20,14.20,1,1.000,,1
+receipt879,tax_amount,0.80,0.80,1,1.000,,1
+receipt879,service_charge,null,null,1,1.000,,1
+receipt879,line_items,"[{""description"": ""TIGER BEER BOTTLE 660ML"", ""quantity"": null, ""unit_price"": null, ""amount"": ""14.20""}]","[{""description"": ""559 TIGER BEER BOTTLE 660ML"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""14.20""}]",0,,,0
+receipt888,company,SKL DAMANSARA ENTERPRISE,SKL DAMANSARA ENTERPRISE,1,1.000,,1
+receipt888,date,28/07/17,28/07/17,1,1.000,1,1
+receipt888,address,"69G, JALAN SS21/60, DAMANSARA UTAMA, 47400 PETALING JAYA, SELANGOR","69G, JALAN SS21/60, DAMANSARA UTAMA, 47400 PETALING JAYA, SELANGOR.",0,0.992,,1
+receipt888,tax_number,000784498688,000784498088,0,0.917,,0
+receipt888,total,28.80,28.80,1,1.000,,1
+receipt888,tax_amount,1.63,1.63,1,1.000,,1
+receipt888,service_charge,null,null,1,1.000,,1
+receipt888,line_items,"[{""description"": ""PTFE THREAD SEAL TAPE"", ""quantity"": 3, ""unit_price"": ""1.00"", ""amount"": ""3.00""}, {""description"": ""VANCE GAS REFILL 50ML"", ""quantity"": 2, ""unit_price"": ""12.90"", ""amount"": ""25.80""}]","[{""description"": ""PTFE THREAD SEAL TAPE"", ""quantity"": 3, ""unit_price"": ""1.00"", ""amount"": ""3.00""}, {""description"": ""VANCE GAS REFILL 50ML"", ""quantity"": 2, ""unit_price"": ""12.90"", ""amount"": ""25.80""}]",1,,,1
+receipt896,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt896,date,10 MAY 2018,10 May 2018,1,1.000,1,1
+receipt896,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi 81200 Johor Bahru,Johor",0,0.986,,1
+receipt896,tax_number,000656195584,0000656195584,0,0.960,,0
+receipt896,total,12.20,12.20,1,1.000,,1
+receipt896,tax_amount,0.69,0.69,1,1.000,,1
+receipt896,service_charge,null,null,1,1.000,,1
+receipt896,line_items,"[{""description"": ""HERBAL TEA (ICED)"", ""quantity"": 1, ""unit_price"": ""2.00"", ""amount"": ""2.00""}, {""description"": ""RICE (S)"", ""quantity"": 1, ""unit_price"": ""0.50"", ""amount"": ""0.50""}, {""description"": ""IMPORTED VEGGIES"", ""quantity"": 1, ""unit_price"": ""1.60"", ""amount"": ""1.60""}, {""description"": ""ADD CHICKEN"", ""quantity"": 1, ""unit_price"": ""3.70"", ""amount"": ""3.70""}, {""description"": ""3 VEGE"", ""quantity"": 1, ""unit_price"": ""4.40"", ""amount"": ""4.40""}]","[{""description"": ""Herbal Tea (iced)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.00""}, {""description"": ""Rice (S)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""0.50""}, {""description"": ""Imported Veggies"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.60""}, {""description"": ""Add Chicken"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""3.70""}, {""description"": ""3 Vge"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.40""}]",0,,,0
+receipt905,company,UNIPHARM PHARMACY,UNIPHARM PHARMACY,1,1.000,,1
+receipt905,date,05/APR/2018,05/Apr/2018,1,1.000,1,1
+receipt905,address,"B12, JALAN SS 15/4D, 47500 SUBANG JAYA,","B12, Jalan SS 15/4D, 47500 Subang Jaya",0,0.987,,1
+receipt905,tax_number,001123352576,001123352576,1,1.000,,1
+receipt905,total,24.90,24.90,1,1.000,,1
+receipt905,tax_amount,1.41,1.41,1,1.000,,1
+receipt905,service_charge,null,null,1,1.000,,1
+receipt905,line_items,"[{""description"": ""DRESSING SETS 3 FORCEP"", ""quantity"": 2, ""unit_price"": ""2.36"", ""amount"": ""4.72""}, {""description"": ""BURNSHIELD HYDROGEL 25ML"", ""quantity"": 1, ""unit_price"": ""18.77"", ""amount"": ""18.77""}]","[{""description"": ""DRESSING SETS 3 FORCEP"", ""quantity"": 2, ""unit_price"": ""2.36"", ""amount"": ""4.72""}, {""description"": ""BURNSHIELD HYDROGEL 25ML"", ""quantity"": 1, ""unit_price"": ""18.77"", ""amount"": ""18.77""}]",1,,,1
+receipt913,company,GERBANG ALAF RESTAURANTS SDN BHD,Gerbang Alaf Restaurants Sdn Bhd,1,1.000,,1
+receipt913,date,26/05/2018,26/05/2018,1,1.000,1,1
+receipt913,address,"LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR","Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",1,1.000,,1
+receipt913,tax_number,000504664064,000504664064,1,1.000,,1
+receipt913,total,32.25,32.25,1,1.000,,1
+receipt913,tax_amount,1.83,1.83,1,1.000,,1
+receipt913,service_charge,null,null,1,1.000,,1
+receipt913,line_items,"[{""description"": ""M SPICYDELUXE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""12.95""}, {""description"": ""M MILO"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.00""}, {""description"": ""MCCHICDELUXE"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""CHEESEBURGER"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""9.80""}]","[{""description"": ""M SpicyDeluxe"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.00""}, {""description"": ""M Milo"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.00""}, {""description"": ""M Fries"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""2.00""}, {""description"": ""McChicDeluxe"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""7.50""}, {""description"": ""CheeseBurger"", ""quantity"": 2, ""unit_price"": null, ""amount"": ""9.60""}]",0,,,0
+receipt922,company,SANYU STATIONERY SHOP,SANYU SUPPLY SDN BHD,0,0.537,,0
+receipt922,date,24/10/2017,24/10/2017,1,1.000,1,1
+receipt922,address,"NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM","NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",1,1.000,,1
+receipt922,tax_number,001531760640,001531760640,1,1.000,,1
+receipt922,total,3.00,3.00,1,1.000,,1
+receipt922,tax_amount,0.17,0.17,1,1.000,,1
+receipt922,service_charge,null,null,1,1.000,,1
+receipt922,line_items,"[{""description"": ""SIMILI PAPER A4 - 100GSM - PACK OF 25'S"", ""quantity"": 1, ""unit_price"": ""3.0000"", ""amount"": ""3.00""}]","[{""description"": ""SIMILI PAPER A4 - 100GSM - PACK OF 25'S"", ""quantity"": 1, ""unit_price"": ""3.00"", ""amount"": ""3.00""}]",1,,,1
+receipt933,company,THONG RECIPE,THONG RECIPE,1,1.000,,1
+receipt933,date,27/06/18,27/06/18,1,1.000,1,1
+receipt933,address,"16G BLOCK B ,ZENITH CORPORATE PARK JALAN SS7/26, 47301 PETALING JAYA SELANGOR","16G BLOCK B ,ZENITH CORPORATE PARK JALAN SS7/26, 47301 PETALING JAYA SELANGOR",1,1.000,,1
+receipt933,tax_number,001076076544,001076076544,1,1.000,,1
+receipt933,total,58.70,58.70,1,1.000,,1
+receipt933,tax_amount,0.00,0.00,1,1.000,,1
+receipt933,service_charge,2.80,2.80,1,1.000,,1
+receipt933,line_items,"[{""description"": ""SET C RM49.90"", ""quantity"": 1, ""unit_price"": ""49.90"", ""amount"": ""49.90""}, {""description"": ""HERBAL TEA / BARLI MADU"", ""quantity"": 3, ""unit_price"": null, ""amount"": ""6.00""}]","[{""description"": ""SET C"", ""quantity"": 1, ""unit_price"": ""49.90"", ""amount"": ""49.90""}, {""description"": ""HERBAL TEA / BARLI MADU"", ""quantity"": 3, ""unit_price"": ""6.00"", ""amount"": ""6.00""}]",0,,,0
+receipt950,company,UNIHAKKA INTERNATIONAL SDN BHD,UNIHAKKA INTERNATIONAL SDN BHD,1,1.000,,1
+receipt950,date,14 JUN 2018,14 Jun 2018,1,1.000,1,1
+receipt950,address,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR","12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",1,1.000,,1
+receipt950,tax_number,000656195584,0000656195584,0,0.960,,0
+receipt950,total,10.15,10.17,0,0.000,,0
+receipt950,tax_amount,0.00,0.00,1,1.000,,1
+receipt950,service_charge,null,null,1,1.000,,1
+receipt950,line_items,"[{""description"": ""3 VEGE"", ""quantity"": 1, ""unit_price"": ""4.15"", ""amount"": ""4.15""}, {""description"": ""IMPORTED VEGGIES"", ""quantity"": 1, ""unit_price"": ""1.50"", ""amount"": ""1.50""}, {""description"": ""SEAFOOD (M)"", ""quantity"": 1, ""unit_price"": ""4.52"", ""amount"": ""4.52""}]","[{""description"": ""3 Vege"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.15""}, {""description"": ""Imported Veggies"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""1.50""}, {""description"": ""Seafood (M)"", ""quantity"": 1, ""unit_price"": null, ""amount"": ""4.52""}]",0,,,0
+receipt960,company,RESTORAN WAN SHENG,RESTORAN WAN SHENG,1,1.000,,1
+receipt960,date,05-05-2018,05-05-2018,1,1.000,1,1
+receipt960,address,"NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR","No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",1,1.000,,1
+receipt960,tax_number,001335787520,001335787520,1,1.000,,1
+receipt960,total,7.60,7.60,1,1.000,,1
+receipt960,tax_amount,0.42,0.42,1,1.000,,1
+receipt960,service_charge,null,null,1,1.000,,1
+receipt960,line_items,"[{""description"": ""TEH (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""NESCAFE (B)"", ""quantity"": 1, ""unit_price"": ""2.60"", ""amount"": ""2.60""}, {""description"": ""TAKE AWAY"", ""quantity"": 3, ""unit_price"": ""0.20"", ""amount"": ""0.60""}]","[{""description"": ""Teh (B)"", ""quantity"": 2, ""unit_price"": ""2.20"", ""amount"": ""4.40""}, {""description"": ""Nescafe (B)"", ""quantity"": 1, ""unit_price"": ""2.60"", ""amount"": ""2.60""}, {""description"": ""Take Away"", ""quantity"": 3, ""unit_price"": ""0.20"", ""amount"": ""0.60""}]",1,,,1

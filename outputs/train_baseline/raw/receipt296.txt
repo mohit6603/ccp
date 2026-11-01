@@ -1,0 +1,17 @@
+{
+  "company": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.",
+  "date": "08/04/2018",
+  "address": "Lot F36, First Floor, Aeon Mall Bdr Dato' Onn, No.3 Jln Dato' Onn 3, Bdr Dato' Onn 81100 Johor Bahru, Johor",
+  "tax_number": "000384106496",
+  "line_items": [
+    {
+      "description": "CAFE LATTE -S",
+      "quantity": "1",
+      "unit_price": "11.32",
+      "amount": "11.32"
+    }
+  ],
+  "total": "12.00",
+  "tax_amount": "0.68",
+  "service_charge": null
+}

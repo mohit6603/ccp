@@ -1,0 +1,17 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "26/05/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "SILING PRIMP 1X9 (B)",
+            "quantity": "5",
+            "unit_price": "23.00",
+            "amount": "121.90"
+        }
+    ],
+    "total": "121.90",
+    "tax_amount": "6.90",
+    "service_charge": null
+}

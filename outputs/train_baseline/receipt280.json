@@ -1,0 +1,89 @@
+{
+    "company": "RESTORAN SIAM VILLAGE",
+    "date": "27/04/2018",
+    "address": "No. 8, Jalan Permas 10/7, Permas Jaya, 81750 Johor Bahru.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "BC001 CLAYPOT F/TOFU",
+            "quantity": 1,
+            "unit_price": "18.90",
+            "amount": "18.90"
+        },
+        {
+            "description": "C004 STIR RED CURRY",
+            "quantity": 1,
+            "unit_price": "37.80",
+            "amount": "37.80"
+        },
+        {
+            "description": "DR001C THAI ICE TEA",
+            "quantity": 1,
+            "unit_price": "13.80",
+            "amount": "13.80"
+        },
+        {
+            "description": "DR002C THAI ICE GREEN",
+            "quantity": 1,
+            "unit_price": "13.80",
+            "amount": "13.80"
+        },
+        {
+            "description": "SD002 THAI STYLE",
+            "quantity": 1,
+            "unit_price": "16.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "/ACACIA LEAF",
+            "quantity": 1,
+            "unit_price": "32.00",
+            "amount": "32.00"
+        },
+        {
+            "description": "T002S SPICY THAI TOM",
+            "quantity": 1,
+            "unit_price": "50.00",
+            "amount": "50.00"
+        },
+        {
+            "description": "AFOOD (S)",
+            "quantity": 1,
+            "unit_price": "25.00",
+            "amount": "25.00"
+        },
+        {
+            "description": "V001 FRIED KANGKUNG",
+            "quantity": 1,
+            "unit_price": "16.90",
+            "amount": "16.90"
+        },
+        {
+            "description": "V002 S/FRIED KAILAN",
+            "quantity": 1,
+            "unit_price": "18.90",
+            "amount": "18.90"
+        },
+        {
+            "description": "D FISH",
+            "quantity": 1,
+            "unit_price": "31.80",
+            "amount": "31.80"
+        },
+        {
+            "description": "W003 THAI STYLE PRAWN",
+            "quantity": 1,
+            "unit_price": "15.90",
+            "amount": "15.90"
+        },
+        {
+            "description": "W006 WHITE RICE (PER FILL)",
+            "quantity": 1,
+            "unit_price": "26.00",
+            "amount": "26.00"
+        }
+    ],
+    "total": "275.90",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

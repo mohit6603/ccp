@@ -1,0 +1,1 @@
+{"company": "C W KHOO HARDWARE SDN BHD", "date": "11/06/2018", "address": "NO.50 , JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG,", "tax_number": "000549584896", "line_items": [{"description": "X 4L COMPRESSOR OIL", "quantity": 1, "unit_price": "48.00", "amount": "48.00"}], "total": "48.00", "tax_amount": "0.00", "service_charge": null}

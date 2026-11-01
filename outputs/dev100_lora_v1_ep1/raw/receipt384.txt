@@ -1,0 +1,1 @@
+{"company": "GUARDIAN HEALTH AND BEAUTY SDN BHD", "date": "11/02/16", "address": "LOT F/L2A.4, LEVEL 2A FIRST WORLD THEME PARK FIRST WORLD PLAZA, FIRST WORLD", "tax_number": "000899874816", "line_items": [{"description": "GDN WATER 500ML", "quantity": 2, "unit_price": "2.20", "amount": "4.40"}], "total": "2.56", "tax_amount": "0.14", "service_charge": null}

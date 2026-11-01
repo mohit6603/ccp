@@ -1,0 +1,23 @@
+{
+    "company": "ASO ELECTRICAL TRADING SDN BHD",
+    "date": "04/12/2017",
+    "address": "NO 31G, JALAN SEPADU C 25/C, SECTION 25, TAMAN INDUSTRIES, AXIS 40400 SHAH ALAM, SELANGOR.",
+    "tax_number": "000683900928",
+    "line_items": [
+        {
+            "description": "SR: FUJI CONTACTOR, SC-03, 240VAC",
+            "quantity": "1",
+            "unit_price": "47.06",
+            "amount": "47.06"
+        },
+        {
+            "description": "SR: ANLY FLOATLESS RELAY 240V, AFS-1",
+            "quantity": "1",
+            "unit_price": "51.94",
+            "amount": "51.94"
+        }
+    ],
+    "total": "99.00",
+    "tax_amount": "5.60",
+    "service_charge": null
+}

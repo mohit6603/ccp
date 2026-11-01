@@ -1,0 +1,41 @@
+{
+    "company": "VERBENA CONFECTIONERY SDN BHD",
+    "date": "12/05/2018",
+    "address": "1, JALAN SUTERA TANJUNG 8/4, TMN SUTERA UTAMA, 81300 SKUDAI, JB.",
+    "tax_number": "001837056000",
+    "line_items": [
+        {
+            "description": "8\" PANDAN KAYA CAKE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "55.00"
+        },
+        {
+            "description": "HOTDOG BUN",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "5.60"
+        },
+        {
+            "description": "OTA BOAT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "3.50"
+        },
+        {
+            "description": "SPICY CHICKEN FLOSS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.80"
+        },
+        {
+            "description": "DIRTY BREAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.80"
+        }
+    ],
+    "total": "75.70",
+    "tax_amount": "4.26",
+    "service_charge": null
+}

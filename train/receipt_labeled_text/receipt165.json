@@ -6,13 +6,13 @@
     "line_items": [
         {
             "description": "UNI WORKER'S CARD (1-31) 100'S",
-            "quantity": null,
+            "quantity": 4,
             "unit_price": "3.10",
             "amount": "12.40"
         },
         {
             "description": "UNI A6 NOTE BOOK 120'S",
-            "quantity": null,
+            "quantity": 18,
             "unit_price": "1.30",
             "amount": "23.40"
         }

@@ -1,0 +1,65 @@
+{
+    "company": "PASAR MINI JIN SENG",
+    "date": "15/04/18",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.",
+    "tax_number": "000150511616",
+    "line_items": [
+        {
+            "description": "SEAFOOD",
+            "quantity": 1,
+            "unit_price": "23.40",
+            "amount": "23.40"
+        },
+        {
+            "description": "KENKO BEBOLA IKAN 200G",
+            "quantity": 1,
+            "unit_price": "2.40",
+            "amount": "2.40"
+        },
+        {
+            "description": "SILKEN TOFU 300G",
+            "quantity": 1,
+            "unit_price": "1.10",
+            "amount": "1.10"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": "1.80",
+            "amount": "1.80"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": "1.30",
+            "amount": "1.30"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": "2.20",
+            "amount": "2.20"
+        },
+        {
+            "description": "MAS GOOD MELAKA NOODLES",
+            "quantity": 1,
+            "unit_price": "3.20",
+            "amount": "3.20"
+        },
+        {
+            "description": "VEGETABLES",
+            "quantity": 1,
+            "unit_price": "4.00",
+            "amount": "4.00"
+        }
+    ],
+    "total": "44.90",
+    "tax_amount": "0.38",
+    "service_charge": null
+}

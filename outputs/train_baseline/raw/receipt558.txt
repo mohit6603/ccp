@@ -1,0 +1,35 @@
+{
+  "company": "PappaRich BMC",
+  "date": "15 Jun 18",
+  "address": "JALAN TEMENGGUNG 23/9 BANDAR MAIKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA",
+  "tax_number": "000164270080",
+  "line_items": [
+    {
+      "description": "1 B02 HALF BL EGG E",
+      "quantity": 1,
+      "unit_price": "4.53",
+      "amount": "4.53"
+    },
+    {
+      "description": "1 B03 HNN TST+b+k E",
+      "quantity": 1,
+      "unit_price": "5.57",
+      "amount": "5.57"
+    },
+    {
+      "description": "1 D19 CHAM (I) E",
+      "quantity": 1,
+      "unit_price": "5.57",
+      "amount": "5.57"
+    },
+    {
+      "description": "CASH",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "20.00"
+    }
+  ],
+  "total": "17.22",
+  "tax_amount": "0.00",
+  "service_charge": "1.55"
+}

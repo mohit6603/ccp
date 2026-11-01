@@ -1,7 +1,7 @@
 {
     "company": "DE LUXE CIRCLE FRESH MART SDN BHD",
     "date": "02/06/18",
-    "address": "NO.89&91, JALAN UTAMA, TAMAN MUTIA RINI, 81300 SKUDAI, JOHOR.",
+    "address": "NO. 89&91, JALAN UTAMA, TAMAN MUTIA RINI, 81300 SKUDAI, JOHOR.",
     "tax_number": "001507647488",
     "line_items": [
         {
@@ -17,7 +17,7 @@
             "amount": "0.95"
         },
         {
-            "description": "KING OYSTER MUSHROOM -UNIT *** -UNIT",
+            "description": "KING OYSTER MUSHROOM -UNIT 杏鲍菇 -UNIT",
             "quantity": 1,
             "unit_price": "3.50",
             "amount": "3.50"
@@ -29,7 +29,7 @@
             "amount": "5.65"
         },
         {
-            "description": "WHOLE CHICKEN ***",
+            "description": "WHOLE CHICKEN 肉鸡",
             "quantity": 1.306,
             "unit_price": "10.99",
             "amount": "14.35"

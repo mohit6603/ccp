@@ -5,9 +5,9 @@
     "tax_number": "000656195584",
     "line_items": [
         {
-            "description": "VEGE",
+            "description": "5 VEGE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "6.60",
             "amount": "6.60"
         }
     ],

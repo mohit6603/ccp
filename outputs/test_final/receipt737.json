@@ -1,0 +1,83 @@
+{
+    "company": "SEGI CASH & CARRY SDN. BHD.",
+    "date": "12 MAR 2018",
+    "address": "PT17920 SEK U9, SHAH ALAM",
+    "tax_number": "001951645696",
+    "line_items": [
+        {
+            "description": "KNIFE COOKING OIL 5KG",
+            "quantity": 1,
+            "unit_price": "25.80",
+            "amount": "25.80"
+        },
+        {
+            "description": "LKK HOI SIN SAUCE 240G",
+            "quantity": 1,
+            "unit_price": "7.69",
+            "amount": "7.69"
+        },
+        {
+            "description": "SEVEN FRENCH FRIES S/S 2.5KG",
+            "quantity": 1,
+            "unit_price": "13.50",
+            "amount": "13.50"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "IQF SQUID TUBE 1KG+-",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        }
+    ],
+    "total": "145.10",
+    "tax_amount": "1.20",
+    "service_charge": null
+}

@@ -1,0 +1,29 @@
+{
+    "company": "myNEWS",
+    "date": "29/06/2018",
+    "address": "LOUNGE 2, GROUND FLOOR, OASIS VILLAGE,NO 2, JALAN PJU 1A/7A, OASIS SQUARE,OASIS DAMANSARA,, 47301,PETALING JAYA,SELANGOR",
+    "tax_number": "CBP 000709361664",
+    "line_items": [
+        {
+            "description": "HE-333-3S UNICORN BALL PEN BLUE",
+            "quantity": 1,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        },
+        {
+            "description": "HE-3S 70 UNICORN MARKER BK",
+            "quantity": 1,
+            "unit_price": "4.50",
+            "amount": "4.50"
+        },
+        {
+            "description": "MR.BANANA 140G",
+            "quantity": 1,
+            "unit_price": "1.30",
+            "amount": "1.30"
+        }
+    ],
+    "total": "7.70",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "12/01/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "70G P.COPY 450'S",
+            "quantity": 2,
+            "unit_price": "13.69",
+            "amount": "27.38"
+        }
+    ],
+    "total": "21.00",
+    "tax_amount": "1.19",
+    "service_charge": null
+}

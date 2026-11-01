@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "30/12/2017",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "CEMENT (50KG)",
+            "quantity": 2,
+            "unit_price": "18.02",
+            "amount": "36.04"
+        },
+        {
+            "description": "PASIR KASAR (BAG)",
+            "quantity": 10,
+            "unit_price": "5.30",
+            "amount": "53.00"
+        }
+    ],
+    "total": "89.04",
+    "tax_amount": "5.04",
+    "service_charge": null
+}

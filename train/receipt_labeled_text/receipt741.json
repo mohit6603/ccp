@@ -3,7 +3,26 @@
     "date": "12/09/2017",
     "address": "13-1, JALAN PJU 5/10, DATARAN SUNWAY, KOTA DAMANSARA, 47810, PETALING JAYA, SELANGOR",
     "tax_number": "000460664832",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "308# DRAWER LOCK C 2 - HL500 / HL502",
+            "quantity": 1,
+            "unit_price": "6.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "FAXON GARDEN TAP 1/2 X 3/4 FX-7105B",
+            "quantity": 1,
+            "unit_price": "18.00",
+            "amount": "18.00"
+        },
+        {
+            "description": "LOCAL SEAL WHITE TAPE",
+            "quantity": 1,
+            "unit_price": "0.50",
+            "amount": "0.50"
+        }
+    ],
     "total": "24.50",
     "tax_amount": "1.39",
     "service_charge": null

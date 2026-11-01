@@ -1,0 +1,17 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "14/12/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "SONOFAX - EC THERMAL ROLL (BLUE) - (57MMx60MMx12MM) (10ROLL/PKT)",
+            "quantity": 1,
+            "unit_price": "36.0000",
+            "amount": "36.00"
+        }
+    ],
+    "total": "36.00",
+    "tax_amount": "2.04",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+  "company": "HOME MASTER HARDWARE & ELECTRICAL",
+  "date": "22/12/2017",
+  "address": "NO.113G & 115G, JALAN SETIA GEMBILANG U13/BG BANDAR SETIA ALAM, 40170 BANDAR SETIA ALAM, SELANGOR.",
+  "tax_number": "001637511168",
+  "line_items": [
+    {
+      "description": "24MMx7Y M.ONE TAPE",
+      "quantity": 1.0,
+      "unit_price": null,
+      "amount": "15.90"
+    }
+  ],
+  "total": "15.90",
+  "tax_amount": "0.90",
+  "service_charge": null
+}

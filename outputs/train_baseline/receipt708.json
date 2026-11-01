@@ -1,0 +1,17 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "26-03-19",
+    "address": "LOT P.T. 2811, JALAN ANCSA, TAPAN BERVELEV 41150 KLANG, SELANGOR 1330-JLN KENANGA",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "2146 TLC GLAES CLEANER (PIN",
+            "quantity": 2,
+            "unit_price": "10.60",
+            "amount": "21.20"
+        }
+    ],
+    "total": "10.60",
+    "tax_amount": "0.60",
+    "service_charge": null
+}

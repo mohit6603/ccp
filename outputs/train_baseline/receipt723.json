@@ -1,0 +1,23 @@
+{
+    "company": "KEDAI JAPAN YEW CH JAN",
+    "date": "08/03/2018",
+    "address": "LOT 276 JALAN BANTING 4300 DENK SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "SIMEN",
+            "quantity": 1,
+            "unit_price": "10.50",
+            "amount": "17.49"
+        },
+        {
+            "description": "PASIR HALUS (D)",
+            "quantity": 2,
+            "unit_price": "65.00",
+            "amount": "137.80"
+        }
+    ],
+    "total": "312.70",
+    "tax_amount": "17.70",
+    "service_charge": null
+}

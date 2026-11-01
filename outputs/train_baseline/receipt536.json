@@ -1,0 +1,53 @@
+{
+    "company": "Gerbang Alaf Restaurants Sdn Bhd",
+    "date": "24/06/2018",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+    "tax_number": "000504964064",
+    "line_items": [
+        {
+            "description": "1 L 9Nuggets",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "1 9Nuggets",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "1 Barbecue Sauce",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1 Sweet and Sour Sauce",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1 L Sprite",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Less Ice",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "1 L Fries",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "12.80",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

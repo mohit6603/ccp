@@ -3,7 +3,26 @@
     "date": "05 MAY 18",
     "address": "NO,35, JALAN KEBUDAYAAN 8, TAMAN UNIVERSITY,81300 SKUDAI, JOHOR",
     "tax_number": "000801587200",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "ST15",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.28"
+        },
+        {
+            "description": "LB2 SPRING ROLL BKT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.19"
+        },
+        {
+            "description": "FS2 ORG YOG SMOT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.96"
+        }
+    ],
     "total": "28.50",
     "tax_amount": "1.61",
     "service_charge": "2.45"

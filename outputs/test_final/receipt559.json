@@ -1,0 +1,17 @@
+{
+    "company": "10 GRAM GOURMET SBN BHD",
+    "date": "11-06-2018",
+    "address": "NO 3, JALAN TEMENGGUNG 27/9, BANDAR MAHKOTA CHERAS, 43200 SELANGOR.",
+    "tax_number": "002055098368",
+    "line_items": [
+        {
+            "description": "SPAGHETTI AGIO OLIO CHICKEN BREAST",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        }
+    ],
+    "total": "15.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

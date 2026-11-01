@@ -1,0 +1,1 @@
+{"company": "POPULAR BOOK CO. (M) SDN BHD", "date": "14/03/18", "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA SUNWAY VELOCITY", "tax_number": "001492992000", "line_items": [{"description": "CBE RUBBER BAND200GM", "quantity": null, "unit_price": null, "amount": "7.95"}], "total": "7.95", "tax_amount": "0.45", "service_charge": null}

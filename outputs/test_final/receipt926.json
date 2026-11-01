@@ -1,0 +1,17 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "29/11/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "CASCTUS NUMBERING STICKER 60P/CRD (G-0113-NUM)",
+            "quantity": 1,
+            "unit_price": "2.3000",
+            "amount": "2.30"
+        }
+    ],
+    "total": "2.30",
+    "tax_amount": "0.13",
+    "service_charge": null
+}

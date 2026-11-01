@@ -1,0 +1,41 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "05-05-17",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAHAN BERKELEY 41150 KLANG, SELANGOR 1313-SUBANG BESTARI",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "2832 AH HUAT WHT. COFFEE GO",
+            "quantity": null,
+            "unit_price": "12.65",
+            "amount": "12.65"
+        },
+        {
+            "description": "9500 MASSIMO WHEAT GERM 400",
+            "quantity": null,
+            "unit_price": "2.39",
+            "amount": "2.39"
+        },
+        {
+            "description": "2022 CADBURY CHOCOLATE DAIL",
+            "quantity": null,
+            "unit_price": "9.65",
+            "amount": "9.65"
+        },
+        {
+            "description": "066 MILD FUZE 3INI ORIGINAL",
+            "quantity": null,
+            "unit_price": "13.65",
+            "amount": "13.65"
+        },
+        {
+            "description": "384 WISTER POTATO TOMATO 16",
+            "quantity": null,
+            "unit_price": "3.99",
+            "amount": "3.99"
+        }
+    ],
+    "total": "42.35",
+    "tax_amount": "2.41",
+    "service_charge": null
+}

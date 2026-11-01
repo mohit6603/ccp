@@ -1,0 +1,29 @@
+{
+    "company": "LIGHTROOM GALLERY SDN BHD",
+    "date": "20/11/2017",
+    "address": "No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+    "tax_number": "000584089600",
+    "line_items": [
+        {
+            "description": "YE36 BK 12W WW LED TRACK LIGHT",
+            "quantity": 2,
+            "unit_price": "45.29",
+            "amount": "90.57"
+        },
+        {
+            "description": "YE44 35W WW BK TRACK HOLDER",
+            "quantity": 1,
+            "unit_price": "155.66",
+            "amount": "155.66"
+        },
+        {
+            "description": "1METER TRACK-BK",
+            "quantity": 1,
+            "unit_price": "16.99",
+            "amount": "16.79"
+        }
+    ],
+    "total": "278.80",
+    "tax_amount": "15.78",
+    "service_charge": "0.00"
+}

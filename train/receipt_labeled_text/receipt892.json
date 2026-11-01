@@ -3,7 +3,14 @@
     "date": "09/05/2018",
     "address": "NO. 23, JALAN SUTERA TANJUNG 8/3, TAMAN SUTERA UTAMA 81300 SKUDAI JOHOR,MALAYSIA",
     "tax_number": "000344043520",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "ROYAL MILK TEA",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        }
+    ],
     "total": "10.90",
     "tax_amount": "0.62",
     "service_charge": null

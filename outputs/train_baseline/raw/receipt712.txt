@@ -1,0 +1,29 @@
+{
+  "company": "SEN LEE HEONG RESTAURANT",
+  "date": "12-01-2018",
+  "address": "G-0-1,M.AVENUE NO.1,JLN 1/3BA, SEGAMBU T BAHAGIA,51200,K.LUMPUL",
+  "tax_number": "001115316224",
+  "line_items": [
+    {
+      "description": "FOOD SR",
+      "quantity": 1,
+      "unit_price": "67.00",
+      "amount": "RM 67.00"
+    },
+    {
+      "description": "BIG RICE",
+      "quantity": 2,
+      "unit_price": "1.50",
+      "amount": "RM 3.00"
+    },
+    {
+      "description": "TEA POT",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "RM 3.00"
+    }
+  ],
+  "total": "77.40",
+  "tax_amount": "4.38",
+  "service_charge": null
+}

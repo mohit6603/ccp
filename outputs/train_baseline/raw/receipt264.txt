@@ -1,0 +1,23 @@
+{
+  "company": "RESTORAN WAN SHENG",
+  "date": "12-11-2017",
+  "address": "Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+  "tax_number": "001335787520",
+  "line_items": [
+    {
+      "description": "Guiness Stout (B) Promotion",
+      "quantity": 4,
+      "unit_price": "15.40",
+      "amount": "61.60"
+    },
+    {
+      "description": "Bottle(B)",
+      "quantity": 4,
+      "unit_price": "0.30",
+      "amount": "1.20"
+    }
+  ],
+  "total": "62.80",
+  "tax_amount": "3.49",
+  "service_charge": null
+}

@@ -1,0 +1,53 @@
+{
+  "company": "MYDIN",
+  "date": "10/08/2017",
+  "address": "4-20, Jalan Ria 25/62 Taman Sri Muda Seksyen 25, 40400 Shah Alam Selangor",
+  "tax_number": "000429166592",
+  "line_items": [
+    {
+      "description": "PARTNER E/LOPE 4.5INX9.5IN W4292 EA",
+      "quantity": 2,
+      "unit_price": "2.60",
+      "amount": "5.20"
+    },
+    {
+      "description": "PLASTIC BAG RMO.20",
+      "quantity": 1,
+      "unit_price": "0.20",
+      "amount": "0.20"
+    },
+    {
+      "description": "TEN Q E/LOPE 15INX10IN TQ-S1015 EA",
+      "quantity": 2,
+      "unit_price": "2.50",
+      "amount": "5.00"
+    },
+    {
+      "description": "UMOE S/NT 100MX75M, N/GRN",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "UMOE S/NT 100MX75M, N/YLW",
+      "quantity": 1,
+      "unit_price": "3.00",
+      "amount": "3.00"
+    },
+    {
+      "description": "UMOE S/NT 50MX38M, N/YLW",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    },
+    {
+      "description": "UMOE S/NT-75MX50M, N/PINK",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    }
+  ],
+  "total": "21.40",
+  "tax_amount": "1.21",
+  "service_charge": null
+}

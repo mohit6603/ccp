@@ -1,0 +1,35 @@
+{
+  "company": "POTTERS GARDEN SDN BHD",
+  "date": "04/01/2018",
+  "address": "Batu 11. Sg Buloh, 47000 Selangor.",
+  "tax_number": "000392024064",
+  "line_items": [
+    {
+      "description": "PLASTIC PLATE",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "1.00"
+    },
+    {
+      "description": "CHINA POT",
+      "quantity": 2,
+      "unit_price": "7.90",
+      "amount": "15.80"
+    },
+    {
+      "description": "PLANT",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "16.00"
+    },
+    {
+      "description": "PLANT",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "7.00"
+    }
+  ],
+  "total": "39.80",
+  "tax_amount": "2.26",
+  "service_charge": null
+}

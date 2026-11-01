@@ -1,0 +1,17 @@
+{
+    "company": "C W KHOO HARDWARE SDN BHD",
+    "date": "26/04/2018",
+    "address": "NO.50 , JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG,",
+    "tax_number": "000549584896",
+    "line_items": [
+        {
+            "description": "50MM X 3PCS 'TAKKA' K.A PADLOCK @ SET",
+            "quantity": "1",
+            "unit_price": "80.00",
+            "amount": "80.00"
+        }
+    ],
+    "total": "84.80",
+    "tax_amount": "4.80",
+    "service_charge": null
+}

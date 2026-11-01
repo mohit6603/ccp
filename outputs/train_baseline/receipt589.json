@@ -1,0 +1,53 @@
+{
+    "company": "PANDAH INDAH PULAU KETAM RESTAURANT",
+    "date": "30-04-2018",
+    "address": "M4-A-8, JALAN PANDAH INDAH 4/1A, PANDAH INDAH, 55100 KUALA LUMPUR.",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "KUO POH (C) (2 PAX)",
+            "quantity": 1,
+            "unit_price": "6.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "TEA EXTRA PERSON (1 PAX)",
+            "quantity": 2,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "TONG HOU",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "MUTTAN SLICE",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        },
+        {
+            "description": "SOUP",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "TOM YUM",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "NO. OF HEAD (2 SET ABOVE)",
+            "quantity": 3,
+            "unit_price": "60.00",
+            "amount": "60.00"
+        }
+    ],
+    "total": "93.00",
+    "tax_amount": null,
+    "service_charge": null
+}

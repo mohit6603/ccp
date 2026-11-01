@@ -1,0 +1,23 @@
+{
+    "company": "GUDANG HASIL RESTAURANT SDN BHD",
+    "date": "02-12-2016",
+    "address": "NO. 33, LRG HANG JEBAT, MELAKA",
+    "tax_number": "001706905600",
+    "line_items": [
+        {
+            "description": "PEANUT C. CRC200G",
+            "quantity": 1,
+            "unit_price": "7.90",
+            "amount": "7.90"
+        },
+        {
+            "description": "TARO C. CRAC 200G",
+            "quantity": 1,
+            "unit_price": "7.90",
+            "amount": "7.90"
+        }
+    ],
+    "total": "15.80",
+    "tax_amount": "0.89",
+    "service_charge": null
+}

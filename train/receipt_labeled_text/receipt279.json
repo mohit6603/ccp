@@ -3,7 +3,14 @@
     "date": "07/04/2018",
     "address": "5,JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA, 81750 JOHOR BAHRU,JOHOR",
     "tax_number": "001914093568",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "ROASTED DUCK WITH CHINESE HERB (HALF)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "33.00"
+        }
+    ],
     "total": "35.00",
     "tax_amount": "1.98",
     "service_charge": null

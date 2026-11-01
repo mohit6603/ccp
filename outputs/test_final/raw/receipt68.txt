@@ -1,0 +1,1 @@
+{"company": "99 SPEED MART S/B", "date": "20-02-18", "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1249-TMN PANDAN CAHAYA", "tax_number": "000181747712", "line_items": [{"description": "NUTRI PLUS TELUR SEGAR", "quantity": null, "unit_price": null, "amount": "9.90"}], "total": "9.90", "tax_amount": "0.00", "service_charge": null}

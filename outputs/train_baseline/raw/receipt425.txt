@@ -1,0 +1,29 @@
+{
+  "company": "AEON CO. (M) BHD",
+  "date": "11/05/2018",
+  "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+  "tax_number": "002017394688",
+  "line_items": [
+    {
+      "description": "1000OZ TP GIKEN",
+      "quantity": 1,
+      "unit_price": "93.90",
+      "amount": "93.90"
+    },
+    {
+      "description": "TEFAL COMFORT M",
+      "quantity": 1,
+      "unit_price": "169.00",
+      "amount": "169.00"
+    },
+    {
+      "description": "A1613545 TEFAL",
+      "quantity": 1,
+      "unit_price": "299.00",
+      "amount": "299.00"
+    }
+  ],
+  "total": "449.82",
+  "tax_amount": "26.99",
+  "service_charge": null
+}

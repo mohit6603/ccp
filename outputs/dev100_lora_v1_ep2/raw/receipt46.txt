@@ -1,0 +1,1 @@
+{"company": "RESTAURANT SIN DU", "date": "09/03/2018", "address": "K3-113, JL IBRAHIM SULTAN 80300 JOHOR BAHRU JOHOR", "tax_number": null, "line_items": [{"description": "DP", "quantity": 0.05, "unit_price": null, "amount": "149.00"}, {"description": "DP", "quantity": 0.04, "unit_price": null, "amount": "21.00"}], "total": "170.00", "tax_amount": null, "service_charge": null}

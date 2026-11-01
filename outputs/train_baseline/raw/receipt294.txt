@@ -1,0 +1,23 @@
+{
+  "company": "DOMINO'S PIZZA",
+  "date": "17/04/18",
+  "address": "DOMINO'S PIZZA PERMAS JAYA No.12, Jalan Permas Jaya 10, Bandar Baru Permas Jaya, 81750 Masai Johor",
+  "tax_number": "001694261248",
+  "line_items": [
+    {
+      "description": "6\"HT (TE) FPP-FREE",
+      "quantity": 1,
+      "unit_price": "12.80",
+      "amount": "12.80"
+    },
+    {
+      "description": "6\"HT (BP) WTUEIA-I",
+      "quantity": 1,
+      "unit_price": "12.80",
+      "amount": "12.80"
+    }
+  ],
+  "total": "21.70",
+  "tax_amount": "0.22",
+  "service_charge": null
+}

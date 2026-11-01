@@ -5,7 +5,7 @@
     "tax_number": "001580630016",
     "line_items": [
         {
-            "description": "FUEL SAVE 95",
+            "description": "FUELSAVE 95",
             "quantity": 39.54,
             "unit_price": "2.230",
             "amount": "88.17"

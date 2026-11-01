@@ -1,0 +1,23 @@
+{
+    "company": "DOMINO'S PIZZA",
+    "date": "26/03/18",
+    "address": "DOMINO'S PIZZA SEGAMBUT D-08, M Avenue , Jln 1 / 38A Segambut Bahagia 51200 Kuala Lumpur",
+    "tax_number": "001694261248",
+    "line_items": [
+        {
+            "description": "1 9\"HT (BQ) 2! 2P2C-R-2",
+            "quantity": 1,
+            "unit_price": "30.30",
+            "amount": "30.30"
+        },
+        {
+            "description": "1 9\"NYC (CP) 2! 2P2C-R-2",
+            "quantity": 1,
+            "unit_price": "30.30",
+            "amount": "30.30"
+        }
+    ],
+    "total": "33.00",
+    "tax_amount": "1.87",
+    "service_charge": null
+}

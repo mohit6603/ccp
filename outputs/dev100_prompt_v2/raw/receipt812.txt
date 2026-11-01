@@ -1,0 +1,17 @@
+{
+  "company": "HIGH FIVE ENTERPRISE",
+  "date": "05/04/18",
+  "address": "Jalan Bida ra, Taman Bida ra, Selayang 68100, Batu Caves, Selangor",
+  "tax_number": "001215471616",
+  "line_items": [
+    {
+      "description": "43.40 litre Pump # 11",
+      "quantity": 43.4,
+      "unit_price": "2.200",
+      "amount": "95.48"
+    }
+  ],
+  "total": "95.48",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

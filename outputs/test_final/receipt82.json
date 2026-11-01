@@ -1,0 +1,35 @@
+{
+    "company": "VIVOPAC MARKETING SDN BHD",
+    "date": "30/05/2017",
+    "address": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL",
+    "tax_number": "000565805056",
+    "line_items": [
+        {
+            "description": "9 X 13 (10A)",
+            "quantity": 1,
+            "unit_price": "0.7500",
+            "amount": "0.75"
+        },
+        {
+            "description": "26 X 33 (85HT) RED",
+            "quantity": 1,
+            "unit_price": "8.0000",
+            "amount": "8.00"
+        },
+        {
+            "description": "24 X 28 (75HT) RED",
+            "quantity": 1,
+            "unit_price": "6.0000",
+            "amount": "6.00"
+        },
+        {
+            "description": "PRICE LABEL (PLAIN)",
+            "quantity": 2,
+            "unit_price": "1.5000",
+            "amount": "3.00"
+        }
+    ],
+    "total": "18.80",
+    "tax_amount": "1.07",
+    "service_charge": null
+}

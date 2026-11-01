@@ -1,0 +1,29 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "23/11/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "PHOTOCOPY NRIC - A4 SIZE DOUBLE SIDE",
+            "quantity": 1,
+            "unit_price": "0.3000",
+            "amount": "0.30"
+        },
+        {
+            "description": "PHOTOCOPY SERVICES - A4 SIZE",
+            "quantity": 101,
+            "unit_price": "0.0850",
+            "amount": "8.59"
+        },
+        {
+            "description": "CUTTING CHARGES",
+            "quantity": 1,
+            "unit_price": "2.0000",
+            "amount": "2.00"
+        }
+    ],
+    "total": "10.90",
+    "tax_amount": "0.62",
+    "service_charge": null
+}

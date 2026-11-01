@@ -1,0 +1,47 @@
+{
+  "company": "AEON CO. (M) BHD",
+  "date": "27/05/2018",
+  "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+  "tax_number": "002017394688",
+  "line_items": [
+    {
+      "description": "NATUREL PREMIU",
+      "quantity": 1,
+      "unit_price": "11.25",
+      "amount": "11.25"
+    },
+    {
+      "description": "JOY DISHWASHIN",
+      "quantity": 1,
+      "unit_price": "10.50",
+      "amount": "10.50"
+    },
+    {
+      "description": "CED NATURAL HIM",
+      "quantity": 1,
+      "unit_price": "4.59",
+      "amount": "4.59"
+    },
+    {
+      "description": "BL 5004C 4 GALL",
+      "quantity": 1,
+      "unit_price": "4.90",
+      "amount": "4.90"
+    },
+    {
+      "description": "KLEENEX FT SOF",
+      "quantity": 1,
+      "unit_price": "12.15",
+      "amount": "12.15"
+    },
+    {
+      "description": "ONWARDS TOM &",
+      "quantity": 1,
+      "unit_price": "13.65",
+      "amount": "13.65"
+    }
+  ],
+  "total": "99.90",
+  "tax_amount": "5.39",
+  "service_charge": null
+}

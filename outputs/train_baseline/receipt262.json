@@ -1,0 +1,59 @@
+{
+    "company": "Segi Cash & Carry Sdn. Bhd.",
+    "date": "25 May 2017",
+    "address": "Pt17920 Sek U9, Shah Alam",
+    "tax_number": "001951645696",
+    "line_items": [
+        {
+            "description": "MFM ROSES ALL PURPOSE FLOUR 12X850G",
+            "quantity": 1,
+            "unit_price": "18.60",
+            "amount": "18.60"
+        },
+        {
+            "description": "TLC SOTONG SAUCE 725G",
+            "quantity": 1,
+            "unit_price": "2.69",
+            "amount": "2.69"
+        },
+        {
+            "description": "TLC FISH SAUCE 725G",
+            "quantity": 1,
+            "unit_price": "2.70",
+            "amount": "2.70"
+        },
+        {
+            "description": "ROYAL BAKING POWDER 450G",
+            "quantity": 2,
+            "unit_price": "11.69",
+            "amount": "23.38"
+        },
+        {
+            "description": "KUAT HARIMAU BLEACH LEMON TP 2X900ML",
+            "quantity": 2,
+            "unit_price": "5.51",
+            "amount": "7.96"
+        },
+        {
+            "description": "INDOCAFE COFFEEMIX 3IN1 - 100X20G",
+            "quantity": 1,
+            "unit_price": "33.90",
+            "amount": "33.90"
+        },
+        {
+            "description": "UDANG XL",
+            "quantity": 0.434,
+            "unit_price": "39.90",
+            "amount": "17.32"
+        },
+        {
+            "description": "BURUNG PUYUH FC",
+            "quantity": 4,
+            "unit_price": "2.95",
+            "amount": "11.80"
+        }
+    ],
+    "total": "118.35",
+    "tax_amount": "4.67",
+    "service_charge": null
+}

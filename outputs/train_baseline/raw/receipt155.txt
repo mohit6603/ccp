@@ -1,0 +1,29 @@
+{
+  "company": "KIKU JAPANESE RESTAURANT",
+  "date": "17/1/2018",
+  "address": "19-1, JALAN MALINJA 2, TAMAN BUNGA RAYA, 53100 SETAPAK, KUALA LUMPUR.",
+  "tax_number": "1202152-P",
+  "line_items": [
+    {
+      "description": "Chicken Katsu Bento",
+      "quantity": 1,
+      "unit_price": "12.90",
+      "amount": "12.90"
+    },
+    {
+      "description": "Omu Curry Fried Rice Set",
+      "quantity": 1,
+      "unit_price": "6.90",
+      "amount": "6.90"
+    },
+    {
+      "description": "Katsu Don (Fish) Set",
+      "quantity": 1,
+      "unit_price": "9.90",
+      "amount": "9.90"
+    }
+  ],
+  "total": "29.70",
+  "tax_amount": "0.00",
+  "service_charge": "0.00"
+}

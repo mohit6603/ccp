@@ -1,0 +1,23 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/02/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "1796 10' 2 X 2",
+            "quantity": 2,
+            "unit_price": "12.72",
+            "amount": "25.44"
+        },
+        {
+            "description": "1816 18' 2 X 3",
+            "quantity": 2,
+            "unit_price": "34.34",
+            "amount": "68.69"
+        }
+    ],
+    "total": "94.13",
+    "tax_amount": "5.33",
+    "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+  "company": "SANYU STATIONERY SHOP",
+  "date": "05/09/2017",
+  "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+  "tax_number": "001531760640",
+  "line_items": [
+    {
+      "description": "PUNCH CARD WITH HOLE",
+      "quantity": 1,
+      "unit_price": "11.90",
+      "amount": "11.90"
+    },
+    {
+      "description": "WORKER'S CARD (1-15) 100'S (WOC-115)",
+      "quantity": 1,
+      "unit_price": "3.0000",
+      "amount": "3.00"
+    }
+  ],
+  "total": "14.90",
+  "tax_amount": "0.84",
+  "service_charge": null
+}

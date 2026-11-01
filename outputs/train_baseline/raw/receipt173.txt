@@ -1,0 +1,23 @@
+{
+  "company": "MY HAPPY PHARMACY PLT",
+  "date": "01/02/2018",
+  "address": "NO 12 GF, JALAN MAMANDA 5, TAMAN DATO AHMAD RAZALI, JALAN AMPANG, 68000 AMPANG, SELANGOR.",
+  "tax_number": "000241512448",
+  "line_items": [
+    {
+      "description": "OTC-000127",
+      "quantity": 1,
+      "unit_price": "20.50",
+      "amount": "20.50"
+    },
+    {
+      "description": "FLANIL ANALGESIC CR 60G",
+      "quantity": 1,
+      "unit_price": "20.50",
+      "amount": "20.50"
+    }
+  ],
+  "total": "20.50",
+  "tax_amount": "1.16",
+  "service_charge": null
+}

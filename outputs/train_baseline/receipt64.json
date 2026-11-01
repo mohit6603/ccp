@@ -1,0 +1,41 @@
+{
+    "company": "RESTAURANT JIAWEI",
+    "date": "9/3/2018",
+    "address": "13, JLN TASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI 57000 KL",
+    "tax_number": "002693074-K",
+    "line_items": [
+        {
+            "description": "B.Bean Bitterground Fish Head (S)",
+            "quantity": 1,
+            "unit_price": "35.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "F.Hong Kong Sauteed (S)",
+            "quantity": 1,
+            "unit_price": "16.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Steamed Egg(S)",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Chinese Tea",
+            "quantity": 2,
+            "unit_price": "0.60",
+            "amount": "1.20"
+        },
+        {
+            "description": "COLD Rice (B)",
+            "quantity": 2,
+            "unit_price": "1.50",
+            "amount": "3"
+        }
+    ],
+    "total": "65.20",
+    "tax_amount": "0.00",
+    "service_charge": "0.00"
+}

@@ -1,0 +1,41 @@
+{
+  "company": "MAKASSAR FRESH MARKET SDN BHD",
+  "date": "14/09/2017",
+  "address": "GROUND FLOOR, NO. 4 & 6, JALAN SS 15/4B, 47500 SUBANG JAYA, SELANGOR",
+  "tax_number": "000381399040",
+  "line_items": [
+    {
+      "description": "O.C. WHITE",
+      "quantity": 3,
+      "unit_price": "6.39",
+      "amount": "6.39"
+    },
+    {
+      "description": "WHOLEMEAL",
+      "quantity": 3,
+      "unit_price": "8.34",
+      "amount": "8.34"
+    },
+    {
+      "description": "O.C JUMBO",
+      "quantity": 1,
+      "unit_price": "2.97",
+      "amount": "2.97"
+    },
+    {
+      "description": "CR-B' SCOTCH",
+      "quantity": 1,
+      "unit_price": "-0.72",
+      "amount": "-0.72"
+    },
+    {
+      "description": "BUN-SBILIS",
+      "quantity": 10,
+      "unit_price": "8.40",
+      "amount": "8.40"
+    }
+  ],
+  "total": "25.84",
+  "tax_amount": "0.46",
+  "service_charge": null
+}

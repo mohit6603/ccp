@@ -3,7 +3,32 @@
     "date": "30/04/2017",
     "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
     "tax_number": "000504664064",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "L DBLECHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.10"
+        },
+        {
+            "description": "DOUBLECHEESE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.70"
+        },
+        {
+            "description": "L AYAMGORENG",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.25"
+        },
+        {
+            "description": "L 9NUGGETS",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.10"
+        }
+    ],
     "total": "47.15",
     "tax_amount": "2.67",
     "service_charge": null

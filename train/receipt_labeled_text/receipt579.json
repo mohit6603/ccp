@@ -5,13 +5,13 @@
     "tax_number": "000549584896",
     "line_items": [
         {
-            "description": "2032 'ENERGIZER' BATTERY (PC) @ PKT",
+            "description": "2032 'ENERGIZER' BATTERY (PC)",
             "quantity": 1,
             "unit_price": "6.40",
             "amount": "6.40"
         },
         {
-            "description": "9V 'ENERGIZER' BATTERY(522BP1G) @ PKT",
+            "description": "9V 'ENERGIZER' BATTERY(522BP1G)",
             "quantity": 1,
             "unit_price": "11.53",
             "amount": "11.53"

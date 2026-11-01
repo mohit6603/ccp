@@ -1,0 +1,17 @@
+{
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "29/12/2017",
+  "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+  "tax_number": "000750673920",
+  "line_items": [
+    {
+      "description": "G.I WIRE RM10",
+      "quantity": "1",
+      "unit_price": "10.60",
+      "amount": "10.60"
+    }
+  ],
+  "total": "10.60",
+  "tax_amount": "0.60",
+  "service_charge": null
+}

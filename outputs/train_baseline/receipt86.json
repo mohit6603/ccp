@@ -1,0 +1,17 @@
+{
+    "company": "IKANO HANDEL SDN BHD",
+    "date": "27/07/17",
+    "address": "No 2A Jalan Cochrane Taman Maluri 55100 KUALA LUMPUR",
+    "tax_number": "000115154944",
+    "line_items": [
+        {
+            "description": "50346155 BOSTRAK WRD 80X50X18",
+            "quantity": 2,
+            "unit_price": "269.00",
+            "amount": "538.00"
+        }
+    ],
+    "total": "538.00",
+    "tax_amount": "30.45",
+    "service_charge": null
+}

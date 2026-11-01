@@ -1,0 +1,29 @@
+{
+  "company": "KT WONG TRADING (001904043-H)",
+  "date": "09/06/2018",
+  "address": "22, Jalan Perindustrian Hijau 5, Taman Perindustrian Hijau,",
+  "tax_number": "000613294080",
+  "line_items": [
+    {
+      "description": "BERAS ASAS 10KG***",
+      "quantity": 15,
+      "unit_price": "24.90",
+      "amount": "373.50"
+    },
+    {
+      "description": "SUN SOS TIRAM 6KG",
+      "quantity": 4,
+      "unit_price": "15.95",
+      "amount": "63.80"
+    },
+    {
+      "description": "COKE 24 X 325ML",
+      "quantity": 2,
+      "unit_price": "26.00",
+      "amount": "52.00"
+    }
+  ],
+  "total": "489.30",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+  "company": "L TWO FLORIST & HANDICRAFT",
+  "date": "21/03/2018",
+  "address": "NO. 49, JALAN MAHAGONI 7/2, SEKSYEN 4 BANDAR UTAMA, 44300 BATANG KALI, SELANGOR.",
+  "tax_number": "002062543-P",
+  "line_items": [
+    {
+      "description": "NE3555 1 1/2\" SAFETY PIN",
+      "quantity": "2",
+      "unit_price": "1.00",
+      "amount": "2.00"
+    },
+    {
+      "description": "SB/01-3 SATIN BIAS TAPE 12MMX3Y",
+      "quantity": "1",
+      "unit_price": "7.00",
+      "amount": "7.00"
+    }
+  ],
+  "total": "9.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

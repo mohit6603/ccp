@@ -1,0 +1,17 @@
+{
+  "company": "Esjay Fuel Enterprise",
+  "date": "30-06-2018",
+  "address": "LOT PTD 101051 Jalan Permas 10/10 81750 Masai, Johor",
+  "tax_number": "000153358336",
+  "line_items": [
+    {
+      "description": "Inf RON95",
+      "quantity": 22.73,
+      "unit_price": "2.200",
+      "amount": "50.00"
+    }
+  ],
+  "total": "50.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

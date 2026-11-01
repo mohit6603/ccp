@@ -1,0 +1,17 @@
+{
+  "company": "PERNIAGAAN ZHENG HUI",
+  "date": "15/03/2018",
+  "address": "NO 59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU",
+  "tax_number": "000860589824",
+  "line_items": [
+    {
+      "description": "SR: CAR PARKING COUPON",
+      "quantity": 1,
+      "unit_price": "7.55",
+      "amount": "7.55"
+    }
+  ],
+  "total": "8.00",
+  "tax_amount": "0.45",
+  "service_charge": null
+}

@@ -1,0 +1,35 @@
+{
+  "company": "MR. D.I.Y. (KUCHAI) SDN BHD",
+  "date": "08-03-17",
+  "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+  "tax_number": "000473792512",
+  "line_items": [
+    {
+      "description": "BOOSTER CABLE XH-500A",
+      "quantity": 1,
+      "unit_price": "29.90",
+      "amount": "29.90"
+    },
+    {
+      "description": "MOTH BALLS 150G",
+      "quantity": 1,
+      "unit_price": "2.10",
+      "amount": "2.10"
+    },
+    {
+      "description": "DIY GOLD TWIST DRILL 3MM",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    },
+    {
+      "description": "HSS TWIST DRILL 6*160MM",
+      "quantity": 1,
+      "unit_price": "3.30",
+      "amount": "3.30"
+    }
+  ],
+  "total": "37.80",
+  "tax_amount": "2.14",
+  "service_charge": null
+}

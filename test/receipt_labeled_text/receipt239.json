@@ -6,20 +6,20 @@
     "line_items": [
         {
             "description": "NH DELICADERMA PROTECTIVE CR 50M",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "76.00",
             "amount": "76"
         },
         {
             "description": "11-(BEPROGENT CR LS) 30G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "10.00",
             "amount": "10"
         },
         {
             "description": "ALPHA LIPID LIFE LINE 450MG 450G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "165.00",
             "amount": "165"
         }
     ],

@@ -1,0 +1,59 @@
+{
+    "company": "IKEA Tebrau",
+    "date": "09/06/18",
+    "address": "No. 33, Jalan Harmonium Taman Desa Tebrau 81100 Johor Bahru",
+    "tax_number": "000115154944",
+    "line_items": [
+        {
+            "description": "599914018 1/2 Spri",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "14.00"
+        },
+        {
+            "description": "598314504 Soft Bun",
+            "quantity": 2,
+            "unit_price": "0.90",
+            "amount": "1.80"
+        },
+        {
+            "description": "599912000 Mushroom",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "3.90"
+        },
+        {
+            "description": "598314524 Add-On C",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "599913501 Chicken",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "4.20"
+        },
+        {
+            "description": "599900369 15 Meatb",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "14.10"
+        },
+        {
+            "description": "598314505 Minidish",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.40"
+        },
+        {
+            "description": "599900372 Soft Drink",
+            "quantity": 2,
+            "unit_price": "1.80",
+            "amount": "3.60"
+        }
+    ],
+    "total": "46.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

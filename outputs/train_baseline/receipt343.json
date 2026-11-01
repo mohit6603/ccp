@@ -1,0 +1,41 @@
+{
+    "company": "MAKASSAR FRESH MARKET SDN BHD",
+    "date": "03/09/2017",
+    "address": "GROUND FLOOR, NO. 4 & 6, JALAN SS 15/4B, 47500 SUBANG JAYA, SELANGOR",
+    "tax_number": "000381399040",
+    "line_items": [
+        {
+            "description": "O.C. WHITE",
+            "quantity": 1,
+            "unit_price": "2.13",
+            "amount": "2.13"
+        },
+        {
+            "description": "WHOLEMEAL",
+            "quantity": 5,
+            "unit_price": "2.78",
+            "amount": "13.90"
+        },
+        {
+            "description": "O.C. JUMBO",
+            "quantity": 3,
+            "unit_price": "2.97",
+            "amount": "8.91"
+        },
+        {
+            "description": "BONZ SAVER",
+            "quantity": 3,
+            "unit_price": "2.97",
+            "amount": "8.91"
+        },
+        {
+            "description": "CR-CHOCLT",
+            "quantity": 6,
+            "unit_price": "0.72",
+            "amount": "0.00"
+        }
+    ],
+    "total": "29.59",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

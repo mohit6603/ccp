@@ -7,19 +7,19 @@
         {
             "description": "CHICKEN KATSU BENTO",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "12.90",
             "amount": "12.90"
         },
         {
             "description": "OMU CURRY FRIED RICE SET",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "6.90",
             "amount": "6.90"
         },
         {
             "description": "KATSU DON (FISH)SET",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "9.90",
             "amount": "9.90"
         }
     ],

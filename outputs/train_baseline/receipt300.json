@@ -1,0 +1,65 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "22/04/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "KIT KAT SHARE B",
+            "quantity": 1,
+            "unit_price": "14.99",
+            "amount": "14.99"
+        },
+        {
+            "description": "Item promo @9.99",
+            "quantity": 1,
+            "unit_price": "9.99",
+            "amount": "9.99"
+        },
+        {
+            "description": "BERYLS TTOW",
+            "quantity": 1,
+            "unit_price": "21.10",
+            "amount": "21.10"
+        },
+        {
+            "description": "VH BOX 180G SE",
+            "quantity": 1,
+            "unit_price": "18.29",
+            "amount": "18.29"
+        },
+        {
+            "description": "Item promo @12.89",
+            "quantity": 1,
+            "unit_price": "12.89",
+            "amount": "12.89"
+        },
+        {
+            "description": "VH BOX 180G RA",
+            "quantity": 1,
+            "unit_price": "18.29",
+            "amount": "18.29"
+        },
+        {
+            "description": "Item promo @12.89",
+            "quantity": 1,
+            "unit_price": "12.89",
+            "amount": "12.89"
+        },
+        {
+            "description": "LINDT DT126",
+            "quantity": 1,
+            "unit_price": "31.60",
+            "amount": "31.60"
+        },
+        {
+            "description": "MILLO NUGGETS FU",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        }
+    ],
+    "total": "98.35",
+    "tax_amount": "5.57",
+    "service_charge": "1.65"
+}

@@ -1,0 +1,23 @@
+{
+    "company": "YONG CEN ENTERPRISE",
+    "date": "02/03/2018",
+    "address": "9, JALAN SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR.",
+    "tax_number": "001147981824",
+    "line_items": [
+        {
+            "description": "FEI YAN BRAND YOUNG CORN 425G (2.333X",
+            "quantity": 24,
+            "unit_price": "2.33",
+            "amount": "55.99"
+        },
+        {
+            "description": "ASAM BOI 65G",
+            "quantity": 2,
+            "unit_price": "2.00",
+            "amount": "4.00"
+        }
+    ],
+    "total": "63.35",
+    "tax_amount": "3.36",
+    "service_charge": null
+}

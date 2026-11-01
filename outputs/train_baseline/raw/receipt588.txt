@@ -1,0 +1,35 @@
+{
+  "company": "JIMART@SP3",
+  "date": "24/06/2018",
+  "address": "No.29M, Jalan Dinar G U3/G, Seksyen U3, Subang Perdana, 40150 Shah Alam",
+  "tax_number": "002077622272",
+  "line_items": [
+    {
+      "description": "Rhomb Scissors 4\" 2040",
+      "quantity": 1,
+      "unit_price": "7.45",
+      "amount": "7.45"
+    },
+    {
+      "description": "Sharpening Stone 108#8",
+      "quantity": 1,
+      "unit_price": "7.45",
+      "amount": "7.45"
+    },
+    {
+      "description": "LAVA Water Jug 2.25L",
+      "quantity": 1,
+      "unit_price": "4.62",
+      "amount": "4.62"
+    },
+    {
+      "description": "Glass W/Flower LG10001",
+      "quantity": 12,
+      "unit_price": "2.74",
+      "amount": "32.88"
+    }
+  ],
+  "total": "52.40",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

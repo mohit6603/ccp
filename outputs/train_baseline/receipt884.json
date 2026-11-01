@@ -1,0 +1,29 @@
+{
+    "company": "Pu Tien (M) SDN BHD",
+    "date": "12/10/2017",
+    "address": "Lot 2-25, Sunway Velocity Mall Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur",
+    "tax_number": "001010892800",
+    "line_items": [
+        {
+            "description": "Stir Fried Yam,Xs",
+            "quantity": 1,
+            "unit_price": "12.90",
+            "amount": "12.90"
+        },
+        {
+            "description": "Lor Mee,XS",
+            "quantity": 1,
+            "unit_price": "13.90",
+            "amount": "13.90"
+        },
+        {
+            "description": "Chrysanthemum Tea,Iced",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        }
+    ],
+    "total": "36.96",
+    "tax_amount": "2.09",
+    "service_charge": "3.17"
+}

@@ -1,0 +1,1 @@
+{"company": "FY EAGLE ENTERPRISE", "date": "04/12/2017", "address": "NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANGOR", "tax_number": "001663156224", "line_items": [{"description": "TAPE OPP 48MMX80Y CLEAR(B.PY)-ECS", "quantity": 2, "unit_price": "3.50", "amount": "7.00"}], "total": "7.00", "tax_amount": "0.40", "service_charge": null}

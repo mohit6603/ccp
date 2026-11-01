@@ -1,0 +1,29 @@
+{
+  "company": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "23/09/2017",
+  "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam Selangor.",
+  "tax_number": "000381399040",
+  "line_items": [
+    {
+      "description": "O.C. WHITE",
+      "quantity": 2.13,
+      "unit_price": "10.65",
+      "amount": "10.65"
+    },
+    {
+      "description": "CR-CORN",
+      "quantity": 0.72,
+      "unit_price": "-18.00",
+      "amount": "-18.00"
+    },
+    {
+      "description": "CR-B' SCOTCH",
+      "quantity": 0.72,
+      "unit_price": "21.60",
+      "amount": "21.60"
+    }
+  ],
+  "total": "14.47",
+  "tax_amount": "0.22",
+  "service_charge": null
+}

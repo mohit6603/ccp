@@ -1,0 +1,1 @@
+{"company": "KHIM AIK CHAN SDN BHD", "date": "25/09/2017", "address": "NO. 76, JELAN SS15/4B, 47500 SUBANG JAYA, SELANGOR D.E.", "tax_number": "000555819008", "line_items": [{"description": "MAX 10-1M STAPLES", "quantity": 2, "unit_price": "14.20", "amount": "28.40"}], "total": "28.40", "tax_amount": "1.61", "service_charge": null}

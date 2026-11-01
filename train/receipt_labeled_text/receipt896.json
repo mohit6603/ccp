@@ -7,31 +7,31 @@
         {
             "description": "HERBAL TEA (ICED)",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "2.00",
             "amount": "2.00"
         },
         {
             "description": "RICE (S)",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "0.50",
             "amount": "0.50"
         },
         {
             "description": "IMPORTED VEGGIES",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "1.60",
             "amount": "1.60"
         },
         {
             "description": "ADD CHICKEN",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.70",
             "amount": "3.70"
         },
         {
             "description": "3 VEGE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.40",
             "amount": "4.40"
         }
     ],

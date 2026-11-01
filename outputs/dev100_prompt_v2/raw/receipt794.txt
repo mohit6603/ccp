@@ -1,0 +1,17 @@
+{
+  "company": "Aneka Jntertrade Marketing Sdn Bhd",
+  "date": "19/06/17",
+  "address": "150B, Jalan TUC14,Kg Baru Subang 40150 Shah Alam, Selangor Darul Ehsan, Malaysia.",
+  "tax_number": "001532760064",
+  "line_items": [
+    {
+      "description": "Milo Actigen-E 3in1 18'sx33g",
+      "quantity": 2,
+      "unit_price": "11.90",
+      "amount": "23.80"
+    }
+  ],
+  "total": "23.80",
+  "tax_amount": "1.35",
+  "service_charge": null
+}

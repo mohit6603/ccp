@@ -3,7 +3,14 @@
     "date": "29/01/2018",
     "address": "47,JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR",
     "tax_number": "001151500288",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "SCHNEIDER E15R 13A SWITCH SOCKET OUTLET",
+            "quantity": 1,
+            "unit_price": "6.0000",
+            "amount": "6.36"
+        }
+    ],
     "total": "6.35",
     "tax_amount": "0.36",
     "service_charge": null

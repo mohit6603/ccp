@@ -1,0 +1,23 @@
+{
+    "company": "Farmasi Maluri S/B",
+    "date": "02/03/18",
+    "address": "23, Jln Burung Jentayu, Tmn Bukit Maluri, Kepong, 52100 KL.",
+    "tax_number": "000342237184",
+    "line_items": [
+        {
+            "description": "061558 - **BMS MILK THISTLE",
+            "quantity": 1,
+            "unit_price": "111.30",
+            "amount": "72.35"
+        },
+        {
+            "description": "910845 - TRILON-E CRM",
+            "quantity": 1,
+            "unit_price": "7.00",
+            "amount": "7.00"
+        }
+    ],
+    "total": "79.35",
+    "tax_amount": "4.10",
+    "service_charge": null
+}

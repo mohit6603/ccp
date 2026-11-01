@@ -1,0 +1,29 @@
+{
+    "company": "PASARAYA CINWA SDN BHD",
+    "date": "15/06/2018",
+    "address": "NO.6, 8, 10& 12 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAYA, 81750 JOHOR BAHRU,JOHOR.",
+    "tax_number": "000931172352",
+    "line_items": [
+        {
+            "description": "YELLOW ROCK SUGAR 250G",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        },
+        {
+            "description": "GREEN BEAN",
+            "quantity": 1,
+            "unit_price": "2.80",
+            "amount": "2.80"
+        },
+        {
+            "description": "ROYAL UMBRELLA BERAS WANGI 1KG",
+            "quantity": 1,
+            "unit_price": "8.90",
+            "amount": "8.90"
+        }
+    ],
+    "total": "14.20",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

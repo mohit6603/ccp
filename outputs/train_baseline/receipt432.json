@@ -1,0 +1,23 @@
+{
+    "company": "DE LUXE CIRCLE FRESH MART SDN BHD",
+    "date": "12/05/18",
+    "address": "No. 398&91, Jalan Utama, Taman Mutia Rini, 81300 Skudai, Johor.",
+    "tax_number": "001507647488",
+    "line_items": [
+        {
+            "description": "Heaven & Earth Ayataka Green Tea 1.5L",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "Konnnyaku 10g",
+            "quantity": 3,
+            "unit_price": "3.50",
+            "amount": "10.50"
+        }
+    ],
+    "total": "15.50",
+    "tax_amount": "6.68",
+    "service_charge": null
+}

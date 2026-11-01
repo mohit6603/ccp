@@ -6,7 +6,7 @@
     "line_items": [
         {
             "description": "PLASTICWARE-NORMAL (MCH)",
-            "quantity": null,
+            "quantity": 2,
             "unit_price": "4.90",
             "amount": "9.80"
         }

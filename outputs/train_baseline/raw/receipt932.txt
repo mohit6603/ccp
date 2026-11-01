@@ -1,0 +1,47 @@
+{
+  "company": "SOUP & PORRIDGE",
+  "date": "05-06-2018",
+  "address": "LOT S10NB & S12NB, RESTORAN JEJANTAS SG. BULOH, ARAH UTARA, PLUS BERHAD.",
+  "tax_number": "000613912576",
+  "line_items": [
+    {
+      "description": "MEE GRG BERLAUK",
+      "quantity": "1",
+      "unit_price": "7.00",
+      "amount": "7.00"
+    },
+    {
+      "description": "TEH O AIS",
+      "quantity": "1",
+      "unit_price": "1.60",
+      "amount": "1.60"
+    },
+    {
+      "description": "TEH TARIK",
+      "quantity": "1",
+      "unit_price": "1.50",
+      "amount": "1.50"
+    },
+    {
+      "description": "TEH O AIS",
+      "quantity": "1",
+      "unit_price": "1.60",
+      "amount": "1.60"
+    },
+    {
+      "description": "MIHUN GRG BERLAUK",
+      "quantity": "1",
+      "unit_price": "5.00",
+      "amount": "5.00"
+    },
+    {
+      "description": "MIHUN GORENG",
+      "quantity": "1",
+      "unit_price": "4.00",
+      "amount": "4.00"
+    }
+  ],
+  "total": "20.70",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

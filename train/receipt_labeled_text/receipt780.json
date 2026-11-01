@@ -5,9 +5,9 @@
     "tax_number": "000549584896",
     "line_items": [
         {
-            "description": "50MM X 3PCS 'TAKKA' K.A PADLOCK @ SET",
+            "description": "50MM X 3PCS 'TAKKA' K.A PADLOCK",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "80.00",
             "amount": "80.00"
         }
     ],

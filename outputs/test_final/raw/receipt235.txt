@@ -1,0 +1,1 @@
+{"company": "B & BEST RESTAURANT", "date": "20/03/2017", "address": "AN SS4C/5,PETALING JAYA ANGOR DARUL EHSAN", "tax_number": "001800839168", "line_items": [{"description": "FISHBALL NOODLE", "quantity": 2, "unit_price": "7.00", "amount": "14.00"}], "total": "14.85", "tax_amount": "0.84", "service_charge": null}

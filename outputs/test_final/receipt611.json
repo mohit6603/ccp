@@ -1,0 +1,17 @@
+{
+    "company": "OCEAN LC PACKAGING ENTERPRISE",
+    "date": "27/06/2018",
+    "address": "41-1, JLN RADIN ANUM 2, SRI PETALING, 57000 KUALA LUMPUR.",
+    "tax_number": "000945983488",
+    "line_items": [
+        {
+            "description": "LAI",
+            "quantity": 4,
+            "unit_price": "38.00",
+            "amount": "152.00"
+        }
+    ],
+    "total": "152.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

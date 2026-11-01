@@ -1,0 +1,35 @@
+{
+  "company": "Chili's Grill & Bar KLC",
+  "date": "30 Dec 17",
+  "address": "T.A.S Leisure Sdn Bhd (256864-P)",
+  "tax_number": "001042104320",
+  "line_items": [
+    {
+      "description": "PINEAPPLE JUICE",
+      "quantity": 1,
+      "unit_price": "12.95",
+      "amount": "12.95"
+    },
+    {
+      "description": "TOSTADA CHIPS",
+      "quantity": 1,
+      "unit_price": "16.95",
+      "amount": "16.95"
+    },
+    {
+      "description": "CHP_BWL CK",
+      "quantity": 1,
+      "unit_price": "29.95",
+      "amount": "29.95"
+    },
+    {
+      "description": "MARG CK",
+      "quantity": 1,
+      "unit_price": "27.95",
+      "amount": "27.95"
+    }
+  ],
+  "total": "102.40",
+  "tax_amount": "5.81",
+  "service_charge": "8.78"
+}

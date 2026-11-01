@@ -1,7 +1,7 @@
 {
     "company": "99 SPEED MART S/B",
     "date": "19-08-16",
-    "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR",
+    "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1237-TMN INDAH PERDANA",
     "tax_number": "000181747712",
     "line_items": [
         {
@@ -18,6 +18,6 @@
         }
     ],
     "total": "4.70",
-    "tax_amount": null,
+    "tax_amount": "0.10",
     "service_charge": null
 }

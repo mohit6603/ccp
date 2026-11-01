@@ -1,0 +1,53 @@
+{
+  "company": "COSWAY (M) SDN BHD (0118-A)",
+  "date": "06/12/2016",
+  "address": "2nd Floor, Warna Cosway, Jalan Raja Chulan, 50200 Kuala Lumpur, Malaysia.",
+  "tax_number": "000743903232",
+  "line_items": [
+    {
+      "description": "(B3F1)PM BATHROOM CLEANER",
+      "quantity": 2,
+      "unit_price": "26.70",
+      "amount": "53.40"
+    },
+    {
+      "description": "PM BATHROOM CLEANER",
+      "quantity": 6,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "(A3F1)PM FLR CLEANER",
+      "quantity": 1,
+      "unit_price": "32.70",
+      "amount": "32.70"
+    },
+    {
+      "description": "PM CON FLOOR CLEANER-PINE",
+      "quantity": 4,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "(A2F1)BG MASK.74169/157/147",
+      "quantity": 1,
+      "unit_price": "35.60",
+      "amount": "35.60"
+    },
+    {
+      "description": "BG HYDRATING SPA MASK",
+      "quantity": 2,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "BG VISIBLY SOFT MILK MASK",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    }
+  ],
+  "total": "105.57",
+  "tax_amount": "6.33",
+  "service_charge": null
+}

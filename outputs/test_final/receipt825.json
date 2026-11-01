@@ -1,0 +1,35 @@
+{
+    "company": "GARDENIA BAKERIES (KL) SDN BHD",
+    "date": "16/08/2017",
+    "address": "LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.",
+    "tax_number": "000381399040",
+    "line_items": [
+        {
+            "description": "O.C. WHITE",
+            "quantity": 3,
+            "unit_price": "2.13",
+            "amount": "6.39"
+        },
+        {
+            "description": "WHOLEMEAL",
+            "quantity": 5,
+            "unit_price": "2.78",
+            "amount": "13.90"
+        },
+        {
+            "description": "BONZ SAVER",
+            "quantity": 8,
+            "unit_price": "2.97",
+            "amount": "23.76"
+        },
+        {
+            "description": "CR-CHOCLT",
+            "quantity": 20,
+            "unit_price": "0.72",
+            "amount": "14.40"
+        }
+    ],
+    "total": "59.31",
+    "tax_amount": "0.86",
+    "service_charge": null
+}

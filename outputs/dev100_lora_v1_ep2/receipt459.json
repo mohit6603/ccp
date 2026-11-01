@@ -1,0 +1,53 @@
+{
+    "company": "DIMILIKI OLEH : DOVE HOLDINGS SDN BHD",
+    "date": "26/05/2018",
+    "address": "LOT S25, AEON TEBRAU CITY JUSCO NO 1, JLN DESA TEBRAU, TMN DESA TEBRAU, 81100 JOHOR BAHRU, JOHOR",
+    "tax_number": "0013 7941 8112",
+    "line_items": [
+        {
+            "description": "CREAM OF MUSHROOM SOUP",
+            "quantity": 2,
+            "unit_price": "6.10",
+            "amount": "12.20"
+        },
+        {
+            "description": "NOODLE SOUP O.T.ROCK",
+            "quantity": 1,
+            "unit_price": "12.90",
+            "amount": "12.90"
+        },
+        {
+            "description": "SPICY T/S SPAGHETTI",
+            "quantity": 2,
+            "unit_price": "14.90",
+            "amount": "29.80"
+        },
+        {
+            "description": "SIRLOIN STEAK",
+            "quantity": 1,
+            "unit_price": "19.90",
+            "amount": "19.90"
+        },
+        {
+            "description": "GRILLED MARINATED",
+            "quantity": 1,
+            "unit_price": "18.90",
+            "amount": "18.90"
+        },
+        {
+            "description": "GRILLED CHICKEN CHOP",
+            "quantity": 1,
+            "unit_price": "18.90",
+            "amount": "18.90"
+        },
+        {
+            "description": "ICED LEMON TEA",
+            "quantity": 1,
+            "unit_price": "6.90",
+            "amount": "6.90"
+        }
+    ],
+    "total": "164.80",
+    "tax_amount": "9.31",
+    "service_charge": null
+}

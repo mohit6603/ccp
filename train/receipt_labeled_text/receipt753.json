@@ -7,19 +7,19 @@
         {
             "description": "COLOR COPY A4",
             "quantity": 2,
-            "unit_price": null,
+            "unit_price": "1.00",
             "amount": "2.00"
         },
         {
             "description": "PHOTOCOPY A4",
             "quantity": 2,
-            "unit_price": null,
+            "unit_price": "0.10",
             "amount": "0.20"
         },
         {
             "description": "LAMINATE A4",
             "quantity": 2,
-            "unit_price": null,
+            "unit_price": "2.50",
             "amount": "5.00"
         }
     ],

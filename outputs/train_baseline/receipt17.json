@@ -1,0 +1,17 @@
+{
+    "company": "LIGHTROOM GALLERY SDN BHD",
+    "date": "20/11/2017",
+    "address": "No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+    "tax_number": "000584089600",
+    "line_items": [
+        {
+            "description": "YT51775 * 1059 18W SQ WW BK SUR LED LIGHT 1059 SQUARE BLACK FRAME",
+            "quantity": 2,
+            "unit_price": "18.77",
+            "amount": "37.55"
+        }
+    ],
+    "total": "39.80",
+    "tax_amount": "2.25",
+    "service_charge": "0.00"
+}

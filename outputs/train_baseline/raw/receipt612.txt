@@ -1,0 +1,17 @@
+{
+  "company": "MR. D.I.Y. (M) SDN BHD",
+  "date": "15-07-18",
+  "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+  "tax_number": "000306020352",
+  "line_items": [
+    {
+      "description": "SPRAYER SX-260# 550ML",
+      "quantity": 4,
+      "unit_price": "1.79",
+      "amount": "7.16"
+    }
+  ],
+  "total": "7.15",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

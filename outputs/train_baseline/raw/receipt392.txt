@@ -1,0 +1,23 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "30-06-16",
+  "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1558-TMN PUSAT KEPONG",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "B019 MARIGOLD HL MILK 1L",
+      "quantity": 2,
+      "unit_price": "6.79",
+      "amount": "13.58"
+    },
+    {
+      "description": "559 TIGER BEER BOTTLE 660ML",
+      "quantity": 1,
+      "unit_price": "13.70",
+      "amount": "13.70"
+    }
+  ],
+  "total": "27.30",
+  "tax_amount": "1.54",
+  "service_charge": null
+}

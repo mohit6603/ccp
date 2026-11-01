@@ -1,0 +1,1 @@
+{"company": "HASHA PETROKIOSK", "date": "06/04/18", "address": "LOT PTD 198718 TIN SIERRA P 81750 MASAI JOHOR", "tax_number": "000908345344", "line_items": [{"description": "FUELSAVE 95", "quantity": 2.2, "unit_price": "20.00", "amount": "50.00"}], "total": "50.00", "tax_amount": "0.00", "service_charge": null}

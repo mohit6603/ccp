@@ -1,9 +1,16 @@
 {
     "company": "GERBANG ALAF RESTAURANTS SDN BHD",
     "date": "25/05/2018",
-    "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETA ING JAYA SELANGOR",
+    "address": "LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3 NO.3, JALAN SS21/39,47400 PETALING JAYA SELANGOR",
     "tax_number": "000504664064",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "L FILETOFISH",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "11.10"
+        }
+    ],
     "total": "11.10",
     "tax_amount": "0.63",
     "service_charge": null

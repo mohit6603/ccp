@@ -1,0 +1,35 @@
+{
+    "company": "LIAN CHI PU TIAN VEGETARIAN RESTAURANT SDN BHD",
+    "date": "06/01/18",
+    "address": "54,JALAN SS23/11, TAMAN SEA,47400 PETALING JAYA,SELANGOR",
+    "tax_number": "001147416576",
+    "line_items": [
+        {
+            "description": "CURRY MIXED VEGE",
+            "quantity": 1,
+            "unit_price": "16.85",
+            "amount": "16.85"
+        },
+        {
+            "description": "'XINGHUA' SPRING ROLL",
+            "quantity": 1,
+            "unit_price": "14.73",
+            "amount": "14.73"
+        },
+        {
+            "description": "TI GUAN YIN TEA",
+            "quantity": 1,
+            "unit_price": "3.18",
+            "amount": "3.18"
+        },
+        {
+            "description": "PLAIN RICE",
+            "quantity": 2,
+            "unit_price": "1.59",
+            "amount": "3.18"
+        }
+    ],
+    "total": "53.55",
+    "tax_amount": "2.86",
+    "service_charge": null
+}

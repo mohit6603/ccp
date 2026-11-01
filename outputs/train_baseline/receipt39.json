@@ -1,0 +1,23 @@
+{
+    "company": "THREE STOOGES BISTRO & CAFE",
+    "date": "12/03/2018",
+    "address": "109, SS21/1A, DAMANSARA UTAMA",
+    "tax_number": "001661886464",
+    "line_items": [
+        {
+            "description": "1 HH GUINNESS 12 GLASSES",
+            "quantity": 1,
+            "unit_price": "150.00",
+            "amount": "150.00"
+        },
+        {
+            "description": "1 HH TIGER 12 GLASSES",
+            "quantity": 1,
+            "unit_price": "145.00",
+            "amount": "145.00"
+        }
+    ],
+    "total": "343.95",
+    "tax_amount": "19.47",
+    "service_charge": "29.50"
+}

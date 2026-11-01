@@ -1,0 +1,29 @@
+{
+    "company": "RESTORAN IBRAHIM MAJU SB",
+    "date": "19/03/2018",
+    "address": "NO.2, GROUND FLOOR, JALAN REKO SENTRAL 8 TAMAN REKO SENTRAL, 43000 KAJANG SELANGOR DE",
+    "tax_number": "000696532992",
+    "line_items": [
+        {
+            "description": "MAKANAN",
+            "quantity": 1,
+            "unit_price": "2.30",
+            "amount": "2.30 S"
+        },
+        {
+            "description": "MAKANAN",
+            "quantity": 1,
+            "unit_price": "1.40",
+            "amount": "1.40 S"
+        },
+        {
+            "description": "MAKANAN",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60 S"
+        }
+    ],
+    "total": "5.30",
+    "tax_amount": "0.30",
+    "service_charge": null
+}

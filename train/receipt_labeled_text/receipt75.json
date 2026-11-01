@@ -3,7 +3,14 @@
     "date": "27/03/2018",
     "address": "NO.32 & 33, JALAN SR 1/9, SEKSYEN 9, TAMAN SERDANG RAYA, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN",
     "tax_number": "002139201536",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "F/CASTELL 187057-75 TACK-IT 75G- WHITE (NEW)",
+            "quantity": 2,
+            "unit_price": "5.6600",
+            "amount": "12.00"
+        }
+    ],
     "total": "12.00",
     "tax_amount": "0.68",
     "service_charge": null

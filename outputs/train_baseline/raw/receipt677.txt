@@ -1,0 +1,17 @@
+{
+  "company": "LIM SENG THO HARDWARE TRADING",
+  "date": "02/02/2018",
+  "address": "No 7. Simpang Off Batu Village, Jalan Ipoh Batu 5, 51200 Kuala Lumpur. MALAYSIA",
+  "tax_number": "001269075968",
+  "line_items": [
+    {
+      "description": "10.00 NOS",
+      "quantity": 0.7,
+      "unit_price": "7.00",
+      "amount": "7.00"
+    }
+  ],
+  "total": "7.00",
+  "tax_amount": "0.40",
+  "service_charge": null
+}

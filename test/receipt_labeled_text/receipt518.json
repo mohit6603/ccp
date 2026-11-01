@@ -7,31 +7,31 @@
         {
             "description": "BUTTER SLICE CHEESE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.15",
             "amount": "4.15"
         },
         {
             "description": "EUROPE BUN",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.70",
             "amount": "3.70"
         },
         {
             "description": "GREEN TEA MOCHI",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.30",
             "amount": "3.30"
         },
         {
             "description": "TOAST (B) - COFFEE CREAM CH",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "7.85",
             "amount": "7.85"
         },
         {
             "description": "WALNUT MULTIGRAIN",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.95",
             "amount": "3.95"
         }
     ],

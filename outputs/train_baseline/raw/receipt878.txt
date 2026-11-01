@@ -1,0 +1,17 @@
+{
+  "company": "HOME'S HARMONY @ 1 UTAMA SHOPPING CENTRE",
+  "date": "01/05/2016",
+  "address": "Lot S319A, 2nd Floor, 1 Utama Shopping Centre - Phase 2 Persiaran Bandar Utama, 47800 Petaling Jaya. Malaysia",
+  "tax_number": "000992739328",
+  "line_items": [
+    {
+      "description": "400007-HH-STORG-LIME-STD <CASHIER>",
+      "quantity": 1,
+      "unit_price": "14.00",
+      "amount": "8.82"
+    }
+  ],
+  "total": "8.80",
+  "tax_amount": "0.50",
+  "service_charge": null
+}

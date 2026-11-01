@@ -1,0 +1,17 @@
+{
+    "company": "BIZ LINK",
+    "date": "7/6/2018",
+    "address": "Lot TG007 & 008, 3rd Floor, SG. Wang Plaza",
+    "tax_number": "000345100288",
+    "line_items": [
+        {
+            "description": "TIMI EC-110 CHEQUE WRITER @ 399.00",
+            "quantity": 1.0,
+            "unit_price": "399.00",
+            "amount": "399.00"
+        }
+    ],
+    "total": "399.00",
+    "tax_amount": "22.58",
+    "service_charge": "1.00"
+}

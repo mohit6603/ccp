@@ -3,7 +3,44 @@
     "date": "11-06-2018",
     "address": "NO.7G, JALAN PERMAS 11, BANDAR BARU PERMAS JAYA, 81750 MASAI, JOHOR",
     "tax_number": null,
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "SET B - SOUP",
+            "quantity": 1,
+            "unit_price": "48.00",
+            "amount": "48.00"
+        },
+        {
+            "description": "HERBAL CHICKEN",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "SALTED EGG DUMPLINGS",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "THAI COFFEE",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        },
+        {
+            "description": "BEER (C)",
+            "quantity": 2,
+            "unit_price": "16.00",
+            "amount": "32.00"
+        },
+        {
+            "description": "LUO HAN GUO",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        }
+    ],
     "total": "102.40",
     "tax_amount": null,
     "service_charge": null

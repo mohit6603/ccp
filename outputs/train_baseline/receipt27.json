@@ -1,0 +1,23 @@
+{
+    "company": "99 SPEED MART S/B",
+    "date": "24-01-18",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1076-IJOK",
+    "tax_number": "000181747712",
+    "line_items": [
+        {
+            "description": "1973 GARBAGE BAG (BLUE) 74C",
+            "quantity": 1,
+            "unit_price": "1.25",
+            "amount": "1.25"
+        },
+        {
+            "description": "1974 GARBAGE BAG (GREEN) 74",
+            "quantity": 1,
+            "unit_price": "1.25",
+            "amount": "1.25"
+        }
+    ],
+    "total": "2.50",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

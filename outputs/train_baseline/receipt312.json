@@ -1,0 +1,17 @@
+{
+    "company": "CHECKERS HYPERMARKET SDN BHD",
+    "date": "20180428",
+    "address": "LOT 2942 & 2945, JLN SERI SENTOSA 8, SERI SENTOSA, OFF JLN KLANG LAMA, 58000 KUALA LUMPUR.",
+    "tax_number": "002013487104",
+    "line_items": [
+        {
+            "description": "1) SAJI MINYAK MASAK - 5KG(Z) (BTL)",
+            "quantity": 1,
+            "unit_price": "22.90",
+            "amount": "19.99"
+        }
+    ],
+    "total": "20.00",
+    "tax_amount": "0.00",
+    "service_charge": "0.00"
+}

@@ -1,0 +1,47 @@
+{
+    "company": "GARDENIA BAKERIES (KL) SDN BHD",
+    "date": "17/10/2017",
+    "address": "Lot 3, Jalan Kelabur 23/1, 40300 Shah Alam, Selangor.",
+    "tax_number": "000381399040",
+    "line_items": [
+        {
+            "description": "O.C. WHITE",
+            "quantity": 3,
+            "unit_price": "6.39",
+            "amount": "6.39"
+        },
+        {
+            "description": "WHOL EMEAL",
+            "quantity": 1,
+            "unit_price": "2.78",
+            "amount": "-2.78"
+        },
+        {
+            "description": "O.C. JUMBO",
+            "quantity": 6,
+            "unit_price": "17.82",
+            "amount": "17.82"
+        },
+        {
+            "description": "CR-VANILLA",
+            "quantity": 20,
+            "unit_price": "14.40",
+            "amount": "14.40"
+        },
+        {
+            "description": "CR-CORN",
+            "quantity": 20,
+            "unit_price": "14.40",
+            "amount": "14.40"
+        },
+        {
+            "description": "HAZEL CHOC",
+            "quantity": 8,
+            "unit_price": "55.20",
+            "amount": "55.20"
+        }
+    ],
+    "total": "110.46",
+    "tax_amount": "5.03",
+    "service_charge": null
+}

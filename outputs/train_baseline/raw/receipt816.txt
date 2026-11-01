@@ -1,0 +1,53 @@
+{
+  "company": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "27/04/2018",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "tax_number": "000504664064",
+  "line_items": [
+    {
+      "description": "4 M Nasi Lemak Burger",
+      "quantity": 4,
+      "unit_price": "75.80",
+      "amount": "75.80"
+    },
+    {
+      "description": "4 M Fries",
+      "quantity": 4,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "4 M 100Plus",
+      "quantity": 4,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "2 M McC Deluxe",
+      "quantity": 2,
+      "unit_price": "29.00",
+      "amount": "29.00"
+    },
+    {
+      "description": "2 M Coke",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "2 M Fries",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "1 MDS Charge",
+      "quantity": 1,
+      "unit_price": "4.25",
+      "amount": "4.25"
+    }
+  ],
+  "total": "109.05",
+  "tax_amount": "6.17",
+  "service_charge": null
+}

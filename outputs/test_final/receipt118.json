@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "02/01/2018",
+    "address": "NO 290, JALAN AIR PANAS. SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "GLOVE 1200 (PER PAIR)",
+            "quantity": 1,
+            "unit_price": "2.12",
+            "amount": "2.12"
+        }
+    ],
+    "total": "2.12",
+    "tax_amount": "0.12",
+    "service_charge": null
+}

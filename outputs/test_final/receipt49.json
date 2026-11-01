@@ -1,0 +1,59 @@
+{
+    "company": "TIMELESS KITCHENETTE SDN BHD",
+    "date": "2018-03-23",
+    "address": "LOT 50, FLOOR T2, SKY AVENUE GENTING HIGHLANDS PAHANG, 69000 PAHANG MALAYSIA",
+    "tax_number": "0000 6771 0976",
+    "line_items": [
+        {
+            "description": "RIBS PLATTER",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "259.90"
+        },
+        {
+            "description": "NAUGHTY SPARE RIB - FULL SLAB",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "106.90"
+        },
+        {
+            "description": "APPLE - 350ML",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.90"
+        },
+        {
+            "description": "SOUR APPLE MOJITO",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.90"
+        },
+        {
+            "description": "BERRY EASY",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.90"
+        },
+        {
+            "description": "AUST RIB-EYE STEAK",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "74.90"
+        },
+        {
+            "description": "FRUITY GARDEN SALAD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "21.90"
+        },
+        {
+            "description": "HI ASIAN 1+1/2",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "77.80"
+        }
+    ],
+    "total": "593.10",
+    "tax_amount": "33.57",
+    "service_charge": null
+}

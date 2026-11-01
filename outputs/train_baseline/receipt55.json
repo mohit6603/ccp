@@ -1,0 +1,23 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "21 Mar 2018",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "GST REG #000055195584",
+    "line_items": [
+        {
+            "description": "SR I00100000121- Yong Tau Foo (S)",
+            "quantity": 1,
+            "unit_price": "1.60",
+            "amount": "1.60"
+        },
+        {
+            "description": "SR I00100000035- 1 Meat + 3 Vge",
+            "quantity": 1,
+            "unit_price": "7.10",
+            "amount": "7.10"
+        }
+    ],
+    "total": "8.70",
+    "tax_amount": "0.49",
+    "service_charge": null
+}

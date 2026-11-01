@@ -3,7 +3,26 @@
     "date": "06-05-16",
     "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "000306020352",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "WASH MITT 402",
+            "quantity": 1,
+            "unit_price": "4.30",
+            "amount": "4.30"
+        },
+        {
+            "description": "STICKER WS-SB",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        },
+        {
+            "description": "EMERGENCY LIGHT LED716",
+            "quantity": 1,
+            "unit_price": "16.90",
+            "amount": "16.90"
+        }
+    ],
     "total": "26.70",
     "tax_amount": "1.51",
     "service_charge": null

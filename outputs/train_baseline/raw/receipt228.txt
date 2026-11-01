@@ -1,0 +1,17 @@
+{
+  "company": "Anzel Advertising (M) Sdn bhd",
+  "date": "21 March, 2018",
+  "address": "Unit G-6B, Ground Floor, Wisma UDA II, No 21, Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+  "tax_number": "002121732098",
+  "line_items": [
+    {
+      "description": "A4 BW Simili 80gsm @",
+      "quantity": 1.0,
+      "unit_price": "7.00",
+      "amount": "7.00"
+    }
+  ],
+  "total": "7.40",
+  "tax_amount": "0.42",
+  "service_charge": null
+}

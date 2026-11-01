@@ -1,0 +1,9 @@
+field,exact_pct,overall_pct (spaces and punctuation ignored),fuzzy_pct,mean_similarity_when_both_present,label_null,label_value,correct_null,"hallucinated (label null, model gave value)","missed (label has value, model gave null)"
+company,92.43,95.14,96.22,0.988,0,370,0,0,0
+date,98.92,98.92,98.92,0.999,0,370,0,0,0
+address,64.32,87.84,95.14,0.990,0,370,0,0,0
+tax_number,94.59,94.59,94.86,0.995,15,355,15,0,0
+total,98.65,98.65,98.65,0.989,0,370,0,0,0
+tax_amount,98.92,98.92,98.92,0.992,15,355,15,0,0
+service_charge,99.46,99.46,99.46,1.000,353,17,352,0,1
+line_items,75.95,75.95,75.95,,0,370,0,0,1

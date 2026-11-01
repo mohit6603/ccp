@@ -1,0 +1,29 @@
+{
+  "company": "LEMON TREE RESTAURANT",
+  "date": "6/1/2018",
+  "address": "No 3, Jalan Permas 10/8, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+  "tax_number": "001085747200",
+  "line_items": [
+    {
+      "description": "x 205 - Mee Mamek @9.80",
+      "quantity": 1,
+      "unit_price": "9.80",
+      "amount": "9.80"
+    },
+    {
+      "description": "x X1 - SKY JUICE @0.50",
+      "quantity": 1,
+      "unit_price": "0.50",
+      "amount": "0.50"
+    },
+    {
+      "description": "Ice",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "0.00"
+    }
+  ],
+  "total": "10.30",
+  "tax_amount": "0.00",
+  "service_charge": "0.00"
+}

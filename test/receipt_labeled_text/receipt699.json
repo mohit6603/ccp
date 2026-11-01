@@ -12,13 +12,13 @@
         },
         {
             "description": "SEASONSHARD COVER BOOK 3007",
-            "quantity": null,
+            "quantity": 3,
             "unit_price": "4.03",
             "amount": "12.08"
         },
         {
-            "description": "P RWT HARDCOVER FOOLSCAP 300.S 2613B",
-            "quantity": null,
+            "description": "P RWT HARDCOVER FOOLSCAP 300,S 2613B",
+            "quantity": 1,
             "unit_price": "8.37",
             "amount": "8.37"
         },

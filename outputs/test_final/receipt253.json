@@ -1,0 +1,29 @@
+{
+    "company": "YONG CEN ENTERPRISE",
+    "date": "25/04/2017",
+    "address": "8, JALAN'SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR.",
+    "tax_number": "001147881824",
+    "line_items": [
+        {
+            "description": "IKAN BILIS KOPEK A++ 10G",
+            "quantity": 100,
+            "unit_price": "0.25",
+            "amount": "25.00"
+        },
+        {
+            "description": "TEPUNG JAGUNG CAP BINTANG 20X4C",
+            "quantity": 1,
+            "unit_price": "25.00",
+            "amount": "25.00"
+        },
+        {
+            "description": "VITAMAS CARTON",
+            "quantity": 1,
+            "unit_price": "42.50",
+            "amount": "42.50"
+        }
+    ],
+    "total": "94.00",
+    "tax_amount": "1.50",
+    "service_charge": null
+}

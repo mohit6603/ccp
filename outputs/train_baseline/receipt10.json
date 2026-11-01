@@ -1,0 +1,35 @@
+{
+    "company": "Gerbang Alaf Restaurants Sdn Bhd",
+    "date": "18/01/2018",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "2 ChicMcMuffin",
+            "quantity": 2,
+            "unit_price": "11.00",
+            "amount": "22.00"
+        },
+        {
+            "description": "1 M Porridge",
+            "quantity": 1,
+            "unit_price": "5.60",
+            "amount": "5.60"
+        },
+        {
+            "description": "1 BM 2HotCakes",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "1 L Coke",
+            "quantity": 1,
+            "unit_price": "null",
+            "amount": "null"
+        }
+    ],
+    "total": "26.60",
+    "tax_amount": "1.51",
+    "service_charge": null
+}

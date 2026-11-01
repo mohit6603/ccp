@@ -1,0 +1,23 @@
+{
+    "company": "UNIHIKKA INTERNATIONAL SDN BHD",
+    "date": "08 May 2018 18:23",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "9000856195584",
+    "line_items": [
+        {
+            "description": "SR 100100000060-4 Voge",
+            "quantity": 1,
+            "unit_price": "$5.50",
+            "amount": "$5.50"
+        },
+        {
+            "description": "SR 100100000065-Add Meats",
+            "quantity": 2,
+            "unit_price": "$0.90",
+            "amount": "$1.80"
+        }
+    ],
+    "total": "7.30",
+    "tax_amount": "0.41",
+    "service_charge": null
+}

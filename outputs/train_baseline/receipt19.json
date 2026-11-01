@@ -1,0 +1,41 @@
+{
+    "company": "SYL ROASTED DELIGHTS SDN. BHD.",
+    "date": "06/03/2018",
+    "address": "75, JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ",
+    "tax_number": "002046390272",
+    "line_items": [
+        {
+            "description": "(T02) BRAISED PORK RICE WITH PEANUT",
+            "quantity": "2.0",
+            "unit_price": "7.00",
+            "amount": "14.00"
+        },
+        {
+            "description": "(T02) ROAST PORK - SMALL",
+            "quantity": "1.0",
+            "unit_price": "12.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "(V02) SOUR & SPICY MUSTARD",
+            "quantity": "1.0",
+            "unit_price": "12.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "(B03) JASMINE GREEN TEA(HOT)",
+            "quantity": "2.0",
+            "unit_price": "2.30",
+            "amount": "4.60"
+        },
+        {
+            "description": "(R05) ROAST PORK + ROAST CHICKEN RICE",
+            "quantity": "1.0",
+            "unit_price": "11.90",
+            "amount": "11.90"
+        }
+    ],
+    "total": "54.50",
+    "tax_amount": "3.08",
+    "service_charge": null
+}

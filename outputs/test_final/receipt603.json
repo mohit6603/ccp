@@ -1,0 +1,23 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "02/05/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "BATU SIMEN",
+            "quantity": 1200,
+            "unit_price": "0.24",
+            "amount": "292.56"
+        },
+        {
+            "description": "PASIR HALUS (D)",
+            "quantity": 1,
+            "unit_price": "68.90",
+            "amount": "68.90"
+        }
+    ],
+    "total": "361.46",
+    "tax_amount": "20.46",
+    "service_charge": null
+}

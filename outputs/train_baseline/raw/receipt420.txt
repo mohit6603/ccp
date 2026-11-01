@@ -1,0 +1,41 @@
+{
+  "company": "Eco-Shop Marketing Sdn Bhd",
+  "date": "26/02/2018",
+  "address": "Lot F1-01, 6, Jalan 8/27A, Seksyen 5 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.",
+  "tax_number": "000313901056",
+  "line_items": [
+    {
+      "description": "JT5501 - CHOPSTICK HOLDER 72/1",
+      "quantity": 1,
+      "unit_price": "2.33",
+      "amount": "2.33"
+    },
+    {
+      "description": "PLIERS 6\" 110G 120PCS(PELAYAR",
+      "quantity": 1,
+      "unit_price": "2.33",
+      "amount": "2.33"
+    },
+    {
+      "description": "771-2 MULTI PURPOSE FOOD TONGS",
+      "quantity": 3,
+      "unit_price": "2.33",
+      "amount": "6.99"
+    },
+    {
+      "description": "LS301 SCALE SCRAPER -LARGE 360",
+      "quantity": 1,
+      "unit_price": "2.33",
+      "amount": "2.33"
+    },
+    {
+      "description": "PVC WALL. PLUG 4'S 240/10-(PLUG",
+      "quantity": 1,
+      "unit_price": "2.33",
+      "amount": "2.33"
+    }
+  ],
+  "total": "16.30",
+  "tax_amount": "0.91",
+  "service_charge": null
+}

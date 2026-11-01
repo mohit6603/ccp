@@ -1,0 +1,47 @@
+{
+    "company": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "date": "21-03-2018",
+    "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM,40150",
+    "tax_number": "000639090688",
+    "line_items": [
+        {
+            "description": "FRUIT (FP)",
+            "quantity": 1,
+            "unit_price": "2.99",
+            "amount": "2.99"
+        },
+        {
+            "description": "NANGKA 1 PINGGAN",
+            "quantity": 1,
+            "unit_price": "2.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "KIMBALL TOMATO PUREE 430G",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "KIMBALL TOMATO PUREE 430G",
+            "quantity": 1,
+            "unit_price": "3.80",
+            "amount": "3.80"
+        },
+        {
+            "description": "URD MUSHROOM 425G",
+            "quantity": 1,
+            "unit_price": "2.80",
+            "amount": "2.80"
+        },
+        {
+            "description": "YOUNG CORN 425G (MS)",
+            "quantity": 1,
+            "unit_price": "2.90",
+            "amount": "2.90"
+        }
+    ],
+    "total": "18.30",
+    "tax_amount": "0.76",
+    "service_charge": null
+}

@@ -1,0 +1,53 @@
+{
+  "company": "Golden Arches Restaurants Sdn Bhd",
+  "date": "25/12/2016",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "tax_number": "000504664064",
+  "line_items": [
+    {
+      "description": "2 L Filet0Fish",
+      "quantity": 2,
+      "unit_price": "10.59",
+      "amount": "21.18"
+    },
+    {
+      "description": "2 L Coke",
+      "quantity": 2,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "NO Ice",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "2 L Fries",
+      "quantity": 2,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "1 6Nuggets",
+      "quantity": 1,
+      "unit_price": "7.10",
+      "amount": "7.10"
+    },
+    {
+      "description": "1 Barbecue Sauce",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "1 Small Cone",
+      "quantity": 1,
+      "unit_price": "1.00",
+      "amount": "1.00"
+    }
+  ],
+  "total": "29.30",
+  "tax_amount": "1.66",
+  "service_charge": null
+}

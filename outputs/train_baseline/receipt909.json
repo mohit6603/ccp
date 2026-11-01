@@ -1,0 +1,41 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "11 May 2018 18:54",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "GST REG #00085-55584",
+    "line_items": [
+        {
+            "description": "SR 100100000056-Fried Noodle (S)",
+            "quantity": 1,
+            "unit_price": "$2.00",
+            "amount": "$2.00"
+        },
+        {
+            "description": "SR 100100000004-Egg",
+            "quantity": 1,
+            "unit_price": "$1.10",
+            "amount": "$1.10"
+        },
+        {
+            "description": "SR 100100000015-Vegetable",
+            "quantity": 1,
+            "unit_price": "$1.10",
+            "amount": "$1.10"
+        },
+        {
+            "description": "SR 100100000001-Chicken",
+            "quantity": 1,
+            "unit_price": "$2.70",
+            "amount": "$2.70"
+        },
+        {
+            "description": "SR 100100000065-Add Meats",
+            "quantity": 1,
+            "unit_price": "$0.90",
+            "amount": "$0.90"
+        }
+    ],
+    "total": "7.80",
+    "tax_amount": "0.44",
+    "service_charge": null
+}

@@ -1,0 +1,53 @@
+{
+  "company": "SIZZLING STONEGRILL",
+  "date": "26/05/2018",
+  "address": "Lot S25, AEON Tebrau City Jusco No 1, Jln Desa Tebrau, Tmn Desa Tebrau, 81100 Johor Bahru, Johor",
+  "tax_number": "0013 7941 8112",
+  "line_items": [
+    {
+      "description": "07 CREAM OF MUSHROOM SOUP",
+      "quantity": 2,
+      "unit_price": "6.10",
+      "amount": "12.20"
+    },
+    {
+      "description": "101 NOODLE SOUP O.T.ROCK",
+      "quantity": 1,
+      "unit_price": "12.90",
+      "amount": "12.90"
+    },
+    {
+      "description": "107 SPICY T/S SPAGHETTI",
+      "quantity": 1,
+      "unit_price": "14.90",
+      "amount": "14.90"
+    },
+    {
+      "description": "40 SIRLOIN STEAK",
+      "quantity": 1,
+      "unit_price": "34.90",
+      "amount": "34.90"
+    },
+    {
+      "description": "51 GRILLED MARINATED",
+      "quantity": 1,
+      "unit_price": "18.90",
+      "amount": "18.90"
+    },
+    {
+      "description": "54 GRILLED CHICKEN CHOP",
+      "quantity": 1,
+      "unit_price": "18.90",
+      "amount": "18.90"
+    },
+    {
+      "description": "99 ICED LEMON TEA",
+      "quantity": 1,
+      "unit_price": "6.90",
+      "amount": "6.90"
+    }
+  ],
+  "total": "164.80",
+  "tax_amount": "9.31",
+  "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "MUN HENG ELECTRICAL & HARDWARE SUPPLY",
+    "date": "01/02/2018",
+    "address": "No.52, Jalan Bulan U5/BT, Bandar Pinggiran Subang, Sungai Buloh, 40150 Shah Alam, Sel.",
+    "tax_number": "000372871168",
+    "line_items": [
+        {
+            "description": "2% WHITE SPRAY",
+            "quantity": 1.0,
+            "unit_price": "7.00",
+            "amount": "7.00"
+        }
+    ],
+    "total": "7.00",
+    "tax_amount": "0.40",
+    "service_charge": null
+}

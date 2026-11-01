@@ -1,0 +1,23 @@
+{
+  "company": "baskinBRobbins",
+  "date": "16/02/2018",
+  "address": "A-16-1, Tower A, Northpoint Office, Mid Valley City, No1, Medan Syed Putra Utara Kuala Lumpur Malaysia",
+  "tax_number": "001513148416",
+  "line_items": [
+    {
+      "description": "Double Rg. Cup",
+      "quantity": 1,
+      "unit_price": "20.00",
+      "amount": "20.00"
+    },
+    {
+      "description": "Colour Rice",
+      "quantity": 1,
+      "unit_price": "1.50",
+      "amount": "1.50"
+    }
+  ],
+  "total": "21.50",
+  "tax_amount": "1.22",
+  "service_charge": null
+}

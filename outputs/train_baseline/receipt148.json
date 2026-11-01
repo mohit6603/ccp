@@ -1,0 +1,23 @@
+{
+    "company": "HAPPY SNACKS ENTERPRISE",
+    "date": "20/03/2018",
+    "address": "19 & 19A , JALAN MERANTI 2A , SEKSYEI BANDAR BARU BATANG KALI, 44300",
+    "tax_number": "000129863680",
+    "line_items": [
+        {
+            "description": "SK  9556173380636\n'350PCS FRUIT PLUS - APPLE",
+            "quantity": 1,
+            "unit_price": "14.31",
+            "amount": "14.31"
+        },
+        {
+            "description": "SR  9556296307411\n300PCS LOT100 CANDY - ASSORTED",
+            "quantity": 1,
+            "unit_price": "12.51",
+            "amount": "12.51"
+        }
+    ],
+    "total": "26.82",
+    "tax_amount": "1.52",
+    "service_charge": null
+}

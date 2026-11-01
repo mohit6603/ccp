@@ -1,0 +1,29 @@
+{
+  "company": "IMAGE PRINTEC (M) SDN BHD",
+  "date": "23/02/2018",
+  "address": "No. 12A-G, Jalan Wangsa Delima 11, D'wangsa Wangsa Maju, 53300 Kuala Lumpur.",
+  "tax_number": "001241862144",
+  "line_items": [
+    {
+      "description": "2 COLOR COPY A4",
+      "quantity": 2,
+      "unit_price": "1.00",
+      "amount": "2.00"
+    },
+    {
+      "description": "2 PHOTOCOPY A4",
+      "quantity": 2,
+      "unit_price": "0.10",
+      "amount": "0.20"
+    },
+    {
+      "description": "2 LAMINATE A4",
+      "quantity": 2,
+      "unit_price": "2.50",
+      "amount": "5.00"
+    }
+  ],
+  "total": "7.65",
+  "tax_amount": "0.43",
+  "service_charge": null
+}

@@ -1,0 +1,41 @@
+{
+  "company": "BREWERY TAP",
+  "date": "30/03/2018",
+  "address": "Avtivo Plaza,Lot B-F-11, Block B No1,Jalan PJU 9/1,D'sara Avenue Bandar Sri D'sara, 52000 KL",
+  "tax_number": "002108047360",
+  "line_items": [
+    {
+      "description": "Tiger 2 Bucket - HH",
+      "quantity": 1,
+      "unit_price": "95.00",
+      "amount": "95.00"
+    },
+    {
+      "description": "Tiger Bucket- HH",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": "95.00"
+    },
+    {
+      "description": "Chicken wings",
+      "quantity": 1,
+      "unit_price": "22.00",
+      "amount": "22.00"
+    },
+    {
+      "description": "French Fries",
+      "quantity": 1,
+      "unit_price": "12.00",
+      "amount": "12.00"
+    },
+    {
+      "description": "Tiger Bucket- HH",
+      "quantity": 1,
+      "unit_price": "50.00",
+      "amount": "50.00"
+    }
+  ],
+  "total": "189.75",
+  "tax_amount": "10.74",
+  "service_charge": null
+}

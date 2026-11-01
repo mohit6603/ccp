@@ -3,7 +3,14 @@
     "date": "10/10/2017",
     "address": "13-1, JALAN PJU 5/10, DATARAN SUNWAY, KOTA DAMANSARA, 47810, PETALING JAYA, SELANGOR",
     "tax_number": "000460664832",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "MAJESTA HSS JOBBER DRILLS 3.5MM",
+            "quantity": 2,
+            "unit_price": "4.00",
+            "amount": "8.00"
+        }
+    ],
     "total": "8.00",
     "tax_amount": "0.45",
     "service_charge": null

@@ -1,0 +1,1 @@
+{"company": "WESTERN 'EASTERN' STATIONERY SDN. BHD", "date": "16-04-2018", "address": "42-46, JLN SULTAN AZLAN SHAH 51200 KUALA LUMPUR", "tax_number": "000517095424", "line_items": [{"description": "CLR P.S A4/A3", "quantity": 1, "unit_price": null, "amount": "5.00"}], "total": "5.00", "tax_amount": "0.28", "service_charge": null}

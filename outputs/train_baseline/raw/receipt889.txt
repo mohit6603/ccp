@@ -1,0 +1,23 @@
+{
+  "company": "AEON CO. (M) BHD",
+  "date": "09/07/2017",
+  "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+  "tax_number": "002017394688",
+  "line_items": [
+    {
+      "description": "COLD WATER BOTT",
+      "quantity": 4,
+      "unit_price": "5.90",
+      "amount": "23.60"
+    },
+    {
+      "description": "PLASTICS BAG",
+      "quantity": 1,
+      "unit_price": "0.20",
+      "amount": "0.20"
+    }
+  ],
+  "total": "23.80",
+  "tax_amount": "1.33",
+  "service_charge": null
+}

@@ -1,0 +1,47 @@
+{
+    "company": "SUSHI MENTAI - MAHKOTA CHERAS",
+    "date": "31-03-2018",
+    "address": "1-1&2 GROUND FLOOR, JLN TEMENGGUNG 13/9, 43200 CHERAS SELANGOR.",
+    "tax_number": "001375580160",
+    "line_items": [
+        {
+            "description": "B1 Green Tea",
+            "quantity": 2,
+            "unit_price": "1.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "N8 Shiro Ramen",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "R9 Unagi Don",
+            "quantity": 1,
+            "unit_price": "19.80",
+            "amount": "19.80"
+        },
+        {
+            "description": "F8 Tori Karaage",
+            "quantity": 1,
+            "unit_price": "8.80",
+            "amount": "8.80"
+        },
+        {
+            "description": "SB01 Sushi Yellow",
+            "quantity": 4,
+            "unit_price": "1.80",
+            "amount": "7.20"
+        },
+        {
+            "description": "SB02 Sushi Red",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        }
+    ],
+    "total": "65.55",
+    "tax_amount": "3.71",
+    "service_charge": "5.62"
+}

@@ -3,7 +3,74 @@
     "date": "09/03/2018",
     "address": "NO.59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU",
     "tax_number": "000800589824",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "14\" TRU-CUT CUTTING DISC (1 PC)",
+            "quantity": 1,
+            "unit_price": "170.00",
+            "amount": "170.00"
+        },
+        {
+            "description": "KOBELCO G-12#(2.6MM) WELDING",
+            "quantity": 1,
+            "unit_price": "35.00",
+            "amount": "35.00"
+        },
+        {
+            "description": "CS 3\" (750) PAINT BRUSH",
+            "quantity": 2,
+            "unit_price": "7.50",
+            "amount": "15.00"
+        },
+        {
+            "description": "CS 2\" (750) PAINT BRUSH",
+            "quantity": 2,
+            "unit_price": "5.50",
+            "amount": "11.00"
+        },
+        {
+            "description": "CS 1-1/2\" (750) PAINT BRUSH",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        },
+        {
+            "description": "2\" LAMBWOOL YANDA ROLLER REFIL - 20 PCS",
+            "quantity": 1,
+            "unit_price": "25.00",
+            "amount": "25.00"
+        },
+        {
+            "description": "DIAMOND COTTON GLOVE B104",
+            "quantity": 1,
+            "unit_price": "6.00",
+            "amount": "6.00"
+        },
+        {
+            "description": "10# WELDING GLASS (BLACK) 1PCS",
+            "quantity": 5,
+            "unit_price": "1.00",
+            "amount": "5.00"
+        },
+        {
+            "description": "WELDING GLASS (CLEAR) 1 PC",
+            "quantity": 10,
+            "unit_price": "0.30",
+            "amount": "3.00"
+        },
+        {
+            "description": "AEC BROOM NO.5110# C/W IRON HANDLE",
+            "quantity": 2,
+            "unit_price": "8.00",
+            "amount": "16.00"
+        },
+        {
+            "description": "S/STEEL DUST PAN L C/W HANDLE 23 X 28 X",
+            "quantity": 2,
+            "unit_price": "12.00",
+            "amount": "24.00"
+        }
+    ],
     "total": "332.30",
     "tax_amount": "18.81",
     "service_charge": null

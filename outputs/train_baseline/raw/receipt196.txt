@@ -1,0 +1,35 @@
+{
+  "company": "AEON CO. (M) BHD",
+  "date": "12/03/2018",
+  "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+  "tax_number": "002017394683",
+  "line_items": [
+    {
+      "description": "PLASTICS BAG",
+      "quantity": 1,
+      "unit_price": "0.20",
+      "amount": "0.20"
+    },
+    {
+      "description": "WC W/O H&F",
+      "quantity": 1,
+      "unit_price": "13.94",
+      "amount": "13.94"
+    },
+    {
+      "description": "WC W/O H&F",
+      "quantity": 1,
+      "unit_price": "14.81",
+      "amount": "14.81"
+    },
+    {
+      "description": "WC W/O H&F",
+      "quantity": 1,
+      "unit_price": "13.53",
+      "amount": "13.53"
+    }
+  ],
+  "total": "42.47",
+  "tax_amount": "0.01",
+  "service_charge": null
+}

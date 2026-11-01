@@ -1,0 +1,149 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "23/12/17",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "Shoe White SW1101*2S",
+            "quantity": null,
+            "unit_price": "4.29",
+            "amount": "4.29"
+        },
+        {
+            "description": "MR C.TAPE REF WH624R-",
+            "quantity": null,
+            "unit_price": "31.99",
+            "amount": "31.99"
+        },
+        {
+            "description": "KIT KAT 2F (PM) 17G",
+            "quantity": null,
+            "unit_price": "1.35",
+            "amount": "1.35"
+        },
+        {
+            "description": "Oxford-Coin Box",
+            "quantity": null,
+            "unit_price": null,
+            "amount": null
+        },
+        {
+            "description": "BTS RM10 Voucher Issu",
+            "quantity": null,
+            "unit_price": null,
+            "amount": null
+        },
+        {
+            "description": "FC GRIP BPO.5 BLK PK",
+            "quantity": null,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "Member Discount",
+            "quantity": null,
+            "unit_price": "-0.42",
+            "amount": "-0.42"
+        },
+        {
+            "description": "FC GRIP BPO.5 BLU PK",
+            "quantity": null,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "Member Discount",
+            "quantity": null,
+            "unit_price": "-0.42",
+            "amount": "-0.42"
+        },
+        {
+            "description": "3M GlueStick 7gm 4's",
+            "quantity": null,
+            "unit_price": "10.59",
+            "amount": "10.59"
+        },
+        {
+            "description": "STAT-PROMO SPECIAL",
+            "quantity": null,
+            "unit_price": "-3.69",
+            "amount": "-3.69"
+        },
+        {
+            "description": "PU F/C B/L A4 450's",
+            "quantity": null,
+            "unit_price": "16.99",
+            "amount": "16.99"
+        },
+        {
+            "description": "STAT-PROMO SPECIAL",
+            "quantity": null,
+            "unit_price": "-2.99",
+            "amount": "-2.99"
+        },
+        {
+            "description": "PLUS stapler set 010E",
+            "quantity": null,
+            "unit_price": "8.88",
+            "amount": "8.88"
+        },
+        {
+            "description": "STAT-PROMO SPECIAL",
+            "quantity": null,
+            "unit_price": "-3.89",
+            "amount": "-3.89"
+        },
+        {
+            "description": "FC EXM.ERS 4S 187016",
+            "quantity": null,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "STAT-PROMO SPECIAL",
+            "quantity": null,
+            "unit_price": "-0.91",
+            "amount": "-0.91"
+        },
+        {
+            "description": "S4 SUPER S M AKT SPM [BK]",
+            "quantity": null,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "Rev-BTS Promotion",
+            "quantity": null,
+            "unit_price": "-1.49",
+            "amount": "-1.49"
+        },
+        {
+            "description": "SUCCESS SPM ADD MATHS[BK]",
+            "quantity": null,
+            "unit_price": "37.00",
+            "amount": "37.00"
+        },
+        {
+            "description": "Rev-BTS Promotion",
+            "quantity": null,
+            "unit_price": "-7.40",
+            "amount": "-7.40"
+        },
+        {
+            "description": "SUCCESS SPM SCI [BK]",
+            "quantity": null,
+            "unit_price": "35.70",
+            "amount": "35.70"
+        },
+        {
+            "description": "Rev-BTS Promotion",
+            "quantity": null,
+            "unit_price": "-7.14",
+            "amount": "-7.14"
+        }
+    ],
+    "total": "140.65",
+    "tax_amount": "4.18",
+    "service_charge": null
+}

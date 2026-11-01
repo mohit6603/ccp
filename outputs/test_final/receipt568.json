@@ -1,0 +1,47 @@
+{
+    "company": "MIZU MENTAI SDN. BHD.",
+    "date": "04-06-2018",
+    "address": "NO: 1-&2 GROUND FLOOR, JLN TEMENGGUNG 13/9, 43200 CHERAS SELANGOR.",
+    "tax_number": "001375580160",
+    "line_items": [
+        {
+            "description": "GREEN TEA",
+            "quantity": 3,
+            "unit_price": "1.00",
+            "amount": "3.00"
+        },
+        {
+            "description": "UNAGI TEMAKI",
+            "quantity": 1,
+            "unit_price": "5.80",
+            "amount": "5.80"
+        },
+        {
+            "description": "TORI TERIYAKI DON",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "SHIRO RAMEN",
+            "quantity": 2,
+            "unit_price": "12.80",
+            "amount": "25.60"
+        },
+        {
+            "description": "SUSHI YELLOW",
+            "quantity": 5,
+            "unit_price": "1.80",
+            "amount": "9.00"
+        },
+        {
+            "description": "SUSHI RED",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        }
+    ],
+    "total": "68.00",
+    "tax_amount": "0.00",
+    "service_charge": "6.18"
+}

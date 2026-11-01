@@ -1,0 +1,17 @@
+{
+    "company": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+    "date": "07/07/17",
+    "address": "LOT B-005-006, BASEMENT LEVEL 1 THE STARLING MALL JALAN SS21/60, DAMANSARA UTAMA.",
+    "tax_number": "000899874816",
+    "line_items": [
+        {
+            "description": "OPTICARE 500X3",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "13.78"
+        }
+    ],
+    "total": "13.78",
+    "tax_amount": "0.78",
+    "service_charge": null
+}

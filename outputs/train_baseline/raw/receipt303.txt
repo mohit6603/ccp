@@ -1,0 +1,77 @@
+{
+  "company": "YHM Aeon Tebrau City",
+  "date": "17/04/2018",
+  "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+  "tax_number": "002105827328",
+  "line_items": [
+    {
+      "description": "Green Tea",
+      "quantity": 2,
+      "unit_price": "1.50",
+      "amount": "3.00"
+    },
+    {
+      "description": "Chikkuwa Tempura",
+      "quantity": 1,
+      "unit_price": "3.80",
+      "amount": "3.80"
+    },
+    {
+      "description": "Karaage",
+      "quantity": 1,
+      "unit_price": "3.80",
+      "amount": "3.80"
+    },
+    {
+      "description": "Otm Spicy Yakiniku Bowl R",
+      "quantity": 1,
+      "unit_price": "16.80",
+      "amount": "16.80"
+    },
+    {
+      "description": "Otm Spicy Teri Chicken Bowl R",
+      "quantity": 1,
+      "unit_price": "18.80",
+      "amount": "18.80"
+    },
+    {
+      "description": "Otm Tori Katsu Set",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "Katsu Sauce",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "Miso Soup",
+      "quantity": 1,
+      "unit_price": "18.80",
+      "amount": "18.80"
+    },
+    {
+      "description": "Otm Tori Katsu Set",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "Taru Taru Sauce",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "description": "Makame Soup",
+      "quantity": 1,
+      "unit_price": "0.00",
+      "amount": "0.00"
+    }
+  ],
+  "total": "81.80",
+  "tax_amount": "4.62",
+  "service_charge": null
+}

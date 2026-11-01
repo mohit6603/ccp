@@ -1,13 +1,13 @@
 {
-    "company": "BEMED (SP) SDN BHD",
+    "company": "BEMED (SP) SDN. BHD.",
     "date": "02/JAN/2017",
     "address": "NO.49, JALAN DINAR G U3/G, SUBANG PERDANA, 40150 SHAH ALAM, SELANGOR D.E.",
     "tax_number": "001734164480",
     "line_items": [
         {
             "description": "ALPHA LIPID LIFE LINE 450MG 450G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "165.00",
             "amount": "165"
         }
     ],

@@ -23,7 +23,7 @@
             "amount": "5.94"
         },
         {
-            "description": "DEITCIA-B/SCOTCH",
+            "description": "DELICIA-B/SCOTCH",
             "quantity": 2,
             "unit_price": "3.72",
             "amount": "7.44"
@@ -36,6 +36,6 @@
         }
     ],
     "total": "5.90",
-    "tax_amount": null,
+    "tax_amount": "0.88",
     "service_charge": null
 }

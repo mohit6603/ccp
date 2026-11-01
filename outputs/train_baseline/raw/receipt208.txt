@@ -1,0 +1,17 @@
+{
+  "company": "Harvey Norman M'sia Paradigm Mall",
+  "date": "11.02.18",
+  "address": "Elitetrax Marketing Sdn Bhd (616227-D) Lot 1F-01&02,1st Flr,Paradigm Mall, No. 1 Jalan SS 7/26A, Kelana Jaya, 47301 Petaling Jaya",
+  "tax_number": "000551006208",
+  "line_items": [
+    {
+      "description": "CANON CART PG-47BK",
+      "quantity": 2,
+      "unit_price": "20.00",
+      "amount": "60.00"
+    }
+  ],
+  "total": "60.00",
+  "tax_amount": "3.40",
+  "service_charge": null
+}

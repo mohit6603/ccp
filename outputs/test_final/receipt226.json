@@ -1,0 +1,17 @@
+{
+    "company": "TONYMOLY VIVA CITY",
+    "date": "29/03/2018",
+    "address": "UNIT L1-044B, VIVACITY MEGAMALL, JALAN WAN ALWI, 93350 KUCHING, SARAWAK.",
+    "tax_number": "000349356032",
+    "line_items": [
+        {
+            "description": "PURE ECO SNAIL MOISTURE GEL 300 [SR]",
+            "quantity": 1,
+            "unit_price": "39.90",
+            "amount": "39.90"
+        }
+    ],
+    "total": "39.90",
+    "tax_amount": "2.26",
+    "service_charge": null
+}

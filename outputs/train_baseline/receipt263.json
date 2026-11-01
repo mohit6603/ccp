@@ -1,0 +1,17 @@
+{
+    "company": "Broadview Marketing Sdn Bhd",
+    "date": "15/05/2017",
+    "address": "No. 9-G, Jalan Dinar D U3/D Taman Subang Perdana, Sek.U3, 40150 Shah Alam, Selangor D.E.",
+    "tax_number": "000203587584",
+    "line_items": [
+        {
+            "description": "SR# HM B45 10 X 16 (500gm)",
+            "quantity": 1,
+            "unit_price": "4.70",
+            "amount": "4.70"
+        }
+    ],
+    "total": "4.70",
+    "tax_amount": "0.27",
+    "service_charge": null
+}

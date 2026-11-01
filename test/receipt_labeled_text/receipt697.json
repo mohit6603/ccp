@@ -1,9 +1,22 @@
 {
     "company": "ASO ELECTRICAL TRADING SDN BHD",
     "date": "13/10/2017",
-    "address": "NO 31G, JALAN SEPADU C 25/C. SECTION 25, TAMAN INDUSTRIES. AXIS 40400 SHAH ALAM, SELANGOR",
+    "address": "NO 31G, JALAN SEPADU C 25/C, SECTION 25, TAMAN INDUSTRIES, AXIS 40400 SHAH ALAM, SELANGOR",
     "tax_number": "000683900928",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "CABLE LUG 50MM(M10)",
+            "quantity": 10,
+            "unit_price": "1.51",
+            "amount": "15.12"
+        },
+        {
+            "description": "CRIMPING TOOL, HS-38, 5.5MM - 38MM",
+            "quantity": 1,
+            "unit_price": "79.50",
+            "amount": "79.50"
+        }
+    ],
     "total": "94.60",
     "tax_amount": "5.36",
     "service_charge": null

@@ -7,19 +7,19 @@
         {
             "description": "1 MEAT + 2 VEGE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "6.00",
             "amount": "6.00"
         },
         {
             "description": "IMPORTED VEGGIES",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "1.60",
             "amount": "1.60"
         },
         {
             "description": "VEGGIES",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "1.30",
             "amount": "1.30"
         }
     ],

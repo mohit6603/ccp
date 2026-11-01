@@ -1,0 +1,17 @@
+{
+  "company": "Yam Fresh",
+  "date": "2016-07-31",
+  "address": "No.145G, Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+  "tax_number": "001817907200",
+  "line_items": [
+    {
+      "description": "Q02 Oyster Mee Sua",
+      "quantity": 1,
+      "unit_price": "7.50",
+      "amount": "7.50"
+    }
+  ],
+  "total": "7.95",
+  "tax_amount": "0.45",
+  "service_charge": null
+}

@@ -6,8 +6,8 @@
     "line_items": [
         {
             "description": "CHAMPIGNONS MUSHROOMS 425G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 24,
+            "unit_price": "2.58",
             "amount": "61.99"
         }
     ],

@@ -1,0 +1,17 @@
+{
+    "company": "FILL IN ENTERPRISE",
+    "date": "03/06/18",
+    "address": "Lot 2407, Jalan Dua 52100 Kepong Baru, KL",
+    "tax_number": "001229619200",
+    "line_items": [
+        {
+            "description": "45.45 litre Pump # 12",
+            "quantity": 45.45,
+            "unit_price": "2.200",
+            "amount": "100.00"
+        }
+    ],
+    "total": "100.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

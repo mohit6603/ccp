@@ -1,0 +1,23 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "07-02-18",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1132-PJ SS6",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "2471 888 LYCHEES IN SYRUP 5",
+      "quantity": 5,
+      "unit_price": "3.38",
+      "amount": "10.14"
+    },
+    {
+      "description": "270 CSR GULA 12*1KG^",
+      "quantity": 1,
+      "unit_price": "35.20",
+      "amount": "35.20"
+    }
+  ],
+  "total": "45.35",
+  "tax_amount": "0.57",
+  "service_charge": null
+}

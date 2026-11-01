@@ -1,0 +1,17 @@
+{
+    "company": "BHPetrol Permas Jaya 2",
+    "date": "03-04-2018",
+    "address": "LOT PTD 101051 Jalan Permas 10/10 81750 Masai, Johor",
+    "tax_number": null,
+    "line_items": [
+        {
+            "description": "PPF",
+            "quantity": 50,
+            "unit_price": "1.000",
+            "amount": "50.00"
+        }
+    ],
+    "total": "50.00",
+    "tax_amount": null,
+    "service_charge": null
+}

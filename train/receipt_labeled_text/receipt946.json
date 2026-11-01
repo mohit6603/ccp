@@ -3,7 +3,26 @@
     "date": "03 JUN 18",
     "address": "LOT NO R134,GIANT HYPERMARKET PLENTONG NO3, JALAN MASAI LAMA 81750 MASAI. JOHOR BAHRU",
     "tax_number": "000750002176",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "SN2 SOUP PAN MEE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "ST8",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.97"
+        },
+        {
+            "description": "VA9 FRENCH FRIES BKT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.15"
+        }
+    ],
     "total": "28.00",
     "tax_amount": "0.00",
     "service_charge": "2.55"

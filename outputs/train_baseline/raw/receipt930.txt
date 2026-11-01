@@ -1,0 +1,17 @@
+{
+  "company": "SYARIKAT KAM LAI SEONG SDN BHD (Co",
+  "date": "08-03-2018",
+  "address": "NO. 1442, JALAN SK 11/5, SERI KEMBANGAN 43300 SELANGOR",
+  "tax_number": "001632722944",
+  "line_items": [
+    {
+      "description": "5lt Nippon Zinc Chromate",
+      "quantity": 2,
+      "unit_price": "95.00",
+      "amount": "190.00"
+    }
+  ],
+  "total": "190.00",
+  "tax_amount": "10.75",
+  "service_charge": null
+}

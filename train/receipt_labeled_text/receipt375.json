@@ -3,7 +3,20 @@
     "date": "06-04-16",
     "address": "LOT 1851 -A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
     "tax_number": "000306020352",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "MULTI PURPOSE TRAYW/HANDLE E-1311(EC",
+            "quantity": 1,
+            "unit_price": "5.90",
+            "amount": "5.90"
+        },
+        {
+            "description": "TRANSPARENT PROTECTOR PY11",
+            "quantity": 1,
+            "unit_price": "2.70",
+            "amount": "2.70"
+        }
+    ],
     "total": "8.60",
     "tax_amount": "0.49",
     "service_charge": null

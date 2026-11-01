@@ -1,0 +1,23 @@
+{
+    "company": "PETRON BKT LANJAN SB",
+    "date": "01/02/2018",
+    "address": "KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH 47000 SUNGAI BUL",
+    "tax_number": "001210736640",
+    "line_items": [
+        {
+            "description": "DOUBLE ,MINT TE",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "3.00"
+        },
+        {
+            "description": "SANDWICH VANILL",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.90"
+        }
+    ],
+    "total": "4.90",
+    "tax_amount": "0.28",
+    "service_charge": null
+}

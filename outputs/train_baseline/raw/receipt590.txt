@@ -1,0 +1,17 @@
+{
+  "company": "RESTAURANT JIAWEI",
+  "date": "11/5/2018",
+  "address": "13, JLN TASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI 57000 KL",
+  "tax_number": "002693074-K",
+  "line_items": [
+    {
+      "description": "Butter Cream Chicken Rice",
+      "quantity": 3,
+      "unit_price": "9.00",
+      "amount": "2"
+    }
+  ],
+  "total": "27.00",
+  "tax_amount": "0.00",
+  "service_charge": "0.00"
+}

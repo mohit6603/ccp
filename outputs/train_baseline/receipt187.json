@@ -1,0 +1,41 @@
+{
+    "company": "SUSHI MENTAI - PANDAN INDAH",
+    "date": "09-04-2018",
+    "address": "NO. 9-G, JALAN PERUBATAN 2, PANDAN INDAH, 55100 KUALA LUMPUR.",
+    "tax_number": "000897208320",
+    "line_items": [
+        {
+            "description": "Tori Teriyaki Don",
+            "quantity": 1,
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "Tako Ball",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "Sushi 1.80",
+            "quantity": 4,
+            "unit_price": "1.80",
+            "amount": "7.20"
+        },
+        {
+            "description": "Sushi 2.80",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        },
+        {
+            "description": "Green Tea",
+            "quantity": 1,
+            "unit_price": "1.00",
+            "amount": "1.00"
+        }
+    ],
+    "total": "31.00",
+    "tax_amount": "1.76",
+    "service_charge": "2.66"
+}

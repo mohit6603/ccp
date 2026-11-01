@@ -5,13 +5,13 @@
     "tax_number": "000181747712",
     "line_items": [
         {
-            "description": "MAM PRAI GULA PASIR 1K",
+            "description": "MSM PRAI GULA PASIR 1K",
             "quantity": 8,
             "unit_price": "2.95",
             "amount": "23.60"
         }
     ],
     "total": "23.60",
-    "tax_amount": null,
+    "tax_amount": "0.00",
     "service_charge": null
 }

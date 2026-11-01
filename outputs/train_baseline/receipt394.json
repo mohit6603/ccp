@@ -1,0 +1,41 @@
+{
+    "company": "A PIE THING FOUR QUARTERS SDN BHD (1079369-P)",
+    "date": "06/07/16",
+    "address": "No.128G JLN SS21/35 DAMANSARA UTAMA PETALING JAYA 47400 SELANGOR",
+    "tax_number": "001716617216",
+    "line_items": [
+        {
+            "description": "Smores Pie",
+            "quantity": 1,
+            "unit_price": "10.50",
+            "amount": "10.50"
+        },
+        {
+            "description": "Chocolate Mint Pie",
+            "quantity": 1,
+            "unit_price": "12.50",
+            "amount": "12.50"
+        },
+        {
+            "description": "The Mashacre + Soda",
+            "quantity": 1,
+            "unit_price": "20.90",
+            "amount": "20.90"
+        },
+        {
+            "description": "SET: Chicken+Mushroom P",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        },
+        {
+            "description": "SET: Lemon Lime Soda",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "43.90",
+    "tax_amount": "2.48",
+    "service_charge": null
+}

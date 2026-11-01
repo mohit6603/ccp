@@ -1,0 +1,23 @@
+{
+    "company": "IDEAL MENU GROUP SDN BHD",
+    "date": "10/06/2018",
+    "address": "31,31A, JALAN HANG TUAH 9, TAMAN SKUDAI BARU, 81300 SKUDAI, JOHOR",
+    "tax_number": "001707421698",
+    "line_items": [
+        {
+            "description": "AT LO BAK RICE - SET",
+            "quantity": "1",
+            "unit_price": "12.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "BUBBLE GREEN TEA",
+            "quantity": "1",
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
+    "total": "12.00",
+    "tax_amount": "0.00",
+    "service_charge": "0.00"
+}

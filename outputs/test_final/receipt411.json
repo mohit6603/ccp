@@ -1,0 +1,23 @@
+{
+    "company": "ANN GIAP TRADING SDN BHD",
+    "date": "30-09-2017",
+    "address": "NO. 135, JALAN BANGI, 43500 SEMENYIH, SELANGOR",
+    "tax_number": "000436633600",
+    "line_items": [
+        {
+            "description": "3.5 LITRE MAX COATING",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "48.00"
+        },
+        {
+            "description": "THINNER 1 GALLON",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.00"
+        }
+    ],
+    "total": "66.00",
+    "tax_amount": "3.74",
+    "service_charge": null
+}

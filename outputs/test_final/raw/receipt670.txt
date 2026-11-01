@@ -1,0 +1,1 @@
+{"company": "MODERN DEPOT SDN BHD", "date": "04/12/2016", "address": "NO.19, PT18685, JALAN JAMBU MELAKA 2, JINJANG SELATAN, KEPONG.", "tax_number": "002098102272", "line_items": [{"description": "STEL670 HEATGUN 2000W \"STANLEY\"", "quantity": 1, "unit_price": "141.51", "amount": "141.51"}], "total": "150.00", "tax_amount": "8.49", "service_charge": null}

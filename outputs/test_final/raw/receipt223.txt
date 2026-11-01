@@ -1,0 +1,1 @@
+{"company": "BOON SENG PAPER SDN BHD", "date": "19/03/2018", "address": "12, JALAN BUNGA TANJUNG, 2/16 SEKSYEN 2, 40000 SHAH ALAM, SELANGOR", "tax_number": "001005957120", "line_items": [{"description": "TAPE", "quantity": 12, "unit_price": "2.50", "amount": "30.00"}], "total": "31.80", "tax_amount": "1.80", "service_charge": null}

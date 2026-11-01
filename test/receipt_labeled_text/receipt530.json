@@ -3,7 +3,26 @@
     "date": "12/06/2018",
     "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
     "tax_number": "002017394688",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "PREMIER 4X200S",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "14.85"
+        },
+        {
+            "description": "APACHE BLACK &",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.86"
+        },
+        {
+            "description": "SUPER ESSENSO M",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        }
+    ],
     "total": "38.60",
     "tax_amount": "0.00",
     "service_charge": null

@@ -1,0 +1,29 @@
+{
+  "company": "TSH POWER HARDWARE TRADING",
+  "date": "12/09/2017",
+  "address": "13-1, Jalan PJU 5/10, Dataran Sunway, Kota Damansara, 47810, Petaling Jaya, Selangor",
+  "tax_number": "000460664832",
+  "line_items": [
+    {
+      "description": "308# DRAWER .OCK C 2 - HL500 / 1L502",
+      "quantity": 1,
+      "unit_price": "6.00",
+      "amount": "6.00"
+    },
+    {
+      "description": "AXON GARDEN [AP 1/2 X 3/4 FX- 105B",
+      "quantity": 1,
+      "unit_price": "18.00",
+      "amount": "18.00"
+    },
+    {
+      "description": "LOCAL SEAL WHITE [APE",
+      "quantity": 1,
+      "unit_price": "0.50",
+      "amount": "0.50"
+    }
+  ],
+  "total": "24.50",
+  "tax_amount": "1.39",
+  "service_charge": "0.00"
+}

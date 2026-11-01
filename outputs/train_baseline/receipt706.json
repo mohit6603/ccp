@@ -1,0 +1,23 @@
+{
+    "company": "GM Rack Enterprise",
+    "date": "20/03/2018",
+    "address": "Lot 7F-7.02/7.03 , KWCJalan Gelugor . Jalan Kenanga ,55200 Kuala Lumpur.",
+    "tax_number": "000019693568",
+    "line_items": [
+        {
+            "description": "TQ(6X9-500PCS)H0019",
+            "quantity": 5,
+            "unit_price": "16.00",
+            "amount": "80.00"
+        },
+        {
+            "description": "TQ(8X11-300PCS)H0018",
+            "quantity": 5,
+            "unit_price": "16.00",
+            "amount": "80.00"
+        }
+    ],
+    "total": "160.00",
+    "tax_amount": "9.06",
+    "service_charge": null
+}

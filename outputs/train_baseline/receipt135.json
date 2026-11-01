@@ -1,0 +1,23 @@
+{
+    "company": "RESTORAN WAN SHENG",
+    "date": "19-03-2018",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "tax_number": "001335787520",
+    "line_items": [
+        {
+            "description": "Milo (B)",
+            "quantity": 2,
+            "unit_price": "2.80",
+            "amount": "5.60"
+        },
+        {
+            "description": "Take Away",
+            "quantity": 2,
+            "unit_price": "0.20",
+            "amount": "0.40"
+        }
+    ],
+    "total": "6.00",
+    "tax_amount": "0.34",
+    "service_charge": null
+}

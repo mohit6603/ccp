@@ -1,0 +1,23 @@
+{
+    "company": "SAM SAM TRADING CO",
+    "date": "Fri<sup>v</sup>, 29-12-2017",
+    "address": "67,JLN MEWAH 25/63 TMN SRI MUDA, 40400 SHAH ALAM.",
+    "tax_number": "001006288896",
+    "line_items": [
+        {
+            "description": "HE EOG UNICORN TWIN SUPER GLUE USG-99-9557368063013",
+            "quantity": 1,
+            "unit_price": "5.20",
+            "amount": "5.20"
+        },
+        {
+            "description": "SS EZL A4 CYBER MIX COLOR PAPER 100'S8 22\"\"008",
+            "quantity": 1,
+            "unit_price": "8.90",
+            "amount": "8.90"
+        }
+    ],
+    "total": "14.10",
+    "tax_amount": "13.30",
+    "service_charge": null
+}

@@ -3,7 +3,80 @@
     "date": "10/06/2018",
     "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
     "tax_number": "002017394688",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "CHEK HUP 2IN1",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.56"
+        },
+        {
+            "description": "MS SWM ENZO RT",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.28"
+        },
+        {
+            "description": "VALENCIA ORANGE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.50"
+        },
+        {
+            "description": "US RED GLOBE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.00"
+        },
+        {
+            "description": "CN PEAR",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.50"
+        },
+        {
+            "description": "CHN FUJI AP 4S",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "14.00"
+        },
+        {
+            "description": "AUS SEEKA KIWI",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "10.90"
+        },
+        {
+            "description": "CHILE ANGELENO",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "CUT FRUITS 1.99",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "2.50"
+        },
+        {
+            "description": "CHERRY SUNGOLD",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "4.80"
+        },
+        {
+            "description": "TURKEY CHERRY 2",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "18.90"
+        },
+        {
+            "description": "SUSHI SET-PTC",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        }
+    ],
     "total": "127.35",
     "tax_amount": "0.00",
     "service_charge": null

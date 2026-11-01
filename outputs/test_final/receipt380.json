@@ -1,0 +1,17 @@
+{
+    "company": "HAI-O RAYA BHD",
+    "date": "15/12/2016",
+    "address": "LOT 11995, BATU 2, JALAN KAPAR 41400 KLANG, SELANGOR",
+    "tax_number": "001600892928",
+    "line_items": [
+        {
+            "description": "HERBY PIPA GAO CONCENTRATE-TCH",
+            "quantity": 2,
+            "unit_price": "26.5000",
+            "amount": "47.70"
+        }
+    ],
+    "total": "47.70",
+    "tax_amount": "2.70",
+    "service_charge": null
+}

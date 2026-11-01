@@ -1,0 +1,17 @@
+{
+  "company": "PROSPER NIAGA",
+  "date": "26/06/18",
+  "address": "LOT PT 1138 ,PT 33122, BANDAR MAHKOTA CHERAS 43200 CHERAS, SELANGOR",
+  "tax_number": "000534347776",
+  "line_items": [
+    {
+      "description": "38.61 litre Pump # 07",
+      "quantity": 38.61,
+      "unit_price": "2.590",
+      "amount": "100.00"
+    }
+  ],
+  "total": "100.00",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

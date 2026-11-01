@@ -3,7 +3,26 @@
     "date": "03/02/2017",
     "address": "NO 2, JALAN BULAN BM U5/BM, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR",
     "tax_number": "0010 9273 4976",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "PORK LEG VINEGAR(S)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "20.00"
+        },
+        {
+            "description": "TALAFIA - JIU PAI STEAM (M)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "43.00"
+        },
+        {
+            "description": "WATER / TEA",
+            "quantity": 4,
+            "unit_price": "0.50",
+            "amount": "2.00"
+        }
+    ],
     "total": "68.90",
     "tax_amount": "3.90",
     "service_charge": null

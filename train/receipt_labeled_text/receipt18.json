@@ -3,7 +3,14 @@
     "date": "18/03/18",
     "address": "LOT 2685 JLN GENTING KLANG 53300 KL SITE 1066",
     "tax_number": "0010 9010 5344",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "V-POWER 97",
+            "quantity": 35.1,
+            "unit_price": "2.450",
+            "amount": "86.00"
+        }
+    ],
     "total": "86.00",
     "tax_amount": "4.87",
     "service_charge": null

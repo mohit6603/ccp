@@ -1,0 +1,29 @@
+{
+    "company": "ELKEN SERVICE SDN BHD",
+    "date": "10 OCT 2017 TUE",
+    "address": "No 2-1 Jalan 3/137B Batu 5 Jalan Kelang Lama 58000 Kuala Lumpur",
+    "tax_number": "000154042368",
+    "line_items": [
+        {
+            "description": "VALUE PACK A - BP SER SR",
+            "quantity": 1,
+            "unit_price": "235.85",
+            "amount": "235.85"
+        },
+        {
+            "description": "-CARBON FILTER - BP SERIES",
+            "quantity": 1,
+            "unit_price": "235.85",
+            "amount": "235.85"
+        },
+        {
+            "description": "-SEDIMENI FILTER - BP SERIES",
+            "quantity": 1,
+            "unit_price": "235.85",
+            "amount": "235.85"
+        }
+    ],
+    "total": "250.00",
+    "tax_amount": "14.15",
+    "service_charge": null
+}

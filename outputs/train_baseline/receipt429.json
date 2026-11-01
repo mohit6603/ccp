@@ -1,0 +1,23 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "10 May 2018 12:32",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "GST REG #000656195584",
+    "line_items": [
+        {
+            "description": "SR I00100000060- 4 Vege",
+            "quantity": 1,
+            "unit_price": "$5.50",
+            "amount": "$5.50"
+        },
+        {
+            "description": "SR I00100000009- Seafood (M)",
+            "quantity": 1,
+            "unit_price": "$4.80",
+            "amount": "$4.80"
+        }
+    ],
+    "total": "10.30",
+    "tax_amount": "0.58",
+    "service_charge": null
+}

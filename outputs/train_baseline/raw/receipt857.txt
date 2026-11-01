@@ -1,0 +1,23 @@
+{
+  "company": "Golden Arches Restaurants Sdn Bhd",
+  "date": "03/12/2016",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "tax_number": "000504664064",
+  "line_items": [
+    {
+      "description": "1 S Cappuccino",
+      "quantity": 1,
+      "unit_price": "4.70",
+      "amount": "4.70"
+    },
+    {
+      "description": "1 S Green Tea Latte",
+      "quantity": 1,
+      "unit_price": "10.00",
+      "amount": "10.00"
+    }
+  ],
+  "total": "14.70",
+  "tax_amount": "0.83",
+  "service_charge": null
+}

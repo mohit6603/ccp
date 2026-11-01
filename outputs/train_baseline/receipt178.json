@@ -1,0 +1,17 @@
+{
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "17/03/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000781500416",
+    "line_items": [
+        {
+            "description": "B.R.C A10 1.7X4M",
+            "quantity": "3",
+            "unit_price": "55.00",
+            "amount": "174.90"
+        }
+    ],
+    "total": "174.90",
+    "tax_amount": "9.90",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "15/07/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "RESTAURANT ORDER CHIT NCR 3.5\"x6\"",
+            "quantity": 3,
+            "unit_price": "2.9000",
+            "amount": "8.70"
+        }
+    ],
+    "total": "8.70",
+    "tax_amount": "0.49",
+    "service_charge": null
+}

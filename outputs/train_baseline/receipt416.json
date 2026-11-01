@@ -1,0 +1,17 @@
+{
+    "company": "MPH BOOKSTORES SDN BHD",
+    "date": "11/12/2017",
+    "address": "MPH One Utama Phase 2 Lot S319, 2nd Floor, 1 Utama Shopping Centre, No1, Lebuh Bandar Utama,47800 P.Jaya",
+    "tax_number": "000542572544",
+    "line_items": [
+        {
+            "description": "STICKERS & OTHER GIFT",
+            "quantity": 3,
+            "unit_price": "10.49",
+            "amount": "31.47"
+        }
+    ],
+    "total": "31.45",
+    "tax_amount": "1.78",
+    "service_charge": null
+}

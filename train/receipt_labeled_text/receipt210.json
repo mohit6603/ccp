@@ -3,7 +3,62 @@
     "date": "02/02/2018",
     "address": "129, JALAN TUN H.S LEE, 50000 KUALA LUMPUR.",
     "tax_number": "001011499008",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "PEACOCK YELLOW",
+            "quantity": 2,
+            "unit_price": "12.72",
+            "amount": "25.44"
+        },
+        {
+            "description": "STATICE FULL IMP",
+            "quantity": 4,
+            "unit_price": "36.04",
+            "amount": "144.16"
+        },
+        {
+            "description": "LILY CONCORDO 2H",
+            "quantity": 1,
+            "unit_price": "61.48",
+            "amount": "61.48"
+        },
+        {
+            "description": "SNOW WHITE LEAF",
+            "quantity": 2,
+            "unit_price": "6.36",
+            "amount": "12.72"
+        },
+        {
+            "description": "FLORIDA BEAUTY",
+            "quantity": 1,
+            "unit_price": "3.71",
+            "amount": "3.71"
+        },
+        {
+            "description": "PALM LEAF L",
+            "quantity": 4,
+            "unit_price": "9.54",
+            "amount": "38.16"
+        },
+        {
+            "description": "PALM LEAF M",
+            "quantity": 3,
+            "unit_price": "4.77",
+            "amount": "14.31"
+        },
+        {
+            "description": "ROSE INDIA SUPERIOR",
+            "quantity": 1,
+            "unit_price": "23.32",
+            "amount": "23.32"
+        },
+        {
+            "description": "SUCCULENT L",
+            "quantity": 4,
+            "unit_price": "12.72",
+            "amount": "50.88"
+        }
+    ],
     "total": "374.20",
     "tax_amount": "21.18",
     "service_charge": null

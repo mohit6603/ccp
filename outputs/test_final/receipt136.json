@@ -1,0 +1,35 @@
+{
+    "company": "RESTORAN WAN SHENG",
+    "date": "19-03-2018",
+    "address": "NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "tax_number": "001335787520",
+    "line_items": [
+        {
+            "description": "TEH (B)",
+            "quantity": 2,
+            "unit_price": "2.20",
+            "amount": "4.40"
+        },
+        {
+            "description": "CHAM (B)",
+            "quantity": 1,
+            "unit_price": "2.20",
+            "amount": "2.20"
+        },
+        {
+            "description": "HERBAL TEA",
+            "quantity": 1,
+            "unit_price": "1.70",
+            "amount": "1.70"
+        },
+        {
+            "description": "TAKE AWAY",
+            "quantity": 4,
+            "unit_price": "0.20",
+            "amount": "0.80"
+        }
+    ],
+    "total": "9.10",
+    "tax_amount": "0.51",
+    "service_charge": null
+}

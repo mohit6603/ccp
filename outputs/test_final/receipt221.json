@@ -1,0 +1,35 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "27/02/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA",
+    "tax_number": "001492992900",
+    "line_items": [
+        {
+            "description": "DOCUMENT HOL A4 1466A-TRA",
+            "quantity": 2,
+            "unit_price": "1.15",
+            "amount": "2.30"
+        },
+        {
+            "description": "PB PVC A4 L-FLD PBA4L25",
+            "quantity": 2,
+            "unit_price": "3.90",
+            "amount": "7.80"
+        },
+        {
+            "description": "CANON CAL AS120V GREY",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "29.90"
+        },
+        {
+            "description": "VASI'APR16/SEASHORE [BK]",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "5.00"
+        }
+    ],
+    "total": "41.00",
+    "tax_amount": "2.04",
+    "service_charge": null
+}

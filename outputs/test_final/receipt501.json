@@ -1,0 +1,17 @@
+{
+    "company": "SANYU STATIONERY SHOP",
+    "date": "11/12/2017",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
+    "tax_number": "001531760640",
+    "line_items": [
+        {
+            "description": "SB-5882 CAMIS NCR BILL BOOK 5\"X8\" (BB-5882)",
+            "quantity": 2,
+            "unit_price": "3.5000",
+            "amount": "7.00"
+        }
+    ],
+    "total": "7.00",
+    "tax_amount": "0.40",
+    "service_charge": null
+}

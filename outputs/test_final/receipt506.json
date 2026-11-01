@@ -1,0 +1,17 @@
+{
+    "company": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+    "date": "12/09/2017",
+    "address": "NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM,",
+    "tax_number": "000394528768",
+    "line_items": [
+        {
+            "description": "7001 CZ LEVER (SINK TYPE SINK TAP",
+            "quantity": 1,
+            "unit_price": "30.00",
+            "amount": "30.00"
+        }
+    ],
+    "total": "30.00",
+    "tax_amount": "1.70",
+    "service_charge": null
+}

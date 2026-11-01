@@ -1,0 +1,1 @@
+{"company": "LIM SENG THO HARDWARE TRADING", "date": "29/12/2017", "address": "NO 7, SIMPANG OFF BATU VILLAGE, JALAN IPOH BATU 5, 51200 KUALA LUMPUR MALAYSIA", "tax_number": "001269075968", "line_items": [{"description": "SIMEN(S)", "quantity": 3, "unit_price": "2.00", "amount": "6.00"}], "total": "6.00", "tax_amount": "0.34", "service_charge": null}

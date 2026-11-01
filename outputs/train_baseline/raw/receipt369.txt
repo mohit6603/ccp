@@ -1,0 +1,53 @@
+{
+  "company": "MAKASSAR FRESH MARKET SDN BHD",
+  "date": "10/10/2017",
+  "address": "GROUND FLOOR, NO. 4 & 6, JALAN SS 15/4B, 47500 SUBANG JAYA, SELANGOR",
+  "tax_number": "000381399040",
+  "line_items": [
+    {
+      "description": "O.C. WHITE",
+      "quantity": 2.13,
+      "unit_price": "2.13",
+      "amount": "-2.13"
+    },
+    {
+      "description": "WHOLEMEAL",
+      "quantity": 2.78,
+      "unit_price": "2.78",
+      "amount": "0.00"
+    },
+    {
+      "description": "O.C JUMBO",
+      "quantity": 2.97,
+      "unit_price": "2.97",
+      "amount": "0.00"
+    },
+    {
+      "description": "DELICIA-B/SCOTCH",
+      "quantity": 3.72,
+      "unit_price": "3.72",
+      "amount": "-7.44"
+    },
+    {
+      "description": "CR-CORN",
+      "quantity": 0.72,
+      "unit_price": "0.72",
+      "amount": "14.40"
+    },
+    {
+      "description": "SQ-CHOCMLT",
+      "quantity": 0.84,
+      "unit_price": "0.84",
+      "amount": "10.08"
+    },
+    {
+      "description": "TWIG-C.DRM",
+      "quantity": 1.33,
+      "unit_price": "1.33",
+      "amount": "10.64"
+    }
+  ],
+  "total": "27.20",
+  "tax_amount": "1.65",
+  "service_charge": null
+}

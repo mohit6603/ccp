@@ -1,0 +1,41 @@
+{
+  "company": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "26/05/2018",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "tax_number": "000504664064",
+  "line_items": [
+    {
+      "description": "M SpicyDeluxe",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "2.00"
+    },
+    {
+      "description": "M Milo",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "2.00"
+    },
+    {
+      "description": "M Fries",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "2.00"
+    },
+    {
+      "description": "McChicDeluxe",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "7.50"
+    },
+    {
+      "description": "CheeseBurger",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": "9.60"
+    }
+  ],
+  "total": "32.25",
+  "tax_amount": "1.83",
+  "service_charge": null
+}

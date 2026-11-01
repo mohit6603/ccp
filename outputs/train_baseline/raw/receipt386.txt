@@ -1,0 +1,65 @@
+{
+  "company": "OLD ASIA",
+  "date": "13-02-2016",
+  "address": "LG226, LGF, 1 UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA, 47800 PETALING JAYA.",
+  "tax_number": "001406865408",
+  "line_items": [
+    {
+      "description": "SEAFOOD FRIED PRICE",
+      "quantity": null,
+      "unit_price": "RM13.50",
+      "amount": "RM13.50"
+    },
+    {
+      "description": "FISH HEAD",
+      "quantity": null,
+      "unit_price": "RM11.50",
+      "amount": "RM11.50"
+    },
+    {
+      "description": "FISH CAKE",
+      "quantity": null,
+      "unit_price": "RM7.90",
+      "amount": "RM7.90"
+    },
+    {
+      "description": "G.CRISPY CHIC RICE",
+      "quantity": null,
+      "unit_price": "RM15.90",
+      "amount": "RM15.90"
+    },
+    {
+      "description": "V.GRILL CHIC RICE",
+      "quantity": null,
+      "unit_price": "RM16.50",
+      "amount": "RM16.50"
+    },
+    {
+      "description": "W/MELON JUICE",
+      "quantity": null,
+      "unit_price": "RM7.50",
+      "amount": "RM7.50"
+    },
+    {
+      "description": "RIBENA",
+      "quantity": null,
+      "unit_price": "RM5.90",
+      "amount": "RM5.90"
+    },
+    {
+      "description": "2X",
+      "quantity": 2,
+      "unit_price": "1.90",
+      "amount": "1.90"
+    },
+    {
+      "description": "ICED CHINESE TEA",
+      "quantity": 9,
+      "unit_price": "RM3.80",
+      "amount": "RM3.80"
+    }
+  ],
+  "total": "96.20",
+  "tax_amount": "5.45",
+  "service_charge": "8.25"
+}

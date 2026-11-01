@@ -1,0 +1,41 @@
+{
+    "company": "SUNFISH",
+    "date": "05/01/2018",
+    "address": "22 LRG PERUSAHAAN 4 KIMPAL INDs.PARK B.CAVES",
+    "tax_number": "002008047616",
+    "line_items": [
+        {
+            "description": "SALTED F.RICE",
+            "quantity": null,
+            "unit_price": "8.50",
+            "amount": "8.50"
+        },
+        {
+            "description": "FRIED EGG",
+            "quantity": null,
+            "unit_price": "1.80",
+            "amount": "1.80"
+        },
+        {
+            "description": "NASI LEMAK DRUMSTICK",
+            "quantity": null,
+            "unit_price": "9.80",
+            "amount": "9.80"
+        },
+        {
+            "description": "SOYA CINCAU",
+            "quantity": null,
+            "unit_price": "4.30",
+            "amount": "4.30"
+        },
+        {
+            "description": "LARGE / ICE TEA",
+            "quantity": null,
+            "unit_price": "4.30",
+            "amount": "4.30"
+        }
+    ],
+    "total": "28.70",
+    "tax_amount": "1.62",
+    "service_charge": null
+}

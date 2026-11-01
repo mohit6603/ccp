@@ -1,0 +1,35 @@
+{
+  "company": "HENG KEE DELIGHTS BAK KUT TEH.",
+  "date": "04/01/2018",
+  "address": "NO31, JALAN 3/62A, BANDAR MENJALARA KEPONG. 52100 KUALA LUMPUR",
+  "tax_number": "000403890176",
+  "line_items": [
+    {
+      "description": "2.00 X 17.00",
+      "quantity": 2,
+      "unit_price": "17.00",
+      "amount": "34.00"
+    },
+    {
+      "description": "2.00 X 1.50",
+      "quantity": 2,
+      "unit_price": "1.50",
+      "amount": "3.00"
+    },
+    {
+      "description": "1.00 X 4.00",
+      "quantity": 1,
+      "unit_price": "4.00",
+      "amount": "4.00"
+    },
+    {
+      "description": "2.00 X 0.50",
+      "quantity": 2,
+      "unit_price": "0.50",
+      "amount": "1.00"
+    }
+  ],
+  "total": "42.00",
+  "tax_amount": "2.38",
+  "service_charge": null
+}

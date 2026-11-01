@@ -1,0 +1,53 @@
+{
+  "company": "GOGIANT ENGINEERING (M) SDN BHD",
+  "date": "09/02/2018",
+  "address": "NO.59, JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81760 JOHOR BAHRU",
+  "tax_number": "008060689824",
+  "line_items": [
+    {
+      "description": "SR: CERAMIC CAP",
+      "quantity": 5,
+      "unit_price": "3.50",
+      "amount": "17.50"
+    },
+    {
+      "description": "SR: SISTEEL 1/2\" STREET ELBOW",
+      "quantity": 30,
+      "unit_price": "3.80",
+      "amount": "114.00"
+    },
+    {
+      "description": "SR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD",
+      "quantity": 1,
+      "unit_price": "55.00",
+      "amount": "55.00"
+    },
+    {
+      "description": "SR: ESICUT 4\" CUTTING DISC (1BOX)-50PCS",
+      "quantity": 3,
+      "unit_price": "33.00",
+      "amount": "99.00"
+    },
+    {
+      "description": "SR: ESICUT 4\" CUTTING DISC (1BOX)-50PCS",
+      "quantity": 2,
+      "unit_price": "43.00",
+      "amount": "86.00"
+    },
+    {
+      "description": "SR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD",
+      "quantity": 1,
+      "unit_price": "55.00",
+      "amount": "55.00"
+    },
+    {
+      "description": "SR: 13.5\" WELDING GLOVE - GREEN (GS)",
+      "quantity": 4,
+      "unit_price": "10.00",
+      "amount": "40.00"
+    }
+  ],
+  "total": "436.20",
+  "tax_amount": "24.69",
+  "service_charge": null
+}

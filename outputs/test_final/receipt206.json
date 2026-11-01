@@ -1,0 +1,23 @@
+{
+    "company": "MR. D.I.Y. (M) SDN BHD",
+    "date": "24-03-18",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "000306020352",
+    "line_items": [
+        {
+            "description": "MULTIPURPOSE BROOM 737P W/4FT",
+            "quantity": 2,
+            "unit_price": "6.50",
+            "amount": "13.00"
+        },
+        {
+            "description": "HOSE PUMP C88351#",
+            "quantity": 1,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        }
+    ],
+    "total": "14.90",
+    "tax_amount": "0.84",
+    "service_charge": null
+}

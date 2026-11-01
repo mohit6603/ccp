@@ -1,0 +1,89 @@
+{
+    "company": "YONG SOON FATT S/B",
+    "date": "6/2/2017",
+    "address": "LOT 1504, RATU 8 1/2, JALAN KLANG LAMA, 46000 PETALING JAYA, SELANGOR.",
+    "tax_number": "000788250624",
+    "line_items": [
+        {
+            "description": "KCL SOH HOON 5KG",
+            "quantity": 1,
+            "unit_price": "31.50",
+            "amount": "31.50"
+        },
+        {
+            "description": "DAMANG PUTIH",
+            "quantity": 1,
+            "unit_price": "37.50",
+            "amount": "37.50"
+        },
+        {
+            "description": "AI BIHUK ISTIMEWA 3KG",
+            "quantity": 5,
+            "unit_price": "10.00",
+            "amount": "50.00"
+        },
+        {
+            "description": "ABC TEPUNG UBI KAYU 1KG",
+            "quantity": 1,
+            "unit_price": "27.00",
+            "amount": "27.00"
+        },
+        {
+            "description": "LIMA GAJAH TEPUNG BERAS 500",
+            "quantity": 1,
+            "unit_price": "26.90",
+            "amount": "26.90"
+        },
+        {
+            "description": "ALISHAN YOUNG CORN 425GM",
+            "quantity": 1,
+            "unit_price": "52.00",
+            "amount": "52.00"
+        },
+        {
+            "description": "NEW SUN BUTTON MUSHROOM 425",
+            "quantity": 1,
+            "unit_price": "58.00",
+            "amount": "58.00"
+        },
+        {
+            "description": "RAMBUTAN BERAS SST 5% 10KG",
+            "quantity": 6,
+            "unit_price": "26.00",
+            "amount": "156.00"
+        },
+        {
+            "description": "DAIRY CHAMP EVAP 390GM",
+            "quantity": 1,
+            "unit_price": "113.90",
+            "amount": "113.90"
+        },
+        {
+            "description": "LIFE SOS CILI 340GM",
+            "quantity": 1,
+            "unit_price": "63.60",
+            "amount": "63.60"
+        },
+        {
+            "description": "MAGGI SOS TOMATO 325GM",
+            "quantity": 1,
+            "unit_price": "62.20",
+            "amount": "62.20"
+        },
+        {
+            "description": "LIFE SOS CILI 500GM",
+            "quantity": 1,
+            "unit_price": "41.20",
+            "amount": "41.20"
+        },
+        {
+            "description": "MAGGI SOS TOMATO 475GM",
+            "quantity": 1,
+            "unit_price": "39.00",
+            "amount": "39.00"
+        }
+    ],
+    "total": "758.70",
+    "tax_amount": "26.12",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+  "company": "ARTRANGE STATIONERS & PRINT SDN BHD",
+  "date": "10/04/2017",
+  "address": "44 JALAN SS21/58 DAMANSARA UTAMA 47400 PETALING JAYA",
+  "tax_number": "001725239296",
+  "line_items": [
+    {
+      "description": "PENTEL CORRECTION PEN 18ML ZLC1-W",
+      "quantity": 2,
+      "unit_price": "7.70",
+      "amount": "15.40"
+    }
+  ],
+  "total": "15.40",
+  "tax_amount": "0.87",
+  "service_charge": null
+}

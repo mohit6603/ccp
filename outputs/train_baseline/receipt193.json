@@ -1,0 +1,83 @@
+{
+    "company": "AEON CO. (M) BHD.",
+    "date": "28/02/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "V-CHOR FRA",
+            "quantity": 1,
+            "unit_price": "16.90SR",
+            "amount": "16.90SR"
+        },
+        {
+            "description": "CE 13312 LONG H",
+            "quantity": 1,
+            "unit_price": "10.45SR",
+            "amount": "10.45SR"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": "7.90SR",
+            "amount": "7.90SR"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": "7.90SR",
+            "amount": "7.90SR"
+        },
+        {
+            "description": "BL HARUMI WASHI",
+            "quantity": 1,
+            "unit_price": "7.90SR",
+            "amount": "7.90SR"
+        },
+        {
+            "description": "LIDI BROOM H/P",
+            "quantity": 1,
+            "unit_price": "4.10SR",
+            "amount": "4.10SR"
+        },
+        {
+            "description": "E-71/MP WATER D",
+            "quantity": 1,
+            "unit_price": "4.90SR",
+            "amount": "4.90SR"
+        },
+        {
+            "description": "UNICORN 24MMX",
+            "quantity": 1,
+            "unit_price": "8.90SR",
+            "amount": "8.90SR"
+        },
+        {
+            "description": "SW CE3914B NYL",
+            "quantity": 1,
+            "unit_price": "7.30SR",
+            "amount": "7.30SR"
+        },
+        {
+            "description": "18MMX1 WHITE D",
+            "quantity": 1,
+            "unit_price": "2.50SR",
+            "amount": "2.50SR"
+        },
+        {
+            "description": "CABLE BOX",
+            "quantity": 1,
+            "unit_price": "18.90SR",
+            "amount": "18.90SR"
+        },
+        {
+            "description": "PLASTICS BAG",
+            "quantity": 1,
+            "unit_price": "0.20SR",
+            "amount": "0.20SR"
+        }
+    ],
+    "total": "83.93",
+    "tax_amount": "5.04",
+    "service_charge": null
+}

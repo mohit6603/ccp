@@ -1,0 +1,53 @@
+{
+    "company": "CNE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "date": "23-06-2018",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000670224384",
+    "line_items": [
+        {
+            "description": "Yam Item",
+            "quantity": 1,
+            "unit_price": "30.00",
+            "amount": "30.00"
+        },
+        {
+            "description": "S.Soup lala Item (XL)",
+            "quantity": 1,
+            "unit_price": "30.00",
+            "amount": "30.00"
+        },
+        {
+            "description": "Fish Item",
+            "quantity": 1,
+            "unit_price": "77.00",
+            "amount": "77.00"
+        },
+        {
+            "description": "Omellete Item",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        },
+        {
+            "description": "White Rice",
+            "quantity": 1,
+            "unit_price": "7.50",
+            "amount": "7.50"
+        },
+        {
+            "description": "Vege Item (M)",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        },
+        {
+            "description": "Beverage",
+            "quantity": 1,
+            "unit_price": "5.00",
+            "amount": "5.00"
+        }
+    ],
+    "total": "179.50",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

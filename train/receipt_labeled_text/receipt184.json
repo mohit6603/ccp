@@ -5,7 +5,7 @@
     "tax_number": "000639090688",
     "line_items": [
         {
-            "description": "BORY FLTTLET 300UP(3)6KG",
+            "description": "DORY FITTLET 300UP(3)6KG",
             "quantity": 4,
             "unit_price": "63.00",
             "amount": "252.00"
@@ -23,7 +23,7 @@
             "amount": "17.00"
         },
         {
-            "description": "BAHAS CILI 1KG",
+            "description": "BABAS CILI 1KG",
             "quantity": 1,
             "unit_price": "19.50",
             "amount": "19.50"

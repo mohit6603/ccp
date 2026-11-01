@@ -1,0 +1,29 @@
+{
+    "company": "Gerbang Alaf Restaurants Sdn Bhd",
+    "date": "25/05/2018",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Peta'ing Jaya Selangor",
+    "tax_number": "000504664064",
+    "line_items": [
+        {
+            "description": "1 L FiletOfFish",
+            "quantity": 1,
+            "unit_price": "11.10",
+            "amount": "11.10"
+        },
+        {
+            "description": "1 L Coke",
+            "quantity": 1,
+            "unit_price": "11.10",
+            "amount": "11.10"
+        },
+        {
+            "description": "1 L Fries",
+            "quantity": 1,
+            "unit_price": "11.10",
+            "amount": "11.10"
+        }
+    ],
+    "total": "33.30",
+    "tax_amount": "0.63",
+    "service_charge": null
+}

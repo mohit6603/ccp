@@ -1,0 +1,1 @@
+{"company": "C W KHOO HARDWARE SDN BHD", "date": "01-03-18", "address": "NO.50 ,JALAN PBS 14/11 , KAWASAN PERINDUSTRIAN BUKIT SERDANG,", "tax_number": "000549584896", "line_items": [{"description": "AIR ADAPTOR", "quantity": 5, "unit_price": "4.00", "amount": "20.00"}], "total": "21.20", "tax_amount": "1.20", "service_charge": null}

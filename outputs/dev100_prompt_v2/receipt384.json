@@ -1,0 +1,23 @@
+{
+    "company": "Guardian Health And Beauty Sdn Bhd",
+    "date": "11/02/16",
+    "address": "First World Theme Park Lot F/L2A.4, Level 2A First World Plaza, First World",
+    "tax_number": "0000899874816",
+    "line_items": [
+        {
+            "description": "0092000 GDN WATER 500ML",
+            "quantity": 2,
+            "unit_price": "2.20",
+            "amount": "4.40"
+        },
+        {
+            "description": "GDN WATER 500ML",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "1.84"
+        }
+    ],
+    "total": "2.56",
+    "tax_amount": "0.14",
+    "service_charge": null
+}

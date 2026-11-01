@@ -1,0 +1,17 @@
+{
+  "company": "YONG CEN ENTERPRISE",
+  "date": "06/01/2018",
+  "address": "9, JALAN SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR.",
+  "tax_number": "001147981824",
+  "line_items": [
+    {
+      "description": "SR:CHAMPIGNONS MUSHROOMS 425G(2.5833X",
+      "quantity": 24,
+      "unit_price": "2.58",
+      "amount": "61.99"
+    }
+  ],
+  "total": "65.70",
+  "tax_amount": "3.72",
+  "service_charge": null
+}

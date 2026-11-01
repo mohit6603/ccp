@@ -1,0 +1,29 @@
+{
+    "company": "VIVOPAC MARKETING SDN BHD",
+    "date": "13/09/2017",
+    "address": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL",
+    "tax_number": "000565805056",
+    "line_items": [
+        {
+            "description": "STRETCH FILM (100MMX120M)",
+            "quantity": 1,
+            "unit_price": "4.5000",
+            "amount": "4.50"
+        },
+        {
+            "description": "PP - 16X26 0.04MM",
+            "quantity": 1,
+            "unit_price": "15.0000",
+            "amount": "15.00"
+        },
+        {
+            "description": "PP - 14X20 0.04MM",
+            "quantity": 2,
+            "unit_price": "15.0000",
+            "amount": "30.00"
+        }
+    ],
+    "total": "52.45",
+    "tax_amount": "2.97",
+    "service_charge": null
+}

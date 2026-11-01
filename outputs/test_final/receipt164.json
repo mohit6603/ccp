@@ -1,0 +1,17 @@
+{
+    "company": "MR. DAKGALBI SOLARIS",
+    "date": "2018-01-05",
+    "address": "NO.J-G-02, SOHO KI, SOLARIS MONT KIERA, 50 480 KL",
+    "tax_number": "000417619968",
+    "line_items": [
+        {
+            "description": "FRIED RICE 3 PAX",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "71.00"
+        }
+    ],
+    "total": "71.00",
+    "tax_amount": "4.02",
+    "service_charge": null
+}

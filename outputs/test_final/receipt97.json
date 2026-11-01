@@ -1,0 +1,29 @@
+{
+    "company": "WAHIN HARDWARE SDN BHD",
+    "date": "04/12/17",
+    "address": "425, JALAN PAHANG, SETAPAK, 53000 KUALA LUMPUR.",
+    "tax_number": "000048898048",
+    "line_items": [
+        {
+            "description": "14\" MINI ROLLER REFILL",
+            "quantity": 2,
+            "unit_price": "2.6500",
+            "amount": "5.30"
+        },
+        {
+            "description": "24\"X18\" ROLLERPAINT HANDLE",
+            "quantity": 2,
+            "unit_price": "3.1800",
+            "amount": "6.36"
+        },
+        {
+            "description": "33.5LRT BLACK OXIDE PAINT",
+            "quantity": 1,
+            "unit_price": "30.7400",
+            "amount": "30.74"
+        }
+    ],
+    "total": "42.40",
+    "tax_amount": "2.40",
+    "service_charge": null
+}

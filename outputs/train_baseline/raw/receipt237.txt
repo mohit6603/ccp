@@ -1,0 +1,29 @@
+{
+  "company": "Segi Cash & Carry Sdn. Bhd.",
+  "date": "06/04/17",
+  "address": "Pti1720 Sek U9, Shah Alam",
+  "tax_number": "001951645696",
+  "line_items": [
+    {
+      "description": "MIGHTY MARK DISHWASH 11L",
+      "quantity": 2,
+      "unit_price": "11.50",
+      "amount": "23.00"
+    },
+    {
+      "description": "MIGHTY MARK BLEACH 10L",
+      "quantity": 2,
+      "unit_price": "11.50",
+      "amount": "23.00"
+    },
+    {
+      "description": "GARDENIA SOMMERSSET COTTAGE 300G",
+      "quantity": 1,
+      "unit_price": "4.45",
+      "amount": "4.45"
+    }
+  ],
+  "total": "50.45",
+  "tax_amount": "2.85",
+  "service_charge": null
+}

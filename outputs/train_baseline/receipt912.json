@@ -1,0 +1,17 @@
+{
+    "company": "De Jelita Stesen Minyak",
+    "date": "02/05/18",
+    "address": "Jln Permas 9/5, Bdr Permas Jaya 81750, Johor Bahru",
+    "tax_number": "000368820224",
+    "line_items": [
+        {
+            "description": "27.27 litre Pump # 07",
+            "quantity": 27.27,
+            "unit_price": "2.200",
+            "amount": "60.00"
+        }
+    ],
+    "total": "60.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

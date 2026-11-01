@@ -1,0 +1,23 @@
+{
+    "company": "IKEA Cheras",
+    "date": "09/08/17",
+    "address": "No 2A Jalan Cochranetaman Maluri55100 KUALA LUMPUR",
+    "tax_number": "000115154944",
+    "line_items": [
+        {
+            "description": "30169728 BAGIS COAT-HANGER CH",
+            "quantity": 2,
+            "unit_price": "4.90",
+            "amount": "9.80"
+        },
+        {
+            "description": "70350938 TEODORES CH",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "90.00"
+        }
+    ],
+    "total": "99.80",
+    "tax_amount": "5.64",
+    "service_charge": null
+}

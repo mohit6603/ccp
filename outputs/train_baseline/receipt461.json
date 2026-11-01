@@ -1,0 +1,17 @@
+{
+    "company": "THE MARCO POLO KITCH BUKIT INDAH",
+    "date": "06/05/2018",
+    "address": "NO 35,JALAN INDAH 15/2,BUKIT INDAH 81200 JOHOR BAHRU,JOHOR",
+    "tax_number": "001403346944",
+    "line_items": [
+        {
+            "description": "1 ICE MOCHA",
+            "quantity": 1,
+            "unit_price": "12.99",
+            "amount": "12.99"
+        }
+    ],
+    "total": "15.15",
+    "tax_amount": "1.30",
+    "service_charge": null
+}

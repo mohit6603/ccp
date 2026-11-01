@@ -1,0 +1,23 @@
+{
+  "company": "MR. D.I.Y. (KUCHAI) SDN BHD",
+  "date": "07-06-16",
+  "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMRANGAN, SELANGOR",
+  "tax_number": "000473792512",
+  "line_items": [
+    {
+      "description": "HANDPHONE STICKER WNY-037",
+      "quantity": 4,
+      "unit_price": "2.80",
+      "amount": "11.20"
+    },
+    {
+      "description": "DECO STICKER 128",
+      "quantity": 1,
+      "unit_price": "2.10",
+      "amount": "2.10"
+    }
+  ],
+  "total": "13.30",
+  "tax_amount": "0.75",
+  "service_charge": null
+}

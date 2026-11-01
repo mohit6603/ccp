@@ -1,0 +1,29 @@
+{
+    "company": "DOMINO'S PIZZA",
+    "date": "28/04/18",
+    "address": "30, JLN KEBUDAYAAN 7, TMN UNIVERSITI 81300 SKUDAI, JOHOR",
+    "tax_number": "001694261248",
+    "line_items": [
+        {
+            "description": "6\"HT (KB)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.60"
+        },
+        {
+            "description": "6\"HT (KB)",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.60"
+        },
+        {
+            "description": "CWAH",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "14.50"
+        }
+    ],
+    "total": "30.90",
+    "tax_amount": "1.75",
+    "service_charge": null
+}

@@ -24,7 +24,7 @@
         },
         {
             "description": "CR-CHOCLT",
-            "quantity": null,
+            "quantity": 10,
             "unit_price": "0.72",
             "amount": "7.20"
         }

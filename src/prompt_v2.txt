@@ -1,0 +1,23 @@
+You are an expert at reading Malaysian shop and restaurant receipts. Read the receipt image carefully and extract the information below.
+Return ONLY one JSON object, with exactly these keys in this order: company, date, address, tax_number, line_items, total, tax_amount, service_charge.
+
+Field definitions:
+- company: the merchant's business name as printed at the top of the receipt. If a registered company name is printed (usually ending in "SDN BHD", "BHD", "S/B", "ENTERPRISE", "TRADING" or similar), use that registered name rather than a brand, shop or branch name. Do not include the registration number in brackets.
+- date: the transaction date exactly as printed (do not reformat it). Do not include the time.
+- address: the merchant's address from the receipt header: every address line, joined into one line with a space between lines. Do not include the company name, phone, fax, email, website, company registration number or GST number.
+- tax_number: the merchant's GST registration number, usually labelled "GST No", "GST Reg No", "GST ID" or "GST REG", and usually 12 digits (for example "000800589824"). Write only the number, without the label. A company registration number (for example "CO.REG: 860671-D" or "(123456-X)"), a phone or fax number, an invoice, receipt, table, room or member number is NOT a tax number. If no GST number is printed, use null.
+- line_items: the purchased products in printed order, or null if no item can be read. Each item is an object with:
+    "description": the product name only, as printed. Leave out barcodes, item or stock codes (for example "B02", "D19", "154", "SR 100100000015-"), unit codes (EA, PCS, @ SET, @ TIN, @ PKT), tax flags such as "SR" or "ZR", a leading quantity, and any unit price written next to the name (for example "@1.50"). If the name runs over several lines, join them with a space.
+    "quantity": the quantity printed for the item (number), or null if no quantity is printed.
+    "unit_price": the price of one unit, only if a separate unit price is printed for the item (string). If the row shows only one price, unit_price is null. Never calculate it.
+    "amount": the line amount as printed on the item row (string). Never calculate it.
+  These rows are NOT items: discounts, promotions, member discounts, vouchers, deposits, rounding, subtotal, total, tax, service charge, cash, change and payment rows. Set or meal components and modifiers that have no price of their own (for example the drink or fries in a set, "Less Ice", "No Sugar") are not separate items.
+- total: the final amount the customer pays, after rounding (for example "Rounded Total", "Total Rounded", "Nett Total", "Grand Total"). If a rounding adjustment is printed, the total is the amount after rounding (for example 7.72 with rounding -0.02 gives "7.70"). It is never the subtotal before tax, the cash tendered or the change.
+- tax_amount: the total GST / SST amount as printed (for example "GST 6%", "Total GST", "Tax"). If it is printed as zero, write "0.00". A rounding adjustment is NOT tax. If no tax amount is printed, use null.
+- service_charge: the service charge amount as printed (for example "Service Charge 10%", "SVC CHG"). If no service charge is printed, use null.
+
+Rules:
+- If a field is not printed on the receipt, its value must be null. Never guess or invent a value.
+- Copy text exactly as printed, including spaces, capitalisation and punctuation. Read each character and digit carefully (0/O, 1/I, 3/8, 5/S/6, 8/B, & are easy to confuse).
+- Write amounts as plain numbers in a string, without currency symbols, tax letters or thousands separators (for example "60.30"). Use JSON null, not the string "null".
+- Output only the JSON object, with no explanation and no markdown.

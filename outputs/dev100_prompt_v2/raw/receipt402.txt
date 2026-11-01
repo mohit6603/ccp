@@ -1,0 +1,23 @@
+{
+  "company": "Aneka Intertrade Marketing Sdn Bhd",
+  "date": "19/05/16",
+  "address": "Lot No2, Jalan Utarid U5/13, Seksyen U5, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia",
+  "tax_number": "001532760064",
+  "line_items": [
+    {
+      "description": "Samudra Bun 180g Blueberry",
+      "quantity": 1,
+      "unit_price": null,
+      "amount": "3.05"
+    },
+    {
+      "description": "SIEW PAK CHOY +/- ikat",
+      "quantity": 2,
+      "unit_price": null,
+      "amount": "3.78"
+    }
+  ],
+  "total": "6.85",
+  "tax_amount": "0.17",
+  "service_charge": null
+}

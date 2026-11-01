@@ -1,0 +1,35 @@
+{
+    "company": "NADEJE PLATINUM SDN BHD",
+    "date": "2016/05/01",
+    "address": "GK101,GND FLR,ONE UTAMA SHOPPING CENTRE NO.1,LEBUH BANDAR UTAMA, 47800 PETALING JAYA, SELANGOR.",
+    "tax_number": "001151160320",
+    "line_items": [
+        {
+            "description": "DOUBLECOCO SLICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.60"
+        },
+        {
+            "description": "MOTHER'S SLICES",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "13.50"
+        },
+        {
+            "description": "TIRAMISU SLICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.60"
+        },
+        {
+            "description": "CHEESE SLICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "12.60"
+        }
+    ],
+    "total": "51.30",
+    "tax_amount": "2.90",
+    "service_charge": null
+}

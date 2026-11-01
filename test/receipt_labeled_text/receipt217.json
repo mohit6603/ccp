@@ -3,7 +3,32 @@
     "date": "15/01/2018",
     "address": "P6, BLOCK C, GM KLANG WHOLESALE CITY, JALAN KASUARINA 1, 41200 KLANG, SELANGOR D.E.",
     "tax_number": "000384098304",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "LOYALTY PACKAGE",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        },
+        {
+            "description": "IRON BASKET ROUND 27 * 25",
+            "quantity": 10,
+            "unit_price": "28.90",
+            "amount": "260.10"
+        },
+        {
+            "description": "50MM PULL FLOWER RIBBON",
+            "quantity": 12,
+            "unit_price": "5.00",
+            "amount": "54.00"
+        },
+        {
+            "description": "HORSE CALENDAR 2018",
+            "quantity": 1,
+            "unit_price": "0.00",
+            "amount": "0.00"
+        }
+    ],
     "total": "329.10",
     "tax_amount": "18.63",
     "service_charge": null

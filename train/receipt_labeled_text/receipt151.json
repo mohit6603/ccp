@@ -3,7 +3,32 @@
     "date": "25032018",
     "address": "USJ SUMMIT, SUBANG (SS)",
     "tax_number": "000947339264",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "WS CUT SCISSORS",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "18.00"
+        },
+        {
+            "description": "QVS TEMPO TWEEZER",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "17.90"
+        },
+        {
+            "description": "WS BABY WIPES FRAG",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "7.90"
+        },
+        {
+            "description": "WATSONS BASKET",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.00"
+        }
+    ],
     "total": "41.45",
     "tax_amount": "2.34",
     "service_charge": null

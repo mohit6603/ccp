@@ -1,0 +1,41 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "20-11-17",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "PEDIASURE COMPLETE 53S",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "RM117.90"
+    },
+    {
+      "description": "WYLO 2KG",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "RM34.90"
+    },
+    {
+      "description": "ZING HEING OAT & WHEAT",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "RM4.10"
+    },
+    {
+      "description": "DISNEY DS112 WIDE NECK",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "RM5.89"
+    },
+    {
+      "description": "JOHNSONS PMS.5 2IN1 80",
+      "quantity": null,
+      "unit_price": null,
+      "amount": "RM6.99"
+    }
+  ],
+  "total": "169.80",
+  "tax_amount": "9.61",
+  "service_charge": null
+}

@@ -5,7 +5,7 @@
     "tax_number": null,
     "line_items": [
         {
-            "description": "PPF P7",
+            "description": "PPF",
             "quantity": 50,
             "unit_price": "1.000",
             "amount": "50.00"

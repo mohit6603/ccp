@@ -1,0 +1,29 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "24/01/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN KAZAK 56000 KUALA LUMPUR, MALAYSIA",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "PB SHT/P 11H A4 50'S",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "16.90"
+        },
+        {
+            "description": "NO PLASTIC BAG CAMPAI",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "0.20"
+        },
+        {
+            "description": "PB 2D R/FILE A4 40MM",
+            "quantity": 2,
+            "unit_price": "7.99",
+            "amount": "15.98"
+        }
+    ],
+    "total": "30.10",
+    "tax_amount": "1.71",
+    "service_charge": null
+}

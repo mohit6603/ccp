@@ -1,0 +1,35 @@
+{
+    "company": "MENTAI INITIAL SDN BHD",
+    "date": "21-04-2018",
+    "address": "NO.37-1, PLAZA DANAU DESA 2, JALAN 109F, TAMAN DANAU DESA, 58100 KUALA LUMPUR.",
+    "tax_number": "000435761152",
+    "line_items": [
+        {
+            "description": "Green Tea",
+            "quantity": "2",
+            "unit_price": "1.00",
+            "amount": "2.00"
+        },
+        {
+            "description": "Shiro Ramen",
+            "quantity": "1",
+            "unit_price": "12.80",
+            "amount": "12.80"
+        },
+        {
+            "description": "Sushi 1.30",
+            "quantity": "10",
+            "unit_price": "1.80",
+            "amount": "18.00"
+        },
+        {
+            "description": "Sushi 2.80",
+            "quantity": "1",
+            "unit_price": "2.80",
+            "amount": "2.80"
+        }
+    ],
+    "total": "41.50",
+    "tax_amount": "2.36",
+    "service_charge": "3.56"
+}

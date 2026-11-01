@@ -1,0 +1,23 @@
+{
+    "company": "ADVANCO COMPANY",
+    "date": "17/01/2018",
+    "address": "NO 1&3, JALAN WANGSA DELIMA 12, WANGSA LINK, WANGSA MAJU, 53300 KUALA LUMPUR",
+    "tax_number": "001658445824",
+    "line_items": [
+        {
+            "description": "UNICORN-20GM HALF WHITE RULEF",
+            "quantity": 1,
+            "unit_price": "0.80",
+            "amount": "0.80"
+        },
+        {
+            "description": "CBE-S217 CBE 7\" SCISSORS (2.0MM",
+            "quantity": 1,
+            "unit_price": "6.20",
+            "amount": "6.20"
+        }
+    ],
+    "total": "7.00",
+    "tax_amount": "0.40",
+    "service_charge": null
+}

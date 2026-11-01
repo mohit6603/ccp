@@ -1,0 +1,17 @@
+{
+  "company": "Guardian Health And Beauty Sdn Bhd",
+  "date": "24/05/18",
+  "address": "No 15 Jalan Bandar Kawang 10 Bandar Baru Kawang",
+  "tax_number": "1101085-1",
+  "line_items": [
+    {
+      "description": "121056217 PRINGLES 500G/CK",
+      "quantity": 1,
+      "unit_price": "4.80",
+      "amount": "4.80"
+    }
+  ],
+  "total": "4.50",
+  "tax_amount": "0.29",
+  "service_charge": null
+}

@@ -1,0 +1,23 @@
+{
+  "company": "WARAKUYA PERMAS CITY SDN BHD",
+  "date": "07/05/2018",
+  "address": "JALAN PERMAS UTARA 1, PERMAS JAYA 81750 MASAI JOHOR",
+  "tax_number": "0016 6993 5104",
+  "line_items": [
+    {
+      "description": "BUTA SHOGA YAKI SET",
+      "quantity": 1,
+      "unit_price": "19.90",
+      "amount": "19.90"
+    },
+    {
+      "description": "ICED GREEN TEA",
+      "quantity": 1,
+      "unit_price": "1.00",
+      "amount": "1.00"
+    }
+  ],
+  "total": "24.40",
+  "tax_amount": "1.38",
+  "service_charge": "1.00"
+}

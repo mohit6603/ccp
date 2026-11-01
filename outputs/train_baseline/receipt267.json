@@ -1,0 +1,17 @@
+{
+    "company": "IN-SPARKLE TRADING SDN BHD",
+    "date": "Sat 21/10/2017",
+    "address": "No.Lot 24, Batu 11 Kampung Dato, Ujang Balakong, 43200 Cheras, Sel.",
+    "tax_number": "001429012480",
+    "line_items": [
+        {
+            "description": "ALARM G.COB(333)L-A66/L-A71 (LC) 1",
+            "quantity": 1,
+            "unit_price": "250.00",
+            "amount": "250.00"
+        }
+    ],
+    "total": "250.00",
+    "tax_amount": "14.15",
+    "service_charge": null
+}

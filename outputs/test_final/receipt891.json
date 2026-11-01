@@ -1,0 +1,35 @@
+{
+    "company": "BECON STATIONER BECON ENTERPRISE SDN BHD",
+    "date": "13-11-2017",
+    "address": "NO.41G,JLN SS21/60,DAMANSARA UTAMA,47400 PJ, SELANGOR.",
+    "tax_number": "000670859264",
+    "line_items": [
+        {
+            "description": "H/COVER F/SCAP BOOK 300PGS (NN)",
+            "quantity": 3,
+            "unit_price": "7.20",
+            "amount": "21.60"
+        },
+        {
+            "description": "TACK-IT 120PCS F/CASTELL 75GMS",
+            "quantity": 1,
+            "unit_price": "5.70",
+            "amount": "5.70"
+        },
+        {
+            "description": "NOTE BOOK SPIRAL 202 CROWN",
+            "quantity": 2,
+            "unit_price": "1.40",
+            "amount": "2.80"
+        },
+        {
+            "description": "DEAL074#5 REAMS IK PLUS SIMILI PAPER A4 80",
+            "quantity": 4,
+            "unit_price": "60.00",
+            "amount": "240.00"
+        }
+    ],
+    "total": "270.10",
+    "tax_amount": "15.28",
+    "service_charge": null
+}

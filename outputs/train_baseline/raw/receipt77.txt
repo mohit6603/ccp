@@ -1,0 +1,59 @@
+{
+  "company": "THAI DELICIOUS RESTAURANT",
+  "date": "02/02/2017",
+  "address": "NO.22 JALAN PUTERI 2/4 BANDAR PUTERI 47100 PUCHONG, SELANGOR",
+  "tax_number": null,
+  "line_items": [
+    {
+      "description": "06S BRAISED PORK LEG SMALL",
+      "quantity": 1,
+      "unit_price": "20.00",
+      "amount": "20.00"
+    },
+    {
+      "description": "32 PHRANAKON SALTED EGG SQUID",
+      "quantity": 1,
+      "unit_price": "28.00",
+      "amount": "28.00"
+    },
+    {
+      "description": "51 GARLIC FRIED KAILAN",
+      "quantity": 1,
+      "unit_price": "13.00",
+      "amount": "13.00"
+    },
+    {
+      "description": "84 THAI STYLE KERABUTOFU",
+      "quantity": 1,
+      "unit_price": "15.00",
+      "amount": "15.00"
+    },
+    {
+      "description": "130 PLAIN RICE",
+      "quantity": 4,
+      "unit_price": "1.80",
+      "amount": "7.20"
+    },
+    {
+      "description": "113 COCONUT THAI",
+      "quantity": 1,
+      "unit_price": "6.50",
+      "amount": "6.50"
+    },
+    {
+      "description": "116 DISTILLED WATER",
+      "quantity": 1,
+      "unit_price": "0.60",
+      "amount": "0.60"
+    },
+    {
+      "description": "106B COLD PANDAN GINGER TEA",
+      "quantity": 1,
+      "unit_price": "2.50",
+      "amount": "2.50"
+    }
+  ],
+  "total": "92.80",
+  "tax_amount": null,
+  "service_charge": null
+}

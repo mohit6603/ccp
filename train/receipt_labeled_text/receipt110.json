@@ -3,7 +3,68 @@
     "date": "28/12/2017",
     "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
     "tax_number": "000750673920",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "NAIL (PER/PACK) - RM2",
+            "quantity": 2,
+            "unit_price": "2.12",
+            "amount": "4.24"
+        },
+        {
+            "description": "1 1/2\" SANCORA PAINT BRUSH",
+            "quantity": 1,
+            "unit_price": "7.95",
+            "amount": "7.95"
+        },
+        {
+            "description": "7\" PAINT ROLLER SET",
+            "quantity": 1,
+            "unit_price": "10.07",
+            "amount": "10.07"
+        },
+        {
+            "description": "1LT BIG TREE HIGH GLOSS PAINT",
+            "quantity": 2,
+            "unit_price": "26.50",
+            "amount": "53.00"
+        },
+        {
+            "description": "CEMENT BRICK",
+            "quantity": 450,
+            "unit_price": "0.30",
+            "amount": "133.56"
+        },
+        {
+            "description": "6' X 35# CORRUGATED ROOFING SHEET",
+            "quantity": 3,
+            "unit_price": "15.90",
+            "amount": "47.70"
+        },
+        {
+            "description": "CEMENT (50KG)",
+            "quantity": 4,
+            "unit_price": "18.02",
+            "amount": "72.08"
+        },
+        {
+            "description": "10' 2 X 3",
+            "quantity": 2,
+            "unit_price": "16.96",
+            "amount": "33.92"
+        },
+        {
+            "description": "10' 1 X 2",
+            "quantity": 3,
+            "unit_price": "7.42",
+            "amount": "22.26"
+        },
+        {
+            "description": "K10' 1 X 8",
+            "quantity": 2,
+            "unit_price": "40.28",
+            "amount": "80.56"
+        }
+    ],
     "total": "465.34",
     "tax_amount": "26.34",
     "service_charge": null

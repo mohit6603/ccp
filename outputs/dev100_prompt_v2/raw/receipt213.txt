@@ -1,0 +1,17 @@
+{
+  "company": "SINNATHAMBY HOLDINGS SDN. BHD.",
+  "date": "06/02/2018",
+  "address": "NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG",
+  "tax_number": "002120876032",
+  "line_items": [
+    {
+      "description": "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+      "quantity": 60,
+      "unit_price": "13.50",
+      "amount": "13.50"
+    }
+  ],
+  "total": "13.50",
+  "tax_amount": "0.76",
+  "service_charge": null
+}

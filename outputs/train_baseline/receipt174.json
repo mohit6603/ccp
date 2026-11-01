@@ -1,0 +1,23 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "11/02/18",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "PB D/S Tape 12mm",
+            "quantity": null,
+            "unit_price": "1.90",
+            "amount": "1.90"
+        },
+        {
+            "description": "H/C A4 400'S",
+            "quantity": null,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        }
+    ],
+    "total": "11.80",
+    "tax_amount": "0.67",
+    "service_charge": null
+}

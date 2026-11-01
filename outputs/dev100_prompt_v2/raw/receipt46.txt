@@ -1,0 +1,10 @@
+{
+  "company": "RESTAURANT SIN DU",
+  "date": "09/03/2018",
+  "address": "K3-113. JL IBRAHIM SULTAN 80300 JOHOR BAHRU JOHOR",
+  "tax_number": null,
+  "line_items": null,
+  "total": "170.00",
+  "tax_amount": null,
+  "service_charge": null
+}

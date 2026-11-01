@@ -1,0 +1,23 @@
+{
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "25 Mar 2018",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+    "tax_number": "000058195584",
+    "line_items": [
+        {
+            "description": "4 Vege",
+            "quantity": 1,
+            "unit_price": "5.50",
+            "amount": "5.50"
+        },
+        {
+            "description": "Fried Noodle (L)",
+            "quantity": 1,
+            "unit_price": "3.00",
+            "amount": "3.00"
+        }
+    ],
+    "total": "8.50",
+    "tax_amount": "0.48",
+    "service_charge": null
+}

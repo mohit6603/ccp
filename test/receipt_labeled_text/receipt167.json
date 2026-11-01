@@ -3,7 +3,38 @@
     "date": "11/03/18",
     "address": "NO.41, JALAN SERI BINTANG 2 TAMAN SRI BINTANG, 52100 KUALA LUMPUR.",
     "tax_number": "000294060032",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "KAYA PUFF",
+            "quantity": 4,
+            "unit_price": "1.60",
+            "amount": "6.40"
+        },
+        {
+            "description": "SLICE CAK",
+            "quantity": 1,
+            "unit_price": "8.70",
+            "amount": "8.70"
+        },
+        {
+            "description": "CHEESE LE",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "2.45"
+        },
+        {
+            "description": "CHEESE TA",
+            "quantity": 1,
+            "unit_price": "3.40",
+            "amount": "3.40"
+        },
+        {
+            "description": "D/R BUTTE",
+            "quantity": 1,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        }
+    ],
     "total": "25.15",
     "tax_amount": "1.42",
     "service_charge": null

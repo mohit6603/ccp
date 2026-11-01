@@ -1,0 +1,17 @@
+metric,value
+receipts,370
+valid_json_pct,99.73
+schema_ok_pct,99.73
+"overall_accuracy_pct (7 scalar fields, spaces and punctuation ignored)",96.22
+macro_exact_accuracy_pct (7 scalar fields),92.47
+"macro_fuzzy_accuracy_pct (7 scalar fields, text >= 95% similar)",97.45
+receipts_all_fields_correct_pct,44.32
+avg_wrong_fields_per_receipt,0.77
+line_items_precision_pct,83.53
+line_items_recall_pct,83.30
+line_items_f1_pct,83.42
+line_items_receipt_exact_pct,75.95
+matched_item_description_accuracy_pct,91.27
+matched_item_quantity_accuracy_pct,98.97
+matched_item_unit_price_accuracy_pct,94.46
+matched_item_amount_accuracy_pct,96.62

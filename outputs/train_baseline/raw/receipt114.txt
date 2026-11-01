@@ -1,0 +1,17 @@
+{
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "10/01/2018",
+  "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+  "tax_number": "000750673920",
+  "line_items": [
+    {
+      "description": "1943 HOES SET",
+      "quantity": "1",
+      "unit_price": "23.32",
+      "amount": "23.32"
+    }
+  ],
+  "total": "23.32",
+  "tax_amount": "1.32",
+  "service_charge": null
+}

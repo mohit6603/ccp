@@ -1,0 +1,17 @@
+{
+  "company": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "20/08/17",
+  "address": "No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia",
+  "tax_number": "001492992000",
+  "line_items": [
+    {
+      "description": "H'MAN GLASS PAPER",
+      "quantity": 4,
+      "unit_price": "1.40",
+      "amount": "5.60"
+    }
+  ],
+  "total": "5.05",
+  "tax_amount": "0.29",
+  "service_charge": null
+}

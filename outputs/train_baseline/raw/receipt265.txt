@@ -1,0 +1,53 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "22-11-17",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1214-JINJANG UTARA",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "261 HELANG MINYAK MASAK 5KG",
+      "quantity": 2,
+      "unit_price": "RM 24.35",
+      "amount": "RM48.70"
+    },
+    {
+      "description": "8038 JASMINE SUPER 5 SPECIA",
+      "quantity": null,
+      "unit_price": "RM29.90",
+      "amount": "RM29.90"
+    },
+    {
+      "description": "086 GREENLINK BIOTECH BRIKE",
+      "quantity": null,
+      "unit_price": "RM8.40",
+      "amount": "RM8.40"
+    },
+    {
+      "description": "2829 LIFEBUOY COOL FRESH SO",
+      "quantity": 2,
+      "unit_price": "RM 6.99",
+      "amount": "RM13.98"
+    },
+    {
+      "description": "820 PIPIT BLEACH 2*1KG TP",
+      "quantity": null,
+      "unit_price": "RM4.20",
+      "amount": "RM4.20"
+    },
+    {
+      "description": "861 FAB PERFECT BAR (B) 130",
+      "quantity": 10,
+      "unit_price": "RM .90",
+      "amount": "RM9.00"
+    },
+    {
+      "description": "551 NESCAFE CLASSIC ARABICA",
+      "quantity": 3,
+      "unit_price": "RM 22.60",
+      "amount": "RM67.80"
+    }
+  ],
+  "total": "182.00",
+  "tax_amount": "2.02",
+  "service_charge": null
+}

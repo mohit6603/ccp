@@ -1,0 +1,17 @@
+{
+    "company": "BILLION SIX ENTERPRISE",
+    "date": "22/02/2018",
+    "address": "NO 3, JALAN TAMAN JASA 2; SECTION U6, 40150 SHAH ALAM.",
+    "tax_number": "000944312320",
+    "line_items": [
+        {
+            "description": "1 SR' 8566405112206",
+            "quantity": 11,
+            "unit_price": "5.80",
+            "amount": "63.80"
+        }
+    ],
+    "total": "63.80",
+    "tax_amount": "3.81",
+    "service_charge": null
+}

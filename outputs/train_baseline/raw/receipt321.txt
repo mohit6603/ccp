@@ -1,0 +1,17 @@
+{
+  "company": "CITY MILK",
+  "date": "19-04-2018",
+  "address": "LOT-18A-2, BERJAYA TIMES SQUARE, KUALA LUMPUR.",
+  "tax_number": "001557721088",
+  "line_items": [
+    {
+      "description": "Banana Milkshake(R)",
+      "quantity": 1,
+      "unit_price": "9.50",
+      "amount": "9.50"
+    }
+  ],
+  "total": "9.50",
+  "tax_amount": "0.54",
+  "service_charge": null
+}

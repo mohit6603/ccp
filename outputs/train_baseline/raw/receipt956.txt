@@ -1,0 +1,41 @@
+{
+  "company": "NAM SAN SEOUL KOREAN BBQ",
+  "date": "19/06/2018",
+  "address": "No 4, Jalan Permas 10/5. Baru Baru Permas Jaya, 81750 Johor Bahru, Johor.",
+  "tax_number": "000517836800",
+  "line_items": [
+    {
+      "description": "id(Budae Jjigae)",
+      "quantity": 1,
+      "unit_price": "70.00",
+      "amount": "70.00"
+    },
+    {
+      "description": "(Kimbab)",
+      "quantity": 1,
+      "unit_price": "16.00",
+      "amount": "16.00"
+    },
+    {
+      "description": "(Seafood Pancake)",
+      "quantity": 1,
+      "unit_price": "25.00",
+      "amount": "25.00"
+    },
+    {
+      "description": "(PorkCutlet)",
+      "quantity": 1,
+      "unit_price": "20.00",
+      "amount": "20.00"
+    },
+    {
+      "description": "(SteamedRice)",
+      "quantity": 2,
+      "unit_price": "4.00",
+      "amount": "8.00"
+    }
+  ],
+  "total": "152.90",
+  "tax_amount": null,
+  "service_charge": "13.90"
+}

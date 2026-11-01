@@ -1,0 +1,23 @@
+{
+    "company": "KING'S CONFECTIONERY S/B",
+    "date": "10/10/17",
+    "address": "3425, GR. FLOOR JIN THEATER, JINJIANG UTARA 52100 K.L.",
+    "tax_number": "000294060032",
+    "line_items": [
+        {
+            "description": "ICE-CREAM",
+            "quantity": 1,
+            "unit_price": "58.00",
+            "amount": "58.00"
+        },
+        {
+            "description": "PORTUGUES",
+            "quantity": 6,
+            "unit_price": "2.00",
+            "amount": "12.00"
+        }
+    ],
+    "total": "70.00",
+    "tax_amount": "3.96",
+    "service_charge": null
+}

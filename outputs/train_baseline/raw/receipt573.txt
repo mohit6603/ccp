@@ -1,0 +1,29 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "13-05-18",
+  "address": "LOT P.T. 2831, JALAN ANGSA, JAMAN BERKELEY 41150 KLANG, SELANGOR 1237-TMN INDAH PERDANA",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "0715 KNORR CHICKEN STOCK 1K",
+      "quantity": null,
+      "unit_price": "16.85",
+      "amount": "16.85"
+    },
+    {
+      "description": "5596 HYGIENIC 7.5 INCH COLO",
+      "quantity": null,
+      "unit_price": "6.06",
+      "amount": "6.06"
+    },
+    {
+      "description": "@6 X RM 1.01",
+      "quantity": null,
+      "unit_price": "1.01",
+      "amount": "6.06"
+    }
+  ],
+  "total": "22.90",
+  "tax_amount": "1.31",
+  "service_charge": null
+}

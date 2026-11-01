@@ -1,0 +1,41 @@
+{
+  "company": "PERNIAGAAN ZHENG HUI",
+  "date": "12/02/2018",
+  "address": "NO.59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81760 JOHOR BAHRU",
+  "tax_number": "0080058824",
+  "line_items": [
+    {
+      "description": "SR: 11\" PROWESS HIDUTY SILICONE GJN G-D2",
+      "quantity": 1,
+      "unit_price": "16.00",
+      "amount": "16.00"
+    },
+    {
+      "description": "SR: XTRASEAL R TV ACETIC SILICONE SA-107",
+      "quantity": 3,
+      "unit_price": "7.00",
+      "amount": "21.00"
+    },
+    {
+      "description": "SR: CENTRAL PUNCH SET 3PCS - 1/4\"/3/2\"-1/4\"",
+      "quantity": 1,
+      "unit_price": "18.00",
+      "amount": "18.00"
+    },
+    {
+      "description": "SR: 24\" MARKSMAN PIPE WRENCH",
+      "quantity": 1,
+      "unit_price": "50.00",
+      "amount": "50.00"
+    },
+    {
+      "description": "SR: PVC WIRE TAPE 1PC X 7YD",
+      "quantity": 3,
+      "unit_price": "0.70",
+      "amount": "2.10"
+    }
+  ],
+  "total": "106.10",
+  "tax_amount": "6.37",
+  "service_charge": null
+}

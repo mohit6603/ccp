@@ -1,0 +1,17 @@
+{
+    "company": "MYNEWS RETAIL SB",
+    "date": "28/06/2018",
+    "address": "UNIT 105, BLOCK A,PUSAT DAGANGAN PHILEO DAMANSARA, NO.9, JALAN 16/11,46350,PETALING JAYA,SELANGOR",
+    "tax_number": "000709361664",
+    "line_items": [
+        {
+            "description": "GP GREENCELL EXTRA HEAVY DUTY AAA 4+2",
+            "quantity": 1,
+            "unit_price": "6.00",
+            "amount": "6.00"
+        }
+    ],
+    "total": "6.00",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

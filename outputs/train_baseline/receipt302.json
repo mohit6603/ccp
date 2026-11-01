@@ -1,0 +1,47 @@
+{
+    "company": "DOMINO'S PIZZA",
+    "date": "28/04/18",
+    "address": "DOMINO'S PIZZA TAMAN UNIVERSITI 30, Jln Kebudayaan 7, Tmn Universiti 81300 Skudai, Johor",
+    "tax_number": "001694261248",
+    "line_items": [
+        {
+            "description": "1 PLSB-R",
+            "quantity": 1,
+            "unit_price": "0.20",
+            "amount": "0.20"
+        },
+        {
+            "description": "1 RCD",
+            "quantity": 1,
+            "unit_price": "14.50",
+            "amount": "14.50"
+        },
+        {
+            "description": "1 PEP (CAN)",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        },
+        {
+            "description": "1 PEP (CAN)",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        },
+        {
+            "description": "1 T/B",
+            "quantity": 1,
+            "unit_price": "3.50",
+            "amount": "3.50"
+        },
+        {
+            "description": "1 9\"/HT (AC)",
+            "quantity": 1,
+            "unit_price": "27.80",
+            "amount": "27.80"
+        }
+    ],
+    "total": "57.00",
+    "tax_amount": "2.24",
+    "service_charge": "40.00"
+}

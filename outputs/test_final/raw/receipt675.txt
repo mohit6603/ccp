@@ -1,0 +1,1 @@
+{"company": "PREMIO STATIONERY SDN BHD", "date": "20/03/2018", "address": "NO 57, JALAN SS 3/29, 47300 PETALING JAYA, SELANGOR.", "tax_number": "001032994816", "line_items": [{"description": "ENERGIZER BATTERY AA 4'S", "quantity": 1, "unit_price": "13.40", "amount": "13.40"}], "total": "13.40", "tax_amount": "0.76", "service_charge": null}

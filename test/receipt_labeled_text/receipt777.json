@@ -6,14 +6,14 @@
     "line_items": [
         {
             "description": "ALPHA LIPID LIFE LINE 450MG 450G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "165.00",
             "amount": "165"
         },
         {
             "description": "DR FIT VEGE HIGH FIBER 15'SX12G",
-            "quantity": null,
-            "unit_price": null,
+            "quantity": 1,
+            "unit_price": "38.00",
             "amount": "38"
         }
     ],

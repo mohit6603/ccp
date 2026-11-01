@@ -1,0 +1,23 @@
+{
+    "company": "INDAH GIFT & HOME DECO",
+    "date": "19/10/2018",
+    "address": "27,JALAN DEDAP 13, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU,JOHOR.",
+    "tax_number": "050100035279",
+    "line_items": [
+        {
+            "description": "ST-PRIVILEGE CARD/BD INDAH",
+            "quantity": 1,
+            "unit_price": "10.00",
+            "amount": "10.00"
+        },
+        {
+            "description": "GF-TABLE LAMP/STITCH <i> 62483",
+            "quantity": 1,
+            "unit_price": "55.90",
+            "amount": "55.90"
+        }
+    ],
+    "total": "60.31",
+    "tax_amount": "-0.01",
+    "service_charge": null
+}

@@ -1,0 +1,41 @@
+{
+    "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "date": "28-05-2018",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "tax_number": "000670224384",
+    "line_items": [
+        {
+            "description": "GROUPER",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "70.00"
+        },
+        {
+            "description": "VEGE ITEM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "15.00"
+        },
+        {
+            "description": "OMELLETE ITEM",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "WHITE RICE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "8.00"
+        },
+        {
+            "description": "BEVERAGE",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "5.00"
+        }
+    ],
+    "total": "112.35",
+    "tax_amount": "6.36",
+    "service_charge": null
+}

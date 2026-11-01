@@ -1,0 +1,23 @@
+{
+    "company": "YIN MA (M) SDN. BHD.",
+    "date": "31 JAN 2016",
+    "address": "NO.2, JALAN UDANG SIAR 2, TAMAN SRI SEGAMBUT, 52000 KUALA LUMPUR",
+    "tax_number": "000119906304",
+    "line_items": [
+        {
+            "description": "30CM-(FOOK)CNY",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "2.45"
+        },
+        {
+            "description": "40CM-(FOOK)CNY",
+            "quantity": 1,
+            "unit_price": "5.90",
+            "amount": "2.95"
+        }
+    ],
+    "total": "5.40",
+    "tax_amount": "0.31",
+    "service_charge": null
+}

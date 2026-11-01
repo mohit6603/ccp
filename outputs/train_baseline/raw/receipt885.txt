@@ -1,0 +1,23 @@
+{
+  "company": "YHM Mid Valley",
+  "date": "15/12/2017",
+  "address": "Lot T-015b, Level 3, Mid Valley City, Lingkaran Syed Putra, 59201 Kuala Lumpur Malaysia.",
+  "tax_number": "002105827328",
+  "line_items": [
+    {
+      "description": "FG-H00030 Karaage",
+      "quantity": "1",
+      "unit_price": "3.80",
+      "amount": "3.80"
+    },
+    {
+      "description": "FG-H00088 0tm Beef Bukkare L",
+      "quantity": "1",
+      "unit_price": "17.80",
+      "amount": "17.80"
+    }
+  ],
+  "total": "21.60",
+  "tax_amount": "1.23",
+  "service_charge": null
+}

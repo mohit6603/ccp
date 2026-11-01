@@ -1,0 +1,17 @@
+{
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "25/01/2018",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "tax_number": "000750673920",
+    "line_items": [
+        {
+            "description": "12MM 4/8B PLYWOOD",
+            "quantity": 3,
+            "unit_price": "63.60",
+            "amount": "190.80"
+        }
+    ],
+    "total": "190.80",
+    "tax_amount": "10.80",
+    "service_charge": null
+}

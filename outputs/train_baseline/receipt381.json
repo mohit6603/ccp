@@ -1,0 +1,47 @@
+{
+    "company": "GREEN LANE PHARMACY SDN BHD",
+    "date": "12/13/2016",
+    "address": "33 JLN BANGAU 1,KEPONG BARU, 52100 KEPONG,KL",
+    "tax_number": "001888309248",
+    "line_items": [
+        {
+            "description": "1)9557892102639 IBUPROFEN 400MG 10",
+            "quantity": 3,
+            "unit_price": "3.00",
+            "amount": "9.00"
+        },
+        {
+            "description": "2)0253K AMOXICAP 500MG CAPSU",
+            "quantity": 2,
+            "unit_price": "6.00",
+            "amount": "12.00"
+        },
+        {
+            "description": "3)9557892201011 NOFLUX TAB 90MG 10",
+            "quantity": 5,
+            "unit_price": "4.00",
+            "amount": "19.98"
+        },
+        {
+            "description": "4)9556492002937K FEBRICOL -RX 10",
+            "quantity": 2,
+            "unit_price": "2.70",
+            "amount": "5.40"
+        },
+        {
+            "description": "5)9316254866387 VITAMORE EPO 1000MG",
+            "quantity": 2,
+            "unit_price": "68.00",
+            "amount": "108.00"
+        },
+        {
+            "description": "6)9555197602366 NOVA ROSELLE &F VIT",
+            "quantity": 1,
+            "unit_price": "28.60",
+            "amount": "25.70"
+        }
+    ],
+    "total": "180.10",
+    "tax_amount": "8.70",
+    "service_charge": null
+}

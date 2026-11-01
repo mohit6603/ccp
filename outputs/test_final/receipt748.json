@@ -1,0 +1,35 @@
+{
+    "company": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "date": "01-02-2018",
+    "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM,40150",
+    "tax_number": "000639090688",
+    "line_items": [
+        {
+            "description": "LADY CHOICE 3L TARTAR SAUC",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "35.50"
+        },
+        {
+            "description": "SAYUR RM1.00",
+            "quantity": 2,
+            "unit_price": null,
+            "amount": "2.00"
+        },
+        {
+            "description": "SAYUR RM1.00",
+            "quantity": 3,
+            "unit_price": null,
+            "amount": "3.00"
+        },
+        {
+            "description": "KOBIS MERAH",
+            "quantity": 1,
+            "unit_price": null,
+            "amount": "1.60"
+        }
+    ],
+    "total": "42.10",
+    "tax_amount": "2.01",
+    "service_charge": null
+}

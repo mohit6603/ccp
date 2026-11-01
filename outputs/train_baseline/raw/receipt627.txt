@@ -1,0 +1,23 @@
+{
+  "company": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "29/01/2018",
+  "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+  "tax_number": "001151500288",
+  "line_items": [
+    {
+      "description": "SCHNEIDER E15R 13A SWITCH",
+      "quantity": 1,
+      "unit_price": "6.36",
+      "amount": "6.36"
+    },
+    {
+      "description": "SOCKET OUTLET @ 6.0000",
+      "quantity": 1,
+      "unit_price": "6.00",
+      "amount": "6.00"
+    }
+  ],
+  "total": "6.00",
+  "tax_amount": "0.36",
+  "service_charge": null
+}

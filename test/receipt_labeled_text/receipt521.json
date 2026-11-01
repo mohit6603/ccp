@@ -7,31 +7,31 @@
         {
             "description": "T-BUTTER SUGAR BUN",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "2.25",
             "amount": "2.25"
         },
         {
             "description": "T-COOKIE CREAM BUN",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.20",
             "amount": "3.20"
         },
         {
             "description": "T-GREEN TEA MOCHI",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.30",
             "amount": "3.30"
         },
         {
             "description": "T-PASTRY CHICKEN FLOSS",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "3.20",
             "amount": "3.20"
         },
         {
             "description": "T-SAHA BREAD",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.60",
             "amount": "4.60"
         }
     ],

@@ -1,0 +1,17 @@
+{
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "05/01/2017",
+  "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+  "tax_number": "001125220352",
+  "line_items": [
+    {
+      "description": "5 PVC WALLPLUG (50PCS)",
+      "quantity": 5,
+      "unit_price": "1.00",
+      "amount": "5.00"
+    }
+  ],
+  "total": "5.00",
+  "tax_amount": "0.28",
+  "service_charge": null
+}

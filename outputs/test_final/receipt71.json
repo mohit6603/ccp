@@ -1,0 +1,29 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "01/03/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA SUNWAY VELOCITY",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "TOMBOW C/TAPE CX5N",
+            "quantity": 2,
+            "unit_price": "9.89",
+            "amount": "19.78"
+        },
+        {
+            "description": "L11 X-VENTURE UNEXPLA[BK]",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "12.00"
+        },
+        {
+            "description": "PU EXPANDING FILE-TS",
+            "quantity": null,
+            "unit_price": null,
+            "amount": "20.90"
+        }
+    ],
+    "total": "49.40",
+    "tax_amount": "2.18",
+    "service_charge": null
+}

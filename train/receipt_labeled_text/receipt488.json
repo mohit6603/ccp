@@ -3,7 +3,26 @@
     "date": "28/12/2017",
     "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM",
     "tax_number": "001531760640",
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "PRO ADHESIVE LABEL (WHITE) 2585",
+            "quantity": 1,
+            "unit_price": "2.2000",
+            "amount": "2.20"
+        },
+        {
+            "description": "RESTAURANT ORDER CHIT NCR 3.5\"X6\"",
+            "quantity": 3,
+            "unit_price": "2.9000",
+            "amount": "8.70"
+        },
+        {
+            "description": "SONOFAX - EC THERMAL ROLL (BLUE) - (57MMX60MMX12MM) (10ROLL/PKT)",
+            "quantity": 1,
+            "unit_price": "36.0000",
+            "amount": "36.00"
+        }
+    ],
     "total": "46.90",
     "tax_amount": "2.65",
     "service_charge": null

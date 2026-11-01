@@ -1,0 +1,29 @@
+{
+    "company": "FY EAGLE ENTERPRISE",
+    "date": "24/05/2018",
+    "address": "NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANGOR",
+    "tax_number": "001663156224",
+    "line_items": [
+        {
+            "description": "8PCS AA ENERGIZER(BP.ME)WF",
+            "quantity": 1,
+            "unit_price": "22.00",
+            "amount": "22.00"
+        },
+        {
+            "description": "8PCS AAA ENERGIZER(BP.SC)WF",
+            "quantity": 1,
+            "unit_price": "22.00",
+            "amount": "22.00"
+        },
+        {
+            "description": "EVEREADY SHD AA 4PC 1215BP4(YO.PM)-WF",
+            "quantity": 1,
+            "unit_price": "8.00",
+            "amount": "8.00"
+        }
+    ],
+    "total": "52.00",
+    "tax_amount": "2.94",
+    "service_charge": null
+}

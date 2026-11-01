@@ -1,0 +1,47 @@
+{
+    "company": "Banh Mi Cafe",
+    "date": "29-10-2017",
+    "address": "No. 1 Jalan Puteri 7/10 Bandar Puteri, 47100 Puchong Selangor, Malaysia",
+    "tax_number": "000306700283",
+    "line_items": [
+        {
+            "description": "205 SUONG NON RAM CHUA",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "205 Sweet &Sour Pork Ribs",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "217 Tau Hu Gon Thit Chi",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "217 Stuff Meat Tau Fu",
+            "quantity": 1,
+            "unit_price": "9.90",
+            "amount": "9.90"
+        },
+        {
+            "description": "605 TRA DA",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        },
+        {
+            "description": "605 Vietnamese Iced Tea",
+            "quantity": 1,
+            "unit_price": "1.50",
+            "amount": "1.50"
+        }
+    ],
+    "total": "23.25",
+    "tax_amount": "1.31",
+    "service_charge": "0.65"
+}

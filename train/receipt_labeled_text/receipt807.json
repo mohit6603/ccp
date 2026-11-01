@@ -3,7 +3,50 @@
     "date": "23-04-2018",
     "address": "NO 14& 16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAY",
     "tax_number": null,
-    "line_items": null,
+    "line_items": [
+        {
+            "description": "HEY SONG JAPAN GREEN TEA 580ML",
+            "quantity": 24,
+            "unit_price": "4.30",
+            "amount": "96.00"
+        },
+        {
+            "description": "HWA TAI LUXURY COKLAT CREAM",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "HWA TAI LUXURY PEANUTS CRACKER",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "HWA TAI LUXURY LEMON CREAM",
+            "quantity": 2,
+            "unit_price": "3.90",
+            "amount": "7.80"
+        },
+        {
+            "description": "BENTO SWEET SPICY",
+            "quantity": 1,
+            "unit_price": "12.90",
+            "amount": "12.90"
+        },
+        {
+            "description": "TANGO ALMONDS 20BARS",
+            "quantity": 1,
+            "unit_price": "30.90",
+            "amount": "30.90"
+        },
+        {
+            "description": "YEOS SOYA 1L",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        }
+    ],
     "total": "157.90",
     "tax_amount": null,
     "service_charge": null

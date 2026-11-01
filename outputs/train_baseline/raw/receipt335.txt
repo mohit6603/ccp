@@ -1,0 +1,47 @@
+{
+  "company": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "21/08/2017",
+  "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",
+  "tax_number": "000381399040",
+  "line_items": [
+    {
+      "description": "O.C. WHITE",
+      "quantity": 3,
+      "unit_price": "6.39",
+      "amount": "6.39"
+    },
+    {
+      "description": "WHOLEMEAL",
+      "quantity": 5,
+      "unit_price": "13.90",
+      "amount": "13.90"
+    },
+    {
+      "description": "O.C. JUMBO",
+      "quantity": 5,
+      "unit_price": "14.85",
+      "amount": "14.85"
+    },
+    {
+      "description": "DELICIA-B/SCOTCH",
+      "quantity": 2,
+      "unit_price": "7.44",
+      "amount": "7.44"
+    },
+    {
+      "description": "CR-CHOCCLT",
+      "quantity": 20,
+      "unit_price": "14.40",
+      "amount": "14.40"
+    },
+    {
+      "description": "CR-B' SCOTCH",
+      "quantity": 20,
+      "unit_price": "14.40",
+      "amount": "14.40"
+    }
+  ],
+  "total": "73.55",
+  "tax_amount": "2.17",
+  "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "BOOK TALK (MUTIARA RINI) SDN BHD",
+    "date": "21/6/2018",
+    "address": "NO. 53 & 55, JALAN UTAMA 34, MUTIARA RINI, SKUDAI, JOHOR.",
+    "tax_number": "000445296640",
+    "line_items": [
+        {
+            "description": "9555047308127 DC812 XTRA DOCUMENT CASE A4",
+            "quantity": 2,
+            "unit_price": "4.650000",
+            "amount": "9.30"
+        }
+    ],
+    "total": "9.30",
+    "tax_amount": "0.00",
+    "service_charge": null
+}

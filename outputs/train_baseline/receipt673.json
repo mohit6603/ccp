@@ -1,0 +1,23 @@
+{
+    "company": "ECONSAVE CASH & CARRY (FC) S/B",
+    "date": "22/03/18",
+    "address": "Lot G01, KL Festival City, No. 67 Jln Ibu Kota Tmn Danau Kota, KL",
+    "tax_number": "001919221760",
+    "line_items": [
+        {
+            "description": "(NR)ES CHOICE SOFT",
+            "quantity": 1,
+            "unit_price": "4.20",
+            "amount": "4.20"
+        },
+        {
+            "description": "(NR)ES ICE COOL MI",
+            "quantity": 1,
+            "unit_price": "0.95",
+            "amount": "0.95"
+        }
+    ],
+    "total": "5.15",
+    "tax_amount": "0.29",
+    "service_charge": null
+}

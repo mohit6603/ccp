@@ -1,0 +1,17 @@
+{
+    "company": "Dream Arts",
+    "date": "29/03/2018",
+    "address": "L 2-047, LEVEL 2, VIVACITY MEGAMALL, JALAN WAN ALWI, 93350 KUCHING",
+    "tax_number": "000168861696",
+    "line_items": [
+        {
+            "description": "L123 ANDROID USB CABLE (CODE15)",
+            "quantity": 1,
+            "unit_price": "15.00",
+            "amount": "15.00"
+        }
+    ],
+    "total": "15.00",
+    "tax_amount": "0.85",
+    "service_charge": null
+}

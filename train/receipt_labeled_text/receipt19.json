@@ -1,7 +1,7 @@
 {
     "company": "SYL ROASTED DELIGHTS SDN. BHD.",
     "date": "06/03/2018",
-    "address": "75. JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ",
+    "address": "75, JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ",
     "tax_number": "002046390272",
     "line_items": [
         {
@@ -11,7 +11,7 @@
             "amount": "14.00"
         },
         {
-            "description": "T PORK - SMALL",
+            "description": "ROAST PORK - SMALL",
             "quantity": 1,
             "unit_price": "12.00",
             "amount": "12.00"

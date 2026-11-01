@@ -5,13 +5,13 @@
     "tax_number": "002017808384",
     "line_items": [
         {
-            "description": "20X30 BEG 1KG",
+            "description": "20X30 BEG 1KG(1X30)",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "8.00",
             "amount": "8.00"
         }
     ],
     "total": "8.00",
-    "tax_amount": null,
+    "tax_amount": "0.45",
     "service_charge": null
 }

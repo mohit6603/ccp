@@ -1,0 +1,17 @@
+{
+    "company": "AEON CO. (M) BHD",
+    "date": "18/04/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "tax_number": "002017394688",
+    "line_items": [
+        {
+            "description": "TAMAGO (S)",
+            "quantity": 1,
+            "unit_price": "2.50",
+            "amount": "2.50"
+        }
+    ],
+    "total": "1.65",
+    "tax_amount": "0.10",
+    "service_charge": null
+}

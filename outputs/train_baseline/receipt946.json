@@ -1,0 +1,41 @@
+{
+    "company": "OLD TOWN WHITE COFFE",
+    "date": "03 Jun 18",
+    "address": "LOT NO R134,Giant Hypermarket Plentong No3, Jalan Masaai Lama 81750 Masai. Johor Bahru",
+    "tax_number": "ID:000750002176",
+    "line_items": [
+        {
+            "description": "SN2 Soup Pan Mee",
+            "quantity": 1,
+            "unit_price": "10.90",
+            "amount": "10.90"
+        },
+        {
+            "description": "ST8",
+            "quantity": 1,
+            "unit_price": "12.97",
+            "amount": "12.97"
+        },
+        {
+            "description": "SN8 Sp Nod Special",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        },
+        {
+            "description": "WC1 (C) WC",
+            "quantity": 1,
+            "unit_price": "S",
+            "amount": "S"
+        },
+        {
+            "description": "VA9 French Fries Bkt",
+            "quantity": 1,
+            "unit_price": "4.15",
+            "amount": "4.15"
+        }
+    ],
+    "total": "28.00",
+    "tax_amount": "0.00",
+    "service_charge": "2.55"
+}

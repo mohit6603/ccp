@@ -1,0 +1,47 @@
+{
+  "company": "KEDAI RUNCIT ZBH",
+  "date": "01/06/2018",
+  "address": "NO.17. JALAN PERMAS 1/7. BANDAR BARU PERMAS JAYA.",
+  "tax_number": "GST:001019043840",
+  "line_items": [
+    {
+      "description": "*RUNCIT",
+      "quantity": 2,
+      "unit_price": "2.00",
+      "amount": "RM2.00 Z"
+    },
+    {
+      "description": "*RUNCIT",
+      "quantity": 1,
+      "unit_price": "7.80",
+      "amount": "RM7.80 Z"
+    },
+    {
+      "description": "*RUNCIT",
+      "quantity": 4,
+      "unit_price": "2.20",
+      "amount": "RM8.80 Z"
+    },
+    {
+      "description": "*RUNCIT",
+      "quantity": 1,
+      "unit_price": "1.80",
+      "amount": "RM1.80 Z"
+    },
+    {
+      "description": "*RUNCIT",
+      "quantity": 2,
+      "unit_price": "4.50",
+      "amount": "RM9.00 Z"
+    },
+    {
+      "description": "*RUNCIT",
+      "quantity": 1,
+      "unit_price": "14.00",
+      "amount": "RM14.00 Z"
+    }
+  ],
+  "total": "43.40",
+  "tax_amount": "0.00",
+  "service_charge": null
+}

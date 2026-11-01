@@ -1,0 +1,17 @@
+{
+    "company": "FIVE STAR CASH & CARRY",
+    "date": "05/01/17",
+    "address": "G.23 & G.22, PLAZA SERI SETIA, NO.1 JALAN SS 9/1, 47300 PJ, SELANGOR.",
+    "tax_number": "000610435072",
+    "line_items": [
+        {
+            "description": "APPALAM 3KG",
+            "quantity": 2,
+            "unit_price": "45.00",
+            "amount": "90.00"
+        }
+    ],
+    "total": "90.00",
+    "tax_amount": "5.10",
+    "service_charge": null
+}

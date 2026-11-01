@@ -1,0 +1,23 @@
+{
+    "company": "SWC ENTERPRISE SDN BHD",
+    "date": "08/01/2018",
+    "address": "No. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor.",
+    "tax_number": "002017808384",
+    "line_items": [
+        {
+            "description": "20X30 BEG 1KB91X30)",
+            "quantity": null,
+            "unit_price": null,
+            "amount": null
+        },
+        {
+            "description": "20X30 1KG",
+            "quantity": "1",
+            "unit_price": "8.00",
+            "amount": "8.00"
+        }
+    ],
+    "total": "8.00",
+    "tax_amount": "0.45",
+    "service_charge": null
+}

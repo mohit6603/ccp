@@ -1,0 +1,17 @@
+{
+    "company": "FLORISM DE ART",
+    "date": "14/01/2018",
+    "address": "LOT 2.70.00, LEVEL 2, PAVILION KUALA LUMPUR, 168, JALAN BUKIT BINTANG, 55100 KUALA LUMPUR, MALAYSIA.",
+    "tax_number": "000397606912",
+    "line_items": [
+        {
+            "description": "OPEN",
+            "quantity": 1,
+            "unit_price": "750.00",
+            "amount": "750.00"
+        }
+    ],
+    "total": "750.00",
+    "tax_amount": "42.45",
+    "service_charge": null
+}

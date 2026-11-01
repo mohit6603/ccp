@@ -1,0 +1,23 @@
+{
+    "company": "MEGAH RETAIL SDN BHD",
+    "date": "09/05/2018",
+    "address": "3-7, GROUND FLOOR, JLN PURTA DENGKIL 1 TMN PUTRA DENGKIL 43800 DENGKIL, SELANGOR DARUL EHSAN",
+    "tax_number": "000936312832",
+    "line_items": [
+        {
+            "description": "350ML CALPIS ORIGINAL",
+            "quantity": 1,
+            "unit_price": "2.49",
+            "amount": "2.49"
+        },
+        {
+            "description": "500ML COKE",
+            "quantity": 1,
+            "unit_price": "2.20",
+            "amount": "2.20"
+        }
+    ],
+    "total": "4.70",
+    "tax_amount": "0.26",
+    "service_charge": null
+}

@@ -1,0 +1,17 @@
+{
+    "company": "JUWITA WEDDINGS (366310-U)",
+    "date": "28-Feb-2018",
+    "address": "SAYANG YOU STATION SDN BHD LOT G18 & G19, JLN 8/27A WANGSA MAJU (AEON BIG SHOPPING CENTER) 53300 KUALA LUMPUR",
+    "tax_number": "000689004544",
+    "line_items": [
+        {
+            "description": "1PCS MEASUREMENTTAPE 714WH",
+            "quantity": 2,
+            "unit_price": "4.10 SR",
+            "amount": "4.10"
+        }
+    ],
+    "total": "4.10",
+    "tax_amount": "0.23",
+    "service_charge": null
+}

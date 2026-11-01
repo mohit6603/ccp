@@ -1,0 +1,47 @@
+{
+    "company": "CONTENTO",
+    "date": "20/03/18",
+    "address": "15, JALAN PERMAS 10/7,PERMAS 81750 MASAI JOHOR",
+    "tax_number": "0000000001429",
+    "line_items": [
+        {
+            "description": "2x 5.90 (C+nik)",
+            "quantity": 2,
+            "unit_price": "5.90",
+            "amount": "11.80"
+        },
+        {
+            "description": "Rubble H T",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        },
+        {
+            "description": "Yam H T",
+            "quantity": 1,
+            "unit_price": "4.90",
+            "amount": "4.90"
+        },
+        {
+            "description": "1x 1.00 (Shock.)",
+            "quantity": 1,
+            "unit_price": "1.00",
+            "amount": "1.00"
+        },
+        {
+            "description": "ADD ON",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        },
+        {
+            "description": "H.Cho",
+            "quantity": 1,
+            "unit_price": "3.90",
+            "amount": "3.90"
+        }
+    ],
+    "total": "21.60",
+    "tax_amount": null,
+    "service_charge": null
+}

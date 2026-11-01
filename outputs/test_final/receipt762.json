@@ -1,0 +1,17 @@
+{
+    "company": "POPULAR BOOK CO. (M) SDN BHD",
+    "date": "06/03/18",
+    "address": "NO 8, JALAN 7/118B, DESA TUN RAZAK 56000 KUALA LUMPUR, MALAYSIA AEON SHAH ALAM",
+    "tax_number": "001492992000",
+    "line_items": [
+        {
+            "description": "IC&LICENSE HOL 3552",
+            "quantity": 30,
+            "unit_price": "0.45",
+            "amount": "13.50"
+        }
+    ],
+    "total": "12.15",
+    "tax_amount": "0.69",
+    "service_charge": null
+}

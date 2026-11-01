@@ -1,0 +1,35 @@
+{
+  "company": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "31/12/2017",
+  "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+  "tax_number": "001151500288",
+  "line_items": [
+    {
+      "description": "20MM HERO PVC CONDUIT PIPE @ 1 7000",
+      "quantity": 1,
+      "unit_price": "1.80",
+      "amount": "1.80"
+    },
+    {
+      "description": "15A PVC CONNECTOR @ 1.8000",
+      "quantity": 1,
+      "unit_price": "1.91",
+      "amount": "1.91"
+    },
+    {
+      "description": "R & B-C/CLIP 8MM X 100PCS",
+      "quantity": 1,
+      "unit_price": "3.71",
+      "amount": "3.71"
+    },
+    {
+      "description": "CABLE CLIPS @ 3.5000",
+      "quantity": 1,
+      "unit_price": "0.53",
+      "amount": "0.53"
+    }
+  ],
+  "total": "7.95",
+  "tax_amount": "0.45",
+  "service_charge": null
+}

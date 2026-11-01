@@ -7,19 +7,19 @@
         {
             "description": "3 VEGE",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.15",
             "amount": "4.15"
         },
         {
             "description": "IMPORTED VEGGIES",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "1.50",
             "amount": "1.50"
         },
         {
             "description": "SEAFOOD (M)",
             "quantity": 1,
-            "unit_price": null,
+            "unit_price": "4.52",
             "amount": "4.52"
         }
     ],

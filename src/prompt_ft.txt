@@ -1,0 +1,1 @@
+Extract the information from this receipt as one JSON object with the keys company, date, address, tax_number, line_items, total, tax_amount, service_charge.

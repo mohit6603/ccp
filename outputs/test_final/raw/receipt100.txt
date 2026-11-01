@@ -1,0 +1,1 @@
+{"company": "SYARIKAT PERNIAGAAN GIN KEE", "date": "02/12/2017", "address": "NO 290, JALAN AIR PANAS. SETAPAK, 53200, KUALA LUMPUR.", "tax_number": "000750673920", "line_items": [{"description": "(W33) 105MM/4' CUTTING DISC", "quantity": 1, "unit_price": "29.68", "amount": "29.68"}], "total": "29.68", "tax_amount": "1.68", "service_charge": null}

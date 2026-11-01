@@ -1,0 +1,59 @@
+{
+  "company": "99 SPEED MART S/B",
+  "date": "13-01-16",
+  "address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1605-TMN SRI BINTANG",
+  "tax_number": "000181747712",
+  "line_items": [
+    {
+      "description": "9500 NASSIHO WHEAT GERM 400",
+      "quantity": null,
+      "unit_price": "2.25",
+      "amount": "2.25"
+    },
+    {
+      "description": "1988 PANTENE HAIR FALL. CONT",
+      "quantity": null,
+      "unit_price": "10.95",
+      "amount": "10.95"
+    },
+    {
+      "description": "739 PANTENE TTL DAMAGE CARE",
+      "quantity": null,
+      "unit_price": "10.95",
+      "amount": "10.95"
+    },
+    {
+      "description": "1817 AJI-SHIO BLACK PEPPER",
+      "quantity": null,
+      "unit_price": "5.75",
+      "amount": "5.75"
+    },
+    {
+      "description": "2747 COLGATE BERUS GIGI ZIG",
+      "quantity": null,
+      "unit_price": "7.20",
+      "amount": "7.20"
+    },
+    {
+      "description": "2267 COLGATE GREAT REGULAR",
+      "quantity": null,
+      "unit_price": "7.50",
+      "amount": "7.50"
+    },
+    {
+      "description": "532 YEO'S SOYA BEAN PEK 4*6",
+      "quantity": null,
+      "unit_price": "13.50",
+      "amount": "13.50"
+    },
+    {
+      "description": "533 YEO'S TEH BUNGA PEK 4*6",
+      "quantity": null,
+      "unit_price": "13.50",
+      "amount": "13.50"
+    }
+  ],
+  "total": "71.60",
+  "tax_amount": "4.05",
+  "service_charge": null
+}
