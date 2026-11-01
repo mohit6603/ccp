@@ -7,7 +7,7 @@
 | Install from `requirements.txt` | yes (tested) | yes: every package has a ready Linux build for Python 3.13 | scoring part only |
 | Recompute every score (`evaluate.py`) | yes, seconds | yes, seconds | yes |
 | Study outputs, results and logs | yes | yes | yes |
-| Run the model (`run_model.py`) | yes, about 20 s per receipt | works, but very slow: CPU only, one core (section 8.4) | no |
+| Run the model (`run_model.py`) | yes, about 20 s per receipt | starts, but far too slow to use: CPU only, one core (section 8.4) | no |
 | Fine-tune (`finetune.py`) | yes, about 7 hours (16 GB memory) | not practical: it would take weeks on a CPU | no |
 
 Why the difference: the model runs on **MLX**. MLX uses the fast graphics processor (GPU) only on Apple Silicon Macs. On Linux it has a CPU-only version. That version gives the same answers in principle, but it is far slower.
@@ -74,11 +74,12 @@ The same command works on Ubuntu, and MLX uses the CPU automatically:
 
 Then compare `outputs/cpu_try/receipt1.json` with `outputs/test_final/receipt1.json`.
 
-**How slow is it?** We imitated your laptop on the Mac: MLX forced onto the processor, with the Mac's graphics processor hidden. It worked: it loaded the model and passed the adapter check. But MLX used **only one processor core**, and one receipt took **more than 15 minutes**, against 16 seconds on the Mac's GPU. Your i5 is likely to be about as slow or slower.
+**How slow is it?** We imitated your laptop on the Mac: MLX forced onto the processor, with the Mac's graphics processor hidden.
+- **It started correctly:** it loaded the model and passed the adapter check.
+- **It was far too slow:** MLX used **only one processor core**. After **36 minutes of processor time it still had not finished the first receipt**, so we stopped it. The Mac's GPU needs 16 seconds for the same receipt.
+- **Your i5 is likely to be about as slow or slower.**
 
-So on that laptop:
-- **One or two receipts** are fine for a demonstration.
-- **The 370 test receipts** would take several days, which is not practical.
+So on that laptop, running the model with MLX is **not practical**, not even for a quick demonstration. Use the laptop for the scoring, the checks and studying the outputs, and see the options below for running the model.
 
 **If you need to run the model at the office at a useful speed**, the options are:
 1. **Run the model on the Mac** (or any Apple Silicon Mac), and use the office laptop for scoring, studying and reporting. Nothing new is needed for this.

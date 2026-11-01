@@ -211,7 +211,7 @@ Notes on these options:
 
 **On Linux** (Ubuntu 22.04 or newer, Intel or AMD), `.venv/bin/pip install -r requirements.txt` installs MLX's CPU version. Every package has a ready-made Linux build for Python 3.13.
 - **Scoring and checks:** run as on the Mac.
-- **Running the model:** it also runs, with the same code, model and adapter, but slowly. In a test that imitated this setup on the Mac, MLX used one CPU core and needed more than 15 minutes for one receipt. That is fine for trying a receipt or two, but not for the full test split.
+- **Running the model:** it starts, with the same code, model and adapter, but it is far too slow to use. In a test that imitated this setup on the Mac, MLX used one CPU core and had not finished one receipt after 36 minutes of processor time.
 - **Fine-tuning:** not practical on a CPU.
 
 The step-by-step Ubuntu setup is in `project_explanation/08_replicate_and_use.md`.
