@@ -59,6 +59,7 @@ Clean Dataset/                       (on GitHub: mohit6603/ccp)
 ├── test/receipt_images/             370 input images, run once at the end
 ├── test/receipt_labeled_text/       370 labels, read only by the final scoring
 ├── metadata/                        label-fix log and rules, mapping to the original SROIE files
+├── project_explanation/             the whole project explained step by step in simple language (start with 00_START_HERE.md)
 ├── src/
 │   ├── prompt_v1.txt                baseline prompt (field definitions)
 │   ├── prompt_v2.txt                improved prompt (rules learned from the train errors)
@@ -103,7 +104,8 @@ Any receipt can be traced end to end by its name. For example, receipt1 of the f
 These steps are needed once on a new machine.
 
 **What you need:**
-- An Apple Silicon Mac (M1 or newer). MLX runs only on Apple Silicon. On other computers only the scoring runs; see [Replicating on another machine](#replicating-on-another-machine).
+- An Apple Silicon Mac (M1 or newer) for the full pipeline. MLX uses the fast GPU only on Apple Silicon.
+- On Linux (Ubuntu 22.04 or newer, Intel or AMD), the same `requirements.txt` installs MLX's CPU version. Everything installs and the scoring runs, but the model is very slow there; see [Replicating on another machine](#replicating-on-another-machine).
 - 16 GB of memory for fine-tuning. Running the model needs about 7 GB.
 - About 20 GB of free disk space.
 
@@ -114,7 +116,7 @@ Versions used:
 - rapidfuzz 3.14.6
 - huggingface_hub 2.4.0
 
-`requirements.txt` pins every package at the exact version used.
+`requirements.txt` pins every package at the exact version used. On 2026-11-01 a brand-new environment was built from it. It had the same 75 packages, reproduced the scores exactly, and gave a byte-identical model answer.
 
 ```bash
 git clone https://github.com/mohit6603/ccp.git
@@ -207,7 +209,14 @@ Notes on these options:
 - With the same checksums and package versions, the outputs should be the same or very nearly the same. A different Apple chip or macOS version can change a few outputs slightly, through floating-point differences.
 - Use a new run name. `outputs/test_final` is already complete in the repo, so rerunning that name runs nothing.
 
-**On any other computer** (Windows, Linux or an Intel Mac), the scores can be recomputed from the saved outputs. Only rapidfuzz is needed:
+**On Linux** (Ubuntu 22.04 or newer, Intel or AMD), `.venv/bin/pip install -r requirements.txt` installs MLX's CPU version. Every package has a ready-made Linux build for Python 3.13.
+- **Scoring and checks:** run as on the Mac.
+- **Running the model:** it also runs, with the same code, model and adapter, but slowly. In a test that imitated this setup on the Mac, MLX used one CPU core and needed more than 15 minutes for one receipt. That is fine for trying a receipt or two, but not for the full test split.
+- **Fine-tuning:** not practical on a CPU.
+
+The step-by-step Ubuntu setup is in `project_explanation/08_replicate_and_use.md`.
+
+**On any computer, including Windows,** the scores can be recomputed from the saved outputs. Only rapidfuzz is needed:
 
 ```bash
 python -m venv .venv
@@ -217,7 +226,7 @@ python -m venv .venv
 
 This gives the same numbers as `results/test_final/`, without running the model.
 
-Running the model itself on such a computer needs a different runtime, because this code uses MLX, which works only on Apple Silicon. An earlier version of this project measured 251 s per receipt with PyTorch on an Intel Core i5 CPU. That is about 26 hours for the test split.
+Running the model at a useful speed without an Apple Silicon Mac needs a different runtime, for example a PyTorch version, which is not part of this project yet. An earlier version of this project measured 4 to 6 minutes per receipt with PyTorch on an Intel Core i5 CPU.
 
 ## Model and pipeline
 
